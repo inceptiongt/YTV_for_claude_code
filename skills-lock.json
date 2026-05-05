@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "baoyu-translate": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "skillPath": "skills/baoyu-translate/SKILL.md",
+      "computedHash": "3dc723aa4b86c4c6b8557faeec558e54f5bce5f9cf39aa629dd588ed6531df20"
+    },
+    "format-and-translate": {
+      "source": "inceptiongt/format-and-translate-subtitle-plugin",
+      "sourceType": "github",
+      "skillPath": "skills/format-and-translate/SKILL.md",
+      "computedHash": "e8ad27d858afc4f9dc46353cf05289182e96210a70ac05401d233c456791b3bf"
+    }
+  }
+}
