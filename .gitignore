@@ -5,3 +5,5 @@
 .evn
 
 */*.**mp4
+
+node_modules/
