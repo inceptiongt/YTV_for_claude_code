@@ -1,12 +1,12 @@
-[1] video.[end]Mega
+[1] video.[end]
 [3] right.[end]Okay,
 [4] then?[end]It's
 [6] island.[end]
 [7] Oh.[end]
 [8] sewer?[end]
-[9] Oh.[end]Oh.
-[9] Okay.[end]
+[9] Oh.[end]Oh. Oh.[end]Okay. Okay.[end]
 [14] streets.[end]
+[19] brochure,[end]and
 [21] to.[end]
 [22] naughties.[end]
 [23] this?[end]
@@ -17,7 +17,7 @@
 [35] ambition.[end]
 [40] snore.[end]But,
 [42] precise.[end]
-[47] correct,[end]but
+[47] waste.[end]That's
 [48] better.[end]In
 [54] top.[end]
 [58] up.[end]Today,
@@ -28,7 +28,6 @@
 [74] overloaded.[end]
 [77] smells.[end]Sewage
 [79] boards.[end]And
-[79] wasn't[end]a
 [80] one-off.[end]In
 [84] homes."[end]
 [86] 2024.[end]
@@ -39,6 +38,8 @@
 [98] foot.[end]In
 [101] Tunnels.[end]A
 [104] century.[end]
+[107] city.[end]The
+[111] Corridor.[end]Along
 [113] pipes.[end]
 [116] increased.[end]Once
 [119] nature.[end]Built
@@ -46,21 +47,25 @@
 [127] reused.[end]The
 [131] souqs.[end]Here,
 [133] Warsan.[end]
+[135] phases.[end]The
 [139] 2030s.[end]
 [144] like.[end]
 [146] is.[end]
 [147] that.[end]Ah,
+[148] easy.[end]Model
 [154] probability.[end]
 [155] that?[end]Well,
 [157] Brilliant.[end]It's
 [162] geometry.[end]If
 [166] dull.[end]That's
 [167] for.[end]
+[169] you.[end]Courses
 [171] evening.[end]
 [175] it.[end]It
-[179] me,[end]I
+[179] probabilities.[end]Which
 [181] No.[end]
-[182] mind.[end]Don't
+[182] mind.[end]Don't though.[end]
+[185] days.[end]And
 [187] subscription.[end]I
 [190] supercars.[end]
 [191] we?[end]
@@ -69,6 +74,7 @@
 [196] 2025.[end]
 [199] city.[end]
 [205] day.[end]
+[207] long?[end]And
 [208] minute?[end]Well,
 [209] bit.[end]
 [212] 2000s.[end]The
@@ -77,45 +83,57 @@
 [220] doubled.[end]And
 [223] quadrupled.[end]
 [228] today.[end]But,
-[231] common[end]as
+[231] success.[end]Power
 [233] demand.[end]As
 [236] hell.[end]And
 [238] ground.[end]
 [243] share.[end]Last
 [244] book.[end]I
-[245] "Yes."[end]I've
-[245] book.[end]
+[245] "Yes."[end]I've book.[end]
 [246] is.[end]It
-[246] Megabuilds:[end]10
-[249] years,[end]I
-[252] here.[end]I've
-[256] personal.[end]It
+[248] World.[end]Over
+[252] here.[end]I've them.[end]I've
+[255] documentary.[end]This
+[256] scenes.[end]It's personal.[end]
 [257] teams.[end]It's
-[258] detail.[end]It's
+[258] stories.[end]It's detail.[end]
 [261] projects.[end]I
 [262] this.[end]Some
-[265] ghostwriter.[end]
-[266] Me.[end]I
+[264] you?"[end]No
+[265] one.[end]I ghostwriter.[end]
+[266] Me.[end]I this.[end]Every
 [269] pleasure.[end]Guys,
 [272] good.[end]It
+[273] now.[end]The
 [274] below.[end]Pre-ordering
+[275] important.[end]Basically,
+[277] book.[end]So
+[278] stories,[end]if
 [283] today.[end]
+[285] plumbing.[end]There
+[286] system.[end]By
 [291] strategy.[end]There
+[293] struggling.[end]Instead
 [297] pipes.[end]It's
 [300] operate.[end]Today,
 [302] running.[end]
+[304] maintenance.[end]As
 [307] quickly.[end]
 [310] short.[end]In
+[312] road.[end]The
 [313] back.[end]
-[316] load,[end]while
 [317] hands.[end]After
 [319] routine.[end]
+[323] there.[end]The
 [326] shoreline.[end]
 [327] gross.[end]
+[330] Dubai.[end]This
 [334] right.[end]That
 [337] predicted.[end]And
 [340] like?[end]
+[343] earlier?[end]That's
 [346] 1865.[end]
+[348] now.[end]It
 [352] up.[end]
 [356] act.[end]
 [360] smell.[end]
@@ -124,5 +142,9 @@
 [373] metropolis.[end]
 [378] distances.[end]Three
 [381] scratch.[end]
+[385] cyclists,[end]and
 [388] around.[end]
+[393] important.[end]This
+[397] mind,[end]and
 [399] happen.[end]
+[401] Brilliant.[end]Don't
