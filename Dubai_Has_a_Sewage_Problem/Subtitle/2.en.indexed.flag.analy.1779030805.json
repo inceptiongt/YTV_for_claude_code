@@ -1,0 +1,161 @@
+{
+  "totalMi": 478,
+  "unmatchedMiCount": 1,
+  "matchedRate": 0.9979,
+  "unmatchedSentences": [
+    {
+      "n": 79,
+      "words": 31,
+      "text": "But, as real estate agents in questionable suits made their fortunes, the city was becoming a victim of its own success. Power cuts became common as the grid struggled with demand.",
+      "miList": [
+        228,
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "unmatchedMi": [
+        231
+      ]
+    }
+  ],
+  "longSentencesCount": 9,
+  "longSentences": [
+    {
+      "n": 9,
+      "words": 47,
+      "text": "So, in an attempt to avoid being up a creek without a paddle, the extravagant Emirates is splashing its cash on a mega project that you won't see on the cover of a tourism brochure, and one you definitely wouldn't want to park your Ferrari next to.",
+      "miList": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "n": 41,
+      "words": 60,
+      "text": "It's designed around two deep-level tunnels, each one serving a different part of this city. The larger of the two is going to run for 50 km through the most densely populated areas, Bur Dubai, Downtown, and the Southern Growth Corridor. Along the way, waste is uh fed into the main tunnel through a 10 km network of link pipes.",
+      "miList": [
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113
+      ]
+    },
+    {
+      "n": 63,
+      "words": 45,
+      "text": "Don't worry about me though. Check out the link below or scan the QR code on screen to try Brilliant for free for a full 30 days. And as a viewer of the B1M, you can also get yourself 20% off an annual premium subscription.",
+      "miList": [
+        182,
+        183,
+        184,
+        185,
+        186,
+        187
+      ]
+    },
+    {
+      "n": 99,
+      "words": 55,
+      "text": "Pre-ordering is incredibly important. Basically, my entire future happiness depends on you pre-ordering this book. So guys, if you love the B1M, if you love these stories, if you love learning more about construction in a down-to-earth way that's easy to understand and could be read by anyone, go and pre-order my book Megabuilds today.",
+      "miList": [
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ]
+    },
+    {
+      "n": 100,
+      "words": 50,
+      "text": "It wasn't that there was a total lack of plumbing. There was just no coherent system. By the mid-noughties, Dubai had over 1,200 km of sewer pipes, but those pipes all existed in small localized networks that had been built ad hoc rather than in response to a citywide strategy.",
+      "miList": [
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291
+      ]
+    },
+    {
+      "n": 110,
+      "words": 43,
+      "text": "In those days, if you were lucky enough to stay in one of Dubai's seafront hotels, you might literally have had to stay there. The overflow caused by tankers dumping waste caused beaches to be closed as sewage clogged up on the shoreline.",
+      "miList": [
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326
+      ]
+    },
+    {
+      "n": 112,
+      "words": 47,
+      "text": "But in case you think we're being unfair here, I want to reassure you that I'm not just trying to dunk on Dubai. This isn't a story of a city that was too busy lavishing money on vanity projects to get the basics of its infrastructure right.",
+      "miList": [
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334
+      ]
+    },
+    {
+      "n": 124,
+      "words": 46,
+      "text": "680 million US dollars is being spent on 8 million square meters of green corridors for pedestrians and cyclists, and a new metro system is going to put half the city within 800 meters of a station, making public transport a viable way to get around.",
+      "miList": [
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388
+      ]
+    },
+    {
+      "n": 125,
+      "words": 70,
+      "text": "Dubai's strategic sewer tunnels may not be the most glamorous or even most excitingly named of construction mega projects, but they are incredibly important. This city is world-famous for what it's built above the ground, but as is so often it's what's happening under the ground on projects that are out of sight, out of mind, and led often by unsung heroes that makes what we see above ground happen.",
+      "miList": [
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399
+      ]
+    }
+  ]
+}
