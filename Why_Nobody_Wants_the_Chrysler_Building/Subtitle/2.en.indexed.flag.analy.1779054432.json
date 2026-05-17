@@ -1,0 +1,52 @@
+{
+  "totalMi": 671,
+  "unmatchedMiCount": 0,
+  "matchedRate": 1,
+  "unmatchedSentences": [],
+  "longSentencesCount": 3,
+  "longSentences": [
+    {
+      "n": 27,
+      "words": 48,
+      "text": "Walter Krysler intended the iconic skyscraper to remain a family asset and it did all the way up until 1953 when it was purchased by developer William Zeondorf, the man behind the UN headquarters and the guy responsible for reshaping much of Manhattan during the 50s and 60s.",
+      "miList": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "n": 115,
+      "words": 48,
+      "text": "This is a great building, but it also needs a lot of love. Like, it needs a lot of work to be brought into the 21st century so that it can compete for A+ tenants with the likes of all these new buildings popping up around New York.",
+      "miList": [
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269
+      ]
+    },
+    {
+      "n": 161,
+      "words": 41,
+      "text": "So guys, if you love the B1M, if you love these stories, if you love learning more about construction in a downto-earth way that's easy to understand and can be read by anyone, go and pre-order my book, Mega Builds, today.",
+      "miList": [
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361
+      ]
+    }
+  ]
+}
