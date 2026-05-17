@@ -12,6 +12,12 @@
       "sourceType": "github",
       "skillPath": "skills/format-and-translate/SKILL.md",
       "computedHash": "4fce86d6bb26960e14b79217972a9e007fc6313be9c3c1a24c8385c7292648ce"
+    },
+    "gtt-format-and-translate": {
+      "source": "inceptiongt/format-and-translate-subtitle",
+      "sourceType": "github",
+      "skillPath": "skills/gtt-format-and-translate/SKILL.md",
+      "computedHash": "b2666f2eeef889d4940242d4baaa0b18f664f0b5f82ab281cadbfbddbde105f5"
     }
   }
 }

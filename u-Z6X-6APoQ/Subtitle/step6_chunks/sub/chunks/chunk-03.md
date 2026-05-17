@@ -1,0 +1,1 @@
+[116] It used horizontal tower bracing rather than X bracing that was used on the original span.

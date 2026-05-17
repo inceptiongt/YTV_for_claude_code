@@ -1,0 +1,1 @@
+[115] The newer span was also visibly more modern in its details.

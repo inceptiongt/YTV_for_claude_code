@@ -1,0 +1,1730 @@
+[
+  {
+    "tStartMs": 719,
+    "dDurationMs": 3930,
+    "segs": [
+      {
+        "utf8": "Why do some drivers dread the Chesapeake Bay Bridge?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 4649,
+    "dDurationMs": 3411,
+    "segs": [
+      {
+        "utf8": "Well, for some, it starts before they ever are on it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 8059,
+    "dDurationMs": 3518,
+    "segs": [
+      {
+        "utf8": "The road begins to climb and the water opens up on both sides."
+      }
+    ]
+  },
+  {
+    "tStartMs": 11578,
+    "dDurationMs": 4642,
+    "segs": [
+      {
+        "utf8": "And what looked manageable from the shore suddenly feels very different."
+      }
+    ]
+  },
+  {
+    "tStartMs": 16220,
+    "dDurationMs": 4180,
+    "segs": [
+      {
+        "utf8": "This bridge is high, exposed, and narrow by modern standards."
+      }
+    ]
+  },
+  {
+    "tStartMs": 20400,
+    "dDurationMs": 6290,
+    "segs": [
+      {
+        "utf8": "And once you commit to it, there's no shoulder and no easy place to stop for the next 4.3 miles."
+      }
+    ]
+  },
+  {
+    "tStartMs": 26690,
+    "dDurationMs": 12247,
+    "segs": [
+      {
+        "utf8": "At the shipping channel, the deck rises 186 feet above the water, about the same height as an 18story apartment building with bridge towers much higher than the Statue of Liberty."
+      }
+    ]
+  },
+  {
+    "tStartMs": 38936,
+    "dDurationMs": 3950,
+    "segs": [
+      {
+        "utf8": "Add to that that this crossing has a reputation. Few others do."
+      }
+    ]
+  },
+  {
+    "tStartMs": 42887,
+    "dDurationMs": 6817,
+    "segs": [
+      {
+        "utf8": "In fact, some drivers don't just dislike it, they'll actually hire someone else to take the wheel and drive them across it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 49704,
+    "dDurationMs": 3226,
+    "segs": [
+      {
+        "utf8": "But that uneasy feeling is not separate from the story."
+      }
+    ]
+  },
+  {
+    "tStartMs": 52929,
+    "dDurationMs": 6643,
+    "segs": [
+      {
+        "utf8": "The Chesapeake Bay Bridge looks and feel the way it is because it was built to solve a very specific problem."
+      }
+    ]
+  },
+  {
+    "tStartMs": 59572,
+    "dDurationMs": 11645,
+    "segs": [
+      {
+        "utf8": "Maryland needed a crossing high enough to clear a major shipping channel, strong enough to withstand violent weather, and efficient enough to connect the Eastern Shore to the rest of the state in a way fairies never could."
+      }
+    ]
+  },
+  {
+    "tStartMs": 71217,
+    "dDurationMs": 6363,
+    "segs": [
+      {
+        "utf8": "The very things that make this bridge intimidating are directly tied to the engineering that made it possible."
+      }
+    ]
+  },
+  {
+    "tStartMs": 77580,
+    "dDurationMs": 4968,
+    "segs": [
+      {
+        "utf8": "Over its 74 years service, it's a story that has changed with every generation."
+      }
+    ]
+  },
+  {
+    "tStartMs": 82548,
+    "dDurationMs": 3502,
+    "segs": [
+      {
+        "utf8": "And now in 2026, that story has changed again."
+      }
+    ]
+  },
+  {
+    "tStartMs": 86050,
+    "dDurationMs": 4566,
+    "segs": [
+      {
+        "utf8": "Because this is no longer just a famous landmark or a mid-century triumph."
+      }
+    ]
+  },
+  {
+    "tStartMs": 90615,
+    "dDurationMs": 11862,
+    "segs": [
+      {
+        "utf8": "It's an aging crossing carrying modern traffic, facing modern maritime risk and forcing Maryland to decide what happens when an old answer is still doing an essential job in a very different era."
+      }
+    ]
+  },
+  {
+    "tStartMs": 102478,
+    "dDurationMs": 11030,
+    "segs": [
+      {
+        "utf8": "My name is Scott and today we're taking an Engineering the Impossible look at a bridge that is intimidating to cross, complicated to operate, and shaped by a fascinating history."
+      }
+    ]
+  },
+  {
+    "tStartMs": 113589,
+    "dDurationMs": 2384,
+    "segs": [
+      {
+        "utf8": "This is the Chesapeake Bay Bridge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 115974,
+    "dDurationMs": 2186,
+    "segs": [
+      {
+        "utf8": "Let's go beyond the exit."
+      }
+    ]
+  },
+  {
+    "tStartMs": 127439,
+    "dDurationMs": 6401,
+    "segs": [
+      {
+        "utf8": "What makes the Chesapeake Bay Bridge so stressful is that it stops behaving like the highway that led to it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 133840,
+    "dDurationMs": 5398,
+    "segs": [
+      {
+        "utf8": "US50 and US301 approach the crossing as six lanes, three in each direction."
+      }
+    ]
+  },
+  {
+    "tStartMs": 139238,
+    "dDurationMs": 7257,
+    "segs": [
+      {
+        "utf8": "Then the bridge compresses that down to five lanes total across the bay, two on the eastbound span and three on the westbound."
+      }
+    ]
+  },
+  {
+    "tStartMs": 146495,
+    "dDurationMs": 3665,
+    "segs": [
+      {
+        "utf8": "Now, this is not some oversized bridge carrying light traffic."
+      }
+    ]
+  },
+  {
+    "tStartMs": 150160,
+    "dDurationMs": 4779,
+    "segs": [
+      {
+        "utf8": "When it opened in 1952, it carried just over a million vehicles."
+      }
+    ]
+  },
+  {
+    "tStartMs": 154939,
+    "dDurationMs": 6091,
+    "segs": [
+      {
+        "utf8": "Today, it's a choke point in the corridor, carrying the modern demand on geometry that was from another era."
+      }
+    ]
+  },
+  {
+    "tStartMs": 161029,
+    "dDurationMs": 3891,
+    "segs": [
+      {
+        "utf8": "More than 27 million crossings a year have been pushed through here lately."
+      }
+    ]
+  },
+  {
+    "tStartMs": 164920,
+    "dDurationMs": 5000,
+    "segs": [
+      {
+        "utf8": "And once you're out over the water, the bridge gives you very little extra room to work with."
+      }
+    ]
+  },
+  {
+    "tStartMs": 169920,
+    "dDurationMs": 3274,
+    "segs": [
+      {
+        "utf8": "Part of why the crossing feels so different from the road behind it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 173194,
+    "dDurationMs": 4186,
+    "segs": [
+      {
+        "utf8": "It's not just long and tall, it tightens down while the stakes go up."
+      }
+    ]
+  },
+  {
+    "tStartMs": 177380,
+    "dDurationMs": 4110,
+    "segs": [
+      {
+        "utf8": "Maryland has spent years trying to ring more capacity out of that geometry."
+      }
+    ]
+  },
+  {
+    "tStartMs": 181490,
+    "dDurationMs": 7862,
+    "segs": [
+      {
+        "utf8": "Under heavy eastbound traffic, one lane of the westbound span can be reversed to create a third lane heading toward the eastern shore."
+      }
+    ]
+  },
+  {
+    "tStartMs": 189352,
+    "dDurationMs": 5909,
+    "segs": [
+      {
+        "utf8": "Whether permitting, that setup is used more than 200 days a year, and it definitely comes with trade-offs."
+      }
+    ]
+  },
+  {
+    "tStartMs": 195261,
+    "dDurationMs": 4338,
+    "segs": [
+      {
+        "utf8": "There is no divider between the opposing traffic on that span when it happens."
+      }
+    ]
+  },
+  {
+    "tStartMs": 199599,
+    "dDurationMs": 4161,
+    "segs": [
+      {
+        "utf8": "So, speeds generally drop and heavier vehicles face lane restrictions."
+      }
+    ]
+  },
+  {
+    "tStartMs": 203760,
+    "dDurationMs": 11055,
+    "segs": [
+      {
+        "utf8": "Maryland now relies on overhead lane controls, automated swing gates, and two-way traffic setups to squeeze more life out of this crossing that no longer matches the road feeding into it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 214815,
+    "dDurationMs": 2980,
+    "segs": [
+      {
+        "utf8": "So, the bridge now is not just carrying traffic."
+      }
+    ]
+  },
+  {
+    "tStartMs": 217795,
+    "dDurationMs": 2933,
+    "segs": [
+      {
+        "utf8": "It has to be managed almost like it's a machine."
+      }
+    ]
+  },
+  {
+    "tStartMs": 220728,
+    "dDurationMs": 2207,
+    "segs": [
+      {
+        "utf8": "And even that flexibility has limits."
+      }
+    ]
+  },
+  {
+    "tStartMs": 222935,
+    "dDurationMs": 2985,
+    "segs": [
+      {
+        "utf8": "Two-way traffic is prohibited during wind warnings."
+      }
+    ]
+  },
+  {
+    "tStartMs": 225920,
+    "dDurationMs": 5116,
+    "segs": [
+      {
+        "utf8": "Anywhere from 30 mph up to 55, which is where they'll completely shut the bridge down."
+      }
+    ]
+  },
+  {
+    "tStartMs": 231036,
+    "dDurationMs": 4324,
+    "segs": [
+      {
+        "utf8": "And that's why drivers often say that this bridge gets in their heads."
+      }
+    ]
+  },
+  {
+    "tStartMs": 235360,
+    "dDurationMs": 3241,
+    "segs": [
+      {
+        "utf8": "You never know exactly what you're going to face when you drive onto it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 238601,
+    "dDurationMs": 3366,
+    "segs": [
+      {
+        "utf8": "Now, this part of the story tells us where we are right now."
+      }
+    ]
+  },
+  {
+    "tStartMs": 241967,
+    "dDurationMs": 4314,
+    "segs": [
+      {
+        "utf8": "The next question is, how did Maryland get here in the first place?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 246281,
+    "dDurationMs": 4722,
+    "segs": [
+      {
+        "utf8": "Before the Bay Bridge existed, the Chesapeake was not just water on a map."
+      }
+    ]
+  },
+  {
+    "tStartMs": 251003,
+    "dDurationMs": 1953,
+    "segs": [
+      {
+        "utf8": "It was a real transportation barrier."
+      }
+    ]
+  },
+  {
+    "tStartMs": 252955,
+    "dDurationMs": 10772,
+    "segs": [
+      {
+        "utf8": "Cars and trucks had to use fairies, and going around the northern end of the bay could mean a trip of roughly 200 miles on older roads that were often narrow, awkward, and slow."
+      }
+    ]
+  },
+  {
+    "tStartMs": 263727,
+    "dDurationMs": 3873,
+    "segs": [
+      {
+        "utf8": "By the middle of the 20th century, that whole system was no longer keeping up."
+      }
+    ]
+  },
+  {
+    "tStartMs": 267600,
+    "dDurationMs": 5918,
+    "segs": [
+      {
+        "utf8": "For people on the Eastern Shore, that barrier shaped everyday life in ways that sound strange now."
+      }
+    ]
+  },
+  {
+    "tStartMs": 273518,
+    "dDurationMs": 10501,
+    "segs": [
+      {
+        "utf8": "As one Eastern Shore account put it, for some farmers and seafood sellers, it could often be easier to reach the markets in Philadelphia than to fight the long road to Baltimore,"
+      }
+    ]
+  },
+  {
+    "tStartMs": 284019,
+    "dDurationMs": 4785,
+    "segs": [
+      {
+        "utf8": "which just shows how before the bridge, the bay did not just separate two shorelines."
+      }
+    ]
+  },
+  {
+    "tStartMs": 288804,
+    "dDurationMs": 1958,
+    "segs": [
+      {
+        "utf8": "It warped the whole map of the state."
+      }
+    ]
+  },
+  {
+    "tStartMs": 290762,
+    "dDurationMs": 2677,
+    "segs": [
+      {
+        "utf8": "Pressure for a bridge had been building for years."
+      }
+    ]
+  },
+  {
+    "tStartMs": 293520,
+    "dDurationMs": 2560,
+    "segs": [
+      {
+        "utf8": "Legislation finally moved in 1938."
+      }
+    ]
+  },
+  {
+    "tStartMs": 296800,
+    "dDurationMs": 2720,
+    "segs": [
+      {
+        "utf8": "Then World War II pushed the project back."
+      }
+    ]
+  },
+  {
+    "tStartMs": 299520,
+    "dDurationMs": 10318,
+    "segs": [
+      {
+        "utf8": "It wasn't until 1947, specifically under Governor William Preston Lane Jr., that the state finally committed to building a fixed crossing between Sandy Point and Kent Island."
+      }
+    ]
+  },
+  {
+    "tStartMs": 310639,
+    "dDurationMs": 3675,
+    "segs": [
+      {
+        "utf8": "Even then, though, many people thought that the whole idea was reckless."
+      }
+    ]
+  },
+  {
+    "tStartMs": 314314,
+    "dDurationMs": 8802,
+    "segs": [
+      {
+        "utf8": "Before it became a landmark, the Bay Bridge was a big gamble, a hugely ambitious attempt to force a permanent road across one of Maryland's biggest obstacles."
+      }
+    ]
+  },
+  {
+    "tStartMs": 323116,
+    "dDurationMs": 1899,
+    "segs": [
+      {
+        "utf8": "Fairies could not keep pace forever."
+      }
+    ]
+  },
+  {
+    "tStartMs": 325015,
+    "dDurationMs": 6924,
+    "segs": [
+      {
+        "utf8": "And while their numbers sound staggering, they were only able to move about 100,000 vehicles annually across the bay."
+      }
+    ]
+  },
+  {
+    "tStartMs": 331938,
+    "dDurationMs": 7582,
+    "segs": [
+      {
+        "utf8": "For a backdrop to that number, the first year the bridge was opened in 1952, it hosted nearly 1.1 million vehicles."
+      }
+    ]
+  },
+  {
+    "tStartMs": 341280,
+    "dDurationMs": 6960,
+    "segs": [
+      {
+        "utf8": "So deciding to build a bridge was one thing. Figuring out what kind of bridge could actually work here quite another."
+      }
+    ]
+  },
+  {
+    "tStartMs": 348240,
+    "dDurationMs": 11872,
+    "segs": [
+      {
+        "utf8": "One of the first things people notice about the Bay Bridge, at least the original span that was built in 52, is that it almost looks like somebody tried to build a sample kit of every bridge type in America."
+      }
+    ]
+  },
+  {
+    "tStartMs": 360112,
+    "dDurationMs": 2268,
+    "segs": [
+      {
+        "utf8": "But that mixed look has a purpose."
+      }
+    ]
+  },
+  {
+    "tStartMs": 362380,
+    "dDurationMs": 2845,
+    "segs": [
+      {
+        "utf8": "No single design could do the whole job."
+      }
+    ]
+  },
+  {
+    "tStartMs": 365225,
+    "dDurationMs": 4413,
+    "segs": [
+      {
+        "utf8": "Near the Western Shore, the bridge had to rise enough to clear the main shipping channel."
+      }
+    ]
+  },
+  {
+    "tStartMs": 369638,
+    "dDurationMs": 5581,
+    "segs": [
+      {
+        "utf8": "Other parts of the Bay Bridge didn't need that kind of structure, so the crossing changed with the bay itself."
+      }
+    ]
+  },
+  {
+    "tStartMs": 375219,
+    "dDurationMs": 2908,
+    "segs": [
+      {
+        "utf8": "Suspension spans carried the road over the main channel."
+      }
+    ]
+  },
+  {
+    "tStartMs": 378128,
+    "dDurationMs": 4098,
+    "segs": [
+      {
+        "utf8": "Canol lever and truss sections handled the other navigational openings."
+      }
+    ]
+  },
+  {
+    "tStartMs": 382226,
+    "dDurationMs": 6494,
+    "segs": [
+      {
+        "utf8": "Lower beam and girder approaches took over where the water was shallower and the demands of shipping traffic were different."
+      }
+    ]
+  },
+  {
+    "tStartMs": 388720,
+    "dDurationMs": 6970,
+    "segs": [
+      {
+        "utf8": "That mixed design is worth noticing because it helps explain why the bridge still feels so unusual to drive even now."
+      }
+    ]
+  },
+  {
+    "tStartMs": 395690,
+    "dDurationMs": 4219,
+    "segs": [
+      {
+        "utf8": "Even the bridge's big curve comes from function, not aesthetics."
+      }
+    ]
+  },
+  {
+    "tStartMs": 399909,
+    "dDurationMs": 6003,
+    "segs": [
+      {
+        "utf8": "The main span had to cross the shipping channel at a right angle and that requirement shaped the drive itself."
+      }
+    ]
+  },
+  {
+    "tStartMs": 405913,
+    "dDurationMs": 3852,
+    "segs": [
+      {
+        "utf8": "But solving the crossing on paper was only part of the challenge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 409764,
+    "dDurationMs": 3355,
+    "segs": [
+      {
+        "utf8": "Building it out there was another problem entirely."
+      }
+    ]
+  },
+  {
+    "tStartMs": 414319,
+    "dDurationMs": 7280,
+    "segs": [
+      {
+        "utf8": "The original crossing was designed by Baltimore's J Grinder Company with major steel components fabricated by Bethlehem Steel."
+      }
+    ]
+  },
+  {
+    "tStartMs": 421599,
+    "dDurationMs": 10177,
+    "segs": [
+      {
+        "utf8": "More than 2,000 workers spent over six million man-hour on the project with steel sections carried out by barge and lifted into place by floating and fixed cranes."
+      }
+    ]
+  },
+  {
+    "tStartMs": 431776,
+    "dDurationMs": 4684,
+    "segs": [
+      {
+        "utf8": "Some workers were even housed in a floating hotel during construction."
+      }
+    ]
+  },
+  {
+    "tStartMs": 436460,
+    "dDurationMs": 3590,
+    "segs": [
+      {
+        "utf8": "It had to be built progressively farther out over open water."
+      }
+    ]
+  },
+  {
+    "tStartMs": 440050,
+    "dDurationMs": 8696,
+    "segs": [
+      {
+        "utf8": "Under the conditions of a large and demanding marine job, while fitting the superructure was a major task, the harder fight was found below the water line."
+      }
+    ]
+  },
+  {
+    "tStartMs": 448746,
+    "dDurationMs": 3027,
+    "segs": [
+      {
+        "utf8": "Crews were not working with convenient shallow bedrock."
+      }
+    ]
+  },
+  {
+    "tStartMs": 451773,
+    "dDurationMs": 9426,
+    "segs": [
+      {
+        "utf8": "The Chesapeake only offered deep sediments, mud, and buried layers that made the bay floor far less cooperative than the finished bridge actually makes it look."
+      }
+    ]
+  },
+  {
+    "tStartMs": 461199,
+    "dDurationMs": 3306,
+    "segs": [
+      {
+        "utf8": "The first job was to create a stable pier foundation."
+      }
+    ]
+  },
+  {
+    "tStartMs": 464505,
+    "dDurationMs": 5827,
+    "segs": [
+      {
+        "utf8": "Enormous steel forums called quesons were built first, then sunk to the bottom of the bay."
+      }
+    ]
+  },
+  {
+    "tStartMs": 470333,
+    "dDurationMs": 7229,
+    "segs": [
+      {
+        "utf8": "To hold them in place, piles were driven down through them at different angles, hoping to gain a purchase through friction at the bottom."
+      }
+    ]
+  },
+  {
+    "tStartMs": 477561,
+    "dDurationMs": 6662,
+    "segs": [
+      {
+        "utf8": "After that, a special mix of underwater curing concrete was injected into each one to displace the water inside."
+      }
+    ]
+  },
+  {
+    "tStartMs": 484223,
+    "dDurationMs": 7222,
+    "segs": [
+      {
+        "utf8": "These foundations were allowed to cure and then capped and the peers were built on top of those to carry the superructure."
+      }
+    ]
+  },
+  {
+    "tStartMs": 491445,
+    "dDurationMs": 10599,
+    "segs": [
+      {
+        "utf8": "The precision that workers had to achieve here was usually within a half an inch in most situations, which seems almost absurd considering it was the early 1950s."
+      }
+    ]
+  },
+  {
+    "tStartMs": 502044,
+    "dDurationMs": 2431,
+    "segs": [
+      {
+        "utf8": "They had no GPS, no computer models."
+      }
+    ]
+  },
+  {
+    "tStartMs": 504475,
+    "dDurationMs": 5444,
+    "segs": [
+      {
+        "utf8": "And yet, it's obvious with the bridgeg's status today, there was no lack of skill in building it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 509919,
+    "dDurationMs": 3577,
+    "segs": [
+      {
+        "utf8": "That original 1952 span was quite an achievement."
+      }
+    ]
+  },
+  {
+    "tStartMs": 513496,
+    "dDurationMs": 2774,
+    "segs": [
+      {
+        "utf8": "It wasn't one simple bridge repeated for miles."
+      }
+    ]
+  },
+  {
+    "tStartMs": 516270,
+    "dDurationMs": 6290,
+    "segs": [
+      {
+        "utf8": "It was a stack of problems and an even larger stack of answers forced by a difficult crossing."
+      }
+    ]
+  },
+  {
+    "tStartMs": 522560,
+    "dDurationMs": 4320,
+    "segs": [
+      {
+        "utf8": "But once that problem was solved, it actually created another one."
+      }
+    ]
+  },
+  {
+    "tStartMs": 528000,
+    "dDurationMs": 5932,
+    "segs": [
+      {
+        "utf8": "When the first span opened on July 30th, 1952, it was not treated like ordinary infrastructure."
+      }
+    ]
+  },
+  {
+    "tStartMs": 533932,
+    "dDurationMs": 4467,
+    "segs": [
+      {
+        "utf8": "At the time, it was the world's longest overwater steel bridge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 538399,
+    "dDurationMs": 2797,
+    "segs": [
+      {
+        "utf8": "For Maryland, it was a genuine break with the past."
+      }
+    ]
+  },
+  {
+    "tStartMs": 541196,
+    "dDurationMs": 6278,
+    "segs": [
+      {
+        "utf8": "What had been a ferry crossing shaped by weather, waiting, and uncertainty was now a direct road right across the bay."
+      }
+    ]
+  },
+  {
+    "tStartMs": 547473,
+    "dDurationMs": 4063,
+    "segs": [
+      {
+        "utf8": "All of that had been bypassed, and that sounds like a huge triumph."
+      }
+    ]
+  },
+  {
+    "tStartMs": 551536,
+    "dDurationMs": 1891,
+    "segs": [
+      {
+        "utf8": "And for the time, it definitely was."
+      }
+    ]
+  },
+  {
+    "tStartMs": 553427,
+    "dDurationMs": 5361,
+    "segs": [
+      {
+        "utf8": "But it also meant that the bridge started aging into its next problem almost immediately."
+      }
+    ]
+  },
+  {
+    "tStartMs": 558788,
+    "dDurationMs": 3772,
+    "segs": [
+      {
+        "utf8": "It wasn't just serving demand. It was also creating it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 562560,
+    "dDurationMs": 3920,
+    "segs": [
+      {
+        "utf8": "And really, that's a contradiction at the heart of the Chesapeake Bay Bridge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 566480,
+    "dDurationMs": 3082,
+    "segs": [
+      {
+        "utf8": "It opened as a marvel, but it didn't stay oversized for long."
+      }
+    ]
+  },
+  {
+    "tStartMs": 569562,
+    "dDurationMs": 3158,
+    "segs": [
+      {
+        "utf8": "You could say it became a victim of its own success."
+      }
+    ]
+  },
+  {
+    "tStartMs": 572720,
+    "dDurationMs": 9180,
+    "segs": [
+      {
+        "utf8": "The crossing made the Eastern Shore more reachable and it cut dependence on the fairies, of course, and yet it helped pull tourism, commuting, and commerce into a new era."
+      }
+    ]
+  },
+  {
+    "tStartMs": 581900,
+    "dDurationMs": 2100,
+    "segs": [
+      {
+        "utf8": "That success came with a cost."
+      }
+    ]
+  },
+  {
+    "tStartMs": 584000,
+    "dDurationMs": 11995,
+    "segs": [
+      {
+        "utf8": "The original bridge carried only two lanes, one in each direction, and traffic growth came so quickly that Maryland was already planning for more capacity within a generation."
+      }
+    ]
+  },
+  {
+    "tStartMs": 595995,
+    "dDurationMs": 5467,
+    "segs": [
+      {
+        "utf8": "In 1969, construction began on a second span about 450 ft north of the first one."
+      }
+    ]
+  },
+  {
+    "tStartMs": 601543,
+    "dDurationMs": 5358,
+    "segs": [
+      {
+        "utf8": "And on June 28th, 1973, that new threelane bridge opened to traffic."
+      }
+    ]
+  },
+  {
+    "tStartMs": 606901,
+    "dDurationMs": 4338,
+    "segs": [
+      {
+        "utf8": "Now, the 73 westbound span was not simply a copy of the first bridge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 611240,
+    "dDurationMs": 11701,
+    "segs": [
+      {
+        "utf8": "It reflected two decades of engineering change and a different construction effort with the American Bridge Division of US Steel building the superructure and Raymond Dravo Langenfelter handling the substructure."
+      }
+    ]
+  },
+  {
+    "tStartMs": 622940,
+    "dDurationMs": 5564,
+    "segs": [
+      {
+        "utf8": "What remained the same was Grryer remained the design and supervising engineer of the project."
+      }
+    ]
+  },
+  {
+    "tStartMs": 628504,
+    "dDurationMs": 3825,
+    "segs": [
+      {
+        "utf8": "The newer span was also visibly more modern in its details."
+      }
+    ]
+  },
+  {
+    "tStartMs": 632329,
+    "dDurationMs": 5659,
+    "segs": [
+      {
+        "utf8": "It used horizontal tower bracing rather than X bracing that was used on the original span."
+      }
+    ]
+  },
+  {
+    "tStartMs": 637988,
+    "dDurationMs": 5094,
+    "segs": [
+      {
+        "utf8": "And the cable stays rather than being at the water level were at the bridge deck level."
+      }
+    ]
+  },
+  {
+    "tStartMs": 643082,
+    "dDurationMs": 1509,
+    "segs": [
+      {
+        "utf8": "It was not just more bridge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 644592,
+    "dDurationMs": 3964,
+    "segs": [
+      {
+        "utf8": "It was Maryland's next attempt to adapt the crossing to traffic demands."
+      }
+    ]
+  },
+  {
+    "tStartMs": 648556,
+    "dDurationMs": 2096,
+    "segs": [
+      {
+        "utf8": "The first span had quickly outgrown."
+      }
+    ]
+  },
+  {
+    "tStartMs": 650651,
+    "dDurationMs": 4216,
+    "segs": [
+      {
+        "utf8": "So the bridge people cross today is really the product of two different eras."
+      }
+    ]
+  },
+  {
+    "tStartMs": 654867,
+    "dDurationMs": 5718,
+    "segs": [
+      {
+        "utf8": "A first span that was built to end the ferry bottleneck and proved that the bay could be crossed by a road at all."
+      }
+    ]
+  },
+  {
+    "tStartMs": 660585,
+    "dDurationMs": 7039,
+    "segs": [
+      {
+        "utf8": "The second span came later after traffic had grown enough to show that the original answer was no longer big enough on its own."
+      }
+    ]
+  },
+  {
+    "tStartMs": 667625,
+    "dDurationMs": 4944,
+    "segs": [
+      {
+        "utf8": "And what it created is the bridge that Maryland has been living with ever since."
+      }
+    ]
+  },
+  {
+    "tStartMs": 672569,
+    "dDurationMs": 4231,
+    "segs": [
+      {
+        "utf8": "The solution that's over 50 years old, still struggling to keep up."
+      }
+    ]
+  },
+  {
+    "tStartMs": 678160,
+    "dDurationMs": 3813,
+    "segs": [
+      {
+        "utf8": "By then, the hard part was no longer getting a bridge across the bay."
+      }
+    ]
+  },
+  {
+    "tStartMs": 681973,
+    "dDurationMs": 3058,
+    "segs": [
+      {
+        "utf8": "The hard part was that Maryland had become dependent on one."
+      }
+    ]
+  },
+  {
+    "tStartMs": 685031,
+    "dDurationMs": 6297,
+    "segs": [
+      {
+        "utf8": "The Bay Bridge was too important to lose, too busy to shut down, and too difficult to replace on a quick timetable."
+      }
+    ]
+  },
+  {
+    "tStartMs": 691328,
+    "dDurationMs": 3878,
+    "segs": [
+      {
+        "utf8": "From that point on, the story becomes one of management, repair, and risk."
+      }
+    ]
+  },
+  {
+    "tStartMs": 695206,
+    "dDurationMs": 3127,
+    "segs": [
+      {
+        "utf8": "And it's also where the bridge began to feel different."
+      }
+    ]
+  },
+  {
+    "tStartMs": 698333,
+    "dDurationMs": 7934,
+    "segs": [
+      {
+        "utf8": "Not a marvel Maryland had built, but a crossing that the state had to keep patching, protecting, and carefully operating because too much depended on it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 706267,
+    "dDurationMs": 2780,
+    "segs": [
+      {
+        "utf8": "Bridge safety was a major factor of that as well."
+      }
+    ]
+  },
+  {
+    "tStartMs": 709046,
+    "dDurationMs": 5924,
+    "segs": [
+      {
+        "utf8": "In 2008, a tractor trailer crash tore through part of the barrier and sent the truck into the bay."
+      }
+    ]
+  },
+  {
+    "tStartMs": 714970,
+    "dDurationMs": 4314,
+    "segs": [
+      {
+        "utf8": "The investigation that followed pointed to something more troubling than a single wreck."
+      }
+    ]
+  },
+  {
+    "tStartMs": 719284,
+    "dDurationMs": 3756,
+    "segs": [
+      {
+        "utf8": "Parts of the barrier system itself had been weakened by corrosion."
+      }
+    ]
+  },
+  {
+    "tStartMs": 723040,
+    "dDurationMs": 3584,
+    "segs": [
+      {
+        "utf8": "That was the kind of moment that showed what the Bay Bridge had become."
+      }
+    ]
+  },
+  {
+    "tStartMs": 726624,
+    "dDurationMs": 3751,
+    "segs": [
+      {
+        "utf8": "An aging piece of infrastructure that the state couldn't afford to do without."
+      }
+    ]
+  },
+  {
+    "tStartMs": 730375,
+    "dDurationMs": 4977,
+    "segs": [
+      {
+        "utf8": "And from there, the bridge's later life starts to read like a long preservation fight."
+      }
+    ]
+  },
+  {
+    "tStartMs": 735352,
+    "dDurationMs": 2865,
+    "segs": [
+      {
+        "utf8": "The eastbound deck had already been replaced once."
+      }
+    ]
+  },
+  {
+    "tStartMs": 738217,
+    "dDurationMs": 3821,
+    "segs": [
+      {
+        "utf8": "The westbound span went through a major rehabilitation as well."
+      }
+    ]
+  },
+  {
+    "tStartMs": 742038,
+    "dDurationMs": 6122,
+    "segs": [
+      {
+        "utf8": "By the mid 2010s, Maryland was still finding the bridg's age in more hidden ways, too."
+      }
+    ]
+  },
+  {
+    "tStartMs": 748160,
+    "dDurationMs": 11286,
+    "segs": [
+      {
+        "utf8": "The main suspension cables on both spans were rewrapped and fitted with a special dehumidification system to seal out moisture, dry the cables from inside, and slow further corrosion."
+      }
+    ]
+  },
+  {
+    "tStartMs": 759606,
+    "dDurationMs": 4634,
+    "segs": [
+      {
+        "utf8": "The project began in the fall of 2012 and was completed by 2015."
+      }
+    ]
+  },
+  {
+    "tStartMs": 764240,
+    "dDurationMs": 4040,
+    "segs": [
+      {
+        "utf8": "The state also changed how traffic was handled on the bridge itself."
+      }
+    ]
+  },
+  {
+    "tStartMs": 768280,
+    "dDurationMs": 17328,
+    "segs": [
+      {
+        "utf8": "Instead of relying on more manual lane changes and slower setup, the crossing was fitted with an automated lane control system using overhead signals and gates so crews could close lanes, reverse traffic patterns, and respond faster when conditions changed."
+      }
+    ]
+  },
+  {
+    "tStartMs": 785608,
+    "dDurationMs": 14392,
+    "segs": [
+      {
+        "utf8": "Even with all of the automated traffic control and safety awareness in place, the increased traffic combined with the construction necessary to keep the bridge going almost guarantees accidents will happen, especially in such a tight corridor."
+      }
+    ]
+  },
+  {
+    "tStartMs": 800000,
+    "dDurationMs": 17378,
+    "segs": [
+      {
+        "utf8": "According to a study between 2017 and 2022 performed by the state, the Chesapeake Bay Bridge averages nearly a 100 accidents per year, including multi-car pileups from fog and weather and strangely a number that have grown from distracted drivers."
+      }
+    ]
+  },
+  {
+    "tStartMs": 817378,
+    "dDurationMs": 5676,
+    "segs": [
+      {
+        "utf8": "And every time one occurs, it jolts safety back to the forefront of everyone's mind."
+      }
+    ]
+  },
+  {
+    "tStartMs": 823054,
+    "dDurationMs": 4060,
+    "segs": [
+      {
+        "utf8": "That concern was about to receive another major jolt."
+      }
+    ]
+  },
+  {
+    "tStartMs": 827114,
+    "dDurationMs": 5811,
+    "segs": [
+      {
+        "utf8": "In 2024, the world was shocked by the collapse of Baltimore's Francis Scott Key Bridge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 832925,
+    "dDurationMs": 3280,
+    "segs": [
+      {
+        "utf8": "Most people remember seeing the images in the video play out."
+      }
+    ]
+  },
+  {
+    "tStartMs": 836205,
+    "dDurationMs": 4108,
+    "segs": [
+      {
+        "utf8": "What many don't remember as clearly is why the collapse was so complete."
+      }
+    ]
+  },
+  {
+    "tStartMs": 840313,
+    "dDurationMs": 7785,
+    "segs": [
+      {
+        "utf8": "The bridge was struck by the container ship Dolly after the vessel lost electrical power, propulsion, and steering near the bridge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 848098,
+    "dDurationMs": 3834,
+    "segs": [
+      {
+        "utf8": "When it hit a critical support pier, the structure gave way."
+      }
+    ]
+  },
+  {
+    "tStartMs": 851932,
+    "dDurationMs": 3657,
+    "segs": [
+      {
+        "utf8": "It was a disaster that seemed too impossible to happen."
+      }
+    ]
+  },
+  {
+    "tStartMs": 855589,
+    "dDurationMs": 3904,
+    "segs": [
+      {
+        "utf8": "In the aftermath, it forced Maryland to ask another hard question."
+      }
+    ]
+  },
+  {
+    "tStartMs": 859493,
+    "dDurationMs": 6285,
+    "segs": [
+      {
+        "utf8": "Could the Bay Bridge survive being struck by the kind of modern ship that brought the key to its knees?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 865778,
+    "dDurationMs": 2345,
+    "segs": [
+      {
+        "utf8": "That answer was a resounding no."
+      }
+    ]
+  },
+  {
+    "tStartMs": 868123,
+    "dDurationMs": 7481,
+    "segs": [
+      {
+        "utf8": "In fact, from the investigation, it was determined that the Bay Bridge may be one of the most vulnerable in the entire nation."
+      }
+    ]
+  },
+  {
+    "tStartMs": 875604,
+    "dDurationMs": 7016,
+    "segs": [
+      {
+        "utf8": "Maryland's answer at the Bay Bridge is a protection project at an estimated cost of $175 million."
+      }
+    ]
+  },
+  {
+    "tStartMs": 882620,
+    "dDurationMs": 5657,
+    "segs": [
+      {
+        "utf8": "That system is being advanced now, but it is still in the design, build, and procurement phase,"
+      }
+    ]
+  },
+  {
+    "tStartMs": 888276,
+    "dDurationMs": 8764,
+    "segs": [
+      {
+        "utf8": "not sitting finished out on the water, which brings Maryland to the question it is asking about this bridge right now. What comes after it?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 898480,
+    "dDurationMs": 4748,
+    "segs": [
+      {
+        "utf8": "Maryland is no longer pretending a few more repairs will solve the whole problem."
+      }
+    ]
+  },
+  {
+    "tStartMs": 903228,
+    "dDurationMs": 4328,
+    "segs": [
+      {
+        "utf8": "A multi-year study of the bridge was concluded just this last year."
+      }
+    ]
+  },
+  {
+    "tStartMs": 907556,
+    "dDurationMs": 8361,
+    "segs": [
+      {
+        "utf8": "And in the latter part of 2026, Maryland Transit Authority announced that it would be adopting the plan labeled option C,"
+      }
+    ]
+  },
+  {
+    "tStartMs": 916317,
+    "dDurationMs": 9408,
+    "segs": [
+      {
+        "utf8": "two new four-lane bridge spans with full shoulders built near the existing crossing and the eventual demolition and removal of the current spans."
+      }
+    ]
+  },
+  {
+    "tStartMs": 925726,
+    "dDurationMs": 4994,
+    "segs": [
+      {
+        "utf8": "Under the current study timeline, the final federal decision is expected in 2026."
+      }
+    ]
+  },
+  {
+    "tStartMs": 930720,
+    "dDurationMs": 7600,
+    "segs": [
+      {
+        "utf8": "Final design would begin in 2028, permits would follow in 2031, and construction would begin in 2032."
+      }
+    ]
+  },
+  {
+    "tStartMs": 938320,
+    "dDurationMs": 3749,
+    "segs": [
+      {
+        "utf8": "And that future is really a verdict on the present bridge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 942069,
+    "dDurationMs": 11228,
+    "segs": [
+      {
+        "utf8": "What Maryland is planning now is a 21st century response to a crossing that outgrew its original solution and planning a bridge system built for the traffic and maritime world of now."
+      }
+    ]
+  },
+  {
+    "tStartMs": 953297,
+    "dDurationMs": 6697,
+    "segs": [
+      {
+        "utf8": "And while the majority of people all cheered and applauded the change, several were not happy with the decision."
+      }
+    ]
+  },
+  {
+    "tStartMs": 959994,
+    "dDurationMs": 5960,
+    "segs": [
+      {
+        "utf8": "For some people, it is still a beautiful landmark and one of Maryland's proudest engineering achievements."
+      }
+    ]
+  },
+  {
+    "tStartMs": 965953,
+    "dDurationMs": 4527,
+    "segs": [
+      {
+        "utf8": "But for others, it's an aging crossing that has been carrying too much for too long."
+      }
+    ]
+  },
+  {
+    "tStartMs": 970480,
+    "dDurationMs": 2590,
+    "segs": [
+      {
+        "utf8": "And that replacement cannot come soon enough."
+      }
+    ]
+  },
+  {
+    "tStartMs": 973070,
+    "dDurationMs": 3018,
+    "segs": [
+      {
+        "utf8": "Both reactions are understandable, but worlds apart."
+      }
+    ]
+  },
+  {
+    "tStartMs": 976088,
+    "dDurationMs": 5502,
+    "segs": [
+      {
+        "utf8": "In the end, it's pretty amazing that this bridge has been shouldering the load for nearly 74 years."
+      }
+    ]
+  },
+  {
+    "tStartMs": 981590,
+    "dDurationMs": 9314,
+    "segs": [
+      {
+        "utf8": "And regardless of whether someone is for or against the change, the one thing they seem to agree on is they can't do without it."
+      }
+    ]
+  },
+  {
+    "tStartMs": 990904,
+    "dDurationMs": 3204,
+    "segs": [
+      {
+        "utf8": "Now, there are so many stories about the Chesapeake Bay Bridge."
+      }
+    ]
+  },
+  {
+    "tStartMs": 994109,
+    "dDurationMs": 3090,
+    "segs": [
+      {
+        "utf8": "And maybe you've got one, too, that you'd like to share."
+      }
+    ]
+  },
+  {
+    "tStartMs": 997199,
+    "dDurationMs": 3828,
+    "segs": [
+      {
+        "utf8": "Or maybe there's something in our tale today that we shouldn't have missed."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1001027,
+    "dDurationMs": 2013,
+    "segs": [
+      {
+        "utf8": "If so, leave us a note in the comments."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1003040,
+    "dDurationMs": 2826,
+    "segs": [
+      {
+        "utf8": "Now, we try to answer each and every one of those."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1005866,
+    "dDurationMs": 5254,
+    "segs": [
+      {
+        "utf8": "This bridge affects so many people's daily lives, and we're really glad we could tell you its story."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1011120,
+    "dDurationMs": 1869,
+    "segs": [
+      {
+        "utf8": "Hopefully you enjoyed it too."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1012989,
+    "dDurationMs": 7681,
+    "segs": [
+      {
+        "utf8": "If you did, if you wouldn't mind reaching over right now and hitting the like button, that helps tell YouTube we should keep making stories like this one."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1020670,
+    "dDurationMs": 4917,
+    "segs": [
+      {
+        "utf8": "Now, if you have a friend that might also be interested in this story, why not share it with them as well?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 1025588,
+    "dDurationMs": 4747,
+    "segs": [
+      {
+        "utf8": "You know, here at Beyond the Exit, we believe that the highway is the hero of our story."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1030335,
+    "dDurationMs": 6694,
+    "segs": [
+      {
+        "utf8": "Now, if that's something you're enjoying, why don't you subscribe to the channel and join us on this big BTE caravan?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 1037028,
+    "dDurationMs": 2284,
+    "segs": [
+      {
+        "utf8": "We'd love to have you ride along with us."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1039312,
+    "dDurationMs": 5888,
+    "segs": [
+      {
+        "utf8": "You know, there are a lot of places we know you can go check out on this great big highway called YouTube."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1045200,
+    "dDurationMs": 2904,
+    "segs": [
+      {
+        "utf8": "So, we appreciate you going beyond the exit with us."
+      }
+    ]
+  },
+  {
+    "tStartMs": 1048104,
+    "dDurationMs": 3656,
+    "segs": [
+      {
+        "utf8": "As always, thank you for watching and God bless."
+      }
+    ]
+  }
+]

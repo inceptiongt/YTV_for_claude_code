@@ -1,0 +1,42 @@
+{
+  "totalMi": 619,
+  "unmatchedMiCount": 2,
+  "matchedRate": 0.9968,
+  "unmatchedMiList": [
+    148,
+    393
+  ],
+  "longSentencesCount": 2,
+  "longSentences": [
+    {
+      "n": 52,
+      "words": 47,
+      "text": "As one Eastern Shore account put it, for some farmers and seafood sellers, it could often be easier to reach the markets in Philadelphia than to fight the long road to Baltimore, which just shows how before the bridge, the bay did not just separate two shorelines.",
+      "miList": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125
+      ]
+    },
+    {
+      "n": 165,
+      "words": 44,
+      "text": "And in the latter part of 2026, Maryland Transit Authority announced that it would be adopting the plan labeled option C, two new four-lane bridge spans with full shoulders built near the existing crossing and the eventual demolition and removal of the current spans.",
+      "miList": [
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402
+      ]
+    }
+  ]
+}
