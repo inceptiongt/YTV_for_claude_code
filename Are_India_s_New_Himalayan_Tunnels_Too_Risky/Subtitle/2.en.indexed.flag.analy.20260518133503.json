@@ -1,0 +1,316 @@
+{
+  "totalMi": 430,
+  "unmatchedMiCount": 15,
+  "matchedRate": 0.9651,
+  "unmatchedSentences": [
+    {
+      "n": 6,
+      "words": 21,
+      "text": "Two years later, there was a breakthrough on a rail tunnel in the same region that also came close to tragedy.",
+      "miList": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "unmatchedMi": [
+        11
+      ]
+    },
+    {
+      "n": 17,
+      "words": 16,
+      "text": "Millions of pilgrims travel here every year, but let's just say their journeys aren't exactly straightforward.",
+      "miList": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "unmatchedMi": [
+        31
+      ]
+    },
+    {
+      "n": 50,
+      "words": 40,
+      "text": "Believe it or not, this is not the only tunnel in this area to have come close to disaster. Around 200 km to the southeast, another tunnel in the same state, this time for rail, broke through in April 2025,",
+      "miList": [
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "unmatchedMi": [
+        122
+      ]
+    },
+    {
+      "n": 53,
+      "words": 55,
+      "text": "or collapsing. But they managed to correct it by taking corrective measures. So, is it a coincidence that two tunnels under construction so close together either collapsed or came very close to it? Well, probably not because it turns out that carrying out this kind of work in these mountains in particular is exceptionally challenging.",
+      "miList": [
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142
+      ],
+      "unmatchedMi": [
+        135
+      ]
+    },
+    {
+      "n": 64,
+      "words": 41,
+      "text": "they are. Those rocks we see up on the surface. They're not behaving like that once you're deep in a mountain. They're they're actually behaving like a quite a different substance altogether. I attribute the mountains with a sense of life.",
+      "miList": [
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174
+      ],
+      "unmatchedMi": [
+        172
+      ]
+    },
+    {
+      "n": 68,
+      "words": 55,
+      "text": "All of this means you have to be very careful when digging here or run the risk of problems like the ones we've seen. Building tunnels in a territory that's prone to earthquakes, floods, and landslides would be a tough job for anyone. But some of the presumed causes of the collapse were unfortunately man-made.",
+      "miList": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187
+      ],
+      "unmatchedMi": [
+        181,
+        184
+      ]
+    },
+    {
+      "n": 81,
+      "words": 30,
+      "text": "The fact there have been these scary moments on multiple projects hasn't been enough to stop India building any more tunnels into the Himalayas. In fact, it's quite the opposite.",
+      "miList": [
+        226,
+        227,
+        228,
+        229,
+        230
+      ],
+      "unmatchedMi": [
+        229
+      ]
+    },
+    {
+      "n": 86,
+      "words": 30,
+      "text": "Like the Ziggilla Pass, for example, a trip along the worst part of it can take up to 4 hours, which is why they're now building this, the Zojilla tunnel.",
+      "miList": [
+        243,
+        244,
+        245,
+        246,
+        247
+      ],
+      "unmatchedMi": [
+        245
+      ]
+    },
+    {
+      "n": 94,
+      "words": 50,
+      "text": "If you've never heard of that, it's a type of concrete that's sprayed onto the tunnel walls immediately after excavation. The tunnel is then finished off with a waterproof lining followed by another layer of concrete. Now, we should clarify here that this method isn't unique to the Zodilla tunnel.",
+      "miList": [
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275
+      ],
+      "unmatchedMi": [
+        270,
+        272
+      ]
+    },
+    {
+      "n": 100,
+      "words": 31,
+      "text": "The first has already had a literal breakthrough. A pilot tunnel was successfully completed in July 2025, which will now be gradually enlarged until it reaches the full 7.5 m diameter.",
+      "miList": [
+        292,
+        293,
+        294,
+        295,
+        296,
+        297
+      ],
+      "unmatchedMi": [
+        294
+      ]
+    },
+    {
+      "n": 107,
+      "words": 12,
+      "text": "It's insane. Like, I can't believe it's true, but it is true.",
+      "miList": [
+        317,
+        318,
+        319
+      ],
+      "unmatchedMi": [
+        318
+      ]
+    },
+    {
+      "n": 110,
+      "words": 32,
+      "text": "cuz they're just kids. I was like, \"Oh my god, we really have given 41 people a second chance at life.\" We've seen tunnels built through similar terrain before without serious incidents.",
+      "miList": [
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327
+      ],
+      "unmatchedMi": [
+        323
+      ]
+    },
+    {
+      "n": 111,
+      "words": 40,
+      "text": "These attempts show us that building infrastructure in the Himalayas is more difficult than many could imagine. With those calamities now in the past, India must prove that it can tame this unforgiving landscape by taking the stakes even higher.",
+      "miList": [
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333
+      ],
+      "unmatchedMi": [
+        330
+      ]
+    }
+  ],
+  "longSentencesCount": 6,
+  "longSentences": [
+    {
+      "n": 22,
+      "words": 55,
+      "text": "Although it's a major piece of new infrastructure and obviously incredibly important to the region and Hindus across India, it's generally not the sort of thing that would make global news until the 12th of November 2023 when the eyes of the world fell on this remote location around 100 miles from the state capital.",
+      "miList": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "n": 38,
+      "words": 56,
+      "text": "and he asked me what I would do and the next minute I was talking to the principal adviser to the prime minister of India and I was explaining why I thought what I thought would be a good idea and then they just asked me if I could pop over and give him a hand.",
+      "miList": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "n": 53,
+      "words": 55,
+      "text": "or collapsing. But they managed to correct it by taking corrective measures. So, is it a coincidence that two tunnels under construction so close together either collapsed or came very close to it? Well, probably not because it turns out that carrying out this kind of work in these mountains in particular is exceptionally challenging.",
+      "miList": [
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142
+      ]
+    },
+    {
+      "n": 64,
+      "words": 41,
+      "text": "they are. Those rocks we see up on the surface. They're not behaving like that once you're deep in a mountain. They're they're actually behaving like a quite a different substance altogether. I attribute the mountains with a sense of life.",
+      "miList": [
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174
+      ]
+    },
+    {
+      "n": 68,
+      "words": 55,
+      "text": "All of this means you have to be very careful when digging here or run the risk of problems like the ones we've seen. Building tunnels in a territory that's prone to earthquakes, floods, and landslides would be a tough job for anyone. But some of the presumed causes of the collapse were unfortunately man-made.",
+      "miList": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187
+      ]
+    },
+    {
+      "n": 94,
+      "words": 50,
+      "text": "If you've never heard of that, it's a type of concrete that's sprayed onto the tunnel walls immediately after excavation. The tunnel is then finished off with a waterproof lining followed by another layer of concrete. Now, we should clarify here that this method isn't unique to the Zodilla tunnel.",
+      "miList": [
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275
+      ]
+    }
+  ]
+}
