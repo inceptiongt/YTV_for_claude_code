@@ -1,0 +1,2600 @@
+[
+  {
+    "startMs": 80,
+    "durationMs": 960,
+    "original": "The Chrysler building.",
+    "translation": "克莱斯勒大厦。"
+  },
+  {
+    "startMs": 1040,
+    "durationMs": 1040,
+    "original": ">> The Chrysler building.",
+    "translation": ">> 克莱斯勒大厦。"
+  },
+  {
+    "startMs": 2080,
+    "durationMs": 768,
+    "original": ">> The Chrysler.",
+    "translation": ">> 克莱斯勒。"
+  },
+  {
+    "startMs": 2848,
+    "durationMs": 591,
+    "original": "The >> Chrysler.",
+    "translation": ">> 克莱斯勒。"
+  },
+  {
+    "startMs": 3439,
+    "durationMs": 561,
+    "original": ">> The Chrysler.",
+    "translation": ">> 克莱斯勒。"
+  },
+  {
+    "startMs": 4000,
+    "durationMs": 2720,
+    "original": ">> The Chrysler building >> is in trouble.",
+    "translation": ">> 克莱斯勒大厦……陷入了麻烦。"
+  },
+  {
+    "startMs": 8960,
+    "durationMs": 3864,
+    "original": ">> This venerable skyscraper is falling apart.",
+    "translation": ">> 这座历史悠久的摩天楼正在走向破败。"
+  },
+  {
+    "startMs": 12824,
+    "durationMs": 6546,
+    "original": "Its value has plummeted from $800 million to $150 million.",
+    "translation": "它的估值从8亿美元暴跌至1.5亿美元，"
+  },
+  {
+    "startMs": 19370,
+    "durationMs": 2709,
+    "original": "And it's for sale again.",
+    "translation": "而且再次被挂牌出售。"
+  },
+  {
+    "startMs": 22800,
+    "durationMs": 4800,
+    "original": "In fact, this is the third time the building's been up for sale since 2019.",
+    "translation": "事实上，这已经是2019年以来第三次挂牌了。"
+  },
+  {
+    "startMs": 28960,
+    "durationMs": 2159,
+    "original": "Inside, things aren't much better.",
+    "translation": "楼内的情况也好不到哪儿去。"
+  },
+  {
+    "startMs": 31119,
+    "durationMs": 4730,
+    "original": "There's brown tap water, broken elevators, and crumbling offices.",
+    "translation": "水龙头流出棕色的水，电梯频繁故障，办公室破败不堪。"
+  },
+  {
+    "startMs": 35849,
+    "durationMs": 2127,
+    "original": "And it's all being made much worse",
+    "translation": "更雪上加霜的是，"
+  },
+  {
+    "startMs": 37976,
+    "durationMs": 2628,
+    "original": "by a complicated New York land leasing law",
+    "translation": "纽约一项复杂的土地租赁法律，"
+  },
+  {
+    "startMs": 40604,
+    "durationMs": 3128,
+    "original": "that's basically bankrupting the building's owner.",
+    "translation": "正在把这栋楼的业主逼向破产的边缘。"
+  },
+  {
+    "startMs": 43732,
+    "durationMs": 5800,
+    "original": "It's all pointing towards a question that I absolutely hate to ask.",
+    "translation": "这一切都把我逼向了一个我最不想问的问题——"
+  },
+  {
+    "startMs": 49532,
+    "durationMs": 4068,
+    "original": "Could this be the end of the Chrysler building?",
+    "translation": "克莱斯勒大厦，会就此谢幕吗？"
+  },
+  {
+    "startMs": 56559,
+    "durationMs": 1562,
+    "original": "Okay, so before we get into this video,",
+    "translation": "好，在进入今天的视频之前，"
+  },
+  {
+    "startMs": 58121,
+    "durationMs": 1682,
+    "original": "there's kind of one really important thing",
+    "translation": "有一件事非常重要，"
+  },
+  {
+    "startMs": 59803,
+    "durationMs": 881,
+    "original": "that you need to know.",
+    "translation": "你必须先了解。"
+  },
+  {
+    "startMs": 60684,
+    "durationMs": 6858,
+    "original": "Whoever owns the Chrysler building owns the building, but not the land underneath it.",
+    "translation": "克莱斯勒大厦的业主，拥有的只是这栋楼，而不包括它脚下的土地。"
+  },
+  {
+    "startMs": 67542,
+    "durationMs": 4138,
+    "original": "That is owned by someone else entirely.",
+    "translation": "那块土地，属于另一方。"
+  },
+  {
+    "startMs": 71680,
+    "durationMs": 2357,
+    "original": "It means the owner of the building",
+    "translation": "这意味着楼的业主"
+  },
+  {
+    "startMs": 74037,
+    "durationMs": 2011,
+    "original": "has to pay rent to the owners",
+    "translation": "还要向地主缴纳租金。"
+  },
+  {
+    "startMs": 76048,
+    "durationMs": 832,
+    "original": "of the land.",
+    "translation": "还要向地主缴纳租金。"
+  },
+  {
+    "startMs": 77040,
+    "durationMs": 6879,
+    "original": "Now, that complicates the ownership structure tremendously and it's already very complicated.",
+    "translation": "这大大复杂化了所有权结构，而这个结构本来就已经够复杂的了。"
+  },
+  {
+    "startMs": 86000,
+    "durationMs": 2925,
+    "original": "So, who exactly owns the Chrysler building?",
+    "translation": "那么，克莱斯勒大厦到底是谁的？"
+  },
+  {
+    "startMs": 88925,
+    "durationMs": 2190,
+    "original": "Well, it's probably not who you think.",
+    "translation": "答案可能会出乎你的意料。"
+  },
+  {
+    "startMs": 91116,
+    "durationMs": 6378,
+    "original": "Your first response would probably be, \"Well, the Chrysler family, right? Or the car manufacturer.\"",
+    "translation": "你的第一反应可能是：\"克莱斯勒家族？还是那家汽车公司？\""
+  },
+  {
+    "startMs": 97493,
+    "durationMs": 3767,
+    "original": "And yes, they did own it once.",
+    "translation": "没错，他们确实曾经拥有过它。"
+  },
+  {
+    "startMs": 101260,
+    "durationMs": 4569,
+    "original": "It was originally built and owned by the company's founder,",
+    "translation": "这栋楼最初由公司创始人"
+  },
+  {
+    "startMs": 105829,
+    "durationMs": 1859,
+    "original": "Walter Krysler, in 1930,",
+    "translation": "沃尔特·克莱斯勒于1930年出资兴建，"
+  },
+  {
+    "startMs": 107687,
+    "durationMs": 2943,
+    "original": "not by the Krysler Corporation itself.",
+    "translation": "并非由克莱斯勒汽车公司建造。"
+  },
+  {
+    "startMs": 110630,
+    "durationMs": 5498,
+    "original": "Walter Krysler intended the iconic skyscraper to remain a family asset",
+    "translation": "沃尔特·克莱斯勒本想让这座标志性摩天楼世代留在家族名下，"
+  },
+  {
+    "startMs": 116128,
+    "durationMs": 2828,
+    "original": "and it did all the way up until 1953",
+    "translation": "这个愿望延续到1953年——"
+  },
+  {
+    "startMs": 118956,
+    "durationMs": 4084,
+    "original": "when it was purchased by developer William Zeondorf,",
+    "translation": "直到开发商威廉·泽肯多夫将其买下，"
+  },
+  {
+    "startMs": 123040,
+    "durationMs": 2255,
+    "original": "the man behind the UN headquarters",
+    "translation": "他就是联合国总部的幕后推手，"
+  },
+  {
+    "startMs": 125295,
+    "durationMs": 2454,
+    "original": "and the guy responsible for reshaping",
+    "translation": "也是在五六十年代重塑了"
+  },
+  {
+    "startMs": 127748,
+    "durationMs": 2719,
+    "original": "much of Manhattan during the 50s and 60s.",
+    "translation": "大半个曼哈顿的人。"
+  },
+  {
+    "startMs": 130467,
+    "durationMs": 3487,
+    "original": "He wanted the building as a trophy.",
+    "translation": "他要这栋楼，不过是为了满足个人的虚荣心。"
+  },
+  {
+    "startMs": 133954,
+    "durationMs": 3583,
+    "original": "After him, ownership passed through several investors",
+    "translation": "此后，在七十年代纽约房地产动荡的年代，所有权辗转易手，"
+  },
+  {
+    "startMs": 137537,
+    "durationMs": 3583,
+    "original": "during the 70s, New York's turbulent real estate era.",
+    "translation": "经过了数位投资者。"
+  },
+  {
+    "startMs": 141120,
+    "durationMs": 5515,
+    "original": "Eventually, in 2008, it ended up owned by an Abu Dhabi investment fund.",
+    "translation": "2008年，这栋楼最终落入一家阿布扎比投资基金之手；"
+  },
+  {
+    "startMs": 146635,
+    "durationMs": 2563,
+    "original": "RFR then defaulted on their loans",
+    "translation": "此后RFR接手，却在2024年贷款违约，"
+  },
+  {
+    "startMs": 149199,
+    "durationMs": 2641,
+    "original": "and went into receiverhip in 2024.",
+    "translation": "进入破产接管程序。"
+  },
+  {
+    "startMs": 152640,
+    "durationMs": 4012,
+    "original": "As of 2025, it's effectively controlled by RFR's lenders,",
+    "translation": "截至2025年，这栋楼实际上已由RFR的债权人控制，"
+  },
+  {
+    "startMs": 156652,
+    "durationMs": 3027,
+    "original": "and the building is once again up for sale.",
+    "translation": "再度挂牌待售。"
+  },
+  {
+    "startMs": 160879,
+    "durationMs": 3838,
+    "original": "Part of the reason for RFR defaulting on their loans",
+    "translation": "RFR贷款违约的部分原因，"
+  },
+  {
+    "startMs": 164717,
+    "durationMs": 2435,
+    "original": "was because the rent for the land",
+    "translation": "是地租变得极为高昂。"
+  },
+  {
+    "startMs": 167152,
+    "durationMs": 2288,
+    "original": "became so incredibly expensive.",
+    "translation": "是地租变得极为高昂。"
+  },
+  {
+    "startMs": 171120,
+    "durationMs": 2661,
+    "original": "In 1902, before the Chrysler building",
+    "translation": "1902年，克莱斯勒大厦尚未建成，"
+  },
+  {
+    "startMs": 173781,
+    "durationMs": 3811,
+    "original": "and before well much of New York as we know it today,",
+    "translation": "今天我们熟悉的纽约也还未成形，"
+  },
+  {
+    "startMs": 177592,
+    "durationMs": 3380,
+    "original": "this parcel of land was bought by Kooper Union.",
+    "translation": "这块地被库珀联盟买了下来。"
+  },
+  {
+    "startMs": 180972,
+    "durationMs": 6997,
+    "original": "Kooper Union was a private college founded in 1859 by the industrialist and philanthropist Peter Cooper.",
+    "translation": "库珀联盟是一所私立学院，由实业家兼慈善家彼得·库珀于1859年创办，"
+  },
+  {
+    "startMs": 187969,
+    "durationMs": 1682,
+    "original": "It was known, ironically,",
+    "translation": "颇具讽刺意味的是，"
+  },
+  {
+    "startMs": 189651,
+    "durationMs": 3229,
+    "original": "for its schools in architecture and engineering.",
+    "translation": "它以建筑和工程专业著称。"
+  },
+  {
+    "startMs": 193840,
+    "durationMs": 3711,
+    "original": "The land was bought as a way to help fund the college.",
+    "translation": "购入这块土地，是为了给学院筹集资金。"
+  },
+  {
+    "startMs": 197551,
+    "durationMs": 1751,
+    "original": "Because of this asset and the rent,",
+    "translation": "多年来，凭借这项资产和地租收入，"
+  },
+  {
+    "startMs": 199302,
+    "durationMs": 1851,
+    "original": "they've been able to collect millions",
+    "translation": "他们积累了数以亿计的资金。"
+  },
+  {
+    "startMs": 201154,
+    "durationMs": 1951,
+    "original": "and millions of dollars over the years.",
+    "translation": "他们积累了数以亿计的资金。"
+  },
+  {
+    "startMs": 203105,
+    "durationMs": 2203,
+    "original": "They are able or have been able",
+    "translation": "正是靠着这笔钱，"
+  },
+  {
+    "startMs": 205308,
+    "durationMs": 1635,
+    "original": "to keep the school free",
+    "translation": "这所学校长期以来得以免费招收学生。"
+  },
+  {
+    "startMs": 206943,
+    "durationMs": 1137,
+    "original": "for a long time.",
+    "translation": "这所学校长期以来得以免费招收学生。"
+  },
+  {
+    "startMs": 208080,
+    "durationMs": 2055,
+    "original": ">> This land leasing agreement continued",
+    "translation": ">> 当楼的所有权转手，"
+  },
+  {
+    "startMs": 210135,
+    "durationMs": 2825,
+    "original": "when the choir of the building was sold to a new owner.",
+    "translation": "这份土地租赁协议也随之延续了下来。"
+  },
+  {
+    "startMs": 212960,
+    "durationMs": 5439,
+    "original": "In fact, not only did it continue, but it increased a lot.",
+    "translation": "不仅延续，租金还大幅上涨。"
+  },
+  {
+    "startMs": 219200,
+    "durationMs": 7529,
+    "original": "Today, whoever owns the building has to pay $32.5 million US to Kooper Union annually,",
+    "translation": "如今，谁拥有这栋楼，就要每年向库珀联盟缴纳3250万美元的租金——"
+  },
+  {
+    "startMs": 226729,
+    "durationMs": 2802,
+    "original": "and that number is set to go up.",
+    "translation": "这个数字还在上涨："
+  },
+  {
+    "startMs": 229531,
+    "durationMs": 3327,
+    "original": "By 2028, it's going to be $41 million,",
+    "translation": "2028年增至4100万，"
+  },
+  {
+    "startMs": 232858,
+    "durationMs": 2889,
+    "original": "and by 2038, it'll be 55 million.",
+    "translation": "2038年将达5500万。"
+  },
+  {
+    "startMs": 235747,
+    "durationMs": 5881,
+    "original": "Originally, the owner of the Chrysler building mostly made a profit by leasing out the offices.",
+    "translation": "最初，克莱斯勒大厦的业主主要靠出租办公室盈利。"
+  },
+  {
+    "startMs": 241628,
+    "durationMs": 2105,
+    "original": "But perhaps somewhat surprisingly,",
+    "translation": "但或许令人意外的是，"
+  },
+  {
+    "startMs": 243733,
+    "durationMs": 3467,
+    "original": "no one wants an office in the Chrysler building anymore.",
+    "translation": "如今已经没有人想在这里租办公室了。"
+  },
+  {
+    "startMs": 247200,
+    "durationMs": 2941,
+    "original": "at least not in its current state.",
+    "translation": "至少在现有状态下是这样。"
+  },
+  {
+    "startMs": 250141,
+    "durationMs": 1227,
+    "original": "So with occupancy low,",
+    "translation": "入住率低迷，"
+  },
+  {
+    "startMs": 251368,
+    "durationMs": 1673,
+    "original": "the owners can't charge enough",
+    "translation": "业主无法收取足够的租金"
+  },
+  {
+    "startMs": 253041,
+    "durationMs": 2398,
+    "original": "to cover the rent they owe to Cooper Union.",
+    "translation": "来覆盖支付给库珀联盟的地租。"
+  },
+  {
+    "startMs": 255439,
+    "durationMs": 2348,
+    "original": ">> It's been on and off the market over decades.",
+    "translation": ">> 几十年来，这栋楼时不时地被挂牌出售。"
+  },
+  {
+    "startMs": 257787,
+    "durationMs": 2006,
+    "original": "I think it's a building that encapsulates",
+    "translation": "我认为它是纽约房地产奢靡与腐朽的缩影。"
+  },
+  {
+    "startMs": 259793,
+    "durationMs": 3327,
+    "original": "everything that is decadent and depraved about New York real estate.",
+    "translation": "我认为它是纽约房地产奢靡与腐朽的缩影。"
+  },
+  {
+    "startMs": 263120,
+    "durationMs": 5519,
+    "original": "It pulls in and has pulled in global capital from every corner of the world.",
+    "translation": "它吸引并持续吸引着来自世界各地的全球资本。"
+  },
+  {
+    "startMs": 268639,
+    "durationMs": 2449,
+    "original": "It has been the source of severe distress",
+    "translation": "它让一些市场上最大的玩家——"
+  },
+  {
+    "startMs": 271088,
+    "durationMs": 4599,
+    "original": "for some of the biggest players in the market both domestically and globally.",
+    "translation": "无论是国内还是国际——深陷困境。"
+  },
+  {
+    "startMs": 275687,
+    "durationMs": 1433,
+    "original": "It's just a tough asset.",
+    "translation": "它就是一块烫手山芋。"
+  },
+  {
+    "startMs": 277360,
+    "durationMs": 3098,
+    "original": ">> All of this is pretty damning as it stands,",
+    "translation": ">> 光是上面这些问题就够棘手了，"
+  },
+  {
+    "startMs": 280458,
+    "durationMs": 2694,
+    "original": "but there's a more pressing issue still.",
+    "translation": "但还有一个更迫切的挑战——"
+  },
+  {
+    "startMs": 283151,
+    "durationMs": 4512,
+    "original": "The iconic Chrysler building, a standout example of art deco style,",
+    "translation": "这座装饰艺术风格的标志性杰作，"
+  },
+  {
+    "startMs": 287663,
+    "durationMs": 1616,
+    "original": "needs some serious work.",
+    "translation": "亟需大规模修缮。"
+  },
+  {
+    "startMs": 290080,
+    "durationMs": 5200,
+    "original": "When you consider that it's almost a century old, that perhaps comes as no surprise.",
+    "translation": "想想它已经将近百年，这或许并不让人意外。"
+  },
+  {
+    "startMs": 295280,
+    "durationMs": 3314,
+    "original": "Internally, there are reports of brown tap water,",
+    "translation": "据内部报道，水龙头流出棕色的水，"
+  },
+  {
+    "startMs": 298594,
+    "durationMs": 1353,
+    "original": "lifts breaking down,",
+    "translation": "电梯频频停运，"
+  },
+  {
+    "startMs": 299946,
+    "durationMs": 2773,
+    "original": "and electrical work that's not up to par.",
+    "translation": "电气系统也不达标。"
+  },
+  {
+    "startMs": 302800,
+    "durationMs": 2825,
+    "original": "New York's Eiffel Tower is falling apart,",
+    "translation": "纽约的\"埃菲尔铁塔\"正在分崩离析，"
+  },
+  {
+    "startMs": 305625,
+    "durationMs": 1171,
+    "original": "and it feels like",
+    "translation": "却好像没有人愿意站出来负责。"
+  },
+  {
+    "startMs": 306797,
+    "durationMs": 2963,
+    "original": "no one wants to take responsibility for it.",
+    "translation": "却好像没有人愿意站出来负责。"
+  },
+  {
+    "startMs": 311199,
+    "durationMs": 874,
+    "original": "Whatever happens,",
+    "translation": "无论接下来会发生什么，"
+  },
+  {
+    "startMs": 312073,
+    "durationMs": 2313,
+    "original": "whoever ends up buying the Chrysler building,",
+    "translation": "无论谁最终买下克莱斯勒大厦，"
+  },
+  {
+    "startMs": 314386,
+    "durationMs": 3085,
+    "original": "some serious renovation work is going to have to take place.",
+    "translation": "一场大规模的翻新工程都在所难免。"
+  },
+  {
+    "startMs": 317471,
+    "durationMs": 4097,
+    "original": "There's a saying in construction, measure twice and cut once.",
+    "translation": "建筑行业有句老话：量两次，再下锯。"
+  },
+  {
+    "startMs": 321568,
+    "durationMs": 3540,
+    "original": "And with a project like this, that could not be more important.",
+    "translation": "对于这样一个项目，这句话再重要不过了。"
+  },
+  {
+    "startMs": 325108,
+    "durationMs": 2596,
+    "original": "Before any construction work can commence,",
+    "translation": "在任何施工开始之前，"
+  },
+  {
+    "startMs": 327704,
+    "durationMs": 2101,
+    "original": "it's vital that construction teams",
+    "translation": "团队必须彻底搞清楚"
+  },
+  {
+    "startMs": 329805,
+    "durationMs": 4079,
+    "original": "understand exactly what's going on inside this legendary building.",
+    "translation": "这栋传奇建筑内部的真实情况。"
+  },
+  {
+    "startMs": 333884,
+    "durationMs": 1421,
+    "original": "But that's the problem.",
+    "translation": "但问题恰恰在于此。"
+  },
+  {
+    "startMs": 335305,
+    "durationMs": 1748,
+    "original": "We're talking about blueprints",
+    "translation": "我们面对的是将近一个世纪前绘制的蓝图，"
+  },
+  {
+    "startMs": 337053,
+    "durationMs": 2273,
+    "original": "that were drawn up nearly a century ago",
+    "translation": "加上数十年来大大小小的维修改造积累。"
+  },
+  {
+    "startMs": 339326,
+    "durationMs": 2972,
+    "original": "with decades of maintenance and alterations on top.",
+    "translation": "加上数十年来大大小小的维修改造积累。"
+  },
+  {
+    "startMs": 342297,
+    "durationMs": 2744,
+    "original": "But that's where Reality Capture moves the needle.",
+    "translation": "而这正是实景捕捉技术大显身手的地方。"
+  },
+  {
+    "startMs": 345042,
+    "durationMs": 4428,
+    "original": "And it's exactly how the game-changing FJD Trion ecosystem comes in.",
+    "translation": "也正是颠覆性的 FJD Trion 系统发挥作用之处。"
+  },
+  {
+    "startMs": 349470,
+    "durationMs": 2931,
+    "original": "Instead of relying on outdated documentation,",
+    "translation": "无需依赖过时的文档，"
+  },
+  {
+    "startMs": 352401,
+    "durationMs": 4689,
+    "original": "teams can walk the site with a scanner and capture realworld conditions,",
+    "translation": "施工团队可以手持扫描仪在现场行走，捕捉建筑的真实现状——"
+  },
+  {
+    "startMs": 357090,
+    "durationMs": 4884,
+    "original": "which means everyone's working from the same up-to-date version of reality.",
+    "translation": "所有人都基于同一份最新数据工作。"
+  },
+  {
+    "startMs": 361973,
+    "durationMs": 4080,
+    "original": "For a project like this, large, complex, and demanding,",
+    "translation": "对于这样一个体量大、结构复杂、要求高的项目，"
+  },
+  {
+    "startMs": 366053,
+    "durationMs": 3413,
+    "original": "the S2 liar scanner could really save the day.",
+    "translation": "S2 激光扫描仪可能真的能救场。"
+  },
+  {
+    "startMs": 369466,
+    "durationMs": 2177,
+    "original": "It can capture the facade of a building",
+    "translation": "它能在周围环境的大背景下捕捉建筑外立面，"
+  },
+  {
+    "startMs": 371643,
+    "durationMs": 1954,
+    "original": "in the context of its surroundings,",
+    "translation": "适用于大尺度和多层级的复杂环境。"
+  },
+  {
+    "startMs": 373597,
+    "durationMs": 2847,
+    "original": "including large scale and multi-level environments.",
+    "translation": "适用于大尺度和多层级的复杂环境。"
+  },
+  {
+    "startMs": 376444,
+    "durationMs": 3017,
+    "original": "All of this data is recorded in rich detail",
+    "translation": "所有这些数据都以丰富的细节被记录下来，"
+  },
+  {
+    "startMs": 379461,
+    "durationMs": 3088,
+    "original": "with integrated GNSS for geo reference data.",
+    "translation": "并集成 GNSS 用于地理参考定位。"
+  },
+  {
+    "startMs": 382549,
+    "durationMs": 5272,
+    "original": "And if you're working on something a little less challenging than the Chrysler building,",
+    "translation": "如果你手头的项目没有克莱斯勒大厦那么棘手，FJD Trion 同样有解决方案——"
+  },
+  {
+    "startMs": 387821,
+    "durationMs": 6709,
+    "original": "FJD Trion has got that covered too. The P2 LAR scanner offers a really strong balance of detail and flexibility.",
+    "translation": "P2 激光扫描仪在精度和灵活性之间取得了极佳的平衡。"
+  },
+  {
+    "startMs": 394530,
+    "durationMs": 3412,
+    "original": "Or for smaller projects, the V4E lidar scanner gives teams",
+    "translation": "对于规模较小的项目，V4E 激光雷达扫描仪则提供了一种更简便、更经济的实景捕捉方式，"
+  },
+  {
+    "startMs": 397942,
+    "durationMs": 3823,
+    "original": "a more straightforward and budget friendly way to capture reality",
+    "translation": "不会让流程变得过于复杂。"
+  },
+  {
+    "startMs": 401765,
+    "durationMs": 2235,
+    "original": "without over complicating the process.",
+    "translation": "不会让流程变得过于复杂。"
+  },
+  {
+    "startMs": 404000,
+    "durationMs": 1577,
+    "original": "With the FJD trial model,",
+    "translation": "借助 FJD Trion 系统，"
+  },
+  {
+    "startMs": 405577,
+    "durationMs": 2397,
+    "original": "that scan data can be easily processed",
+    "translation": "扫描数据可以轻松处理成"
+  },
+  {
+    "startMs": 407974,
+    "durationMs": 3406,
+    "original": "into outputs that fit directly into project workflows.",
+    "translation": "与项目工作流无缝对接的成果。"
+  },
+  {
+    "startMs": 411380,
+    "durationMs": 2515,
+    "original": "There's even one-click Revit integration,",
+    "translation": "甚至还支持一键导入 Revit，"
+  },
+  {
+    "startMs": 413895,
+    "durationMs": 2270,
+    "original": "which makes scan to BIM much smoother",
+    "translation": "让扫描转 BIM 的过程更加顺畅，"
+  },
+  {
+    "startMs": 416164,
+    "durationMs": 2454,
+    "original": "and removes a lot of the usual friction.",
+    "translation": "大幅减少以往的繁琐步骤。"
+  },
+  {
+    "startMs": 418618,
+    "durationMs": 1389,
+    "original": "You can try it for yourself",
+    "translation": "你可以扫描屏幕上的二维码，"
+  },
+  {
+    "startMs": 420007,
+    "durationMs": 1698,
+    "original": "by scanning the QR code on screen",
+    "translation": "或点击简介中的链接，亲自体验一下。"
+  },
+  {
+    "startMs": 421705,
+    "durationMs": 2161,
+    "original": "or heading to the link in the description.",
+    "translation": "或点击简介中的链接，亲自体验一下。"
+  },
+  {
+    "startMs": 423866,
+    "durationMs": 4374,
+    "original": "Technology like this is vital for retaining historic buildings.",
+    "translation": "对于保护历史建筑而言，这样的技术至关重要。"
+  },
+  {
+    "startMs": 428240,
+    "durationMs": 5039,
+    "original": "Before we can fix a building, we have to understand exactly how it works.",
+    "translation": "在修缮一栋建筑之前，我们必须透彻了解它的运作方式。"
+  },
+  {
+    "startMs": 433440,
+    "durationMs": 3434,
+    "original": "And to do that at the Chrysler building,",
+    "translation": "而要做到这一点，"
+  },
+  {
+    "startMs": 436874,
+    "durationMs": 2318,
+    "original": "we've got to go all the way",
+    "translation": "就得把克莱斯勒大厦的故事从头说起。"
+  },
+  {
+    "startMs": 439191,
+    "durationMs": 1889,
+    "original": "back to the beginning.",
+    "translation": "就得把克莱斯勒大厦的故事从头说起。"
+  },
+  {
+    "startMs": 442080,
+    "durationMs": 2639,
+    "original": "This story is a bit of a tragedy.",
+    "translation": "这是一个带着几分悲剧色彩的故事。"
+  },
+  {
+    "startMs": 444719,
+    "durationMs": 5489,
+    "original": "The origins of the Kryer building don't exactly match its less than stellar present.",
+    "translation": "克莱斯勒大厦的诞生，与它如今黯淡的处境形成了鲜明反差——"
+  },
+  {
+    "startMs": 450208,
+    "durationMs": 1830,
+    "original": "This structure was the crown",
+    "translation": "它是狂飙二十年代的王冠。"
+  },
+  {
+    "startMs": 452037,
+    "durationMs": 1242,
+    "original": "of the roaring 20s.",
+    "translation": "它是狂飙二十年代的王冠。"
+  },
+  {
+    "startMs": 455440,
+    "durationMs": 3981,
+    "original": "Manhattanites watched it soar up their skyline with anticipation,",
+    "translation": "曼哈顿市民满心期待地仰望着它一点点刺破天际，"
+  },
+  {
+    "startMs": 459421,
+    "durationMs": 1531,
+    "original": "but its design and height",
+    "translation": "而它的设计与高度，"
+  },
+  {
+    "startMs": 460952,
+    "durationMs": 2572,
+    "original": "were the result of an intense competition.",
+    "translation": "正是一场激烈角逐的产物。"
+  },
+  {
+    "startMs": 464405,
+    "durationMs": 5754,
+    "original": "The rivalry of two business partners, architects Craig Severance and William Van Allen.",
+    "translation": "那是两位昔日合伙人、建筑师克雷格·塞弗伦斯与威廉·范艾伦之间的对决。"
+  },
+  {
+    "startMs": 470399,
+    "durationMs": 4041,
+    "original": "Severance landed the commission for the Manhattan Company building",
+    "translation": "塞弗伦斯揽下了曼哈顿公司大楼"
+  },
+  {
+    "startMs": 474440,
+    "durationMs": 1837,
+    "original": "known today as 40 Wall Street,",
+    "translation": "（即今天的华尔街40号）的委托，"
+  },
+  {
+    "startMs": 476277,
+    "durationMs": 3551,
+    "original": "while Van Allen was hired to design the Chrysler building.",
+    "translation": "范艾伦则受雇设计克莱斯勒大厦。"
+  },
+  {
+    "startMs": 479829,
+    "durationMs": 5691,
+    "original": "What followed wasn't just business. It was a battle to dominate New York City's skyline.",
+    "translation": "接下来发生的，已经不只是商业竞争，而是一场争夺纽约天际线制高点的战役。"
+  },
+  {
+    "startMs": 486879,
+    "durationMs": 4721,
+    "original": "Both architects were locked in a race to deliver the tallest building on Earth.",
+    "translation": "两位建筑师都卯足了劲，争着建出地球上最高的楼。"
+  },
+  {
+    "startMs": 492479,
+    "durationMs": 3443,
+    "original": "And as the steel climbed in lower Manhattan and Midtown,",
+    "translation": "随着钢铁骨架在下曼哈顿和中城区同步攀升，"
+  },
+  {
+    "startMs": 495922,
+    "durationMs": 922,
+    "original": "it became clear",
+    "translation": "谁都看得出来，两人都不肯认输。"
+  },
+  {
+    "startMs": 496845,
+    "durationMs": 2275,
+    "original": "that neither man was willing to lose.",
+    "translation": "谁都看得出来，两人都不肯认输。"
+  },
+  {
+    "startMs": 502240,
+    "durationMs": 5440,
+    "original": "As both towers rose, the rivalry turned ruthless. Plans were leaked.",
+    "translation": "两栋大楼同时拔高，竞争愈演愈烈——设计方案遭到泄露，"
+  },
+  {
+    "startMs": 507680,
+    "durationMs": 1502,
+    "original": "Drawings were scrutinized.",
+    "translation": "图纸被人暗中钻研。"
+  },
+  {
+    "startMs": 509182,
+    "durationMs": 2793,
+    "original": "Each side watched the other, desperate for an edge.",
+    "translation": "双方都在盯着对方，拼命想找到突破口。"
+  },
+  {
+    "startMs": 511974,
+    "durationMs": 1444,
+    "original": "At 40 Wall Street,",
+    "translation": "华尔街40号孤注一掷，"
+  },
+  {
+    "startMs": 513418,
+    "durationMs": 4011,
+    "original": "extra floors were piled on in a bold and risky bid",
+    "translation": "大胆加盖了额外的楼层，"
+  },
+  {
+    "startMs": 517429,
+    "durationMs": 3850,
+    "original": "to try and outdo the building's Manhattan rival.",
+    "translation": "就为了压过曼哈顿的对手。"
+  },
+  {
+    "startMs": 521279,
+    "durationMs": 3521,
+    "original": "The structure was pushed close to the limits of its foundations.",
+    "translation": "这栋楼的结构已被推到地基承载的极限。"
+  },
+  {
+    "startMs": 524800,
+    "durationMs": 2161,
+    "original": "And for a brief moment, it worked.",
+    "translation": "而这个赌注，短暂地奏效了。"
+  },
+  {
+    "startMs": 526961,
+    "durationMs": 2048,
+    "original": "When it was completed in 1930,",
+    "translation": "1930年竣工时，"
+  },
+  {
+    "startMs": 529009,
+    "durationMs": 2663,
+    "original": "40 Wall Street was the tallest building",
+    "translation": "华尔街40号是全球最高的建筑。"
+  },
+  {
+    "startMs": 531672,
+    "durationMs": 888,
+    "original": "in the world.",
+    "translation": "华尔街40号是全球最高的建筑。"
+  },
+  {
+    "startMs": 533600,
+    "durationMs": 1286,
+    "original": "for about a month",
+    "translation": "但也就高了大约一个月——"
+  },
+  {
+    "startMs": 534886,
+    "durationMs": 3026,
+    "original": "because uptown at the Chrysler building,",
+    "translation": "因为中城区的克莱斯勒大厦，"
+  },
+  {
+    "startMs": 537911,
+    "durationMs": 2194,
+    "original": "Van Allen had one final move.",
+    "translation": "范艾伦还藏着最后一招。"
+  },
+  {
+    "startMs": 540105,
+    "durationMs": 6511,
+    "original": "Hidden inside the crown was a secret spire assembled in sections out of sight.",
+    "translation": "皇冠内部隐藏着一根秘密塔尖，分段秘密组装，不露声色。"
+  },
+  {
+    "startMs": 546616,
+    "durationMs": 2540,
+    "original": "Once 40 Wall Street had topped out,",
+    "translation": "就在华尔街40号封顶之际，"
+  },
+  {
+    "startMs": 549156,
+    "durationMs": 3338,
+    "original": "the spire of the Chrysler building was hoisted",
+    "translation": "克莱斯勒大厦的塔尖从顶部穿出，"
+  },
+  {
+    "startMs": 552494,
+    "durationMs": 3048,
+    "original": "up through the roof and locked into place,",
+    "translation": "锁定就位，一举增高36米。"
+  },
+  {
+    "startMs": 555541,
+    "durationMs": 2250,
+    "original": "adding 36 m in a single stroke.",
+    "translation": "锁定就位，一举增高36米。"
+  },
+  {
+    "startMs": 557790,
+    "durationMs": 3730,
+    "original": "Overnight, the Krysler building claimed its crown.",
+    "translation": "一夜之间，克莱斯勒大厦戴上了属于自己的王冠。"
+  },
+  {
+    "startMs": 563519,
+    "durationMs": 3939,
+    "original": "But it wasn't just its height that captured the world's imagination.",
+    "translation": "但让世界为之倾倒的，不只是它的高度。"
+  },
+  {
+    "startMs": 567458,
+    "durationMs": 4702,
+    "original": "Walter Krysler had asked Van Allen for several carcentric amendments.",
+    "translation": "沃尔特·克莱斯勒要求范艾伦加入多处汽车元素——"
+  },
+  {
+    "startMs": 572160,
+    "durationMs": 2317,
+    "original": "There were gargoyles on the facade",
+    "translation": "外立面的石像鬼造型"
+  },
+  {
+    "startMs": 574477,
+    "durationMs": 3203,
+    "original": "inspired by the hood ornaments on the Plymouth.",
+    "translation": "取自普利茅斯的引擎盖装饰，"
+  },
+  {
+    "startMs": 578080,
+    "durationMs": 5192,
+    "original": "Similarly, ornaments on the 31st floor were modeled off Chrysler radiator caps.",
+    "translation": "31层的装饰则仿照了克莱斯勒汽车的散热器盖帽。"
+  },
+  {
+    "startMs": 583272,
+    "durationMs": 7688,
+    "original": "Then there's the crown, unlike any other crown on any other skyscraper before or since.",
+    "translation": "还有那顶皇冠——放眼古今，没有任何一座摩天楼的顶部能与之媲美。"
+  },
+  {
+    "startMs": 592160,
+    "durationMs": 4225,
+    "original": "The iconic Starburst wrapped in Nora stainless steel.",
+    "translation": "那标志性的星芒造型，以诺拉不锈钢包裹；"
+  },
+  {
+    "startMs": 596385,
+    "durationMs": 2471,
+    "original": "The triangular radiating arches",
+    "translation": "放射状的三角拱门，"
+  },
+  {
+    "startMs": 598856,
+    "durationMs": 4543,
+    "original": "resemble stylized hub caps from Chrysler cars of the era.",
+    "translation": "宛如克莱斯勒同时代汽车的轮毂盖造型。"
+  },
+  {
+    "startMs": 603399,
+    "durationMs": 4334,
+    "original": "The building was the tallest in the world for 339 days.",
+    "translation": "这栋楼以世界第一高楼的地位矗立了339天。"
+  },
+  {
+    "startMs": 608613,
+    "durationMs": 4967,
+    "original": "It was then eclipsed just like 40 Wall Street before it.",
+    "translation": "随后，它被赶超了——就像之前的华尔街40号一样。"
+  },
+  {
+    "startMs": 613580,
+    "durationMs": 3460,
+    "original": "This time by the Empire State Building.",
+    "translation": "这一次，是帝国大厦。"
+  },
+  {
+    "startMs": 619680,
+    "durationMs": 5032,
+    "original": "Today, it's fair to say the Chrysler building has lost some of its shine.",
+    "translation": "今天，客观地说，克莱斯勒大厦已经失去了一些往日的光彩。"
+  },
+  {
+    "startMs": 624712,
+    "durationMs": 3176,
+    "original": "The surrounding Midtown skyline has evolved",
+    "translation": "周边中城区的天际线已今非昔比，"
+  },
+  {
+    "startMs": 627888,
+    "durationMs": 4432,
+    "original": "with glossier, larger office buildings drawing tenants away.",
+    "translation": "更现代、更大体量的写字楼不断涌现，抢走了大批租户。"
+  },
+  {
+    "startMs": 632320,
+    "durationMs": 4031,
+    "original": "Once a symbol of architectural glamour, the building now suffers",
+    "translation": "曾经是建筑美学代名词的它，如今却面临大量办公和零售空间空置的困境，"
+  },
+  {
+    "startMs": 636351,
+    "durationMs": 2205,
+    "original": "from empty office and retail spaces",
+    "translation": "底层和大堂相当一部分区域长期闲置、"
+  },
+  {
+    "startMs": 638556,
+    "durationMs": 3779,
+    "original": "with large portions of the ground floor and lobby unoccupied",
+    "translation": "利用率极低。"
+  },
+  {
+    "startMs": 642335,
+    "durationMs": 882,
+    "original": "and underused.",
+    "translation": "利用率极低。"
+  },
+  {
+    "startMs": 643217,
+    "durationMs": 63,
+    "original": "",
+    "translation": "利用率极低。"
+  },
+  {
+    "startMs": 644640,
+    "durationMs": 3164,
+    "original": "Tenants and visitors report outdated interiors,",
+    "translation": "租户和访客反映，内部装修陈旧、"
+  },
+  {
+    "startMs": 647804,
+    "durationMs": 3433,
+    "original": "maintenance issues, and a lack of modern amenities,",
+    "translation": "维护问题频出、现代化设施匮乏，"
+  },
+  {
+    "startMs": 651237,
+    "durationMs": 3568,
+    "original": "making it less competitive with newer Midtown towers.",
+    "translation": "使其与中城区的新式写字楼相比愈发缺乏竞争力。"
+  },
+  {
+    "startMs": 654805,
+    "durationMs": 2865,
+    "original": "This is a great building, but it also needs a lot of love.",
+    "translation": "这是一栋很了不起的楼，但它太需要人用心维护了。"
+  },
+  {
+    "startMs": 657670,
+    "durationMs": 3723,
+    "original": "Like, it needs a lot of work to be brought into the 21st century",
+    "translation": "要在21世纪与周围那些新建楼盘争抢顶级租户，这栋楼需要大量的改造工程。"
+  },
+  {
+    "startMs": 661393,
+    "durationMs": 2153,
+    "original": "so that it can compete for A+ tenants",
+    "translation": "要在21世纪与周围那些新建楼盘争抢顶级租户，这栋楼需要大量的改造工程。"
+  },
+  {
+    "startMs": 663546,
+    "durationMs": 4014,
+    "original": "with the likes of all these new buildings popping up around New York.",
+    "translation": "要在21世纪与周围那些新建楼盘争抢顶级租户，这栋楼需要大量的改造工程。"
+  },
+  {
+    "startMs": 667560,
+    "durationMs": 2684,
+    "original": "You know, it's a gorgeous building to look at,",
+    "translation": "你知道，从外观上看它依然令人惊艳，"
+  },
+  {
+    "startMs": 670244,
+    "durationMs": 1867,
+    "original": "but would you want to work here?",
+    "translation": "但你会愿意在这里办公吗？"
+  },
+  {
+    "startMs": 672111,
+    "durationMs": 1809,
+    "original": "H maybe right now, not so much.",
+    "translation": "嗯……说实话，目前可能不太会。"
+  },
+  {
+    "startMs": 674000,
+    "durationMs": 4042,
+    "original": "Despite its heritage listing and its status as a national historic landmark,",
+    "translation": "尽管克莱斯勒大厦已被列为遗产建筑和全国历史地标，"
+  },
+  {
+    "startMs": 678042,
+    "durationMs": 3085,
+    "original": "the Chrysler building doesn't actually receive any funding",
+    "translation": "但它实际上得不到任何政府的历史保护或维护资金。"
+  },
+  {
+    "startMs": 681127,
+    "durationMs": 3245,
+    "original": "from the government for historic preservation or maintenance.",
+    "translation": "但它实际上得不到任何政府的历史保护或维护资金。"
+  },
+  {
+    "startMs": 684372,
+    "durationMs": 4561,
+    "original": "Instead, that bill sits entirely with the building's owner.",
+    "translation": "所有的费用，全部由业主自己承担。"
+  },
+  {
+    "startMs": 688933,
+    "durationMs": 4406,
+    "original": "And given that this building needs quite a lot of upkeep,",
+    "translation": "而鉴于这栋楼需要大量维护，"
+  },
+  {
+    "startMs": 693339,
+    "durationMs": 1701,
+    "original": "that bill isn't small.",
+    "translation": "这笔账不是小数目。"
+  },
+  {
+    "startMs": 695680,
+    "durationMs": 4639,
+    "original": "There's the deteriorated lobby ceiling, which is often times covered in tape.",
+    "translation": "大厅天花板已经腐化，常常打着胶带凑合。"
+  },
+  {
+    "startMs": 700320,
+    "durationMs": 2219,
+    "original": "The revolving doors regularly jam.",
+    "translation": "旋转门动不动就卡死。"
+  },
+  {
+    "startMs": 702539,
+    "durationMs": 2438,
+    "original": "The lifts are prone to malfunctioning",
+    "translation": "电梯故障频发，"
+  },
+  {
+    "startMs": 704977,
+    "durationMs": 3823,
+    "original": "and there are even reports of mice and other infestations.",
+    "translation": "甚至还有鼠患和其他虫害的报告。"
+  },
+  {
+    "startMs": 708800,
+    "durationMs": 4147,
+    "original": "While mice are a common problem for any building in a big city,",
+    "translation": "鼠患对大城市里的建筑来说是常见问题，"
+  },
+  {
+    "startMs": 712947,
+    "durationMs": 2040,
+    "original": "ongoing pest control challenges",
+    "translation": "但持续的虫害问题，"
+  },
+  {
+    "startMs": 714987,
+    "durationMs": 3686,
+    "original": "kind of point to gaps in modern ceiling and maintenance.",
+    "translation": "折射出现代密封和维护层面的明显漏洞。"
+  },
+  {
+    "startMs": 718673,
+    "durationMs": 3522,
+    "original": "But much of the bigger issues are to do with the exterior.",
+    "translation": "而更大的问题，集中在外立面。"
+  },
+  {
+    "startMs": 722194,
+    "durationMs": 6403,
+    "original": "That iconic record stealing spire is leaking and in desperate need of restoration.",
+    "translation": "那根标志性的、当年一举夺魁的塔尖正在漏水，亟需修复。"
+  },
+  {
+    "startMs": 728598,
+    "durationMs": 2678,
+    "original": "The original 1930s steel framed windows",
+    "translation": "原装的1930年代钢框架窗和砌体外墙漏风严重，"
+  },
+  {
+    "startMs": 731276,
+    "durationMs": 5082,
+    "original": "and masonry walls leak air and unsurprisingly are pretty poorly insulated.",
+    "translation": "隔热性极差。我之前提到的棕色水问题，"
+  },
+  {
+    "startMs": 736358,
+    "durationMs": 4532,
+    "original": "I mentioned those reports of brown water a couple of times earlier",
+    "translation": "很可能是管道腐蚀或供水故障所致。"
+  },
+  {
+    "startMs": 740891,
+    "durationMs": 3708,
+    "original": "and that's probably due to corrosion or supply issues.",
+    "translation": "很可能是管道腐蚀或供水故障所致。"
+  },
+  {
+    "startMs": 744679,
+    "durationMs": 3061,
+    "original": "The question becomes, is the Chrysler building",
+    "translation": "问题来了：克莱斯勒大厦，"
+  },
+  {
+    "startMs": 747740,
+    "durationMs": 2662,
+    "original": "a worldass place where a top tier tenant",
+    "translation": "如今还是顶级租户愿意"
+  },
+  {
+    "startMs": 750402,
+    "durationMs": 1397,
+    "original": "would pay top dollar?",
+    "translation": "一掷千金的世界级场所吗？"
+  },
+  {
+    "startMs": 751799,
+    "durationMs": 2595,
+    "original": "And the answer at the moment is absolutely not.",
+    "translation": "目前的答案是：完全不是。"
+  },
+  {
+    "startMs": 754394,
+    "durationMs": 1022,
+    "original": "So any new owner",
+    "translation": "所以，任何新业主进场，"
+  },
+  {
+    "startMs": 755416,
+    "durationMs": 2810,
+    "original": "that's coming in has to also kind of sign up",
+    "translation": "都必须同时接受这栋楼升级改造的经济成本，"
+  },
+  {
+    "startMs": 758226,
+    "durationMs": 2810,
+    "original": "for both the financial and brain damage cost",
+    "translation": "以及处理那一堆令人头疼的麻烦事。"
+  },
+  {
+    "startMs": 761036,
+    "durationMs": 4088,
+    "original": "of upgrading the building and bringing it into the 21st century.",
+    "translation": "以及处理那一堆令人头疼的麻烦事。"
+  },
+  {
+    "startMs": 765204,
+    "durationMs": 1171,
+    "original": "And their estimate",
+    "translation": "据估算，"
+  },
+  {
+    "startMs": 766375,
+    "durationMs": 2862,
+    "original": "is this is going to be a 150 to $200 million",
+    "translation": "要让这栋楼重焕生机，大约需要1.5亿到2亿美元。"
+  },
+  {
+    "startMs": 769237,
+    "durationMs": 2406,
+    "original": "job to get this building up to snuff.",
+    "translation": "要让这栋楼重焕生机，大约需要1.5亿到2亿美元。"
+  },
+  {
+    "startMs": 771643,
+    "durationMs": 2176,
+    "original": "Because the building is landmarked,",
+    "translation": "由于这栋楼已被列为地标建筑，"
+  },
+  {
+    "startMs": 773819,
+    "durationMs": 1989,
+    "original": "any exterior or interior changes",
+    "translation": "任何外部或内部改动"
+  },
+  {
+    "startMs": 775808,
+    "durationMs": 4165,
+    "original": "require approval from the city's landmarks preservation commission.",
+    "translation": "都需要获得纽约市地标保护委员会的批准。"
+  },
+  {
+    "startMs": 779973,
+    "durationMs": 1670,
+    "original": "Now, before we go any further",
+    "translation": "好，在继续"
+  },
+  {
+    "startMs": 781643,
+    "durationMs": 1094,
+    "original": "with today's video,",
+    "translation": "今天的视频之前，"
+  },
+  {
+    "startMs": 782737,
+    "durationMs": 1497,
+    "original": "we need to stop everything",
+    "translation": "我需要先暂停一下，"
+  },
+  {
+    "startMs": 784234,
+    "durationMs": 2130,
+    "original": "because I have got some very big news",
+    "translation": "因为我有一个非常重大的消息，"
+  },
+  {
+    "startMs": 786364,
+    "durationMs": 2015,
+    "original": "that I am finally allowed to share.",
+    "translation": "终于可以分享了。"
+  },
+  {
+    "startMs": 788379,
+    "durationMs": 5448,
+    "original": "Last year, Penguin Random House asked me if I'd like to write a book. I said yes.",
+    "translation": "去年，企鹅兰登书屋问我是否愿意出版一本书。我说，好。"
+  },
+  {
+    "startMs": 793827,
+    "durationMs": 1370,
+    "original": "I've written a book",
+    "translation": "我写了一本书，"
+  },
+  {
+    "startMs": 795197,
+    "durationMs": 1082,
+    "original": "and here it is.",
+    "translation": "就是这本——书名叫《超级工程》"
+  },
+  {
+    "startMs": 796279,
+    "durationMs": 1803,
+    "original": "It is called Mega Builds:",
+    "translation": "（Mega Builds）。"
+  },
+  {
+    "startMs": 798081,
+    "durationMs": 4399,
+    "original": "10 Colossal Construction Projects that will change our world.",
+    "translation": "（Mega Builds）。"
+  },
+  {
+    "startMs": 802480,
+    "durationMs": 1422,
+    "original": "Over the last 10 years,",
+    "translation": "过去十年，"
+  },
+  {
+    "startMs": 803902,
+    "durationMs": 1669,
+    "original": "I have had a front row seat",
+    "translation": "我亲眼目睹了"
+  },
+  {
+    "startMs": 805571,
+    "durationMs": 3709,
+    "original": "some of this planet's most incredible construction projects,",
+    "translation": "这个星球上一些最令人叹为观止的建造项目，"
+  },
+  {
+    "startMs": 809280,
+    "durationMs": 1545,
+    "original": "and they are all in here.",
+    "translation": "它们都写进了这本书。"
+  },
+  {
+    "startMs": 810825,
+    "durationMs": 1512,
+    "original": "I've written about them.",
+    "translation": "我把它们一一写了下来。"
+  },
+  {
+    "startMs": 812337,
+    "durationMs": 2565,
+    "original": "I've gone deeper than I've ever gone before",
+    "translation": "比任何一期视频、任何一篇报道、任何一部长纪录片都深入。"
+  },
+  {
+    "startMs": 814902,
+    "durationMs": 1074,
+    "original": "in any video story",
+    "translation": "比任何一期视频、任何一篇报道、任何一部长纪录片都深入。"
+  },
+  {
+    "startMs": 815975,
+    "durationMs": 2505,
+    "original": "or any kind of like long form documentary.",
+    "translation": "比任何一期视频、任何一篇报道、任何一部长纪录片都深入。"
+  },
+  {
+    "startMs": 818959,
+    "durationMs": 1769,
+    "original": "This is behind the scenes.",
+    "translation": "这是幕后故事。"
+  },
+  {
+    "startMs": 820728,
+    "durationMs": 2759,
+    "original": "It's up close and personal. It meets the teams.",
+    "translation": "是近距离的真实体验，是与一线团队的真实接触。"
+  },
+  {
+    "startMs": 823486,
+    "durationMs": 1086,
+    "original": "It's the human stories.",
+    "translation": "是一个个关于人的故事。"
+  },
+  {
+    "startMs": 824572,
+    "durationMs": 1665,
+    "original": "It's the engineering in detail.",
+    "translation": "是工程细节。"
+  },
+  {
+    "startMs": 826237,
+    "durationMs": 1441,
+    "original": "It's my personal experiences",
+    "translation": "是我的亲身经历，"
+  },
+  {
+    "startMs": 827678,
+    "durationMs": 2521,
+    "original": "and some of the calamities I've had along the way",
+    "translation": "以及在深入这些项目过程中遭遇的种种意外。"
+  },
+  {
+    "startMs": 830199,
+    "durationMs": 1904,
+    "original": "getting up close with these projects.",
+    "translation": "写这本书，我真的很享受。"
+  },
+  {
+    "startMs": 832103,
+    "durationMs": 1801,
+    "original": "I have really enjoyed writing this.",
+    "translation": "写这本书，我真的很享受。"
+  },
+  {
+    "startMs": 834065,
+    "durationMs": 2119,
+    "original": "Some of my mates have been like, \"Oh, nice.",
+    "translation": "我有几个朋友问我：\"哦，不错啊，"
+  },
+  {
+    "startMs": 836185,
+    "durationMs": 2724,
+    "original": "Who uh who ghost wrote that for you?\" No one.",
+    "translation": "找谁代笔的？\"没有人代笔。"
+  },
+  {
+    "startMs": 838909,
+    "durationMs": 3091,
+    "original": "I can't afford a fancy ghost writer. Me. I wrote this.",
+    "translation": "我请不起什么高级代笔作家——是我自己写的。"
+  },
+  {
+    "startMs": 842000,
+    "durationMs": 1019,
+    "original": "Every single word",
+    "translation": "书里每一个字，"
+  },
+  {
+    "startMs": 843019,
+    "durationMs": 1738,
+    "original": "of this has come from my head",
+    "translation": "都是从我脑子里来的，"
+  },
+  {
+    "startMs": 844757,
+    "durationMs": 2337,
+    "original": "into my laptop and then into this book.",
+    "translation": "经过我的键盘，最终进入这本书。"
+  },
+  {
+    "startMs": 847094,
+    "durationMs": 2032,
+    "original": "All for your reading pleasure.",
+    "translation": "全都是为了让你读个过瘾。"
+  },
+  {
+    "startMs": 849126,
+    "durationMs": 2254,
+    "original": "Guys, I never thought I could write a book, but I have.",
+    "translation": "说真的，我以前从没想过自己能写一本书，但我做到了。"
+  },
+  {
+    "startMs": 851380,
+    "durationMs": 2931,
+    "original": "And obviously, I'm biased, but I actually kind of think it's quite good.",
+    "translation": "当然，我肯定有偏见，但我真的觉得这本书还挺不错的。"
+  },
+  {
+    "startMs": 854311,
+    "durationMs": 3369,
+    "original": "It is available to pre-order now. The link is below.",
+    "translation": "现在已经可以预购了，链接就在下方。"
+  },
+  {
+    "startMs": 857680,
+    "durationMs": 1920,
+    "original": "Pre-ordering is incredibly important.",
+    "translation": "预购非常重要。"
+  },
+  {
+    "startMs": 859600,
+    "durationMs": 4160,
+    "original": "Basically, my entire future happiness depends on you pre-ordering this book.",
+    "translation": "基本上，我未来的幸福，全押在你们是否预购这本书上了。"
+  },
+  {
+    "startMs": 863760,
+    "durationMs": 1438,
+    "original": "So guys, if you love the B1M,",
+    "translation": "所以，如果你喜欢 B1M，"
+  },
+  {
+    "startMs": 865198,
+    "durationMs": 1289,
+    "original": "if you love these stories,",
+    "translation": "如果你喜欢这些故事，"
+  },
+  {
+    "startMs": 866486,
+    "durationMs": 3272,
+    "original": "if you love learning more about construction in a downto-earth way",
+    "translation": "如果你喜欢用接地气的方式"
+  },
+  {
+    "startMs": 869758,
+    "durationMs": 2578,
+    "original": "that's easy to understand and can be read by anyone,",
+    "translation": "了解建造行业，"
+  },
+  {
+    "startMs": 872336,
+    "durationMs": 5784,
+    "original": "go and pre-order my book, Mega Builds, today.",
+    "translation": "快去预购我的新书《超级工程》吧。"
+  },
+  {
+    "startMs": 879360,
+    "durationMs": 2286,
+    "original": "So, where is there some experience",
+    "translation": "那么，有没有把老旧标志性建筑改造成现代化场所的成功经验"
+  },
+  {
+    "startMs": 881646,
+    "durationMs": 2420,
+    "original": "of retrofitting old iconic buildings",
+    "translation": "可以借鉴？"
+  },
+  {
+    "startMs": 884066,
+    "durationMs": 1546,
+    "original": "to suit the modern day?",
+    "translation": "可以借鉴？"
+  },
+  {
+    "startMs": 885613,
+    "durationMs": 67,
+    "original": "",
+    "translation": "可以借鉴？"
+  },
+  {
+    "startMs": 885680,
+    "durationMs": 5440,
+    "original": "Well, let's look to a city absolutely jam-packed with huge historic buildings.",
+    "translation": "不如看看一座历史建筑密集的城市——"
+  },
+  {
+    "startMs": 891760,
+    "durationMs": 1759,
+    "original": "London.",
+    "translation": "伦敦。"
+  },
+  {
+    "startMs": 893519,
+    "durationMs": 4489,
+    "original": "One of the most famous examples in recent times is Batsy Power Station.",
+    "translation": "近年来最著名的案例之一，是巴特西发电站。"
+  },
+  {
+    "startMs": 898008,
+    "durationMs": 1311,
+    "original": "You might recognize it",
+    "translation": "你也许认识它——"
+  },
+  {
+    "startMs": 899319,
+    "durationMs": 2264,
+    "original": "from the cover of Pink Floyd's Animals",
+    "translation": "它出现在平克·弗洛伊德专辑《动物》的封面上，"
+  },
+  {
+    "startMs": 901583,
+    "durationMs": 3039,
+    "original": "or when it was used as wreckage in the Dark Knight.",
+    "translation": "也曾作为废墟出现在《蝙蝠侠：黑暗骑士》中。"
+  },
+  {
+    "startMs": 904622,
+    "durationMs": 3836,
+    "original": "It's the last part that many Londoners are going to be familiar",
+    "translation": "对许多伦敦人来说，最熟悉的恐怕正是那副废墟模样，"
+  },
+  {
+    "startMs": 908458,
+    "durationMs": 3227,
+    "original": "with because for the better part of the 21st century,",
+    "translation": "因为整个21世纪的大半时间里，"
+  },
+  {
+    "startMs": 911685,
+    "durationMs": 1279,
+    "original": "this iconic building,",
+    "translation": "这座欧洲最大的砖砌建筑"
+  },
+  {
+    "startMs": 912964,
+    "durationMs": 2679,
+    "original": "the largest brick building in all of Europe,",
+    "translation": "就那样被废弃着。"
+  },
+  {
+    "startMs": 915643,
+    "durationMs": 1157,
+    "original": "was left abandoned.",
+    "translation": "就那样被废弃着。"
+  },
+  {
+    "startMs": 917040,
+    "durationMs": 2638,
+    "original": "Battery power station wasn't demolished",
+    "translation": "巴特西发电站之所以没有被拆除，"
+  },
+  {
+    "startMs": 919678,
+    "durationMs": 3518,
+    "original": "largely because it was granted grade 2 listed status",
+    "translation": "主要是因为1980年被授予了二级保护建筑地位。"
+  },
+  {
+    "startMs": 923196,
+    "durationMs": 541,
+    "original": "in 1980.",
+    "translation": "主要是因为1980年被授予了二级保护建筑地位。"
+  },
+  {
+    "startMs": 923737,
+    "durationMs": 2823,
+    "original": "That legal protection meant restoration.",
+    "translation": "那层法律保护，意味着修缮。"
+  },
+  {
+    "startMs": 927920,
+    "durationMs": 3623,
+    "original": "As one of London's most recognizable industrial landmarks,",
+    "translation": "作为伦敦最具辨识度的工业地标之一，"
+  },
+  {
+    "startMs": 931543,
+    "durationMs": 1562,
+    "original": "its cultural significance",
+    "translation": "它的文化价值"
+  },
+  {
+    "startMs": 933105,
+    "durationMs": 1874,
+    "original": "ultimately secured its future.",
+    "translation": "最终守住了它的未来。"
+  },
+  {
+    "startMs": 935059,
+    "durationMs": 2516,
+    "original": "Even after decades of dereliction",
+    "translation": "历经数十年的破败"
+  },
+  {
+    "startMs": 937575,
+    "durationMs": 2287,
+    "original": "and a string of failed schemes",
+    "translation": "和一系列失败方案，"
+  },
+  {
+    "startMs": 939863,
+    "durationMs": 2669,
+    "original": "by becoming a mixeduse destination,",
+    "translation": "通过转型为综合用途目的地，"
+  },
+  {
+    "startMs": 942531,
+    "durationMs": 3965,
+    "original": "the power station was able to fund its own survival.",
+    "translation": "发电站得以自我造血、维持生存。"
+  },
+  {
+    "startMs": 946497,
+    "durationMs": 3582,
+    "original": "Today, it's a thriving hot spot for this city.",
+    "translation": "如今，它已成为这座城市一处活力四射的热门打卡地。"
+  },
+  {
+    "startMs": 951600,
+    "durationMs": 4399,
+    "original": "But there are even more apt examples not far from the Chrysler building itself.",
+    "translation": "而在克莱斯勒大厦不远处，还有更贴近的先例。"
+  },
+  {
+    "startMs": 956320,
+    "durationMs": 2859,
+    "original": "The Flat Iron Building, first completed in 1902",
+    "translation": "熨斗大厦于1902年竣工，"
+  },
+  {
+    "startMs": 959179,
+    "durationMs": 1399,
+    "original": "as an office structure,",
+    "translation": "最初作为写字楼使用，"
+  },
+  {
+    "startMs": 960578,
+    "durationMs": 3528,
+    "original": "is currently being retrofitted into residential apartments",
+    "translation": "目前正在改造为住宅公寓，"
+  },
+  {
+    "startMs": 964106,
+    "durationMs": 3893,
+    "original": "with developers working around the famous triangular floor plan.",
+    "translation": "开发商在充分利用那个著名的三角形平面格局。"
+  },
+  {
+    "startMs": 968720,
+    "durationMs": 2298,
+    "original": "Notoriously, the Walworth building,",
+    "translation": "众所周知，伍尔沃斯大厦"
+  },
+  {
+    "startMs": 971018,
+    "durationMs": 3546,
+    "original": "which was also once the tallest building in the world,",
+    "translation": "也曾是世界第一高楼，"
+  },
+  {
+    "startMs": 974564,
+    "durationMs": 3152,
+    "original": "converted its top floors into a luxury penthouse",
+    "translation": "它将顶层改建成了豪华顶层公寓，"
+  },
+  {
+    "startMs": 977715,
+    "durationMs": 2364,
+    "original": "and then sold that for $110 million.",
+    "translation": "并以1.1亿美元的价格售出。"
+  },
+  {
+    "startMs": 981040,
+    "durationMs": 4187,
+    "original": "That's more than a few hundred times the US median home price.",
+    "translation": "这比美国住宅中位价高出了好几百倍。"
+  },
+  {
+    "startMs": 985227,
+    "durationMs": 1466,
+    "original": "It's an insane price tag,",
+    "translation": "这是个天文数字，"
+  },
+  {
+    "startMs": 986693,
+    "durationMs": 2757,
+    "original": "but one that would certainly go a very long way",
+    "translation": "但对于解决克莱斯勒大厦的财务困境而言，"
+  },
+  {
+    "startMs": 989450,
+    "durationMs": 3109,
+    "original": "to helping fix the Chrysler building's financial wos.",
+    "translation": "无疑会大有裨益。"
+  },
+  {
+    "startMs": 993040,
+    "durationMs": 3509,
+    "original": "Imagine living inside the most famous crown in the world.",
+    "translation": "想象一下，住在世界上最著名的那顶王冠里。"
+  },
+  {
+    "startMs": 996549,
+    "durationMs": 1357,
+    "original": "So, the Woolworth building",
+    "translation": "伍尔沃斯大厦的"
+  },
+  {
+    "startMs": 997906,
+    "durationMs": 2923,
+    "original": "famously underwent a condo conversion on the top floors,",
+    "translation": "顶层公寓改造项目闹得人尽皆知，"
+  },
+  {
+    "startMs": 1000830,
+    "durationMs": 2923,
+    "original": "but it's been a complete disaster of a condo conversion.",
+    "translation": "却是彻头彻尾的失败。"
+  },
+  {
+    "startMs": 1003753,
+    "durationMs": 2794,
+    "original": "There have been others that are seemingly more promising.",
+    "translation": "但也有其他一些案例看起来更有前景。"
+  },
+  {
+    "startMs": 1006547,
+    "durationMs": 6250,
+    "original": "The Flat Iron Building, again, another iconic building, so synonymous with the New York skyline,",
+    "translation": "熨斗大厦，同样是标志性建筑，与纽约天际线紧密相连，"
+  },
+  {
+    "startMs": 1012797,
+    "durationMs": 2799,
+    "original": "that is being converted to boutique condos.",
+    "translation": "正在被改造成精品公寓。"
+  },
+  {
+    "startMs": 1015596,
+    "durationMs": 3524,
+    "original": "And so far, sales have been have been pretty promising.",
+    "translation": "目前来看，销售情况相当不错。"
+  },
+  {
+    "startMs": 1020399,
+    "durationMs": 2467,
+    "original": "This is a problem we're going to see a lot more of.",
+    "translation": "这是一个我们今后会越来越频繁面对的问题。"
+  },
+  {
+    "startMs": 1022866,
+    "durationMs": 2071,
+    "original": "For the first time in history,",
+    "translation": "历史上第一次，"
+  },
+  {
+    "startMs": 1024937,
+    "durationMs": 2554,
+    "original": "we're seeing century old skyscrapers,",
+    "translation": "我们看到了百年摩天楼的出现，"
+  },
+  {
+    "startMs": 1027490,
+    "durationMs": 2278,
+    "original": "and we can't just tear them down.",
+    "translation": "而我们根本不能简单地把它们拆掉。"
+  },
+  {
+    "startMs": 1029768,
+    "durationMs": 4854,
+    "original": "First off, it would be tremendously difficult to knock down any of these buildings.",
+    "translation": "首先，要推倒其中任何一栋都难度极大。"
+  },
+  {
+    "startMs": 1034622,
+    "durationMs": 2875,
+    "original": "These first skyscrapers were overengineered",
+    "translation": "这些最早的摩天楼都有过度设计的倾向，"
+  },
+  {
+    "startMs": 1037497,
+    "durationMs": 2006,
+    "original": "because nothing had been built",
+    "translation": "因为此前从未有人"
+  },
+  {
+    "startMs": 1039502,
+    "durationMs": 1137,
+    "original": "that tall before.",
+    "translation": "建造过如此之高的建筑。"
+  },
+  {
+    "startMs": 1040880,
+    "durationMs": 2446,
+    "original": "They have immense steel skeletons",
+    "translation": "它们有着巨大的钢铁骨架，"
+  },
+  {
+    "startMs": 1043326,
+    "durationMs": 3929,
+    "original": "and they're clad in brick, stone, and stainless steel",
+    "translation": "外覆砖石和不锈钢，"
+  },
+  {
+    "startMs": 1047255,
+    "durationMs": 1705,
+    "original": "for intense durability.",
+    "translation": "极为耐久。"
+  },
+  {
+    "startMs": 1050240,
+    "durationMs": 3599,
+    "original": "Secondly, skyscrapers like the Chrysler building are protected.",
+    "translation": "其次，克莱斯勒大厦这类摩天楼受到法律保护。"
+  },
+  {
+    "startMs": 1054559,
+    "durationMs": 1744,
+    "original": "Even if there is a temptation",
+    "translation": "即便有人想"
+  },
+  {
+    "startMs": 1056303,
+    "durationMs": 3068,
+    "original": "to build something taller with more sellable space,",
+    "translation": "建一栋更高、更多可售空间的新楼来取代它，"
+  },
+  {
+    "startMs": 1059371,
+    "durationMs": 3369,
+    "original": "that can only happen if the building went beyond repair.",
+    "translation": "这也只有在原楼彻底无法修缮的情况下"
+  },
+  {
+    "startMs": 1062740,
+    "durationMs": 60,
+    "original": "",
+    "translation": "才有可能。"
+  },
+  {
+    "startMs": 1063600,
+    "durationMs": 1295,
+    "original": "It's probably more likely",
+    "translation": "更大的可能是，"
+  },
+  {
+    "startMs": 1064895,
+    "durationMs": 2279,
+    "original": "that the interior is going to be retrofitted",
+    "translation": "内部会像巴特西发电站或伍尔沃斯大厦一样"
+  },
+  {
+    "startMs": 1067174,
+    "durationMs": 2693,
+    "original": "like Battery Power Station or the Walworth building.",
+    "translation": "被翻新改造。"
+  },
+  {
+    "startMs": 1069867,
+    "durationMs": 52,
+    "original": "",
+    "translation": "被翻新改造。"
+  },
+  {
+    "startMs": 1069919,
+    "durationMs": 5551,
+    "original": ">> We've certainly seen a flurry of office to residential conversions in parts of Midtown, right?",
+    "translation": ">> 我们的确看到了中城某些区域大量办公室改建为住宅的浪潮，对吧？"
+  },
+  {
+    "startMs": 1075470,
+    "durationMs": 906,
+    "original": "We've seen that",
+    "translation": "我们在整个曼哈顿的写字楼市场都看到了这一幕——"
+  },
+  {
+    "startMs": 1076376,
+    "durationMs": 2174,
+    "original": "all over the Manhattan office market",
+    "translation": "写字楼市场现在"
+  },
+  {
+    "startMs": 1078550,
+    "durationMs": 1751,
+    "original": "is in a golden era right now.",
+    "translation": "正处于一个黄金时代。"
+  },
+  {
+    "startMs": 1080301,
+    "durationMs": 785,
+    "original": "Net absorption,",
+    "translation": "净吸纳量——"
+  },
+  {
+    "startMs": 1081086,
+    "durationMs": 2669,
+    "original": "which means the net amount of space that was leased",
+    "translation": "也就是新增租用的净面积——"
+  },
+  {
+    "startMs": 1083755,
+    "durationMs": 2565,
+    "original": "is at the highest it's been in a quarter century.",
+    "translation": "达到了近四分之一个世纪以来的最高水平。"
+  },
+  {
+    "startMs": 1086799,
+    "durationMs": 3601,
+    "original": ">> It means the office is back, especially in Midtown.",
+    "translation": ">> 这说明办公室回来了，尤其是在中城区。"
+  },
+  {
+    "startMs": 1090400,
+    "durationMs": 4159,
+    "original": "Maybe all the cries the building needs is a little love.",
+    "translation": "或许克莱斯勒大厦需要的，只是多一点关爱。"
+  },
+  {
+    "startMs": 1094559,
+    "durationMs": 1774,
+    "original": ">> Now, there are certainly things",
+    "translation": ">> 当然，有些事是可以做的，"
+  },
+  {
+    "startMs": 1096333,
+    "durationMs": 2818,
+    "original": "you could do like put in top tier restaurant concepts,",
+    "translation": "比如引入一流的餐饮品牌，"
+  },
+  {
+    "startMs": 1099151,
+    "durationMs": 1983,
+    "original": "maybe do some really innovative things",
+    "translation": "或者根据买家是谁、他们能调动什么资源，对零售广场做出一些真正创新性的规划。"
+  },
+  {
+    "startMs": 1101134,
+    "durationMs": 2661,
+    "original": "with the retail plaza depending on who the buyer is",
+    "translation": "或者根据买家是谁、他们能调动什么资源，对零售广场做出一些真正创新性的规划。"
+  },
+  {
+    "startMs": 1103795,
+    "durationMs": 1513,
+    "original": "and what they have access to.",
+    "translation": "或者根据买家是谁、他们能调动什么资源，对零售广场做出一些真正创新性的规划。"
+  },
+  {
+    "startMs": 1105308,
+    "durationMs": 3812,
+    "original": "But if you run it as office, you can still make this work.",
+    "translation": "但如果作为写字楼来运营，这件事依然可以走通。"
+  },
+  {
+    "startMs": 1109120,
+    "durationMs": 3082,
+    "original": "But this is the freaking Chrysler building. I mean, this still has cache.",
+    "translation": "但这毕竟是克莱斯勒大厦——它依然有那种无可替代的光环。"
+  },
+  {
+    "startMs": 1112202,
+    "durationMs": 1477,
+    "original": "This is you can imagine",
+    "translation": "你可以想象"
+  },
+  {
+    "startMs": 1113679,
+    "durationMs": 1349,
+    "original": "a top tier hedge fund",
+    "translation": "某家顶级对冲基金、"
+  },
+  {
+    "startMs": 1115028,
+    "durationMs": 2505,
+    "original": "or a financial institution of some kind",
+    "translation": "某家金融机构，"
+  },
+  {
+    "startMs": 1117533,
+    "durationMs": 1413,
+    "original": "or even a tech company",
+    "translation": "或者某家科技公司"
+  },
+  {
+    "startMs": 1118945,
+    "durationMs": 4175,
+    "original": "saying hey you know what my offices are at the Chrysler building.",
+    "translation": "站出来说：\"我们的办公室，就在克莱斯勒大厦。\""
+  },
+  {
+    "startMs": 1123120,
+    "durationMs": 1648,
+    "original": ">> So what's happening now?",
+    "translation": ">> 那么，现在情况怎么样了？"
+  },
+  {
+    "startMs": 1124768,
+    "durationMs": 1300,
+    "original": "One of the building's",
+    "translation": "这栋楼的前业主之一、"
+  },
+  {
+    "startMs": 1126068,
+    "durationMs": 2353,
+    "original": "former owners developer Tishman Spayer",
+    "translation": "开发商铁狮门，"
+  },
+  {
+    "startMs": 1128422,
+    "durationMs": 1362,
+    "original": "is eyeing it up again.",
+    "translation": "据说又在打它的主意了。"
+  },
+  {
+    "startMs": 1129784,
+    "durationMs": 2372,
+    "original": "They first took ownership",
+    "translation": "他们于1997年首次"
+  },
+  {
+    "startMs": 1132156,
+    "durationMs": 664,
+    "original": "in 1997",
+    "translation": "以2.2亿美元的价格"
+  },
+  {
+    "startMs": 1132820,
+    "durationMs": 2182,
+    "original": "for a cool $220 million",
+    "translation": "接手，并在"
+  },
+  {
+    "startMs": 1135002,
+    "durationMs": 4649,
+    "original": "and undertook its most recent renovation in 2000.",
+    "translation": "2000年进行了最近一次翻新。"
+  },
+  {
+    "startMs": 1139810,
+    "durationMs": 2851,
+    "original": "Back then, the real estate investment company",
+    "translation": "那一次，这家房地产投资公司"
+  },
+  {
+    "startMs": 1142661,
+    "durationMs": 2724,
+    "original": "spent a hundred million carefully restoring",
+    "translation": "斥资一亿美元，精心修复了"
+  },
+  {
+    "startMs": 1145385,
+    "durationMs": 1964,
+    "original": "the skyscrapers art deco motifs",
+    "translation": "大厦的装饰艺术风格细节，"
+  },
+  {
+    "startMs": 1147349,
+    "durationMs": 2091,
+    "original": "while upgrading its core systems.",
+    "translation": "同时对核心系统进行了升级。"
+  },
+  {
+    "startMs": 1149760,
+    "durationMs": 861,
+    "original": "Tishman Spire,",
+    "translation": "铁狮门"
+  },
+  {
+    "startMs": 1150621,
+    "durationMs": 676,
+    "original": "who was one",
+    "translation": "曾是九十年代末的"
+  },
+  {
+    "startMs": 1151297,
+    "durationMs": 2766,
+    "original": "of the one of the buyers or one of the owners",
+    "translation": "买家和业主之一，"
+  },
+  {
+    "startMs": 1154063,
+    "durationMs": 984,
+    "original": "in the late '9s,",
+    "translation": "后来引入了阿布扎比方面，"
+  },
+  {
+    "startMs": 1155047,
+    "durationMs": 3504,
+    "original": "actually brought Abu Dhabi in, stayed on as custodian and",
+    "translation": "并在不久前仍担任"
+  },
+  {
+    "startMs": 1158551,
+    "durationMs": 2889,
+    "original": "part owner of the building until very recently.",
+    "translation": "大厦的管理方和部分业主。"
+  },
+  {
+    "startMs": 1161440,
+    "durationMs": 3760,
+    "original": "They're rumored to be back in the mix here, and if they buy it, it'll be really interesting.",
+    "translation": "据说他们这次又回来参与角逐——如果他们买下来，那将非常值得关注。"
+  },
+  {
+    "startMs": 1165760,
+    "durationMs": 1440,
+    "original": "The Chrysler building",
+    "translation": "克莱斯勒大厦的"
+  },
+  {
+    "startMs": 1167200,
+    "durationMs": 2126,
+    "original": "could end up with the same fate",
+    "translation": "命运，或许会与"
+  },
+  {
+    "startMs": 1169325,
+    "durationMs": 2263,
+    "original": "as a certain other New York icon,",
+    "translation": "纽约另一座地标建筑如出一辙——"
+  },
+  {
+    "startMs": 1171588,
+    "durationMs": 4251,
+    "original": "but funnily enough is facing almost exactly the same struggle.",
+    "translation": "而那栋楼，偏偏也面临着几乎一模一样的困境。"
+  },
+  {
+    "startMs": 1176400,
+    "durationMs": 1517,
+    "original": ">> Jeff Gell prominently",
+    "translation": ">> 最近在拍卖中买下"
+  },
+  {
+    "startMs": 1177917,
+    "durationMs": 3351,
+    "original": "is the one who recently bought the Flat Iron building",
+    "translation": "熨斗大厦、并将其"
+  },
+  {
+    "startMs": 1181268,
+    "durationMs": 1328,
+    "original": "at auction and is now",
+    "translation": "改建为豪华公寓的，"
+  },
+  {
+    "startMs": 1182596,
+    "durationMs": 2213,
+    "original": "turning it into into luxury condos.",
+    "translation": "正是杰夫·盖尔。"
+  },
+  {
+    "startMs": 1184809,
+    "durationMs": 3737,
+    "original": "And the other wrinkle here is that Jeff Gell for a long time",
+    "translation": "还有一个微妙之处——杰夫·盖尔长期"
+  },
+  {
+    "startMs": 1188546,
+    "durationMs": 2056,
+    "original": "was on the board of Cooper Union.",
+    "translation": "担任库珀联盟的董事会成员。"
+  },
+  {
+    "startMs": 1190602,
+    "durationMs": 4997,
+    "original": "So pretty well connected to the seller and eventual landlord as well.",
+    "translation": "这样一来，他既与卖家关系深厚，将来也会成为房东。"
+  },
+  {
+    "startMs": 1197039,
+    "durationMs": 2156,
+    "original": ">> The return of the Chrysler building",
+    "translation": ">> 克莱斯勒大厦"
+  },
+  {
+    "startMs": 1199195,
+    "durationMs": 2213,
+    "original": "to its '90s owners now entirely depends",
+    "translation": "能否回到九十年代的业主手中，"
+  },
+  {
+    "startMs": 1201408,
+    "durationMs": 1532,
+    "original": "on negotiations surrounding",
+    "translation": "完全取决于与库珀联盟"
+  },
+  {
+    "startMs": 1202940,
+    "durationMs": 3064,
+    "original": "its enormous land leasing agreement with Kooper Union.",
+    "translation": "围绕那份巨额土地租赁协议展开的谈判结果。"
+  },
+  {
+    "startMs": 1206004,
+    "durationMs": 4692,
+    "original": "The building currently has a vacancy rate between 14 and 20%.",
+    "translation": "目前，这栋楼的空置率在14%到20%之间。"
+  },
+  {
+    "startMs": 1210696,
+    "durationMs": 4504,
+    "original": "So it's clear something is going to have to give.",
+    "translation": "所以，总得有什么做出改变。"
+  },
+  {
+    "startMs": 1216640,
+    "durationMs": 3472,
+    "original": "The Chrysler building now stands at a crossroads.",
+    "translation": "克莱斯勒大厦如今站在了一个十字路口。"
+  },
+  {
+    "startMs": 1220112,
+    "durationMs": 1765,
+    "original": "It's a reminder of an era",
+    "translation": "它是一个时代的见证——"
+  },
+  {
+    "startMs": 1221877,
+    "durationMs": 1271,
+    "original": "when America built",
+    "translation": "那个美国建造的初衷"
+  },
+  {
+    "startMs": 1223148,
+    "durationMs": 2612,
+    "original": "not just for profit but for prestige.",
+    "translation": "不只是盈利，更是追求荣耀的时代。"
+  },
+  {
+    "startMs": 1226720,
+    "durationMs": 2711,
+    "original": "But its value is something even more",
+    "translation": "但它的价值，远不止于此。"
+  },
+  {
+    "startMs": 1229431,
+    "durationMs": 753,
+    "original": "than that.",
+    "translation": "那是一种难以言说的"
+  },
+  {
+    "startMs": 1230184,
+    "durationMs": 1581,
+    "original": "Something intangible.",
+    "translation": "东西。"
+  },
+  {
+    "startMs": 1231765,
+    "durationMs": 75,
+    "original": "",
+    "translation": "东西。"
+  },
+  {
+    "startMs": 1231840,
+    "durationMs": 4798,
+    "original": "And I know you probably feel the same thing as I do when you look at it.",
+    "translation": "我相信，当你看着它的时候，心里感受到的，和我一样。"
+  },
+  {
+    "startMs": 1236638,
+    "durationMs": 1671,
+    "original": "This isn't just a building.",
+    "translation": "这不只是一栋楼。"
+  },
+  {
+    "startMs": 1238309,
+    "durationMs": 1571,
+    "original": "It's much more than a building.",
+    "translation": "它远不止于此。"
+  },
+  {
+    "startMs": 1239880,
+    "durationMs": 4360,
+    "original": "It's a piece of architecture that really feeds the soul.",
+    "translation": "它是一件真正能滋养灵魂的建筑作品。"
+  },
+  {
+    "startMs": 1244559,
+    "durationMs": 2220,
+    "original": "The problem is in today's",
+    "translation": "问题在于，在今天"
+  },
+  {
+    "startMs": 1246779,
+    "durationMs": 1066,
+    "original": "day and age,",
+    "translation": "这个年代，在今天的"
+  },
+  {
+    "startMs": 1247845,
+    "durationMs": 1776,
+    "original": "in today's New York,",
+    "translation": "纽约，一切"
+  },
+  {
+    "startMs": 1249621,
+    "durationMs": 3819,
+    "original": "it feels like everything has a bottom line.",
+    "translation": "似乎都要讲盈亏。"
+  },
+  {
+    "startMs": 1256080,
+    "durationMs": 3392,
+    "original": "This video was sponsored by the FJD Trion ecosystem.",
+    "translation": "本视频由 FJD Trion 系统赞助播出。"
+  },
+  {
+    "startMs": 1259472,
+    "durationMs": 1070,
+    "original": "Don't forget that",
+    "translation": "别忘了，如果"
+  },
+  {
+    "startMs": 1260542,
+    "durationMs": 2706,
+    "original": "if you want to turn real world environments",
+    "translation": "你想亲自把真实环境转化为"
+  },
+  {
+    "startMs": 1263247,
+    "durationMs": 2076,
+    "original": "into digital models for yourself,",
+    "translation": "数字模型，可以"
+  },
+  {
+    "startMs": 1265324,
+    "durationMs": 2391,
+    "original": "you can try out the FJD Tron ecosystem",
+    "translation": "点击下方链接，"
+  },
+  {
+    "startMs": 1267714,
+    "durationMs": 1133,
+    "original": "at the link below.",
+    "translation": "体验 FJD Trion 系统。"
+  },
+  {
+    "startMs": 1268848,
+    "durationMs": 1146,
+    "original": "And as always guys,",
+    "translation": "一如既往，"
+  },
+  {
+    "startMs": 1269994,
+    "durationMs": 1508,
+    "original": "if you enjoyed this video",
+    "translation": "如果你喜欢这期视频，"
+  },
+  {
+    "startMs": 1271503,
+    "durationMs": 1448,
+    "original": "and you want to get more",
+    "translation": "想在这个最权威的"
+  },
+  {
+    "startMs": 1272951,
+    "durationMs": 1991,
+    "original": "from the definitive video channel",
+    "translation": "建造主题频道获取"
+  },
+  {
+    "startMs": 1274942,
+    "durationMs": 1026,
+    "original": "for construction,",
+    "translation": "更多内容，记得"
+  },
+  {
+    "startMs": 1275968,
+    "durationMs": 2112,
+    "original": "make sure you subscribe to the B1M.",
+    "translation": "订阅 B1M。"
+  }
+]

@@ -1,0 +1,2164 @@
+1
+00:00:00,080 --> 00:00:01,040
+克莱斯勒大厦。
+The Chrysler building.
+
+2
+00:00:01,040 --> 00:00:02,080
+>> 克莱斯勒大厦。
+>> The Chrysler building.
+
+3
+00:00:02,080 --> 00:00:02,848
+>> 克莱斯勒。
+>> The Chrysler.
+
+4
+00:00:02,848 --> 00:00:03,439
+>> 克莱斯勒。
+The >> Chrysler.
+
+5
+00:00:03,439 --> 00:00:04,000
+>> 克莱斯勒。
+>> The Chrysler.
+
+6
+00:00:04,000 --> 00:00:06,720
+>> 克莱斯勒大厦……陷入了麻烦。
+>> The Chrysler building >> is in trouble.
+
+7
+00:00:08,960 --> 00:00:12,824
+>> 这座历史悠久的摩天楼正在走向破败。
+>> This venerable skyscraper is falling apart.
+
+8
+00:00:12,824 --> 00:00:19,370
+它的估值从8亿美元暴跌至1.5亿美元，
+Its value has plummeted from $800 million to $150 million.
+
+9
+00:00:19,370 --> 00:00:22,079
+而且再次被挂牌出售。
+And it's for sale again.
+
+10
+00:00:22,800 --> 00:00:27,600
+事实上，这已经是2019年以来第三次挂牌了。
+In fact, this is the third time the building's been up for sale since 2019.
+
+11
+00:00:28,960 --> 00:00:31,119
+楼内的情况也好不到哪儿去。
+Inside, things aren't much better.
+
+12
+00:00:31,119 --> 00:00:35,849
+水龙头流出棕色的水，电梯频繁故障，办公室破败不堪。
+There's brown tap water, broken elevators, and crumbling offices.
+
+13
+00:00:35,849 --> 00:00:37,976
+更雪上加霜的是，
+And it's all being made much worse
+
+14
+00:00:37,976 --> 00:00:40,604
+纽约一项复杂的土地租赁法律，
+by a complicated New York land leasing law
+
+15
+00:00:40,604 --> 00:00:43,732
+正在把这栋楼的业主逼向破产的边缘。
+that's basically bankrupting the building's owner.
+
+16
+00:00:43,732 --> 00:00:49,532
+这一切都把我逼向了一个我最不想问的问题——
+It's all pointing towards a question that I absolutely hate to ask.
+
+17
+00:00:49,532 --> 00:00:53,600
+克莱斯勒大厦，会就此谢幕吗？
+Could this be the end of the Chrysler building?
+
+18
+00:00:56,559 --> 00:00:58,121
+好，在进入今天的视频之前，
+Okay, so before we get into this video,
+
+19
+00:00:58,121 --> 00:00:59,803
+有一件事非常重要，
+there's kind of one really important thing
+
+20
+00:00:59,803 --> 00:01:00,684
+你必须先了解。
+that you need to know.
+
+21
+00:01:00,684 --> 00:01:07,542
+克莱斯勒大厦的业主，拥有的只是这栋楼，而不包括它脚下的土地。
+Whoever owns the Chrysler building owns the building, but not the land underneath it.
+
+22
+00:01:07,542 --> 00:01:11,680
+那块土地，属于另一方。
+That is owned by someone else entirely.
+
+23
+00:01:11,680 --> 00:01:14,037
+这意味着楼的业主
+It means the owner of the building
+
+24
+00:01:14,037 --> 00:01:16,048
+还要向地主缴纳租金。
+has to pay rent to the owners
+
+25
+00:01:16,048 --> 00:01:16,880
+还要向地主缴纳租金。
+of the land.
+
+26
+00:01:17,040 --> 00:01:23,919
+这大大复杂化了所有权结构，而这个结构本来就已经够复杂的了。
+Now, that complicates the ownership structure tremendously and it's already very complicated.
+
+27
+00:01:26,000 --> 00:01:28,925
+那么，克莱斯勒大厦到底是谁的？
+So, who exactly owns the Chrysler building?
+
+28
+00:01:28,925 --> 00:01:31,115
+答案可能会出乎你的意料。
+Well, it's probably not who you think.
+
+29
+00:01:31,116 --> 00:01:37,494
+你的第一反应可能是："克莱斯勒家族？还是那家汽车公司？"
+Your first response would probably be, "Well, the Chrysler family, right? Or the car manufacturer."
+
+30
+00:01:37,493 --> 00:01:41,260
+没错，他们确实曾经拥有过它。
+And yes, they did own it once.
+
+31
+00:01:41,260 --> 00:01:45,829
+这栋楼最初由公司创始人
+It was originally built and owned by the company's founder,
+
+32
+00:01:45,829 --> 00:01:47,688
+沃尔特·克莱斯勒于1930年出资兴建，
+Walter Krysler, in 1930,
+
+33
+00:01:47,687 --> 00:01:50,630
+并非由克莱斯勒汽车公司建造。
+not by the Krysler Corporation itself.
+
+34
+00:01:50,630 --> 00:01:56,128
+沃尔特·克莱斯勒本想让这座标志性摩天楼世代留在家族名下，
+Walter Krysler intended the iconic skyscraper to remain a family asset
+
+35
+00:01:56,128 --> 00:01:58,956
+这个愿望延续到1953年——
+and it did all the way up until 1953
+
+36
+00:01:58,956 --> 00:02:03,040
+直到开发商威廉·泽肯多夫将其买下，
+when it was purchased by developer William Zeondorf,
+
+37
+00:02:03,040 --> 00:02:05,295
+他就是联合国总部的幕后推手，
+the man behind the UN headquarters
+
+38
+00:02:05,295 --> 00:02:07,749
+也是在五六十年代重塑了
+and the guy responsible for reshaping
+
+39
+00:02:07,748 --> 00:02:10,467
+大半个曼哈顿的人。
+much of Manhattan during the 50s and 60s.
+
+40
+00:02:10,467 --> 00:02:13,954
+他要这栋楼，不过是为了满足个人的虚荣心。
+He wanted the building as a trophy.
+
+41
+00:02:13,954 --> 00:02:17,537
+此后，在七十年代纽约房地产动荡的年代，所有权辗转易手，
+After him, ownership passed through several investors
+
+42
+00:02:17,537 --> 00:02:21,120
+经过了数位投资者。
+during the 70s, New York's turbulent real estate era.
+
+43
+00:02:21,120 --> 00:02:26,635
+2008年，这栋楼最终落入一家阿布扎比投资基金之手；
+Eventually, in 2008, it ended up owned by an Abu Dhabi investment fund.
+
+44
+00:02:26,635 --> 00:02:29,198
+此后RFR接手，却在2024年贷款违约，
+RFR then defaulted on their loans
+
+45
+00:02:29,199 --> 00:02:31,840
+进入破产接管程序。
+and went into receiverhip in 2024.
+
+46
+00:02:32,640 --> 00:02:36,652
+截至2025年，这栋楼实际上已由RFR的债权人控制，
+As of 2025, it's effectively controlled by RFR's lenders,
+
+47
+00:02:36,652 --> 00:02:39,679
+再度挂牌待售。
+and the building is once again up for sale.
+
+48
+00:02:40,879 --> 00:02:44,717
+RFR贷款违约的部分原因，
+Part of the reason for RFR defaulting on their loans
+
+49
+00:02:44,717 --> 00:02:47,152
+是地租变得极为高昂。
+was because the rent for the land
+
+50
+00:02:47,152 --> 00:02:49,440
+是地租变得极为高昂。
+became so incredibly expensive.
+
+51
+00:02:51,120 --> 00:02:53,781
+1902年，克莱斯勒大厦尚未建成，
+In 1902, before the Chrysler building
+
+52
+00:02:53,781 --> 00:02:57,592
+今天我们熟悉的纽约也还未成形，
+and before well much of New York as we know it today,
+
+53
+00:02:57,592 --> 00:03:00,972
+这块地被库珀联盟买了下来。
+this parcel of land was bought by Kooper Union.
+
+54
+00:03:00,972 --> 00:03:07,969
+库珀联盟是一所私立学院，由实业家兼慈善家彼得·库珀于1859年创办，
+Kooper Union was a private college founded in 1859 by the industrialist and philanthropist Peter Cooper.
+
+55
+00:03:07,969 --> 00:03:09,651
+颇具讽刺意味的是，
+It was known, ironically,
+
+56
+00:03:09,651 --> 00:03:12,880
+它以建筑和工程专业著称。
+for its schools in architecture and engineering.
+
+57
+00:03:13,840 --> 00:03:17,551
+购入这块土地，是为了给学院筹集资金。
+The land was bought as a way to help fund the college.
+
+58
+00:03:17,551 --> 00:03:19,302
+多年来，凭借这项资产和地租收入，
+Because of this asset and the rent,
+
+59
+00:03:19,302 --> 00:03:21,153
+他们积累了数以亿计的资金。
+they've been able to collect millions
+
+60
+00:03:21,154 --> 00:03:23,105
+他们积累了数以亿计的资金。
+and millions of dollars over the years.
+
+61
+00:03:23,105 --> 00:03:25,308
+正是靠着这笔钱，
+They are able or have been able
+
+62
+00:03:25,308 --> 00:03:26,943
+这所学校长期以来得以免费招收学生。
+to keep the school free
+
+63
+00:03:26,943 --> 00:03:28,080
+这所学校长期以来得以免费招收学生。
+for a long time.
+
+64
+00:03:28,080 --> 00:03:30,135
+>> 当楼的所有权转手，
+>> This land leasing agreement continued
+
+65
+00:03:30,135 --> 00:03:32,960
+这份土地租赁协议也随之延续了下来。
+when the choir of the building was sold to a new owner.
+
+66
+00:03:32,960 --> 00:03:38,399
+不仅延续，租金还大幅上涨。
+In fact, not only did it continue, but it increased a lot.
+
+67
+00:03:39,200 --> 00:03:46,729
+如今，谁拥有这栋楼，就要每年向库珀联盟缴纳3250万美元的租金——
+Today, whoever owns the building has to pay $32.5 million US to Kooper Union annually,
+
+68
+00:03:46,729 --> 00:03:49,531
+这个数字还在上涨：
+and that number is set to go up.
+
+69
+00:03:49,531 --> 00:03:52,858
+2028年增至4100万，
+By 2028, it's going to be $41 million,
+
+70
+00:03:52,858 --> 00:03:55,747
+2038年将达5500万。
+and by 2038, it'll be 55 million.
+
+71
+00:03:55,747 --> 00:04:01,628
+最初，克莱斯勒大厦的业主主要靠出租办公室盈利。
+Originally, the owner of the Chrysler building mostly made a profit by leasing out the offices.
+
+72
+00:04:01,628 --> 00:04:03,733
+但或许令人意外的是，
+But perhaps somewhat surprisingly,
+
+73
+00:04:03,733 --> 00:04:07,200
+如今已经没有人想在这里租办公室了。
+no one wants an office in the Chrysler building anymore.
+
+74
+00:04:07,200 --> 00:04:10,141
+至少在现有状态下是这样。
+at least not in its current state.
+
+75
+00:04:10,141 --> 00:04:11,368
+入住率低迷，
+So with occupancy low,
+
+76
+00:04:11,368 --> 00:04:13,041
+业主无法收取足够的租金
+the owners can't charge enough
+
+77
+00:04:13,041 --> 00:04:15,439
+来覆盖支付给库珀联盟的地租。
+to cover the rent they owe to Cooper Union.
+
+78
+00:04:15,439 --> 00:04:17,787
+>> 几十年来，这栋楼时不时地被挂牌出售。
+>> It's been on and off the market over decades.
+
+79
+00:04:17,787 --> 00:04:19,793
+我认为它是纽约房地产奢靡与腐朽的缩影。
+I think it's a building that encapsulates
+
+80
+00:04:19,793 --> 00:04:23,120
+我认为它是纽约房地产奢靡与腐朽的缩影。
+everything that is decadent and depraved about New York real estate.
+
+81
+00:04:23,120 --> 00:04:28,639
+它吸引并持续吸引着来自世界各地的全球资本。
+It pulls in and has pulled in global capital from every corner of the world.
+
+82
+00:04:28,639 --> 00:04:31,088
+它让一些市场上最大的玩家——
+It has been the source of severe distress
+
+83
+00:04:31,088 --> 00:04:35,687
+无论是国内还是国际——深陷困境。
+for some of the biggest players in the market both domestically and globally.
+
+84
+00:04:35,687 --> 00:04:37,120
+它就是一块烫手山芋。
+It's just a tough asset.
+
+85
+00:04:37,360 --> 00:04:40,458
+>> 光是上面这些问题就够棘手了，
+>> All of this is pretty damning as it stands,
+
+86
+00:04:40,458 --> 00:04:43,152
+但还有一个更迫切的挑战——
+but there's a more pressing issue still.
+
+87
+00:04:43,151 --> 00:04:47,663
+这座装饰艺术风格的标志性杰作，
+The iconic Chrysler building, a standout example of art deco style,
+
+88
+00:04:47,663 --> 00:04:49,279
+亟需大规模修缮。
+needs some serious work.
+
+89
+00:04:50,080 --> 00:04:55,280
+想想它已经将近百年，这或许并不让人意外。
+When you consider that it's almost a century old, that perhaps comes as no surprise.
+
+90
+00:04:55,280 --> 00:04:58,594
+据内部报道，水龙头流出棕色的水，
+Internally, there are reports of brown tap water,
+
+91
+00:04:58,594 --> 00:04:59,947
+电梯频频停运，
+lifts breaking down,
+
+92
+00:04:59,946 --> 00:05:02,719
+电气系统也不达标。
+and electrical work that's not up to par.
+
+93
+00:05:02,800 --> 00:05:05,625
+纽约的"埃菲尔铁塔"正在分崩离析，
+New York's Eiffel Tower is falling apart,
+
+94
+00:05:05,625 --> 00:05:06,796
+却好像没有人愿意站出来负责。
+and it feels like
+
+95
+00:05:06,797 --> 00:05:09,760
+却好像没有人愿意站出来负责。
+no one wants to take responsibility for it.
+
+96
+00:05:11,199 --> 00:05:12,073
+无论接下来会发生什么，
+Whatever happens,
+
+97
+00:05:12,073 --> 00:05:14,386
+无论谁最终买下克莱斯勒大厦，
+whoever ends up buying the Chrysler building,
+
+98
+00:05:14,386 --> 00:05:17,471
+一场大规模的翻新工程都在所难免。
+some serious renovation work is going to have to take place.
+
+99
+00:05:17,471 --> 00:05:21,568
+建筑行业有句老话：量两次，再下锯。
+There's a saying in construction, measure twice and cut once.
+
+100
+00:05:21,568 --> 00:05:25,108
+对于这样一个项目，这句话再重要不过了。
+And with a project like this, that could not be more important.
+
+101
+00:05:25,108 --> 00:05:27,704
+在任何施工开始之前，
+Before any construction work can commence,
+
+102
+00:05:27,704 --> 00:05:29,805
+团队必须彻底搞清楚
+it's vital that construction teams
+
+103
+00:05:29,805 --> 00:05:33,884
+这栋传奇建筑内部的真实情况。
+understand exactly what's going on inside this legendary building.
+
+104
+00:05:33,884 --> 00:05:35,305
+但问题恰恰在于此。
+But that's the problem.
+
+105
+00:05:35,305 --> 00:05:37,053
+我们面对的是将近一个世纪前绘制的蓝图，
+We're talking about blueprints
+
+106
+00:05:37,053 --> 00:05:39,326
+加上数十年来大大小小的维修改造积累。
+that were drawn up nearly a century ago
+
+107
+00:05:39,326 --> 00:05:42,298
+加上数十年来大大小小的维修改造积累。
+with decades of maintenance and alterations on top.
+
+108
+00:05:42,297 --> 00:05:45,041
+而这正是实景捕捉技术大显身手的地方。
+But that's where Reality Capture moves the needle.
+
+109
+00:05:45,042 --> 00:05:49,470
+也正是颠覆性的 FJD Trion 系统发挥作用之处。
+And it's exactly how the game-changing FJD Trion ecosystem comes in.
+
+110
+00:05:49,470 --> 00:05:52,401
+无需依赖过时的文档，
+Instead of relying on outdated documentation,
+
+111
+00:05:52,401 --> 00:05:57,090
+施工团队可以手持扫描仪在现场行走，捕捉建筑的真实现状——
+teams can walk the site with a scanner and capture realworld conditions,
+
+112
+00:05:57,090 --> 00:06:01,974
+所有人都基于同一份最新数据工作。
+which means everyone's working from the same up-to-date version of reality.
+
+113
+00:06:01,973 --> 00:06:06,053
+对于这样一个体量大、结构复杂、要求高的项目，
+For a project like this, large, complex, and demanding,
+
+114
+00:06:06,053 --> 00:06:09,466
+S2 激光扫描仪可能真的能救场。
+the S2 liar scanner could really save the day.
+
+115
+00:06:09,466 --> 00:06:11,643
+它能在周围环境的大背景下捕捉建筑外立面，
+It can capture the facade of a building
+
+116
+00:06:11,643 --> 00:06:13,597
+适用于大尺度和多层级的复杂环境。
+in the context of its surroundings,
+
+117
+00:06:13,597 --> 00:06:16,444
+适用于大尺度和多层级的复杂环境。
+including large scale and multi-level environments.
+
+118
+00:06:16,444 --> 00:06:19,461
+所有这些数据都以丰富的细节被记录下来，
+All of this data is recorded in rich detail
+
+119
+00:06:19,461 --> 00:06:22,549
+并集成 GNSS 用于地理参考定位。
+with integrated GNSS for geo reference data.
+
+120
+00:06:22,549 --> 00:06:27,821
+如果你手头的项目没有克莱斯勒大厦那么棘手，FJD Trion 同样有解决方案——
+And if you're working on something a little less challenging than the Chrysler building,
+
+121
+00:06:27,821 --> 00:06:34,530
+P2 激光扫描仪在精度和灵活性之间取得了极佳的平衡。
+FJD Trion has got that covered too. The P2 LAR scanner offers a really strong balance of detail and flexibility.
+
+122
+00:06:34,530 --> 00:06:37,942
+对于规模较小的项目，V4E 激光雷达扫描仪则提供了一种更简便、更经济的实景捕捉方式，
+Or for smaller projects, the V4E lidar scanner gives teams
+
+123
+00:06:37,942 --> 00:06:41,765
+不会让流程变得过于复杂。
+a more straightforward and budget friendly way to capture reality
+
+124
+00:06:41,765 --> 00:06:44,000
+不会让流程变得过于复杂。
+without over complicating the process.
+
+125
+00:06:44,000 --> 00:06:45,577
+借助 FJD Trion 系统，
+With the FJD trial model,
+
+126
+00:06:45,577 --> 00:06:47,974
+扫描数据可以轻松处理成
+that scan data can be easily processed
+
+127
+00:06:47,974 --> 00:06:51,380
+与项目工作流无缝对接的成果。
+into outputs that fit directly into project workflows.
+
+128
+00:06:51,380 --> 00:06:53,895
+甚至还支持一键导入 Revit，
+There's even one-click Revit integration,
+
+129
+00:06:53,895 --> 00:06:56,165
+让扫描转 BIM 的过程更加顺畅，
+which makes scan to BIM much smoother
+
+130
+00:06:56,164 --> 00:06:58,618
+大幅减少以往的繁琐步骤。
+and removes a lot of the usual friction.
+
+131
+00:06:58,618 --> 00:07:00,007
+你可以扫描屏幕上的二维码，
+You can try it for yourself
+
+132
+00:07:00,007 --> 00:07:01,705
+或点击简介中的链接，亲自体验一下。
+by scanning the QR code on screen
+
+133
+00:07:01,705 --> 00:07:03,866
+或点击简介中的链接，亲自体验一下。
+or heading to the link in the description.
+
+134
+00:07:03,866 --> 00:07:08,240
+对于保护历史建筑而言，这样的技术至关重要。
+Technology like this is vital for retaining historic buildings.
+
+135
+00:07:08,240 --> 00:07:13,279
+在修缮一栋建筑之前，我们必须透彻了解它的运作方式。
+Before we can fix a building, we have to understand exactly how it works.
+
+136
+00:07:13,440 --> 00:07:16,874
+而要做到这一点，
+And to do that at the Chrysler building,
+
+137
+00:07:16,874 --> 00:07:19,192
+就得把克莱斯勒大厦的故事从头说起。
+we've got to go all the way
+
+138
+00:07:19,191 --> 00:07:21,080
+就得把克莱斯勒大厦的故事从头说起。
+back to the beginning.
+
+139
+00:07:22,080 --> 00:07:24,719
+这是一个带着几分悲剧色彩的故事。
+This story is a bit of a tragedy.
+
+140
+00:07:24,719 --> 00:07:30,208
+克莱斯勒大厦的诞生，与它如今黯淡的处境形成了鲜明反差——
+The origins of the Kryer building don't exactly match its less than stellar present.
+
+141
+00:07:30,208 --> 00:07:32,038
+它是狂飙二十年代的王冠。
+This structure was the crown
+
+142
+00:07:32,037 --> 00:07:33,279
+它是狂飙二十年代的王冠。
+of the roaring 20s.
+
+143
+00:07:35,440 --> 00:07:39,421
+曼哈顿市民满心期待地仰望着它一点点刺破天际，
+Manhattanites watched it soar up their skyline with anticipation,
+
+144
+00:07:39,421 --> 00:07:40,952
+而它的设计与高度，
+but its design and height
+
+145
+00:07:40,952 --> 00:07:43,524
+正是一场激烈角逐的产物。
+were the result of an intense competition.
+
+146
+00:07:44,405 --> 00:07:50,159
+那是两位昔日合伙人、建筑师克雷格·塞弗伦斯与威廉·范艾伦之间的对决。
+The rivalry of two business partners, architects Craig Severance and William Van Allen.
+
+147
+00:07:50,399 --> 00:07:54,440
+塞弗伦斯揽下了曼哈顿公司大楼
+Severance landed the commission for the Manhattan Company building
+
+148
+00:07:54,440 --> 00:07:56,277
+（即今天的华尔街40号）的委托，
+known today as 40 Wall Street,
+
+149
+00:07:56,277 --> 00:07:59,828
+范艾伦则受雇设计克莱斯勒大厦。
+while Van Allen was hired to design the Chrysler building.
+
+150
+00:07:59,829 --> 00:08:05,520
+接下来发生的，已经不只是商业竞争，而是一场争夺纽约天际线制高点的战役。
+What followed wasn't just business. It was a battle to dominate New York City's skyline.
+
+151
+00:08:06,879 --> 00:08:11,600
+两位建筑师都卯足了劲，争着建出地球上最高的楼。
+Both architects were locked in a race to deliver the tallest building on Earth.
+
+152
+00:08:12,479 --> 00:08:15,922
+随着钢铁骨架在下曼哈顿和中城区同步攀升，
+And as the steel climbed in lower Manhattan and Midtown,
+
+153
+00:08:15,922 --> 00:08:16,844
+谁都看得出来，两人都不肯认输。
+it became clear
+
+154
+00:08:16,845 --> 00:08:19,120
+谁都看得出来，两人都不肯认输。
+that neither man was willing to lose.
+
+155
+00:08:22,240 --> 00:08:27,680
+两栋大楼同时拔高，竞争愈演愈烈——设计方案遭到泄露，
+As both towers rose, the rivalry turned ruthless. Plans were leaked.
+
+156
+00:08:27,680 --> 00:08:29,182
+图纸被人暗中钻研。
+Drawings were scrutinized.
+
+157
+00:08:29,182 --> 00:08:31,975
+双方都在盯着对方，拼命想找到突破口。
+Each side watched the other, desperate for an edge.
+
+158
+00:08:31,974 --> 00:08:33,418
+华尔街40号孤注一掷，
+At 40 Wall Street,
+
+159
+00:08:33,418 --> 00:08:37,429
+大胆加盖了额外的楼层，
+extra floors were piled on in a bold and risky bid
+
+160
+00:08:37,429 --> 00:08:41,279
+就为了压过曼哈顿的对手。
+to try and outdo the building's Manhattan rival.
+
+161
+00:08:41,279 --> 00:08:44,800
+这栋楼的结构已被推到地基承载的极限。
+The structure was pushed close to the limits of its foundations.
+
+162
+00:08:44,800 --> 00:08:46,961
+而这个赌注，短暂地奏效了。
+And for a brief moment, it worked.
+
+163
+00:08:46,961 --> 00:08:49,009
+1930年竣工时，
+When it was completed in 1930,
+
+164
+00:08:49,009 --> 00:08:51,672
+华尔街40号是全球最高的建筑。
+40 Wall Street was the tallest building
+
+165
+00:08:51,672 --> 00:08:52,560
+华尔街40号是全球最高的建筑。
+in the world.
+
+166
+00:08:53,600 --> 00:08:54,886
+但也就高了大约一个月——
+for about a month
+
+167
+00:08:54,886 --> 00:08:57,912
+因为中城区的克莱斯勒大厦，
+because uptown at the Chrysler building,
+
+168
+00:08:57,911 --> 00:09:00,105
+范艾伦还藏着最后一招。
+Van Allen had one final move.
+
+169
+00:09:00,105 --> 00:09:06,616
+皇冠内部隐藏着一根秘密塔尖，分段秘密组装，不露声色。
+Hidden inside the crown was a secret spire assembled in sections out of sight.
+
+170
+00:09:06,616 --> 00:09:09,156
+就在华尔街40号封顶之际，
+Once 40 Wall Street had topped out,
+
+171
+00:09:09,156 --> 00:09:12,494
+克莱斯勒大厦的塔尖从顶部穿出，
+the spire of the Chrysler building was hoisted
+
+172
+00:09:12,494 --> 00:09:15,542
+锁定就位，一举增高36米。
+up through the roof and locked into place,
+
+173
+00:09:15,541 --> 00:09:17,791
+锁定就位，一举增高36米。
+adding 36 m in a single stroke.
+
+174
+00:09:17,790 --> 00:09:21,520
+一夜之间，克莱斯勒大厦戴上了属于自己的王冠。
+Overnight, the Krysler building claimed its crown.
+
+175
+00:09:23,519 --> 00:09:27,458
+但让世界为之倾倒的，不只是它的高度。
+But it wasn't just its height that captured the world's imagination.
+
+176
+00:09:27,458 --> 00:09:32,160
+沃尔特·克莱斯勒要求范艾伦加入多处汽车元素——
+Walter Krysler had asked Van Allen for several carcentric amendments.
+
+177
+00:09:32,160 --> 00:09:34,477
+外立面的石像鬼造型
+There were gargoyles on the facade
+
+178
+00:09:34,477 --> 00:09:37,680
+取自普利茅斯的引擎盖装饰，
+inspired by the hood ornaments on the Plymouth.
+
+179
+00:09:38,080 --> 00:09:43,272
+31层的装饰则仿照了克莱斯勒汽车的散热器盖帽。
+Similarly, ornaments on the 31st floor were modeled off Chrysler radiator caps.
+
+180
+00:09:43,272 --> 00:09:50,960
+还有那顶皇冠——放眼古今，没有任何一座摩天楼的顶部能与之媲美。
+Then there's the crown, unlike any other crown on any other skyscraper before or since.
+
+181
+00:09:52,160 --> 00:09:56,385
+那标志性的星芒造型，以诺拉不锈钢包裹；
+The iconic Starburst wrapped in Nora stainless steel.
+
+182
+00:09:56,385 --> 00:09:58,856
+放射状的三角拱门，
+The triangular radiating arches
+
+183
+00:09:58,856 --> 00:10:03,399
+宛如克莱斯勒同时代汽车的轮毂盖造型。
+resemble stylized hub caps from Chrysler cars of the era.
+
+184
+00:10:03,399 --> 00:10:07,733
+这栋楼以世界第一高楼的地位矗立了339天。
+The building was the tallest in the world for 339 days.
+
+185
+00:10:08,613 --> 00:10:13,580
+随后，它被赶超了——就像之前的华尔街40号一样。
+It was then eclipsed just like 40 Wall Street before it.
+
+186
+00:10:13,580 --> 00:10:17,040
+这一次，是帝国大厦。
+This time by the Empire State Building.
+
+187
+00:10:19,680 --> 00:10:24,712
+今天，客观地说，克莱斯勒大厦已经失去了一些往日的光彩。
+Today, it's fair to say the Chrysler building has lost some of its shine.
+
+188
+00:10:24,712 --> 00:10:27,888
+周边中城区的天际线已今非昔比，
+The surrounding Midtown skyline has evolved
+
+189
+00:10:27,888 --> 00:10:32,320
+更现代、更大体量的写字楼不断涌现，抢走了大批租户。
+with glossier, larger office buildings drawing tenants away.
+
+190
+00:10:32,320 --> 00:10:36,351
+曾经是建筑美学代名词的它，如今却面临大量办公和零售空间空置的困境，
+Once a symbol of architectural glamour, the building now suffers
+
+191
+00:10:36,351 --> 00:10:38,556
+底层和大堂相当一部分区域长期闲置、
+from empty office and retail spaces
+
+192
+00:10:38,556 --> 00:10:42,335
+利用率极低。
+with large portions of the ground floor and lobby unoccupied
+
+193
+00:10:42,335 --> 00:10:43,217
+利用率极低。
+and underused.
+
+194
+00:10:43,217 --> 00:10:43,280
+利用率极低。
+
+
+195
+00:10:44,640 --> 00:10:47,804
+租户和访客反映，内部装修陈旧、
+Tenants and visitors report outdated interiors,
+
+196
+00:10:47,804 --> 00:10:51,237
+维护问题频出、现代化设施匮乏，
+maintenance issues, and a lack of modern amenities,
+
+197
+00:10:51,237 --> 00:10:54,805
+使其与中城区的新式写字楼相比愈发缺乏竞争力。
+making it less competitive with newer Midtown towers.
+
+198
+00:10:54,805 --> 00:10:57,670
+这是一栋很了不起的楼，但它太需要人用心维护了。
+This is a great building, but it also needs a lot of love.
+
+199
+00:10:57,670 --> 00:11:01,393
+要在21世纪与周围那些新建楼盘争抢顶级租户，这栋楼需要大量的改造工程。
+Like, it needs a lot of work to be brought into the 21st century
+
+200
+00:11:01,393 --> 00:11:03,546
+要在21世纪与周围那些新建楼盘争抢顶级租户，这栋楼需要大量的改造工程。
+so that it can compete for A+ tenants
+
+201
+00:11:03,546 --> 00:11:07,560
+要在21世纪与周围那些新建楼盘争抢顶级租户，这栋楼需要大量的改造工程。
+with the likes of all these new buildings popping up around New York.
+
+202
+00:11:07,560 --> 00:11:10,244
+你知道，从外观上看它依然令人惊艳，
+You know, it's a gorgeous building to look at,
+
+203
+00:11:10,244 --> 00:11:12,111
+但你会愿意在这里办公吗？
+but would you want to work here?
+
+204
+00:11:12,111 --> 00:11:13,920
+嗯……说实话，目前可能不太会。
+H maybe right now, not so much.
+
+205
+00:11:14,000 --> 00:11:18,042
+尽管克莱斯勒大厦已被列为遗产建筑和全国历史地标，
+Despite its heritage listing and its status as a national historic landmark,
+
+206
+00:11:18,042 --> 00:11:21,127
+但它实际上得不到任何政府的历史保护或维护资金。
+the Chrysler building doesn't actually receive any funding
+
+207
+00:11:21,127 --> 00:11:24,372
+但它实际上得不到任何政府的历史保护或维护资金。
+from the government for historic preservation or maintenance.
+
+208
+00:11:24,372 --> 00:11:28,933
+所有的费用，全部由业主自己承担。
+Instead, that bill sits entirely with the building's owner.
+
+209
+00:11:28,933 --> 00:11:33,339
+而鉴于这栋楼需要大量维护，
+And given that this building needs quite a lot of upkeep,
+
+210
+00:11:33,339 --> 00:11:35,040
+这笔账不是小数目。
+that bill isn't small.
+
+211
+00:11:35,680 --> 00:11:40,319
+大厅天花板已经腐化，常常打着胶带凑合。
+There's the deteriorated lobby ceiling, which is often times covered in tape.
+
+212
+00:11:40,320 --> 00:11:42,539
+旋转门动不动就卡死。
+The revolving doors regularly jam.
+
+213
+00:11:42,539 --> 00:11:44,977
+电梯故障频发，
+The lifts are prone to malfunctioning
+
+214
+00:11:44,977 --> 00:11:48,800
+甚至还有鼠患和其他虫害的报告。
+and there are even reports of mice and other infestations.
+
+215
+00:11:48,800 --> 00:11:52,947
+鼠患对大城市里的建筑来说是常见问题，
+While mice are a common problem for any building in a big city,
+
+216
+00:11:52,947 --> 00:11:54,987
+但持续的虫害问题，
+ongoing pest control challenges
+
+217
+00:11:54,987 --> 00:11:58,673
+折射出现代密封和维护层面的明显漏洞。
+kind of point to gaps in modern ceiling and maintenance.
+
+218
+00:11:58,673 --> 00:12:02,195
+而更大的问题，集中在外立面。
+But much of the bigger issues are to do with the exterior.
+
+219
+00:12:02,194 --> 00:12:08,597
+那根标志性的、当年一举夺魁的塔尖正在漏水，亟需修复。
+That iconic record stealing spire is leaking and in desperate need of restoration.
+
+220
+00:12:08,598 --> 00:12:11,276
+原装的1930年代钢框架窗和砌体外墙漏风严重，
+The original 1930s steel framed windows
+
+221
+00:12:11,276 --> 00:12:16,358
+隔热性极差。我之前提到的棕色水问题，
+and masonry walls leak air and unsurprisingly are pretty poorly insulated.
+
+222
+00:12:16,358 --> 00:12:20,890
+很可能是管道腐蚀或供水故障所致。
+I mentioned those reports of brown water a couple of times earlier
+
+223
+00:12:20,891 --> 00:12:24,599
+很可能是管道腐蚀或供水故障所致。
+and that's probably due to corrosion or supply issues.
+
+224
+00:12:24,679 --> 00:12:27,740
+问题来了：克莱斯勒大厦，
+The question becomes, is the Chrysler building
+
+225
+00:12:27,740 --> 00:12:30,402
+如今还是顶级租户愿意
+a worldass place where a top tier tenant
+
+226
+00:12:30,402 --> 00:12:31,799
+一掷千金的世界级场所吗？
+would pay top dollar?
+
+227
+00:12:31,799 --> 00:12:34,394
+目前的答案是：完全不是。
+And the answer at the moment is absolutely not.
+
+228
+00:12:34,394 --> 00:12:35,416
+所以，任何新业主进场，
+So any new owner
+
+229
+00:12:35,416 --> 00:12:38,226
+都必须同时接受这栋楼升级改造的经济成本，
+that's coming in has to also kind of sign up
+
+230
+00:12:38,226 --> 00:12:41,036
+以及处理那一堆令人头疼的麻烦事。
+for both the financial and brain damage cost
+
+231
+00:12:41,036 --> 00:12:45,124
+以及处理那一堆令人头疼的麻烦事。
+of upgrading the building and bringing it into the 21st century.
+
+232
+00:12:45,204 --> 00:12:46,375
+据估算，
+And their estimate
+
+233
+00:12:46,375 --> 00:12:49,237
+要让这栋楼重焕生机，大约需要1.5亿到2亿美元。
+is this is going to be a 150 to $200 million
+
+234
+00:12:49,237 --> 00:12:51,643
+要让这栋楼重焕生机，大约需要1.5亿到2亿美元。
+job to get this building up to snuff.
+
+235
+00:12:51,643 --> 00:12:53,819
+由于这栋楼已被列为地标建筑，
+Because the building is landmarked,
+
+236
+00:12:53,819 --> 00:12:55,808
+任何外部或内部改动
+any exterior or interior changes
+
+237
+00:12:55,808 --> 00:12:59,973
+都需要获得纽约市地标保护委员会的批准。
+require approval from the city's landmarks preservation commission.
+
+238
+00:12:59,973 --> 00:13:01,643
+好，在继续
+Now, before we go any further
+
+239
+00:13:01,643 --> 00:13:02,737
+今天的视频之前，
+with today's video,
+
+240
+00:13:02,737 --> 00:13:04,234
+我需要先暂停一下，
+we need to stop everything
+
+241
+00:13:04,234 --> 00:13:06,364
+因为我有一个非常重大的消息，
+because I have got some very big news
+
+242
+00:13:06,364 --> 00:13:08,379
+终于可以分享了。
+that I am finally allowed to share.
+
+243
+00:13:08,379 --> 00:13:13,827
+去年，企鹅兰登书屋问我是否愿意出版一本书。我说，好。
+Last year, Penguin Random House asked me if I'd like to write a book. I said yes.
+
+244
+00:13:13,827 --> 00:13:15,197
+我写了一本书，
+I've written a book
+
+245
+00:13:15,197 --> 00:13:16,279
+就是这本——书名叫《超级工程》
+and here it is.
+
+246
+00:13:16,279 --> 00:13:18,082
+（Mega Builds）。
+It is called Mega Builds:
+
+247
+00:13:18,081 --> 00:13:22,480
+（Mega Builds）。
+10 Colossal Construction Projects that will change our world.
+
+248
+00:13:22,480 --> 00:13:23,902
+过去十年，
+Over the last 10 years,
+
+249
+00:13:23,902 --> 00:13:25,571
+我亲眼目睹了
+I have had a front row seat
+
+250
+00:13:25,571 --> 00:13:29,280
+这个星球上一些最令人叹为观止的建造项目，
+some of this planet's most incredible construction projects,
+
+251
+00:13:29,280 --> 00:13:30,825
+它们都写进了这本书。
+and they are all in here.
+
+252
+00:13:30,825 --> 00:13:32,337
+我把它们一一写了下来。
+I've written about them.
+
+253
+00:13:32,337 --> 00:13:34,902
+比任何一期视频、任何一篇报道、任何一部长纪录片都深入。
+I've gone deeper than I've ever gone before
+
+254
+00:13:34,902 --> 00:13:35,976
+比任何一期视频、任何一篇报道、任何一部长纪录片都深入。
+in any video story
+
+255
+00:13:35,975 --> 00:13:38,480
+比任何一期视频、任何一篇报道、任何一部长纪录片都深入。
+or any kind of like long form documentary.
+
+256
+00:13:38,959 --> 00:13:40,728
+这是幕后故事。
+This is behind the scenes.
+
+257
+00:13:40,728 --> 00:13:43,487
+是近距离的真实体验，是与一线团队的真实接触。
+It's up close and personal. It meets the teams.
+
+258
+00:13:43,486 --> 00:13:44,572
+是一个个关于人的故事。
+It's the human stories.
+
+259
+00:13:44,572 --> 00:13:46,237
+是工程细节。
+It's the engineering in detail.
+
+260
+00:13:46,237 --> 00:13:47,678
+是我的亲身经历，
+It's my personal experiences
+
+261
+00:13:47,678 --> 00:13:50,199
+以及在深入这些项目过程中遭遇的种种意外。
+and some of the calamities I've had along the way
+
+262
+00:13:50,199 --> 00:13:52,103
+写这本书，我真的很享受。
+getting up close with these projects.
+
+263
+00:13:52,103 --> 00:13:53,904
+写这本书，我真的很享受。
+I have really enjoyed writing this.
+
+264
+00:13:54,065 --> 00:13:56,184
+我有几个朋友问我："哦，不错啊，
+Some of my mates have been like, "Oh, nice.
+
+265
+00:13:56,185 --> 00:13:58,909
+找谁代笔的？"没有人代笔。
+Who uh who ghost wrote that for you?" No one.
+
+266
+00:13:58,909 --> 00:14:02,000
+我请不起什么高级代笔作家——是我自己写的。
+I can't afford a fancy ghost writer. Me. I wrote this.
+
+267
+00:14:02,000 --> 00:14:03,019
+书里每一个字，
+Every single word
+
+268
+00:14:03,019 --> 00:14:04,757
+都是从我脑子里来的，
+of this has come from my head
+
+269
+00:14:04,757 --> 00:14:07,094
+经过我的键盘，最终进入这本书。
+into my laptop and then into this book.
+
+270
+00:14:07,094 --> 00:14:09,126
+全都是为了让你读个过瘾。
+All for your reading pleasure.
+
+271
+00:14:09,126 --> 00:14:11,380
+说真的，我以前从没想过自己能写一本书，但我做到了。
+Guys, I never thought I could write a book, but I have.
+
+272
+00:14:11,380 --> 00:14:14,311
+当然，我肯定有偏见，但我真的觉得这本书还挺不错的。
+And obviously, I'm biased, but I actually kind of think it's quite good.
+
+273
+00:14:14,311 --> 00:14:17,680
+现在已经可以预购了，链接就在下方。
+It is available to pre-order now. The link is below.
+
+274
+00:14:17,680 --> 00:14:19,600
+预购非常重要。
+Pre-ordering is incredibly important.
+
+275
+00:14:19,600 --> 00:14:23,760
+基本上，我未来的幸福，全押在你们是否预购这本书上了。
+Basically, my entire future happiness depends on you pre-ordering this book.
+
+276
+00:14:23,760 --> 00:14:25,198
+所以，如果你喜欢 B1M，
+So guys, if you love the B1M,
+
+277
+00:14:25,198 --> 00:14:26,487
+如果你喜欢这些故事，
+if you love these stories,
+
+278
+00:14:26,486 --> 00:14:29,758
+如果你喜欢用接地气的方式
+if you love learning more about construction in a downto-earth way
+
+279
+00:14:29,758 --> 00:14:32,336
+了解建造行业，
+that's easy to understand and can be read by anyone,
+
+280
+00:14:32,336 --> 00:14:38,120
+快去预购我的新书《超级工程》吧。
+go and pre-order my book, Mega Builds, today.
+
+281
+00:14:39,360 --> 00:14:41,646
+那么，有没有把老旧标志性建筑改造成现代化场所的成功经验
+So, where is there some experience
+
+282
+00:14:41,646 --> 00:14:44,066
+可以借鉴？
+of retrofitting old iconic buildings
+
+283
+00:14:44,066 --> 00:14:45,612
+可以借鉴？
+to suit the modern day?
+
+284
+00:14:45,613 --> 00:14:45,680
+可以借鉴？
+
+
+285
+00:14:45,680 --> 00:14:51,120
+不如看看一座历史建筑密集的城市——
+Well, let's look to a city absolutely jam-packed with huge historic buildings.
+
+286
+00:14:51,760 --> 00:14:53,519
+伦敦。
+London.
+
+287
+00:14:53,519 --> 00:14:58,008
+近年来最著名的案例之一，是巴特西发电站。
+One of the most famous examples in recent times is Batsy Power Station.
+
+288
+00:14:58,008 --> 00:14:59,319
+你也许认识它——
+You might recognize it
+
+289
+00:14:59,319 --> 00:15:01,583
+它出现在平克·弗洛伊德专辑《动物》的封面上，
+from the cover of Pink Floyd's Animals
+
+290
+00:15:01,583 --> 00:15:04,622
+也曾作为废墟出现在《蝙蝠侠：黑暗骑士》中。
+or when it was used as wreckage in the Dark Knight.
+
+291
+00:15:04,622 --> 00:15:08,458
+对许多伦敦人来说，最熟悉的恐怕正是那副废墟模样，
+It's the last part that many Londoners are going to be familiar
+
+292
+00:15:08,458 --> 00:15:11,685
+因为整个21世纪的大半时间里，
+with because for the better part of the 21st century,
+
+293
+00:15:11,685 --> 00:15:12,964
+这座欧洲最大的砖砌建筑
+this iconic building,
+
+294
+00:15:12,964 --> 00:15:15,643
+就那样被废弃着。
+the largest brick building in all of Europe,
+
+295
+00:15:15,643 --> 00:15:16,800
+就那样被废弃着。
+was left abandoned.
+
+296
+00:15:17,040 --> 00:15:19,678
+巴特西发电站之所以没有被拆除，
+Battery power station wasn't demolished
+
+297
+00:15:19,678 --> 00:15:23,196
+主要是因为1980年被授予了二级保护建筑地位。
+largely because it was granted grade 2 listed status
+
+298
+00:15:23,196 --> 00:15:23,737
+主要是因为1980年被授予了二级保护建筑地位。
+in 1980.
+
+299
+00:15:23,737 --> 00:15:26,560
+那层法律保护，意味着修缮。
+That legal protection meant restoration.
+
+300
+00:15:27,920 --> 00:15:31,543
+作为伦敦最具辨识度的工业地标之一，
+As one of London's most recognizable industrial landmarks,
+
+301
+00:15:31,543 --> 00:15:33,105
+它的文化价值
+its cultural significance
+
+302
+00:15:33,105 --> 00:15:34,979
+最终守住了它的未来。
+ultimately secured its future.
+
+303
+00:15:35,059 --> 00:15:37,575
+历经数十年的破败
+Even after decades of dereliction
+
+304
+00:15:37,575 --> 00:15:39,862
+和一系列失败方案，
+and a string of failed schemes
+
+305
+00:15:39,863 --> 00:15:42,532
+通过转型为综合用途目的地，
+by becoming a mixeduse destination,
+
+306
+00:15:42,531 --> 00:15:46,496
+发电站得以自我造血、维持生存。
+the power station was able to fund its own survival.
+
+307
+00:15:46,497 --> 00:15:50,079
+如今，它已成为这座城市一处活力四射的热门打卡地。
+Today, it's a thriving hot spot for this city.
+
+308
+00:15:51,600 --> 00:15:55,999
+而在克莱斯勒大厦不远处，还有更贴近的先例。
+But there are even more apt examples not far from the Chrysler building itself.
+
+309
+00:15:56,320 --> 00:15:59,179
+熨斗大厦于1902年竣工，
+The Flat Iron Building, first completed in 1902
+
+310
+00:15:59,179 --> 00:16:00,578
+最初作为写字楼使用，
+as an office structure,
+
+311
+00:16:00,578 --> 00:16:04,106
+目前正在改造为住宅公寓，
+is currently being retrofitted into residential apartments
+
+312
+00:16:04,106 --> 00:16:07,999
+开发商在充分利用那个著名的三角形平面格局。
+with developers working around the famous triangular floor plan.
+
+313
+00:16:08,720 --> 00:16:11,018
+众所周知，伍尔沃斯大厦
+Notoriously, the Walworth building,
+
+314
+00:16:11,018 --> 00:16:14,564
+也曾是世界第一高楼，
+which was also once the tallest building in the world,
+
+315
+00:16:14,564 --> 00:16:17,716
+它将顶层改建成了豪华顶层公寓，
+converted its top floors into a luxury penthouse
+
+316
+00:16:17,715 --> 00:16:20,079
+并以1.1亿美元的价格售出。
+and then sold that for $110 million.
+
+317
+00:16:21,040 --> 00:16:25,227
+这比美国住宅中位价高出了好几百倍。
+That's more than a few hundred times the US median home price.
+
+318
+00:16:25,227 --> 00:16:26,693
+这是个天文数字，
+It's an insane price tag,
+
+319
+00:16:26,693 --> 00:16:29,450
+但对于解决克莱斯勒大厦的财务困境而言，
+but one that would certainly go a very long way
+
+320
+00:16:29,450 --> 00:16:32,559
+无疑会大有裨益。
+to helping fix the Chrysler building's financial wos.
+
+321
+00:16:33,040 --> 00:16:36,549
+想象一下，住在世界上最著名的那顶王冠里。
+Imagine living inside the most famous crown in the world.
+
+322
+00:16:36,549 --> 00:16:37,906
+伍尔沃斯大厦的
+So, the Woolworth building
+
+323
+00:16:37,906 --> 00:16:40,829
+顶层公寓改造项目闹得人尽皆知，
+famously underwent a condo conversion on the top floors,
+
+324
+00:16:40,830 --> 00:16:43,753
+却是彻头彻尾的失败。
+but it's been a complete disaster of a condo conversion.
+
+325
+00:16:43,753 --> 00:16:46,547
+但也有其他一些案例看起来更有前景。
+There have been others that are seemingly more promising.
+
+326
+00:16:46,547 --> 00:16:52,797
+熨斗大厦，同样是标志性建筑，与纽约天际线紧密相连，
+The Flat Iron Building, again, another iconic building, so synonymous with the New York skyline,
+
+327
+00:16:52,797 --> 00:16:55,596
+正在被改造成精品公寓。
+that is being converted to boutique condos.
+
+328
+00:16:55,596 --> 00:16:59,120
+目前来看，销售情况相当不错。
+And so far, sales have been have been pretty promising.
+
+329
+00:17:00,399 --> 00:17:02,866
+这是一个我们今后会越来越频繁面对的问题。
+This is a problem we're going to see a lot more of.
+
+330
+00:17:02,866 --> 00:17:04,937
+历史上第一次，
+For the first time in history,
+
+331
+00:17:04,937 --> 00:17:07,491
+我们看到了百年摩天楼的出现，
+we're seeing century old skyscrapers,
+
+332
+00:17:07,490 --> 00:17:09,768
+而我们根本不能简单地把它们拆掉。
+and we can't just tear them down.
+
+333
+00:17:09,768 --> 00:17:14,622
+首先，要推倒其中任何一栋都难度极大。
+First off, it would be tremendously difficult to knock down any of these buildings.
+
+334
+00:17:14,622 --> 00:17:17,497
+这些最早的摩天楼都有过度设计的倾向，
+These first skyscrapers were overengineered
+
+335
+00:17:17,497 --> 00:17:19,503
+因为此前从未有人
+because nothing had been built
+
+336
+00:17:19,502 --> 00:17:20,639
+建造过如此之高的建筑。
+that tall before.
+
+337
+00:17:20,880 --> 00:17:23,326
+它们有着巨大的钢铁骨架，
+They have immense steel skeletons
+
+338
+00:17:23,326 --> 00:17:27,255
+外覆砖石和不锈钢，
+and they're clad in brick, stone, and stainless steel
+
+339
+00:17:27,255 --> 00:17:28,960
+极为耐久。
+for intense durability.
+
+340
+00:17:30,240 --> 00:17:33,839
+其次，克莱斯勒大厦这类摩天楼受到法律保护。
+Secondly, skyscrapers like the Chrysler building are protected.
+
+341
+00:17:34,559 --> 00:17:36,303
+即便有人想
+Even if there is a temptation
+
+342
+00:17:36,303 --> 00:17:39,371
+建一栋更高、更多可售空间的新楼来取代它，
+to build something taller with more sellable space,
+
+343
+00:17:39,371 --> 00:17:42,740
+这也只有在原楼彻底无法修缮的情况下
+that can only happen if the building went beyond repair.
+
+344
+00:17:42,740 --> 00:17:42,800
+才有可能。
+
+
+345
+00:17:43,600 --> 00:17:44,895
+更大的可能是，
+It's probably more likely
+
+346
+00:17:44,895 --> 00:17:47,174
+内部会像巴特西发电站或伍尔沃斯大厦一样
+that the interior is going to be retrofitted
+
+347
+00:17:47,174 --> 00:17:49,867
+被翻新改造。
+like Battery Power Station or the Walworth building.
+
+348
+00:17:49,867 --> 00:17:49,919
+被翻新改造。
+
+
+349
+00:17:49,919 --> 00:17:55,470
+>> 我们的确看到了中城某些区域大量办公室改建为住宅的浪潮，对吧？
+>> We've certainly seen a flurry of office to residential conversions in parts of Midtown, right?
+
+350
+00:17:55,470 --> 00:17:56,376
+我们在整个曼哈顿的写字楼市场都看到了这一幕——
+We've seen that
+
+351
+00:17:56,376 --> 00:17:58,550
+写字楼市场现在
+all over the Manhattan office market
+
+352
+00:17:58,550 --> 00:18:00,301
+正处于一个黄金时代。
+is in a golden era right now.
+
+353
+00:18:00,301 --> 00:18:01,086
+净吸纳量——
+Net absorption,
+
+354
+00:18:01,086 --> 00:18:03,755
+也就是新增租用的净面积——
+which means the net amount of space that was leased
+
+355
+00:18:03,755 --> 00:18:06,320
+达到了近四分之一个世纪以来的最高水平。
+is at the highest it's been in a quarter century.
+
+356
+00:18:06,799 --> 00:18:10,400
+>> 这说明办公室回来了，尤其是在中城区。
+>> It means the office is back, especially in Midtown.
+
+357
+00:18:10,400 --> 00:18:14,559
+或许克莱斯勒大厦需要的，只是多一点关爱。
+Maybe all the cries the building needs is a little love.
+
+358
+00:18:14,559 --> 00:18:16,333
+>> 当然，有些事是可以做的，
+>> Now, there are certainly things
+
+359
+00:18:16,333 --> 00:18:19,151
+比如引入一流的餐饮品牌，
+you could do like put in top tier restaurant concepts,
+
+360
+00:18:19,151 --> 00:18:21,134
+或者根据买家是谁、他们能调动什么资源，对零售广场做出一些真正创新性的规划。
+maybe do some really innovative things
+
+361
+00:18:21,134 --> 00:18:23,795
+或者根据买家是谁、他们能调动什么资源，对零售广场做出一些真正创新性的规划。
+with the retail plaza depending on who the buyer is
+
+362
+00:18:23,795 --> 00:18:25,308
+或者根据买家是谁、他们能调动什么资源，对零售广场做出一些真正创新性的规划。
+and what they have access to.
+
+363
+00:18:25,308 --> 00:18:29,120
+但如果作为写字楼来运营，这件事依然可以走通。
+But if you run it as office, you can still make this work.
+
+364
+00:18:29,120 --> 00:18:32,202
+但这毕竟是克莱斯勒大厦——它依然有那种无可替代的光环。
+But this is the freaking Chrysler building. I mean, this still has cache.
+
+365
+00:18:32,202 --> 00:18:33,679
+你可以想象
+This is you can imagine
+
+366
+00:18:33,679 --> 00:18:35,028
+某家顶级对冲基金、
+a top tier hedge fund
+
+367
+00:18:35,028 --> 00:18:37,533
+某家金融机构，
+or a financial institution of some kind
+
+368
+00:18:37,533 --> 00:18:38,946
+或者某家科技公司
+or even a tech company
+
+369
+00:18:38,945 --> 00:18:43,120
+站出来说："我们的办公室，就在克莱斯勒大厦。"
+saying hey you know what my offices are at the Chrysler building.
+
+370
+00:18:43,120 --> 00:18:44,768
+>> 那么，现在情况怎么样了？
+>> So what's happening now?
+
+371
+00:18:44,768 --> 00:18:46,068
+这栋楼的前业主之一、
+One of the building's
+
+372
+00:18:46,068 --> 00:18:48,421
+开发商铁狮门，
+former owners developer Tishman Spayer
+
+373
+00:18:48,422 --> 00:18:49,784
+据说又在打它的主意了。
+is eyeing it up again.
+
+374
+00:18:49,784 --> 00:18:52,156
+他们于1997年首次
+They first took ownership
+
+375
+00:18:52,156 --> 00:18:52,820
+以2.2亿美元的价格
+in 1997
+
+376
+00:18:52,820 --> 00:18:55,002
+接手，并在
+for a cool $220 million
+
+377
+00:18:55,002 --> 00:18:59,651
+2000年进行了最近一次翻新。
+and undertook its most recent renovation in 2000.
+
+378
+00:18:59,810 --> 00:19:02,661
+那一次，这家房地产投资公司
+Back then, the real estate investment company
+
+379
+00:19:02,661 --> 00:19:05,385
+斥资一亿美元，精心修复了
+spent a hundred million carefully restoring
+
+380
+00:19:05,385 --> 00:19:07,349
+大厦的装饰艺术风格细节，
+the skyscrapers art deco motifs
+
+381
+00:19:07,349 --> 00:19:09,440
+同时对核心系统进行了升级。
+while upgrading its core systems.
+
+382
+00:19:09,760 --> 00:19:10,621
+铁狮门
+Tishman Spire,
+
+383
+00:19:10,621 --> 00:19:11,297
+曾是九十年代末的
+who was one
+
+384
+00:19:11,297 --> 00:19:14,063
+买家和业主之一，
+of the one of the buyers or one of the owners
+
+385
+00:19:14,063 --> 00:19:15,047
+后来引入了阿布扎比方面，
+in the late '9s,
+
+386
+00:19:15,047 --> 00:19:18,551
+并在不久前仍担任
+actually brought Abu Dhabi in, stayed on as custodian and
+
+387
+00:19:18,551 --> 00:19:21,440
+大厦的管理方和部分业主。
+part owner of the building until very recently.
+
+388
+00:19:21,440 --> 00:19:25,200
+据说他们这次又回来参与角逐——如果他们买下来，那将非常值得关注。
+They're rumored to be back in the mix here, and if they buy it, it'll be really interesting.
+
+389
+00:19:25,760 --> 00:19:27,200
+克莱斯勒大厦的
+The Chrysler building
+
+390
+00:19:27,200 --> 00:19:29,326
+命运，或许会与
+could end up with the same fate
+
+391
+00:19:29,325 --> 00:19:31,588
+纽约另一座地标建筑如出一辙——
+as a certain other New York icon,
+
+392
+00:19:31,588 --> 00:19:35,839
+而那栋楼，偏偏也面临着几乎一模一样的困境。
+but funnily enough is facing almost exactly the same struggle.
+
+393
+00:19:36,400 --> 00:19:37,917
+>> 最近在拍卖中买下
+>> Jeff Gell prominently
+
+394
+00:19:37,917 --> 00:19:41,268
+熨斗大厦、并将其
+is the one who recently bought the Flat Iron building
+
+395
+00:19:41,268 --> 00:19:42,596
+改建为豪华公寓的，
+at auction and is now
+
+396
+00:19:42,596 --> 00:19:44,809
+正是杰夫·盖尔。
+turning it into into luxury condos.
+
+397
+00:19:44,809 --> 00:19:48,546
+还有一个微妙之处——杰夫·盖尔长期
+And the other wrinkle here is that Jeff Gell for a long time
+
+398
+00:19:48,546 --> 00:19:50,602
+担任库珀联盟的董事会成员。
+was on the board of Cooper Union.
+
+399
+00:19:50,602 --> 00:19:55,599
+这样一来，他既与卖家关系深厚，将来也会成为房东。
+So pretty well connected to the seller and eventual landlord as well.
+
+400
+00:19:57,039 --> 00:19:59,195
+>> 克莱斯勒大厦
+>> The return of the Chrysler building
+
+401
+00:19:59,195 --> 00:20:01,408
+能否回到九十年代的业主手中，
+to its '90s owners now entirely depends
+
+402
+00:20:01,408 --> 00:20:02,940
+完全取决于与库珀联盟
+on negotiations surrounding
+
+403
+00:20:02,940 --> 00:20:06,004
+围绕那份巨额土地租赁协议展开的谈判结果。
+its enormous land leasing agreement with Kooper Union.
+
+404
+00:20:06,004 --> 00:20:10,696
+目前，这栋楼的空置率在14%到20%之间。
+The building currently has a vacancy rate between 14 and 20%.
+
+405
+00:20:10,696 --> 00:20:15,200
+所以，总得有什么做出改变。
+So it's clear something is going to have to give.
+
+406
+00:20:16,640 --> 00:20:20,112
+克莱斯勒大厦如今站在了一个十字路口。
+The Chrysler building now stands at a crossroads.
+
+407
+00:20:20,112 --> 00:20:21,877
+它是一个时代的见证——
+It's a reminder of an era
+
+408
+00:20:21,877 --> 00:20:23,148
+那个美国建造的初衷
+when America built
+
+409
+00:20:23,148 --> 00:20:25,760
+不只是盈利，更是追求荣耀的时代。
+not just for profit but for prestige.
+
+410
+00:20:26,720 --> 00:20:29,431
+但它的价值，远不止于此。
+But its value is something even more
+
+411
+00:20:29,431 --> 00:20:30,184
+那是一种难以言说的
+than that.
+
+412
+00:20:30,184 --> 00:20:31,765
+东西。
+Something intangible.
+
+413
+00:20:31,765 --> 00:20:31,840
+东西。
+
+
+414
+00:20:31,840 --> 00:20:36,638
+我相信，当你看着它的时候，心里感受到的，和我一样。
+And I know you probably feel the same thing as I do when you look at it.
+
+415
+00:20:36,638 --> 00:20:38,309
+这不只是一栋楼。
+This isn't just a building.
+
+416
+00:20:38,309 --> 00:20:39,880
+它远不止于此。
+It's much more than a building.
+
+417
+00:20:39,880 --> 00:20:44,240
+它是一件真正能滋养灵魂的建筑作品。
+It's a piece of architecture that really feeds the soul.
+
+418
+00:20:44,559 --> 00:20:46,779
+问题在于，在今天
+The problem is in today's
+
+419
+00:20:46,779 --> 00:20:47,845
+这个年代，在今天的
+day and age,
+
+420
+00:20:47,845 --> 00:20:49,621
+纽约，一切
+in today's New York,
+
+421
+00:20:49,621 --> 00:20:53,440
+似乎都要讲盈亏。
+it feels like everything has a bottom line.
+
+422
+00:20:56,080 --> 00:20:59,472
+本视频由 FJD Trion 系统赞助播出。
+This video was sponsored by the FJD Trion ecosystem.
+
+423
+00:20:59,472 --> 00:21:00,542
+别忘了，如果
+Don't forget that
+
+424
+00:21:00,542 --> 00:21:03,248
+你想亲自把真实环境转化为
+if you want to turn real world environments
+
+425
+00:21:03,247 --> 00:21:05,323
+数字模型，可以
+into digital models for yourself,
+
+426
+00:21:05,324 --> 00:21:07,715
+点击下方链接，
+you can try out the FJD Tron ecosystem
+
+427
+00:21:07,714 --> 00:21:08,847
+体验 FJD Trion 系统。
+at the link below.
+
+428
+00:21:08,848 --> 00:21:09,994
+一如既往，
+And as always guys,
+
+429
+00:21:09,994 --> 00:21:11,502
+如果你喜欢这期视频，
+if you enjoyed this video
+
+430
+00:21:11,503 --> 00:21:12,951
+想在这个最权威的
+and you want to get more
+
+431
+00:21:12,951 --> 00:21:14,942
+建造主题频道获取
+from the definitive video channel
+
+432
+00:21:14,942 --> 00:21:15,968
+更多内容，记得
+for construction,
+
+433
+00:21:15,968 --> 00:21:18,080
+订阅 B1M。
+make sure you subscribe to the B1M.
