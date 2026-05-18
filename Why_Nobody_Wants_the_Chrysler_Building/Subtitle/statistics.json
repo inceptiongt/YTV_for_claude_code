@@ -7,11 +7,11 @@
   "formatted": {
     "enWords": 3298,
     "zhChars": 0,
-    "items": 216
+    "items": 198
   },
   "final": {
-    "enWords": 0,
-    "zhChars": 0,
-    "items": 0
+    "enWords": 3298,
+    "zhChars": 5593,
+    "items": 433
   }
 }

@@ -1,100 +1,65 @@
-# Translation Analysis
+# Content Analysis
 
-## Source File
-`4.en.formatted.indexed.md` — YouTube subtitle for "Why Nobody Wants the Chrysler Building"
-
-## Domain
-Architecture / Real estate / New York history documentary — a popular-science YouTube video with a conversational, engaging tone aimed at general audiences.
+## Domain & Genre
+YouTube video transcript — architecture/real estate documentary. The B1M channel style: engaging, accessible, slightly dramatic. Conversational narration mixed with expert interview inserts (marked `>>`).
 
 ## Tone & Style
-- Conversational and enthusiastic ("freaking Chrysler building", "it's all pointing towards a question that I absolutely hate to ask")
-- Occasional humor and self-deprecation (book promotion section)
-- Mix of journalistic exposition and personal commentary
-- Direct address to viewers ("Guys", "you know")
-- Quotes from expert interviewees (marked with >>)
+- Narrator: warm, storytelling-driven, occasionally emotional ("I absolutely hate to ask")
+- Interview segments (>>): professional but candid real estate commentary
+- Book promo section [114–136]: enthusiastic, self-deprecating humor
+- Closing [188–198]: contemplative, almost elegiac
 
-## Structure
-- 216 indexed [N] lines
-- 6 chapter headings (#)
-- Speaker-change markers >>
-- Total: ~2,200 words
+## Special Format Constraints (CRITICAL)
+- Each line prefixed with `[N]` — must be preserved exactly, one-to-one
+- `# Chapter headings` — translate but keep `#` markdown
+- `>>` markers indicate interview quotes — preserve in output
+- 198 numbered lines total — output must have exactly 198 `[N]` lines
 
-## Key Terminology & Preferred Translations
+## Key Terminology & Proper Nouns
 
-| English | Chinese (preferred) |
-|---------|---------------------|
-| land leasing / ground lease | 土地租约 |
-| art deco | 装饰艺术风格 |
-| skyscraper | 摩天大楼 |
-| renovation | 翻新/改造 |
-| vacancy rate | 空置率 |
-| landmark | 地标 |
-| condo conversion | 改建公寓 |
-| real estate | 房地产 |
-| tenants | 租户 |
-| occupancy | 入住率/出租率 |
-| Cooper Union | 库珀联盟（保留英文也可） |
-| receivership | 破产托管/接管 |
-| lidar scanner | 激光雷达扫描仪 |
-| reality capture | 实景捕捉 |
-| BIM | BIM（建筑信息模型） |
-| landmark preservation commission | 地标保护委员会 |
-| retrofitting | 改造升级 |
-| mixed-use | 综合用途 |
-| net absorption | 净吸纳量 |
-| penthouse | 顶层豪华公寓 |
-| spire | 尖顶 |
-| crown | 穹顶/塔冠 |
-| gargoyles | 滴水兽 |
-| stainless steel | 不锈钢 |
-| grade 2 listed status | 二级保护建筑 |
-| trophy (asset) | 标志性资产 |
-| cache / cachet | 品牌价值/声誉 |
-
-## Proper Nouns
-- Chrysler Building → 克莱斯勒大厦
-- Walter Chrysler (Krysler) → 沃尔特·克莱斯勒
-- Cooper Union (Kooper Union) → 库珀联盟
-- William Zeckendorf (Zeondorf) → 威廉·泽肯多夫
-- RFR → RFR（保留英文缩写）
-- Tishman Speyer (Spayer/Spire) → 铁狮门
-- Empire State Building → 帝国大厦
-- 40 Wall Street → 华尔街40号
-- Manhattan Company Building → 曼哈顿公司大楼
-- Craig Severance → 克雷格·塞弗伦斯
-- William Van Alen → 威廉·范·阿伦
-- Battersea Power Station (Batsy) → 巴特西电站
-- Woolworth Building (Walworth) → 伍尔沃斯大厦
-- Flatiron Building → 熨斗大厦
-- Jeff Gell → 杰夫·盖尔
-- Pink Floyd → 平克·弗洛伊德
-- Dark Knight → 《蝙蝠侠：黑暗骑士》
-- Penguin Random House → 企鹅兰登书屋
-- FJD Trion → FJD Trion（品牌名保留）
-- B1M → B1M（频道名保留）
-- GNSS → GNSS（保留缩写）
-- Revit → Revit（软件名保留）
+| English | Chinese | Notes |
+|---------|---------|-------|
+| Chrysler Building | 克莱斯勒大厦 | Main subject |
+| Walter Chrysler (spelled "Krysler" in transcript) | 沃尔特·克莱斯勒 | Founder |
+| Cooper Union (spelled "Kooper Union") | 库珀联盟 | Land owner college |
+| William Van Allen | 威廉·范艾伦 | Architect |
+| Craig Severance | 克雷格·塞弗伦斯 | Rival architect |
+| William Zeckendorf (spelled "Zeondorf") | 威廉·泽肯多夫 | Developer |
+| Peter Cooper | 彼得·库珀 | Cooper Union founder |
+| 40 Wall Street / Manhattan Company Building | 华尔街40号 | Rival building |
+| Empire State Building | 帝国大厦 | |
+| Battersea Power Station (spelled "Batsy/Battery") | 巴特西发电站 | London example |
+| Flatiron Building | 熨斗大厦 | NYC example |
+| Woolworth Building (spelled "Walworth") | 伍尔沃斯大厦 | NYC example |
+| Tishman Speyer (spelled "Spayer/Spire") | 铁狮门 | Real estate firm |
+| RFR | RFR | Investment firm, keep as-is |
+| Jeff Gell | 杰夫·盖尔 | Investor |
+| Art Deco | 装饰艺术风格 | Architectural style |
+| FJD Trion ecosystem | FJD Trion 系统 | Sponsor product, keep name |
+| GNSS | GNSS | Technical abbreviation, keep |
+| BIM / scan-to-BIM | BIM / 扫描转BIM | Keep acronym |
+| land leasing agreement | 土地租赁协议 | Key financial term |
+| vacancy rate | 空置率 | |
+| net absorption | 净吸纳量 | Real estate metric |
+| landmarks preservation commission | 地标保护委员会 | NYC regulatory body |
+| receivership | 破产接管 | |
+| condo conversion | 公寓改造 / 改建公寓 | |
+| retrofit / retrofitting | 改造 / 翻新改造 | |
+| A+ tenants | 顶级租户 | Grade-A commercial tenants |
+| ground lease / land lease | 地租 | Building pays rent on land |
+| hub caps / hood ornaments | 轮毂盖 / 引擎盖装饰 | Car design references |
+| Starburst crown | 星芒形皇冠 | Distinctive crown shape |
+| Nora stainless steel | 诺拉不锈钢 | Material for crown |
 
 ## Translation Challenges
+1. **Transcript typos**: "Krysler" = Chrysler, "Kooper Union" = Cooper Union, "Zeondorf" = Zeckendorf, "Batsy/Battery Power Station" = Battersea Power Station, "Walworth" = Woolworth — use correct names in Chinese
+2. **One-to-one line constraint**: Cannot restructure across lines; each `[N]` must yield exactly one translated `[N]` line
+3. **Sentence fragments** [1–6]: Repetitive intro fragments are intentional for video effect — keep as short fragments in Chinese
+4. **Self-referential book promo** [114–136]: Maintain casual, excited tone; the speaker is the video creator
+5. **"cache"** in [173]: Likely means "cachet" (prestige) — translate as 魅力/声望
+6. **"B1M"** [198]: Channel name — keep as-is
+7. **"downto-earth"** [135]: "down-to-earth" — translate as 接地气的
+8. **Mixed >> quotes and narration**: Keep >> exactly as is
 
-1. **Repeated intro lines [1]-[6]**: Multiple speakers echoing "The Chrysler building" — translate naturally, keep the >> markers, avoid over-translating the repetition.
-2. **Speaker quotes >>**: Keep >> to indicate different speaker, translate naturally without making it sound stiff.
-3. **Book promotion [131]-[154]**: Very personal, self-deprecating British humor — needs to feel warm and genuine in Chinese, not awkward.
-4. **Technical terms (lidar, GNSS, BIM)**: Keep technical acronyms, add brief Chinese equivalents where natural.
-5. **Sponsor segment [62]-[75]**: Marketing language — should sound natural in Chinese.
-6. **"freaking" [203]**: Colloquial intensifier — translate as 这该死的/这座 depending on context.
-7. **"cache" vs "cachet" [203]**: Likely "cachet" — translate as 品牌魅力/声誉.
-8. **"brain damage cost" [128]**: Colloquial American expression — "头疼的代价" or "费心费力的代价"
-9. **"world-class" typo "worldass" [126]**: Probably "world-class" — translate accordingly.
-10. **"choir" [40]**: Likely OCR/transcription error for "ownership" — translate based on context.
-11. **"Kryer building" [78], "Krysler" [103]**: Transcription errors for Chrysler — translate as 克莱斯勒.
-12. **"S2 liar scanner" [65]**: "S2 lidar scanner" — translate as S2激光雷达扫描仪.
-13. **"FJD trial model" [71]**: "FJD Trion model" — keep brand name.
-14. **Numbers and proper names**: Keep original numbers (years, dollar amounts) unchanged.
-
-## Approach
-- Style: 口语化、自然流畅 (conversational, natural-flowing)
-- Avoid word-for-word translation; focus on natural Chinese expression
-- Match the energetic, engaged tone of the narrator
-- Expert quotes should sound authoritative but accessible
-- Book promotion should feel personal and enthusiastic
+## Audience Notes
+General Chinese viewers interested in architecture/real estate. May not know Cooper Union or Tishman Speyer — brief parenthetical notes where helpful (but don't add to lines already dense with numbers/facts).
