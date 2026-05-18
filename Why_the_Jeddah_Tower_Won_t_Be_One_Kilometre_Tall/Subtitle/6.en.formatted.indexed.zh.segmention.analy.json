@@ -3,8 +3,6 @@
     "matchedRate": 0.96,
     "unmatchedSegments": 15,
     "unmatchedSegmentsList": [
-      3,
-      7,
       40,
       133,
       150,
@@ -18,18 +16,13 @@
   },
   "en": {
     "totalSegments": 208,
-    "unmatchedSegments": 2,
-    "unmatchedSegmentsList": [
-      3,
-      7
-    ]
+    "unmatchedSegments": 0,
+    "unmatchedSegmentsList": []
   },
   "zh": {
     "totalSegments": 171,
-    "unmatchedSegments": 13,
+    "unmatchedSegments": 15,
     "unmatchedSegmentsList": [
-      3,
-      7,
       40,
       133,
       150,
