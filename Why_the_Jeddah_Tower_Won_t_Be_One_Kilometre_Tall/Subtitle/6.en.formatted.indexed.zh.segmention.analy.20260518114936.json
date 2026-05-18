@@ -1,0 +1,56 @@
+{
+  "all": {
+    "matchedRate": 0.94,
+    "unmatchedSegments": 24,
+    "unmatchedSegmentsList": [
+      3,
+      7,
+      10,
+      18,
+      40,
+      43,
+      72,
+      124,
+      133,
+      150,
+      155,
+      159,
+      160,
+      162,
+      165,
+      169,
+      172
+    ]
+  },
+  "en": {
+    "totalSegments": 207,
+    "unmatchedSegments": 3,
+    "unmatchedSegmentsList": [
+      3,
+      7,
+      43
+    ]
+  },
+  "zh": {
+    "totalSegments": 169,
+    "unmatchedSegments": 21,
+    "unmatchedSegmentsList": [
+      3,
+      7,
+      10,
+      18,
+      40,
+      72,
+      124,
+      133,
+      150,
+      155,
+      159,
+      160,
+      162,
+      165,
+      169,
+      172
+    ]
+  }
+}
