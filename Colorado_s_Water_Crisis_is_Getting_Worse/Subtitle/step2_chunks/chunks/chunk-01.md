@@ -1,0 +1,396 @@
+[1] Tucked away in the mountains of Colorado
+[2] is one of America's most unusual
+[3] construction projects.
+[4] This here is the Gross Reservoir, which
+[5] has been supplying the city of Denver
+[6] with much of its water for more than
+[7] half a century.
+[8] But not enough water. With more demand
+[9] on the system than ever before, and
+[10] natural disasters becoming increasingly
+[11] likely, this man-made lake now
+[12] needs to be a lot bigger.
+[13] It's reasonable to assume a
+[14] reservoir can only be as big as the dam
+[15] that created it, which is why teams here
+[16] are having to pull off a rare and
+[17] difficult task first. They're
+[18] expanding the dam itself by building a
+[19] new one on top of it.
+[20] >> Well, this is really the first time that
+[21] a gravity dam is being transformed into
+[22] an arch dam. And it's incredibly unique,
+[23] incredibly complex.
+[24] And yet, with the finish line now in
+[25] sight, there's a serious problem that
+[26] won't go away. One that's already seen
+[27] this gigantic scheme stopped in its
+[28] tracks.
+[29] Think Colorado, and you'll probably
+[30] imagine something like this.
+[31] Just outside Denver is where the Rocky
+[32] Mountains begin and where a great deal
+[33] of water can be found. There are lakes,
+[34] reservoirs, the Colorado River, and its
+[35] tributaries, all within reach. It's a
+[36] good place to be if you like the quiet
+[37] life. Except that is for this particular
+[38] site, which has become a hive of
+[39] activity in recent years. Back in the
+[40] 1950s, a large gravity dam was built
+[41] here to serve the Denver metropolitan
+[42] area. Due to its rising population, the
+[43] city needed a new water source to keep
+[44] up with increased demand and resources.
+[45] And so the gross reservoir was born.
+[46] But reservoirs don't just fill up on
+[47] their own. Of course, a massive wall of
+[48] concrete, the Gross Dam, had to be built
+[49] first.
+[50] It would capture water coming in mainly
+[51] from the Fraser River, which joins onto
+[52] the mighty Colorado River via the Muffet
+[53] Tunnel. Okay, but before we move on, and
+[54] because I just can't ignore anymore, why
+[55] is it called the Gross Reservoir?
+[56] >> Gross. Well, no, it's not because it's
+[57] disgusting or because of its size, which
+[58] is pretty substantial.
+[59] >> Freaking idiot.
+[60] >> It's actually named after Dwight D.
+[61] Gross, who was the former chief engineer
+[62] of Denver Water. That's the utility
+[63] company that owns and operates both the
+[64] reservoir and the dam. Sorry to ruin the
+[65] fun, but obviously you now know. When
+[66] full, the reservoir is capable of
+[67] holding 42,000 acre feet, around 52
+[68] million cubic m of water. And for
+[69] decades that was absolutely fine
+[70] until 2020 when Denver Water got
+[71] permission to expand the reservoir by
+[72] making the dam even bigger by over 100
+[73] ft. That would see capacity increase
+[74] almost threefold to 119,000 acret
+[75] or nearly 150 million cub m
+[76] enough to supply 72,000 homes with water
+[77] every year. What that led to is
+[78] a ginormous project to build a 131 ft
+[79] dam raise on top of a 340 ft tall dam.
+[80] >> Jeff Martin leads the team at Denver
+[81] Water, responsible for the entire
+[82] program from concept right through to
+[83] completion.
+[84] >> Building a 471 ft concrete dam
+[85] in 2025 is a challenging endeavor on a
+[86] number of fronts. That is big under any
+[87] standards throughout the world and it's
+[88] extremely rare what we're tackling
+[89] really just to provide a secure water
+[90] future to the Denver area. Why does it
+[91] need securing? Well, because over the
+[92] years Denver and neighboring Boulder
+[93] County have become increasingly
+[94] vulnerable to water related disasters.
+[95] >> Well, a wildfire south of
+[96] Boulder, Colorado this weekend forced
+[97] thousands to flee. the drought picture
+[98] across Colorado. The worst drought
+[99] situation that we've had in
+[100] several years.
+[101] >> There is widespread flood activity
+[102] across the area. Emergency officials
+[103] are urging you to seek higher
+[104] ground immediately.
+[105] >> There's more than just snowy mountains
+[106] in Colorado. It can get very hot, dry,
+[107] and also pretty wet here, too. 2002 saw
+[108] an unusually serious drought along with
+[109] the Haymon fire, which destroyed well
+[110] over a 100 homes. So having more water
+[111] available to deal with such problems if
+[112] and when they occur starts to
+[113] make sense.
+[114] Population growth doesn't show any signs
+[115] of stopping either. In 2020, Denver
+[116] Water announced that daily users had
+[117] risen to 1.5 million people, 100,000
+[118] higher than just 4 years before.
+[119] There's a pretty big imbalance with
+[120] where it stores its water as well. 90%
+[121] of it is held in reservoirs to
+[122] the south of Denver with the other 10%
+[123] to the north where the gross dam is.
+[124] But despite how it might sound,
+[125] expanding this rather imposing piece of
+[126] infrastructure is actually not a new
+[127] idea. In fact, it was kind of the plan
+[128] right from the beginning. You see, the
+[129] dam was constructed with the intention
+[130] of being raised at least once should
+[131] that become necessary in the future,
+[132] which it clearly has. So, in a minute,
+[133] we're going to come on to how teams here
+[134] have actually been delivering on a
+[135] scheme that's designed to keep a city
+[136] flowing efficiently for years to
+[137] come. But before we do that, I want to
+[138] talk to you about something that's
+[139] designed to do the same for the
+[140] businesses who build projects
+[141] like this. The way these businesses
+[142] operate can be very complex. And trust
+[143] me, the last thing they need is more
+[144] stress when it comes to payments. Sales,
+[145] transactions, customers, performance,
+[146] inventory. They're often done manually
+[147] or using tools that are disconnected.
+[148] This isn't only hard to manage, it hurts
+[149] profits, which is where Sky OS comes in.
+[150] It's a purpose-built operating system
+[151] that brings all those processes together
+[152] into one connected platform,
+[153] giving you both speed and visibility.
+[154] Designed for the construction industry,
+[155] it gives owners control over every
+[156] dollar that moves through their
+[157] business. In fact, it works a
+[158] little bit like a DAN, except instead of
+[159] retaining water and dictating how it's
+[160] used, Skyos lets you retain
+[161] profits and manage costs. Real-time
+[162] insights and performance dashboards show
+[163] you where profits are earned and where
+[164] money is lost. Product and
+[165] inventory tools keep every material,
+[166] tax, and discount organized, while
+[167] fully managed accounts can be
+[168] easily made for each client, meaning no
+[169] more paper trails. And because it's
+[170] automated with intelligence payment
+[171] optimization, it's proven to increase
+[172] profits by up to 20%.
+[173] You can see how Skyos is giving billions
+[174] back and rebuilding the digital
+[175] foundation of the construction industry
+[176] at the link below. Now, let's get back
+[177] over to Colorado and see how on earth
+[178] you raise a dam.
+[179] The idea is obviously to add more
+[180] concrete to the existing dam, but not
+[181] just on top. They're having to build up
+[182] the southacing or dry side as well to
+[183] help maintain stability. To achieve
+[184] this, 118 concrete steps are being
+[185] constructed from the ground right up the
+[186] top of the new dam. Each one is 4 ft
+[187] high and set back 2 ft from the step
+[188] underneath. Then the crest or tip goes
+[189] on, followed by a control building,
+[190] electronics, railing, and bridge across
+[191] the spillway. Construction began in
+[192] 2022, and by June 2025, workers had
+[193] reached the height of the original dam,
+[194] more than 7,000 ft above sea level. As
+[195] for the method used to create these
+[196] steps, Denver Water has chosen a
+[197] different approach to the original dam's
+[198] builders. There's two ways to make a
+[199] concrete dam. One is with what we call
+[200] conventional concrete. That's how the
+[201] original dam was built. And it's
+[202] basically built in 50 ft blocks all the
+[203] way up. And uh just like Hoover was and
+[204] some of the other iconic concrete dams
+[205] uh throughout the world were done. In
+[206] the 1980s, a new uh method came into
+[207] existence through innovation. It's
+[208] called roller compacted concrete. First,
+[209] the concrete is brought in by dump
+[210] truck, which well dumps the material on
+[211] top of the surface. Next, it's spread by
+[212] a bulldozer before being rolled and
+[213] compressed by a smooth drum compactor.
+[214] The concrete's made on sights, a mixture
+[215] of rocks, cement, fly ash, and water.
+[216] While other dams have been raised
+[217] before, this is the largest one in the
+[218] world to be done using RCC.
+[219] because we had over 600,000 yards of
+[220] conventional concrete and we're
+[221] going to overlay that with over 700,000
+[222] yards of new roller compacted concrete.
+[223] The mix design itself,
+[224] temperatures that it had to maintain
+[225] during placement and how it was
+[226] placed against the old dam were all
+[227] extremely critical details on making
+[228] sure that this dam behaves as one dam
+[229] going forward. This choice of material
+[230] offers lower curing temperatures,
+[231] meaning it doesn't take as long to set
+[232] as regular concrete. Embodied carbon is
+[233] reduced as well, and it's less likely to
+[234] crack. So, everything appears to be
+[235] going to plan, except
+[236] >> a federal district court judge has dealt
+[237] an expensive setback at least, and
+[238] possibly an end to the project. In April
+[239] 2025, all construction on the project
+[240] was put on hold following a court
+[241] injunction. A US district judge ruled in
+[242] favor of environmental groups who've
+[243] been campaigning against this expansion
+[244] for years. They include the Water Keeper
+[245] Alliance, Sierra Club, and Save the
+[246] Colorado.
+[247] They believe the new larger reservoir
+[248] will have a negative effect on the wider
+[249] Colorado River water system as well as
+[250] nearby residents. This project would
+[251] drain more water out of the Colorado
+[252] River. It's in crisis mode. Um and all
+[253] the states in the southwest United
+[254] States are trying to decide how to use
+[255] less Colorado River water and this one
+[256] would use more. The second reason is
+[257] that they would it would be and it has
+[258] been the biggest construction project in
+[259] Boulder County history. There's about a
+[260] thousand houses up and around the area.
+[261] It's been an extraordinary nightmare for
+[262] those people living through this 24/7
+[263] construction process. Adding credence to
+[264] these claims, it emerged the US Army
+[265] Corps of Engineers, which supplied the
+[266] permits, didn't factor in the full
+[267] environmental impact when it approved
+[268] the project. According to the judge,
+[269] viable alternatives to this expansion
+[270] were not properly addressed, which led
+[271] to a somewhat unlikely win for Gary and
+[272] his team in court when you consider who
+[273] they were up against.
+[274] It certainly was a legal victory and it
+[275] certainly is a David versus Goliath
+[276] phenomenon. We're a tiny organization
+[277] and they're one of the biggest water
+[278] providers in the Southwest United
+[279] States. Um, and they do have a extremely
+[280] big and high-powered law firm. We're a
+[281] lean, mean river saving machine. I think
+[282] the outcome of the district court really
+[283] worked on our behalf.
+[284] >> But it was only a temporary port. Just a
+[285] month later, the judge did a U-turn
+[286] after claims from Denver Water that
+[287] leaving the dam unfinished could lead to
+[288] serious consequences
+[289] like flooding. That meant construction
+[290] could continue. But there was still one
+[291] pretty big issue remaining. Although
+[292] they got the green light to carry out
+[293] the works, permission was not given to
+[294] actually fill the expanded reservoir, at
+[295] least not yet. The process of filling
+[296] the reservoir is expected to take around
+[297] 5 years, but we still don't know when
+[298] or even if that can happen.
+[299] New permits would need to be signed
+[300] first, but because the Army Corps of
+[301] Engineers made extensive and serious
+[302] errors, it's unlikely to be
+[303] straightforward. So, there's a chance
+[304] that all of this could be for nothing.
+[305] Okay, but let's rewind a bit and dig a
+[306] little deeper into what exactly it is
+[307] that campaigners are unhappy about. If
+[308] this dam's already been here for about
+[309] 70 years, then what's wrong with just
+[310] making it a bit bigger? Surely,
+[311] that's better than building an entirely
+[312] new dam and reservoir somewhere else.
+[313] This is one of the mitigation measures
+[314] that Denver Water has put in place to
+[315] limit what could otherwise be a much
+[316] larger impact on the local environment.
+[317] By storing extra water in the reservoir,
+[318] they can also direct more of it into the
+[319] adjacent creek, improving fish habitats.
+[320] They're also introducing new wetlands
+[321] and preserving other areas to offset
+[322] some of the deforestation that has to
+[323] happen on a project like this. Around
+[324] 200,000 trees are being removed, which
+[325] is sort of inevitable when so much land
+[326] is being inundated and water quality has
+[327] to be maintained. There's only one way
+[328] to tackle a project like this and that's
+[329] with a culture of environmental
+[330] stewardship and making sure that
+[331] we're fully analyzing the impacts from
+[332] the project. We've done a lot of
+[333] different mitigation to make sure that
+[334] in the end that this is a net
+[335] environmental benefit
+[336] to the state of Colorado.
+[337] >> That might be so, but Gary isn't
+[338] convinced. He believes the impact of
+[339] these dams is just too great, not just
+[340] on the local area, but on the whole
+[341] Colorado River basin. Dams kill rivers.
+[342] That's what dams do. They block
+[343] a river. Uh if it's a hydropower dam,
+[344] they block a river and completely
+[345] changed the flow of the water in the
+[346] river. The climate scientists claim
+[347] drought and climate change have lowered
+[348] the flow in the entire Colorado River
+[349] around 20%. From its original flow and
+[350] so the river has already been
+[351] devastated. This will make it worse and
+[352] that's why we're opposing it.
+[353] >> Then there's the cost of all this. When
+[354] the project gained approval in 2021, the
+[355] price was set at $531 million. And that
+[356] remains the most widely reported figure.
+[357] But when you factor in the unexpected
+[358] legal costs and the new permits that now
+[359] need to be done, there's a good chance
+[360] that number's going to rise. As for
+[361] where that money comes from, unlike a
+[362] lot of American infrastructure
+[363] projects, it won't be tax dollars.
+[364] Denver Water is funded entirely by rate
+[365] payers, fees for connecting new
+[366] customers, and the sale of renewable
+[367] energy. Gross Dam has been home to its
+[368] own hydro plant since 2007.
+[369] Despite the problems the company's
+[370] faced, their reservoir's latest upgrade
+[371] isn't too far from the end. 2026 is when
+[372] they plan to top out on the dam and
+[373] finish the spillway and supporting
+[374] buildings. A year later, it'll be time
+[375] to start filling the reservoir, assuming
+[376] they've been cleared to do so.
+[377] Like so many other construction projects
+[378] that have had some major issues, the
+[379] gross reservoir expansion is becoming
+[380] known more for what's gone wrong than
+[381] what's gone right. But while the
+[382] setbacks and environmental concerns
+[383] shouldn't be overlooked, what they're
+[384] trying to achieve here deserves
+[385] recognition, too.
+[386] Whether or not this is a good thing for
+[387] Denver, Boulder County, or the whole of
+[388] Colorado is clearly a contested topic.
+[389] But what can't be denied is that this is
+[390] a feat of construction that truly raises
+[391] the bar.
+[392] This video was sponsored by Sky Systems.
+[393] Don't forget to go and check out
+[394] how Skyos can help your business at the
+[395] link below. And as always guys, if you
+[396] thought this video was damn good and you

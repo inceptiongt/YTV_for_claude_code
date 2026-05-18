@@ -1,0 +1,41 @@
+{
+  "totalMi": 497,
+  "unmatchedMiCount": 1,
+  "matchedRate": 0.998,
+  "unmatchedSentences": [
+    {
+      "n": 31,
+      "words": 48,
+      "text": "That would see capacity increase almost threefold to 119,000 acret or nearly 150 million cub m enough to supply 72,000 homes with water every year. What that led to is a ginormous project to build a 131 ft dam raise on top of a 340 ft tall dam.",
+      "miList": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "unmatchedMi": [
+        76
+      ]
+    }
+  ],
+  "longSentencesCount": 1,
+  "longSentences": [
+    {
+      "n": 31,
+      "words": 48,
+      "text": "That would see capacity increase almost threefold to 119,000 acret or nearly 150 million cub m enough to supply 72,000 homes with water every year. What that led to is a ginormous project to build a 131 ft dam raise on top of a 340 ft tall dam.",
+      "miList": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ]
+    }
+  ]
+}
