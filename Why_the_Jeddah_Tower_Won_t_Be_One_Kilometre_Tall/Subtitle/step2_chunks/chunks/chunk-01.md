@@ -1,0 +1,390 @@
+[1] Take a look at these two buildings. Now,
+[2] which is taller? If you guess the one on
+[3] the right, you'd be wrong. Okay, how
+[4] about an easier one? These two. Any
+[5] guesses? It is, of course, the Lotwell
+[6] Tower. Although, if we took it to the
+[7] usable height, then it would be this
+[8] one. Confused? You should be. You see,
+[9] the world's tallest buildings aren't all
+[10] they seem. Because for decades now,
+[11] architects have been using a very clever
+[12] set of tricks to juice the heights of
+[13] the world's tallest buildings. And as
+[14] the next tallest building on our planet
+[15] marks the construction of its 100th
+[16] floor, it got us thinking, how big will
+[17] it actually be? So, we've picked six
+[18] skyscrapers that really stretch the
+[19] rules of height to find out what tallest
+[20] building actually means.
+[21] First off, here's one for all you
+[22] millennials out there. The Patronis
+[23] Towers. They're a bit of a forgotten
+[24] giant nowadays, but man, what a
+[25] nostalgia trip. Shan Connory and
+[26] Katherine Zeta Jones used them as a
+[27] jungle gym. They were in video games and
+[28] they even got dropped on London in a
+[29] completely unnecessary sequel to
+[30] Independence Day.
+[31] >> They like to get the landmarks.
+[32] >> But more than any of that, the Patronis
+[33] Towers were the world's tallest building
+[34] from 1998 to 2004. It was a huge moment
+[35] of pride for the people of Malaysia. But
+[36] not everyone was so happy. You see, the
+[37] building it relegated into second place
+[38] was this, the Willis Tower, or the Sears
+[39] Tower as it was called back then. It had
+[40] held the top spot since 1974, and
+[41] Chicagoans were feeling a bit robbed
+[42] because
+[43] see the problem.
+[44] >> Now, you might think the height is
+[45] measured to the top of the antenna here,
+[46] or at least the top of the roof here.
+[47] Either way, the Willis Tower wins,
+[48] right? Wrong. So wrong, in fact, that in
+[49] 1996, as the Patronus Towers were
+[50] nearing completion, a delegation of
+[51] incensed Chicago journalists demanded an
+[52] answer. So they went to the keepers of
+[53] the official list of tallest buildings,
+[54] the Council on Tall Buildings and Urban
+[55] Habitat, now renamed to the Council on
+[56] Vertical Urbanism.
+[57] >> Strangers from distant lands, friends of
+[58] old.
+[59] >> Yeah, exactly that sort of thing.
+[60] Anyway, despite all the protests, the
+[61] council was perfectly clear. Buildings
+[62] are and always have been measured from
+[63] the street level up to the architectural
+[64] top of the building. These antennas on
+[65] top of the Willis Tower have nothing to
+[66] do with the architecture or the
+[67] structure of the building. They're TV
+[68] masts that were added on after it was
+[69] built, and they were never included in
+[70] its height. These spires on top of the
+[71] patronis tower on the other hand don't
+[72] serve a function but they are a
+[73] deliberate architectural feature of the
+[74] building and as such they take the
+[75] overall height to 451.9
+[76] m.
+[77] Great news for anyone who and I'm just
+[78] spitboarding here wanted to buy a
+[79] penthouse in the tallest building on
+[80] earth. A penthouse that could look like
+[81] this. A few chairs over here. Guest
+[82] bedroom. Onsuite bathroom. Yeah, that'll
+[83] do. Oh, sorry. I should say this isn't
+[84] the actual penthouse. It's just one I've
+[85] designed myself using Rayon Design. For
+[86] all you architects and interior
+[87] designers out there, Rayon Design is the
+[88] next generation CAD platform that's been
+[89] designed to fit the way you want to work
+[90] in 2026. It's fully web- based, so your
+[91] entire team can work off the same model
+[92] in real time. If I need a CAD block of a
+[93] desk, for example, I can just search
+[94] their library of 50,000 blocks and place
+[95] it in my design in seconds. And if it's
+[96] not quite right, I can create my own in
+[97] no time at all, thanks to Rayon's AI
+[98] feature. I've used Rayon Design to
+[99] create a fancy penthouse, but you can
+[100] use it for any kind of commercial or
+[101] residential project. I seriously rate
+[102] Rayon because it does everything you
+[103] need in one unified platform. precise
+[104] technical drawings, stylized client
+[105] presentations, even procurement, all
+[106] stay synchronized through its single
+[107] source of truth model. But don't just
+[108] take my word for it. If you want to step
+[109] up your workflow and help us to continue
+[110] to make these awesome videos, then click
+[111] the link below or scan the QR code on
+[112] screen to try out Round Design for
+[113] yourself for free today.
+[114] Now, rules are rules, but the whole
+[115] episode caused such a stink that the
+[116] council introduced two additional sets
+[117] of criteria for measuring the height of
+[118] skyscrapers. The coveted tallest
+[119] building award would still go to the one
+[120] with the highest architectural height,
+[121] but a record would also be kept of the
+[122] highest occupied floor and the highest
+[123] point of anything connected to the
+[124] building. But instead of settling the
+[125] matter, that was just the start. In at
+[126] number two is Medca 118. Just a stones
+[127] throw across Koala Lumpa from the
+[128] Petronis Towers. When it completed in
+[129] 2024, it entered the rankings as the
+[130] world's second tallest building, nudging
+[131] China's Shanghai Tower down to third.
+[132] And Chinese commentators were
+[133] surprisingly fine with that.
+[134] >> I'm kidding. They were absolutely
+[135] furious.
+[136] >> Okay, here we go again. This is Medca
+[137] 118. And this is the Shanghai Tower.
+[138] Thanks to that spire, Medca tops out at
+[139] a neat 678.9
+[140] m, blasting past the Shanghai Tower.
+[141] Surely this is really pushing it. The
+[142] highest floor in Medca is here, just
+[143] above 500 m up. The Shanghai Tower has a
+[144] restaurant on floor 120, over 50 m
+[145] higher. If the two were next to each
+[146] other, you could literally have lunch in
+[147] the Shanghai Tower and look down on the
+[148] roof of Medca 118. And yet, that
+[149] building would be taller. Well, as
+[150] strange as it sounds, the same rules
+[151] apply. Medca's spire is architecturally
+[152] integral to the building. But we do
+[153] actually have a term for things like
+[154] this,
+[155] vanity height. Measure from the highest
+[156] occupiable floor to the architectural
+[157] peak of the building and you have its
+[158] vanity height. Vanity height can come in
+[159] all shapes and sizes. And today almost
+[160] no skyscraper would be seen without one,
+[161] including the Shanghai Tower, whose
+[162] architectural tip sits 48 m above its
+[163] highest usable floor. Although that's
+[164] nothing compared to Medca, which has a
+[165] whopping 176 m of vanity height. Now
+[166] there are a lot of reasons why a
+[167] building might have some vality heights
+[168] and medas is very particular. That
+[169] unusual position of the spire refers to
+[170] the iconic silhouettes of the country's
+[171] founder as he declared independence or
+[172] meda back in 1957.
+[173] Vanity Heights isn't the most flattering
+[174] name and you might well see it as a way
+[175] of cheating the height of a building.
+[176] But Medca's advocates would think the
+[177] opposite. they'd see it as completely
+[178] legitimate and as a way of marking a
+[179] really foundational moment in their
+[180] nation's history. Now, regardless of
+[181] what you might think of that, what is
+[182] clear is that we're in a completely
+[183] different ballgame to the Petronis
+[184] Towers and their 46 m spires. That's
+[185] down to a bigger shift in what
+[186] skyscrapers are for. But to get to the
+[187] bottom of that, we need to head to
+[188] Dubai, home to the world's vainest
+[189] building, the Burj Khalifa.
+[190] Fun fact, that also got dropped onto
+[191] London in Independence Day, too.
+[192] They like to get the lands.
+[193] >> Now, there's no doubt that by any
+[194] measure, this is the tallest building on
+[195] the planet. It comfortably wins the
+[196] triple crown for architectural heights,
+[197] height, tip, and highest occupiable
+[198] floor. And with a gap of 242 m between
+[199] this mechanical floor and the tip of the
+[200] spire, the Burj Khalifa holds the record
+[201] for the biggest vanity heights of any
+[202] building on Earth. In fact, if you took
+[203] just this part of the building and
+[204] planted it in Manhattan, it would still
+[205] dominate the New York skyline.
+[206] But that really kind of misses the point
+[207] because skyscrapers have become so much
+[208] more than buildings. The first
+[209] skyscrapers were born out of necessity,
+[210] rising in crowded cities where buildings
+[211] invariably had to make the most of the
+[212] small plots of land they usually found
+[213] themselves rising on. But if we rewind
+[214] to the 2000s when the Burj Cleer was
+[215] being built, Dubai wasn't yet a bustling
+[216] metropolis. There was no land scarcity.
+[217] This was a quiet, sparssely populated
+[218] port with an overdependence on natural
+[219] resources. It didn't start building
+[220] skyscrapers because of a lack of land.
+[221] it started building them to become a big
+[222] thriving metropolis where nowadays
+[223] skyscrapers make a lot more sense. As
+[224] the 2000s rolled on, the bigger and
+[225] flashier the city could build, the
+[226] better. Following the lead of this
+[227] enormous tower, it was a watershed
+[228] moment, not just for Dubai, but for
+[229] skyscrapers in and of themselves. This
+[230] chart shows the amount and size of
+[231] Vanity heights on super tall
+[232] skyscrapers. Here are the Petronis
+[233] Towers and here is what happened after
+[234] that.
+[235] But most importantly of all these
+[236] buildings, these are the ones in Dubai.
+[237] What Dubai did was leverage the allure
+[238] of skyscrapers to an extent that no one
+[239] had ever really done before. And leading
+[240] all that was the Burj Khalifa. Yes, it
+[241] was excessive. Yes, it's quite vain, but
+[242] it worked. Skyscrapers aren't always
+[243] just office space. They can sometimes
+[244] become symbols of soft power too and in
+[245] this case help reinvent an entire
+[246] country. It created a world of
+[247] appearances where every meter mattered
+[248] and skyscrapers would never be the same
+[249] again. Now to be fair, Dubai is also
+[250] home to this, the Index. It's a super
+[251] tall. It's in Dubai. And with just four
+[252] meters separating its top floor with the
+[253] building's peak, it also holds the
+[254] record for the smallest vanity height of
+[255] any skyscraper above 300 m, measuring
+[256] just 1% of its overall structure. Now,
+[257] does that contradict everything we've
+[258] just said? Possibly. Yes. No. I Who
+[259] knows? That is one for the comment
+[260] section. The explosion in Vanity Heights
+[261] might be a recent phenomenon, but the
+[262] battle to build big has never been a
+[263] fair fight. That brings us to number
+[264] four, the Chrysler building.
+[265] There's just something about skyscrapers
+[266] and disaster movies, isn't there?
+[267] Anyway, forget Dubai for now. Wind back
+[268] a 100red years and the original race for
+[269] the skies was steaming ahead in
+[270] Manhattan after the island seemed to
+[271] have found an infinite money hack.
+[272] competition to hold the prize of the
+[273] world's tallest skyscraper was intense.
+[274] And in 1929, the one to beat was this,
+[275] the Woolworth building. Walter Krysler
+[276] was busy working on a soaring 65story
+[277] art deco sky palace that would stand
+[278] taller than any of its neighbors. That
+[279] was until George L. Or entered the chat.
+[280] Shortly after ground broke on the Kryser
+[281] building, Orstrom come up with a plan
+[282] for a shorter 47story building. a few
+[283] miles away at 40 Wall Street. Then he
+[284] quickly came to his senses and fired the
+[285] starting pistol on one of the most
+[286] infamous rivalries in skyscraper
+[287] history. Orstramm jacked up the size of
+[288] his tower, beating the Krysler building
+[289] by 9.8 m. With construction already well
+[290] underway, the Krysler building was
+[291] redesigned to be 282 m high, which
+[292] prompted Austramm to raise his tower to
+[293] 283
+[294] m. I know, right? It looked like 40 Wall
+[295] Street had the edge, but Krysler had a
+[296] trick up his sleeve. His architect,
+[297] William Van Allen, quietly gained
+[298] permission to plant a 38 m spire on top
+[299] of the Chrysler building. To complete
+[300] the subtifuge, the spire was built in
+[301] secret inside the roof. And over the
+[302] course of a dramatic night in October
+[303] 1929, the spire was lifted up and
+[304] installed on top of the new Chrysler
+[305] building. The final height was taken to
+[306] a massive 319 m, dwarfing the puny 40
+[307] Wall Street. Walter Krysler had built
+[308] the world's tallest building. But more
+[309] importantly, he had won.
+[310] But it wasn't just Orm who was looking
+[311] at Manhattan's skyline with envy.
+[312] In the 1920s, Joseph Stalin was taking
+[313] an interest in remodeling Moscow, and he
+[314] was determined to build something every
+[315] bit as tall and grand as Uncle Sam had
+[316] to brag about over in the US. And that
+[317] determination has given us the number
+[318] five on this list, the Ukraine Hotel in
+[319] Moscow.
+[320] The Burj Khalifa might have the biggest
+[321] overall vanity height, but this Soviet
+[322] gym holds the record that nearly stops
+[323] it from being a building at all. Let me
+[324] explain. The Ukraine Hotel was one of
+[325] several skyscrapers in Moscow
+[326] commissioned by Stalin, known today as
+[327] the Seven Sisters. But if you look at
+[328] the footprints, it's very different from
+[329] what you'd expect from a skyscraper.
+[330] Rather than being a solid block, it
+[331] curves around in a U-shape with a
+[332] courtyard in the center. Clearly, they
+[333] weren't hardressed for space. Legend has
+[334] it the hotel was originally designed
+[335] with a flat roof. But Stalin wasn't
+[336] happy with this. American skyscrapers
+[337] have spires, he complained. So should.
+[338] So in keeping with the proportions of
+[339] the hotel, a gigantic 73 m spire was
+[340] added on top. Now the Council on
+[341] Vertical Urbanism has very strict rules
+[342] on skyscrapers. At least 50% of their
+[343] height must be occupiable. Otherwise,
+[344] it's not a building or a skyscraper.
+[345] It's a tower. That massive spire and the
+[346] pedestal it sits on gives the tower a
+[347] whopping vanity height that takes up 42%
+[348] of the building. Not only does that make
+[349] the Ukraine Hotel the Venus building by
+[350] percentage of overall height, it also
+[351] leaves it a hammer and sickle away from
+[352] not being a building at all. Still, if
+[353] you're an architect and your client is
+[354] Joseph Stalin, it's best to do what he
+[355] says.
+[356] And that brings us back, of course, to
+[357] this, the Jedi Tower. As we saw in New
+[358] York, nothing drives heights like
+[359] competition. It's probably no
+[360] coincidence then that preliminary work
+[361] for the Jedha Tower began in 2008, just
+[362] before the neighboring Burj Khalifa
+[363] opened for business. While the Burj
+[364] Khalifa would go on to stand 828 m above
+[365] the streets of Dubai, the original plans
+[366] for the Jedha Tower were for a 1mile
+[367] skyscraper standing 1,600 m tall. That
+[368] was quickly dropped because it's
+[369] absolutely insane. So, they switched
+[370] metric for Imperial and started work on
+[371] a 1 km tall skyscraper instead.
+[372] The building is designed around a
+[373] Y-shaped core. That's the same thing
+[374] you'll see inside the Burj Khalifa and
+[375] other structures like the CN Tower. It's
+[376] used because it's the most effective way
+[377] for the building to cope with the
+[378] extreme weight of itself and the
+[379] extraordinary lateral loads created by
+[380] the wind hitting the building's
+[381] exterior. But that only takes it so far.
+[382] From level 167 onwards, the building
+[383] shuns its concrete core and is being
+[384] completed in steel. This gigantic
+[385] structure will contain the ladders that
+[386] allow maintenance crews to access the
+[387] aircraft warning beacons at the very top
+[388] of the skyscraper, the equivalent of 240
+[389] stories above the Earth. Climbing that
+[390] ladder won't be an easy job. Exact
