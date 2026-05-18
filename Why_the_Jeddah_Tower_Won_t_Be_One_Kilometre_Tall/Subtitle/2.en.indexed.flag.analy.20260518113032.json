@@ -1,0 +1,57 @@
+{
+  "totalMi": 568,
+  "unmatchedMiCount": 2,
+  "matchedRate": 0.9965,
+  "unmatchedSentences": [
+    {
+      "n": 183,
+      "words": 33,
+      "text": "From cathedrals, temples, pyramids, all the way up to the more modern skyscrapers we see today, we've always wanted to break that frontier. As human beings, we've wanted to go further and higher.",
+      "miList": [
+        406,
+        407,
+        408,
+        409,
+        410,
+        411
+      ],
+      "unmatchedMi": [
+        409
+      ]
+    },
+    {
+      "n": 186,
+      "words": 43,
+      "text": "Don't forget that you can try Rayon Design for free using the link below. And as always guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you're subscribed to the B1M.",
+      "miList": [
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424
+      ],
+      "unmatchedMi": [
+        419
+      ]
+    }
+  ],
+  "longSentencesCount": 1,
+  "longSentences": [
+    {
+      "n": 186,
+      "words": 43,
+      "text": "Don't forget that you can try Rayon Design for free using the link below. And as always guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you're subscribed to the B1M.",
+      "miList": [
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424
+      ]
+    }
+  ]
+}

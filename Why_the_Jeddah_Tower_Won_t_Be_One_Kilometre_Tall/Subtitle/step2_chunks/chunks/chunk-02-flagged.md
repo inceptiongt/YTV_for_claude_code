@@ -1,0 +1,12 @@
+[394] tall.[end]The
+[397] right.[end]
+[400] wrong.[end]You
+[401] thing.[end]You
+[402] thing.[end]I
+[406] ages.[end]From
+[409] frontier.[end]As
+[411] higher.[end]Whether
+[416] go?"[end]
+[418] Design.[end]Don't
+[419] below.[end]And
+[424] B1M.[end]
