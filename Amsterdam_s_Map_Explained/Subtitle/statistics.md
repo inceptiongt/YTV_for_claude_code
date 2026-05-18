@@ -14,5 +14,5 @@
 | **Step 6** | `6.en.formatted.indexed.zh.segmention.md`<br>`6.en.formatted.indexed.zh.segmention.full.md`| **行数**: 800 | 800 segments |
 | **Step 7** | `7.final.srt` | **字幕块数**: 400 | 最终双语字幕 |
 
-<about_end_flag> = 196/214
+<about_end_flag> = 196/214,ddd
 <about_segment_flag> = 800 segments (33 empty)
