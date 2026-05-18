@@ -1,0 +1,187 @@
+{
+  "totalMi": 436,
+  "unmatchedMiCount": 1,
+  "matchedRate": 0.9977,
+  "unmatchedSentences": [
+    {
+      "n": 98,
+      "words": 61,
+      "text": "Don't forget that we're inspiring the next generation of builders through our investment into Brick Borrow, a fantastic LEGO subscription service. You can learn more and get started today over at brickbarrow.com. And as always guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you subscribe to the B1M.",
+      "miList": [
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414
+      ],
+      "unmatchedMi": [
+        409
+      ]
+    }
+  ],
+  "longSentencesCount": 9,
+  "longSentences": [
+    {
+      "n": 5,
+      "words": 66,
+      "text": "He was heavily in debt and had decided to stake not just his reputation but his personal fortune on building an amusement park, something which was normally free to enter. But he needn't have worried. By combining technical wizardry with the magic of the big screen, Disney had hit upon his most consequential innovation yet, one that would transform his dwindling kingdom into a global empire.",
+      "miList": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "n": 17,
+      "words": 68,
+      "text": "When researching other parks, Disney found that one of their weaknesses was they often lacked a coherent plan, making them pretty confusing to navigate. If he were to create the happiest place on earth, it would have to be simple to get around. And to do that, Disney had to meticulously design the flow of people as well as the attractions. And that all began at the entrance.",
+      "miList": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ]
+    },
+    {
+      "n": 46,
+      "words": 56,
+      "text": "During the design phase, engineers had taken the model apart for cleaning, only to quickly reassemble it when Walt Disney came to visit. In the rush, they put the palace back on the wrong way round. Disney noticed the mistake, but actually preferred the way it looked and had the castle built as the model stood.",
+      "miList": [
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173
+      ]
+    },
+    {
+      "n": 49,
+      "words": 58,
+      "text": "The Jungle Cruise has become one of the most popular rides of Disneyland and has since been replicated at other Disney parks. Designing a ride like this today requires months of planning and design work by huge teams of people. But back in 1954, the ride's layout was solely down to this man, legendary art director Harper Goff.",
+      "miList": [
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186
+      ]
+    },
+    {
+      "n": 54,
+      "words": 54,
+      "text": "As Disney's ambitions for the park grew, so did the bill to pay for it all. By the time construction began, he'd taken out $17 million in loans, equivalent to over $600 million today. He even put his personal fortune on the line, selling properties and cashing in his life insurance to raise funds.",
+      "miList": [
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206
+      ]
+    },
+    {
+      "n": 62,
+      "words": 58,
+      "text": "Fowler, meanwhile, was a retired admiral and a veteran of both World Wars. He'd spent the last few decades overseeing the construction of warships for the Navy. Initially, he'd been drafted in to oversee the construction of the Mark Twain steamboat, but his ability to wrangle logistics made him invaluable to the wider construction effort of the park.",
+      "miList": [
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246
+      ]
+    },
+    {
+      "n": 64,
+      "words": 48,
+      "text": "Together, Fowler and Wood adopted a strategy that prioritized the important storytelling aspects of the park while finding ways to cut corners and find efficiencies elsewhere. Their aim wasn't perfection. Instead, they raced to get everything good enough for opening day with a view to continue work afterwards.",
+      "miList": [
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260
+      ]
+    },
+    {
+      "n": 66,
+      "words": 100,
+      "text": "But among the cost-saving and improvisation, there were some truly impressive innovations. Do you notice anything special about this bolard or this fence? Well, it might be that as you're walking through, you don't notice anything at all. Despite their best efforts, Disney's team wasn't able to banish the outside world completely. Things like rubbish bins and utilities weren't part of the fantasy script, but were still essential to the park. To solve this, his imagineers created a new color that would help unwanted features blend in with the planting scheme around the park. They named it Go Away Green.",
+      "miList": [
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281
+      ]
+    },
+    {
+      "n": 98,
+      "words": 61,
+      "text": "Don't forget that we're inspiring the next generation of builders through our investment into Brick Borrow, a fantastic LEGO subscription service. You can learn more and get started today over at brickbarrow.com. And as always guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you subscribe to the B1M.",
+      "miList": [
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414
+      ]
+    }
+  ]
+}
