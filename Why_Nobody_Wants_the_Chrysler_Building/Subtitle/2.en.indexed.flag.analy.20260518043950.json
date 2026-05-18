@@ -1,0 +1,217 @@
+{
+  "totalMi": 637,
+  "unmatchedMiCount": 8,
+  "matchedRate": 0.9874,
+  "unmatchedSentences": [
+    {
+      "n": 20,
+      "words": 29,
+      "text": "Well, it's probably not who you think. Your first response would probably be, \"Well, the Chrysler family, right? Or the car manufacturer.\" And yes, they did own it once.",
+      "miList": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "unmatchedMi": [
+        41
+      ]
+    },
+    {
+      "n": 144,
+      "words": 50,
+      "text": "As one of London's most recognizable industrial landmarks, its cultural significance ultimately secured its future. Even after decades of dereliction and a string of failed schemes by becoming a mixeduse destination, the power station was able to fund its own survival. Today, it's a thriving hot spot for this city.",
+      "miList": [
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392
+      ],
+      "unmatchedMi": [
+        387
+      ]
+    },
+    {
+      "n": 150,
+      "words": 64,
+      "text": "Imagine living inside the most famous crown in the world. So, the Woolworth building famously underwent a condo conversion on the top floors, but it's been a complete disaster of a condo conversion. There have been others that are seemingly more promising. The Flat Iron Building, again, another iconic building, so synonymous with the New York skyline, that is being converted to boutique condos.",
+      "miList": [
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422
+      ],
+      "unmatchedMi": [
+        411,
+        415,
+        416
+      ]
+    },
+    {
+      "n": 152,
+      "words": 57,
+      "text": "This is a problem we're going to see a lot more of. For the first time in history, we're seeing century old skyscrapers, and we can't just tear them down. First off, it would be tremendously difficult to knock down any of these buildings. These first skyscrapers were overengineered because nothing had been built that tall before.",
+      "miList": [
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432
+      ],
+      "unmatchedMi": [
+        424,
+        427,
+        429
+      ]
+    }
+  ],
+  "longSentencesCount": 8,
+  "longSentences": [
+    {
+      "n": 21,
+      "words": 68,
+      "text": "It was originally built and owned by the company's founder, Walter Krysler, in 1930, not by the Krysler Corporation itself. Walter Krysler intended the iconic skyscraper to remain a family asset and it did all the way up until 1953 when it was purchased by developer William Zeondorf, the man behind the UN headquarters and the guy responsible for reshaping much of Manhattan during the 50s and 60s.",
+      "miList": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "n": 29,
+      "words": 48,
+      "text": "The land was bought as a way to help fund the college. Because of this asset and the rent, they've been able to collect millions and millions of dollars over the years. They are able or have been able to keep the school free for a long time.",
+      "miList": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "n": 80,
+      "words": 44,
+      "text": "Hidden inside the crown was a secret spire assembled in sections out of sight. Once 40 Wall Street had topped out, the spire of the Chrysler building was hoisted up through the roof and locked into place, adding 36 m in a single stroke.",
+      "miList": [
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228
+      ]
+    },
+    {
+      "n": 93,
+      "words": 48,
+      "text": "This is a great building, but it also needs a lot of love. Like, it needs a lot of work to be brought into the 21st century so that it can compete for A+ tenants with the likes of all these new buildings popping up around New York.",
+      "miList": [
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269
+      ]
+    },
+    {
+      "n": 135,
+      "words": 41,
+      "text": "So guys, if you love the B1M, if you love these stories, if you love learning more about construction in a downto-earth way that's easy to understand and can be read by anyone, go and pre-order my book, Mega Builds, today.",
+      "miList": [
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361
+      ]
+    },
+    {
+      "n": 144,
+      "words": 50,
+      "text": "As one of London's most recognizable industrial landmarks, its cultural significance ultimately secured its future. Even after decades of dereliction and a string of failed schemes by becoming a mixeduse destination, the power station was able to fund its own survival. Today, it's a thriving hot spot for this city.",
+      "miList": [
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392
+      ]
+    },
+    {
+      "n": 150,
+      "words": 64,
+      "text": "Imagine living inside the most famous crown in the world. So, the Woolworth building famously underwent a condo conversion on the top floors, but it's been a complete disaster of a condo conversion. There have been others that are seemingly more promising. The Flat Iron Building, again, another iconic building, so synonymous with the New York skyline, that is being converted to boutique condos.",
+      "miList": [
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422
+      ]
+    },
+    {
+      "n": 152,
+      "words": 57,
+      "text": "This is a problem we're going to see a lot more of. For the first time in history, we're seeing century old skyscrapers, and we can't just tear them down. First off, it would be tremendously difficult to knock down any of these buildings. These first skyscrapers were overengineered because nothing had been built that tall before.",
+      "miList": [
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432
+      ]
+    }
+  ]
+}
