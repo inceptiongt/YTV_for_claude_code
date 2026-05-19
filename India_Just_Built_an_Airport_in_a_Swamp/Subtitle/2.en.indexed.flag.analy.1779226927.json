@@ -1,0 +1,269 @@
+{
+  "totalMi": 423,
+  "unmatchedMiCount": 6,
+  "matchedRate": 0.9858,
+  "unmatchedSentences": [
+    {
+      "n": 31,
+      "words": 61,
+      "text": "That means it's built largely on reclaimed land and that's required a lot of preparation. Now, before we go any further with today's video, we need to stop everything because I have got some very big news that I am finally allowed to share. Last year, Penguin Random House asked me if I'd like to write a book. I said yes.",
+      "miList": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111
+      ],
+      "unmatchedMi": [
+        104
+      ]
+    },
+    {
+      "n": 59,
+      "words": 42,
+      "text": "Obviously, having a hill in the middle of your concourse isn't exactly ideal. So, that had to be completely flattened before any building could take place. Construction crews demolished 62 million cub m of rock through controlled blasting to protect surrounding villages.",
+      "miList": [
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165
+      ],
+      "unmatchedMi": [
+        160,
+        162
+      ]
+    },
+    {
+      "n": 69,
+      "words": 76,
+      "text": "Originally, it cut through the middle of the site, but beyond acting as an interesting water feature, a river through a runway is actually incredibly impractical. Engineers were left with no choice but to redirect it. You can see it's been cut at an angle, diverting around the site. And if you're thinking it now looks bigger, then you'd be right. Navim Mumbai Airport is surrounded by villages whose people have watched this site completely transform.",
+      "miList": [
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203
+      ],
+      "unmatchedMi": [
+        196,
+        200
+      ]
+    },
+    {
+      "n": 110,
+      "words": 63,
+      "text": "Don't forget that we're raising awareness of construction's mental health crisis and supporting charities in this space through our get construction initiative. You can learn more and find links to supports over at getconstructionalking.org. And as always guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you're subscribed to the B1M.",
+      "miList": [
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339
+      ],
+      "unmatchedMi": [
+        334
+      ]
+    }
+  ],
+  "longSentencesCount": 11,
+  "longSentences": [
+    {
+      "n": 8,
+      "words": 45,
+      "text": "They were tasked with building an airport on a swamp covered in unstable mud flats, a giant hill, and a river flowing right through the middle of it. While the renders of Navi Mumbai International look spectacular, this airport's location has been an absolute nightmare.",
+      "miList": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "n": 22,
+      "words": 43,
+      "text": "Terminal one over here is going through a redevelopment, but there isn't exactly a lot of scope for expanding the footprints. On every side, there are densely packed communities that would be a nightmare to move, and it's not like they didn't try.",
+      "miList": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "n": 23,
+      "words": 63,
+      "text": "That evidence can be found over at Terminal 2. The concourses here are asymmetrical. The initial plan was for them to be the same length, but because of the challenges faced in moving communities on the airport boundary, the second concourse had to be redesigned. It looks like it's been cut off and that obviously limits the number of gates that are available.",
+      "miList": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "n": 26,
+      "words": 48,
+      "text": "And as we pointed out, it's not like there's a lot of space to build parallel runways elsewhere. The result is that Mumbai is missing out on potentially millions of passengers and tons of cargo every year, and the city's key airport really is crying out for help.",
+      "miList": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ]
+    },
+    {
+      "n": 31,
+      "words": 61,
+      "text": "That means it's built largely on reclaimed land and that's required a lot of preparation. Now, before we go any further with today's video, we need to stop everything because I have got some very big news that I am finally allowed to share. Last year, Penguin Random House asked me if I'd like to write a book. I said yes.",
+      "miList": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111
+      ]
+    },
+    {
+      "n": 54,
+      "words": 41,
+      "text": "So guys, if you love the B1M, if you love these stories, if you love learning more about construction in a downto-earth way that's easy to understand and can be read by anyone, go and pre-order my book, Mega Builds, today.",
+      "miList": [
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ]
+    },
+    {
+      "n": 59,
+      "words": 42,
+      "text": "Obviously, having a hill in the middle of your concourse isn't exactly ideal. So, that had to be completely flattened before any building could take place. Construction crews demolished 62 million cub m of rock through controlled blasting to protect surrounding villages.",
+      "miList": [
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165
+      ]
+    },
+    {
+      "n": 64,
+      "words": 60,
+      "text": "To do that, they had to raise the ground by around 6 m. And conveniently, they had enormous amounts of rock available from that big old hill they' just blown up. What's really cool is that these guys blasted the rock at specific explosive power designations to create rock fragments that were the ideal size for land development and reclamation.",
+      "miList": [
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183
+      ]
+    },
+    {
+      "n": 69,
+      "words": 76,
+      "text": "Originally, it cut through the middle of the site, but beyond acting as an interesting water feature, a river through a runway is actually incredibly impractical. Engineers were left with no choice but to redirect it. You can see it's been cut at an angle, diverting around the site. And if you're thinking it now looks bigger, then you'd be right. Navim Mumbai Airport is surrounded by villages whose people have watched this site completely transform.",
+      "miList": [
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203
+      ]
+    },
+    {
+      "n": 95,
+      "words": 44,
+      "text": "And actually, I just want to touch on the site location one more time because sure, we've already shown you how far this is from the city. And yes, moving away from the hustle and bustle means you have more room to play with.",
+      "miList": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ]
+    },
+    {
+      "n": 110,
+      "words": 63,
+      "text": "Don't forget that we're raising awareness of construction's mental health crisis and supporting charities in this space through our get construction initiative. You can learn more and find links to supports over at getconstructionalking.org. And as always guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you're subscribed to the B1M.",
+      "miList": [
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339
+      ]
+    }
+  ]
+}
