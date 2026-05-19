@@ -1,0 +1,1064 @@
+1
+00:00:01,520 --> 00:00:03,287
+>> 在法国的一个偏远角落，
+>> In a remote corner of France,
+
+2
+00:00:03,287 --> 00:00:07,760
+一项堪称国家之最的基础设施工程正在如火如荼地推进。
+work is underway on one of the country's most impressive infrastructure projects.
+
+3
+00:00:08,515 --> 00:00:12,440
+>> >> 是一条路，但这可不是一条普通的路。
+>> >> A road, but it's not just any old road.
+
+4
+00:00:12,440 --> 00:00:18,033
+它拥有法国最长的大桥，沿途风景如画——但问题来了。
+It contains France's longest bridge and most beautiful drives, but there's a problem.
+
+5
+00:00:18,033 --> 00:00:24,840
+有一段还没修完，而且缺的还不是一点点，更要命的是，这个烂尾已经拖了很久很久。
+There's a bit missing, quite a big bit in fact, and it's been missing for a very long time.
+
+6
+00:00:25,200 --> 00:00:28,627
+原因在于，走到今天这一步，远比想象中艰难。
+That's because getting to this point has been far from easy.
+
+7
+00:00:28,627 --> 00:00:29,933
+我们说的"偏远"，
+When we say remote,
+
+8
+00:00:29,933 --> 00:00:34,400
+可不是布列塔尼半岛的某个角落，也不是科西嘉岛的海岸线。
+we don't mean a distant part of Brittany or the coast of Corsica.
+
+9
+00:00:35,120 --> 00:00:40,369
+不，你得先抵达阳光明媚的地中海沿岸，
+No, in fact, once you get to the sun-kissed shores of the Mediterranean,
+
+10
+00:00:40,369 --> 00:00:43,504
+然后继续往前走，非常非常非常远——
+keep going for a very, very, very long way,
+
+11
+00:00:43,505 --> 00:00:51,160
+一直到印度洋，在距法国本土将近九千公里的地方，才能找到留尼旺岛（Reunion）。
+here, to the Indian Ocean, where nearly 9,000 km from mainland France, you'll find the island of Reunion.
+
+12
+00:00:52,000 --> 00:00:56,155
+你可能在想：在这里建造大型基础设施工程，到底有多难？
+Now, you might be thinking, how on Earth do you build a mega project here?
+
+13
+00:00:56,155 --> 00:00:57,495
+这个问题问得好，
+And it's a good question
+
+14
+00:00:57,495 --> 00:01:02,520
+因为这里很可能是全球最难修一条路的地方之一。
+because it may be one of the most difficult places in the world to build a road like this.
+
+15
+00:01:02,960 --> 00:01:08,317
+这就是工程极限被不断突破的故事，
+This is what happens when engineering is pushed to its absolute limits
+
+16
+00:01:08,317 --> 00:01:15,280
+也是在地球上最孤立的角落之一建造超级工程所需要付出的一切。
+and what it takes to build a mega builds in one of the most isolated corners of our planet.
+
+17
+00:01:17,720 --> 00:01:20,997
+好，先上一堂简短的政治课。
+Okay, let's start with a quick politics lesson.
+
+18
+00:01:20,997 --> 00:01:26,018
+根据法兰西第五共和国宪法第一条，
+According to Article 1 of the Constitution of the Fifth French Republic,
+
+19
+00:01:26,018 --> 00:01:33,200
+法国是一个世俗、社会性且——对我们来说最重要的——不可分割的共和国。这究竟意味着什么？
+France is a secular, social, and importantly for us, an indivisible republic, which means what exactly?
+
+20
+00:01:34,000 --> 00:01:41,920
+换句话说，法国就是法国，不管你身处哪里——这里、那里、还是这里、那里，甚至这里。
+Well, in other words, France is France, regardless of whether you're here, here, here, here, or even here.
+
+21
+00:01:43,240 --> 00:01:47,233
+因此，尽管留尼旺岛离南极比离巴黎更近，
+So, despite Reunion being closer to the South Pole than to Paris,
+
+22
+00:01:47,233 --> 00:01:52,640
+它依然是欧盟不可分割的一部分，在法国议会中拥有完整的代表席位。
+it's an integral part of the EU and enjoys full representation in the French Parliament.
+
+23
+00:01:52,760 --> 00:01:54,672
+那这和我们有什么关系呢？
+So, why does that matter?
+
+24
+00:01:54,672 --> 00:01:57,680
+其实说白了，关系不大，除了面子问题——
+Well, it doesn't really, except for prestige,
+
+25
+00:01:57,880 --> 00:02:02,178
+因为这意味着"新海岸公路"（La Nouvelle Route du Littoral）
+because this means that La Nouvelle Route du Littoral, or New Coastal Road,
+
+26
+00:02:02,178 --> 00:02:07,565
+不仅是印度洋在建的最令人叹为观止的基础设施工程之一，
+isn't just one of the most impressive infrastructure projects being built in the Indian Ocean,
+
+27
+00:02:07,565 --> 00:02:09,800
+也是整个法国规模最大的工程之一。
+it's also one of the biggest in France.
+
+28
+00:02:10,440 --> 00:02:12,686
+那到底是一个什么样的工程？
+Anyway, what's this all about?
+
+29
+00:02:12,686 --> 00:02:18,240
+留尼旺岛固然美丽，但这座岛屿的内陆被巨型火山所主宰。
+Well, as beautiful as Reunion is, the island is dominated by these vast volcanoes.
+
+30
+00:02:18,680 --> 00:02:20,888
+正因为内陆几乎无法穿越，
+Because of this impossible interior,
+
+31
+00:02:20,888 --> 00:02:24,446
+大多数城镇散落在岛屿边缘——
+most towns and cities are dotted around the island's edge,
+
+32
+00:02:24,446 --> 00:02:32,360
+比如这里，圣但尼（Saint-Denis），岛屿的首府；还有这里，勒波尔（Le Port），岛屿港口所在地。而要往返于两地之间，
+like this one, Saint-Denis, the island's capital, or this one, Le Port, which contains the island's port. To get between the two,
+
+33
+00:02:32,360 --> 00:02:36,481
+只能走这条路——利托拉尔公路（Route du Littoral），就是那条老路。
+you've got to use this, the Route du Littoral, the old one, that is.
+
+34
+00:02:36,481 --> 00:02:42,055
+建于1959年，它紧贴着峭壁，从海岸线上方蜿蜒而过。
+Built in 1959, it tightly hugs the sheer cliffs as it passes above the shoreline.
+
+35
+00:02:42,055 --> 00:02:47,360
+每天约有八万辆车经过这条路，但问题来了。
+About 80,000 vehicles use this road every day, but there's a problem.
+
+36
+00:02:47,840 --> 00:02:51,153
+猛烈的狂风、暴雨和海浪不断袭击这座岛屿。
+Violent winds, rain, and waves battered the island.
+
+37
+00:02:51,153 --> 00:02:54,856
+我们必须清除所有大面积的东西。
+We have to clear away anything with a large surface area.
+
+38
+00:02:54,856 --> 00:02:57,520
+这意味着阵风时速可达两百公里。
+That means gusts of up to 200 km an hour.
+
+39
+00:02:58,000 --> 00:03:03,334
+这条路虽然至关重要，但开车走在上面，却像是夹在魔鬼与深蓝大海之间进退两难。
+As vital as this road is, driving it is like being caught between the devil and the deep blue sea.
+
+40
+00:03:03,334 --> 00:03:06,186
+这片海域的飓风十分频繁，
+Cyclones in this part of the ocean are common,
+
+41
+00:03:06,186 --> 00:03:09,720
+带来的巨浪和时速高达一百英里的狂风不断冲击着公路，
+battering the road with waves and winds of up to 100 mph,
+
+42
+00:03:09,720 --> 00:03:12,696
+而受苦的不只是路面本身。
+and it's not just the road that takes a beating.
+
+43
+00:03:12,696 --> 00:03:16,080
+风化侵蚀不断啃噬着悬崖壁面，
+The elements cause constant erosion to the cliff face,
+
+44
+00:03:16,080 --> 00:03:20,843
+将巨石碎块轰然砸向路面和过路的车辆行人。
+sending rocks and boulders hurtling down onto the road and road users below.
+
+45
+00:03:20,843 --> 00:03:22,778
+2006年3月24日，一整段悬崖突然崩塌，
+On the 24th of March, 2006,
+
+46
+00:03:22,778 --> 00:03:30,520
+大量岩石倾泻而下，造成两人罹难。
+an entire section of the cliff gave way, sending tons of rock onto the highway below and killing two people.
+
+47
+00:03:35,520 --> 00:03:38,720
+这场悲剧发生后，一个更好的解决方案开始被提上日程。
+After this tragedy, work began on a better solution.
+
+48
+00:03:39,440 --> 00:03:43,664
+第一项任务，是研究岩石从悬崖上滚落的最大距离，
+The first job was to study the maximum distance rocks could fall from the cliff
+
+49
+00:03:43,664 --> 00:03:47,513
+并以此划定安全边界——任何新路都必须建在这条线以外。
+and to establish a perimeter that any new road would have to lay beyond.
+
+50
+00:03:47,513 --> 00:03:54,046
+在此基础上，一个大胆的方案被提了出来：将新的海岸公路推向近海，建在安全水域之上。
+From there, an ambitious solution was proposed, a new coastal road pushed safely offshore.
+
+51
+00:03:54,045 --> 00:03:58,041
+第一段将建在高达17米的防波堤之上，
+The first part would sit on top of a dyke up to 17 m high
+
+52
+00:03:58,041 --> 00:04:02,949
+并覆盖护甲层，以抵御百年一遇的风暴。
+and covered in armor to help it resist even a once-in-a-century storm.
+
+53
+00:04:02,949 --> 00:04:08,771
+之后，路线将潜入悬崖内部，穿越一条隧道，最终抵达圣但尼。
+From there, it would dive into the cliff face and make the final entrance to Saint-Denis through a tunnel.
+
+54
+00:04:08,772 --> 00:04:11,538
+然而，计划很快就脱轨了。
+But the plan quickly came off the rails.
+
+55
+00:04:11,537 --> 00:04:15,681
+早期勘探发现，岩层不适合钻探——
+Early tests found that the rock was unsuitable for drilling,
+
+56
+00:04:15,681 --> 00:04:22,103
+这意味着即便隧道方案可行，施工难度也将极高，造价同样极为昂贵。
+meaning that any tunnel, if it was even possible, would be extremely difficult and expensive.
+
+57
+00:04:22,184 --> 00:04:28,480
+方案几经比较，终于在2011年敲定了最终设计。
+A few different options were looked at, and then, in 2011, a final plan was put forward.
+
+58
+00:04:29,880 --> 00:04:35,248
+说真的，不管有没有路，我其实真的很喜欢留尼旺岛的生活方式。
+You know what? Road or no road, I actually really quite like the look of life in Reunion.
+
+59
+00:04:35,280 --> 00:04:42,284
+不好意思，我平时不会这样——但我真的在想，能不能在那里建一栋梦想中的家园？那会是什么样子？
+Sorry, I don't normally do this, but I'm just wondering if I could maybe even build my dream house there. What would that even look like?
+
+60
+00:04:42,284 --> 00:04:45,640
+我的好伙伴Rayon Design可以帮我实现这个想象。
+Well, I can find out thanks to my mates at Rayon Design.
+
+61
+00:04:45,640 --> 00:04:47,983
+如果你是室内设计师或建筑师，
+If you're an interior designer or an architect,
+
+62
+00:04:47,983 --> 00:04:51,920
+Rayon是一个新一代CAD平台，将彻底改变你的工作体验。
+Rayon is a next-generation CAD platform that's going to make your life a dream.
+
+63
+00:04:52,040 --> 00:04:54,501
+它从早期概念到施工图纸，
+It's built to streamline the entire design process
+
+64
+00:04:54,501 --> 00:04:59,178
+将整个设计流程整合到同一个平台上，全程一站搞定。
+from early concept development all the way through to construction documents, all in one place.
+
+65
+00:04:59,178 --> 00:05:03,083
+与传统CAD工具不同，Rayon让你同时完成精准技术图纸、
+Unlike CAD tools, Rayon lets you create precise technical drawings,
+
+66
+00:05:03,083 --> 00:05:06,639
+精美客户演示与灵感板，
+produce stylized client presentations and inspiration boards,
+
+67
+00:05:06,639 --> 00:05:10,661
+以及实时同步、高效管理的采购计划。
+and manage procurement schedules that stay live-synced and efficient.
+
+68
+00:05:10,661 --> 00:05:14,650
+再也不用为了出一套图纸，同时开着五个不同的软件。
+No more juggling five different programs just to produce a single drawing pack.
+
+69
+00:05:14,651 --> 00:05:16,982
+它甚至还整合了AI。比如说，
+It even incorporates AI. For example,
+
+70
+00:05:16,981 --> 00:05:21,213
+如果你在超过一万个图块的库里找不到需要的CAD图块，
+if you can't find the CAD block you need in its library of over 10,000 blocks,
+
+71
+00:05:21,213 --> 00:05:23,383
+几秒钟内就能自己生成一个。
+you can create your own in just seconds.
+
+72
+00:05:23,383 --> 00:05:26,003
+同样的AI，还能把平面图或剖面图
+That same AI can take a floor plan or section
+
+73
+00:05:26,003 --> 00:05:29,904
+一键转换为3D轴测视图。
+and transform it into a 3D axonometric view with just a few clicks.
+
+74
+00:05:29,904 --> 00:05:31,790
+而且由于Rayon完全基于网页端，
+And because Rayon is fully web-based,
+
+75
+00:05:31,790 --> 00:05:36,940
+你的团队可以实时协作，共享单一数据源，彻底告别版本混乱。
+your team can collaborate in real time with a single source of truth model with no version confusion.
+
+76
+00:05:36,940 --> 00:05:39,910
+现在，趁我继续在留尼旺岛设计梦想家园，
+Now, while I carry on designing my dream home in Reunion,
+
+77
+00:05:39,910 --> 00:05:43,140
+你也点击下方链接，免费试用Rayon吧。
+why don't you hit the link below and try Rayon for free today.
+
+78
+00:05:43,140 --> 00:05:48,600
+好了，先让大家回到视频里来。还想再加几棵棕榈树。
+Anyway, for now, I'm going to let you guys get back to the video. Want to add a few more palm trees.
+
+79
+00:05:48,600 --> 00:05:52,373
+西段同样会建在防波堤上，
+The western section of the route would once again be built on a dyke,
+
+80
+00:05:52,373 --> 00:05:58,333
+但不是钻进地下，而是耸立起这条路的标志性景观——大沙卢普高架桥（Grand Chaloupe Viaduct）。
+but instead of disappearing underground, it would rise onto its defining feature, the Grand Chaloupe Viaduct.
+
+81
+00:05:58,413 --> 00:06:02,705
+大桥全长5.4公里，最远伸入海面300米，
+Stretching for 5.4 km and up to 300 m away from the shore,
+
+82
+00:06:02,705 --> 00:06:10,993
+将成为这条12.5公里线路的核心，建成后也将跻身法国最长大桥之列。
+it would form the centerpiece of the 12.5 km route and once complete, would become the longest bridge in France.
+
+83
+00:06:10,993 --> 00:06:14,160
+好，听起来很厉害。但有一点——
+Okay, sounds great. Just one thing.
+
+84
+00:06:15,080 --> 00:06:17,520
+让我们再仔细看看留尼旺岛。
+Let's take another look at Reunion.
+
+85
+00:06:18,520 --> 00:06:22,891
+在法国最大规模基础设施工程之一的工地上施工已经够难了——
+As if building one of France's largest infrastructure projects wasn't enough,
+
+86
+00:06:22,891 --> 00:06:30,328
+偏偏最近的大陆还在1600公里以外，你该怎么办？那就只能自给自足。
+how do you also do that when the nearest continental landmass is over 1,600 km away? Well, you've got to be pretty self-sufficient.
+
+87
+00:06:30,328 --> 00:06:32,440
+来看看这座大桥。
+Let's take a look at that bridge.
+
+88
+00:06:32,840 --> 00:06:37,937
+岛上新建了两座混凝土工厂，专门负责浇筑结构所需的巨型构件。
+Two new concrete factories were created on the island to cast the enormous components for the structure.
+
+89
+00:06:37,937 --> 00:06:39,883
+大桥采用箱梁设计，
+The bridge is a box girder design,
+
+90
+00:06:39,883 --> 00:06:44,920
+通过拼接一系列预制空心结构来形成桥面跨段。
+meaning the spans are created by joining together a series of precast hollow structures.
+
+91
+00:06:45,280 --> 00:06:50,739
+这些箱体内部布有预应力钢缆，将各段紧紧挤压在一起。
+Inside these boxes are prestressed steel cables, which squeeze the different sections together.
+
+92
+00:06:50,739 --> 00:06:52,755
+整座桥由48根桥墩支撑，
+All of that sits on 48 piers,
+
+93
+00:06:52,755 --> 00:06:58,316
+每根桥墩都经过精心设计，以减小潮汐与涌浪对结构的阻力。
+each carefully designed to minimize resistance to the tides and swells of water.
+
+94
+00:06:58,316 --> 00:07:04,320
+桥墩在路线西端附近预制浇筑，每个结构由两个模块组成。
+The piers were cast here, near the western tip of the road. Each structure is made of two blocks.
+
+95
+00:07:04,400 --> 00:07:11,002
+底部基础高15米，重达4500吨，基底宽23米；
+The base, 15 m tall, weighing 4,500 tons and featuring a 23-m wide foundation.
+
+96
+00:07:11,002 --> 00:07:16,080
+其上为墩帽，高度介于9至21米之间。
+On top of that, the pier head, measuring between 9 and 21 m.
+
+97
+00:07:16,600 --> 00:07:21,760
+要将这些混凝土巨物运到施工现场，需要一件特殊的装备。
+To transport these concrete giants to the work sites, a special piece of equipment was needed.
+
+98
+00:07:21,760 --> 00:07:24,480
+认识一下——祖里特（Zurit）。
+Say hello to Zurit.
+
+99
+00:07:24,480 --> 00:07:29,796
+整个项目的其他物资都尽量就近取材，唯独这件例外。
+While everything else for this project was sourced as close as possible, this was the exception.
+
+100
+00:07:29,796 --> 00:07:35,303
+这艘专门制造的驳船来自波兰，大小相当于一个足球场，
+Constructed in Poland, this specially designed barge is the size of a football pitch
+
+101
+00:07:35,303 --> 00:07:41,663
+船上配备混凝土搅拌设备和一台能起吊巨型桥墩的门式起重机。
+and contains a concrete mixing facility and gantry capable of lifting the enormous pier sections.
+
+102
+00:07:41,663 --> 00:07:44,519
+基础构件一件一件地运出去。
+One at a time, foundations are sailed out.
+
+103
+00:07:44,519 --> 00:07:51,728
+就位之后，祖里特的机组人员——像八爪鱼一样——将八条钢腿插入海床，稳固船体。
+Once in position, Zurit's crew, for octopus, plants eight steel legs into the seabed to provide stability.
+
+104
+00:07:51,728 --> 00:07:55,400
+桥墩基础随后被精确放入指定位置。
+The foundations are then precisely lowered into place.
+
+105
+00:07:55,440 --> 00:07:59,437
+落入海床之后，液压千斤顶将结构顶起40厘米，
+Once on the sea floor, jacks raise the structure up 40 cm,
+
+106
+00:07:59,437 --> 00:08:04,123
+再向底板下方的袋体注入混凝土。
+allowing concrete to be injected into sacks beneath the base plates.
+
+107
+00:08:04,123 --> 00:08:06,880
+安装全部48根桥墩，整整耗时四年。
+It took 4 years to install all 48 piers.
+
+108
+00:08:07,320 --> 00:08:11,213
+安装完毕后，架桥机登场，将箱梁逐一安装到位。
+Once in place, a beam launcher was used to install the box girders.
+
+109
+00:08:11,213 --> 00:08:16,093
+它站立在桥墩上，同时在两侧各放置一片梁段，保持平衡。
+Standing on a pier, it picks up deck pieces and installs them either side on a pier,
+
+110
+00:08:16,093 --> 00:08:18,068
+它站立在桥墩上，同时在两侧各放置一片梁段，保持平衡。
+two at a time to maintain balance.
+
+111
+00:08:18,068 --> 00:08:20,555
+完成两个跨段大约需要一个月，
+It takes a month to complete two spans,
+
+112
+00:08:20,555 --> 00:08:25,402
+之后架桥机移位至下一根桥墩，重复同样的流程。
+after which the launcher relocates to the next pier and repeats the process.
+
+113
+00:08:25,402 --> 00:08:30,480
+2017年，历经四年施工，大沙卢普高架桥正式竣工。
+In 2017, after 4 years of work, the Grand Chaloupe Viaduct was complete.
+
+114
+00:08:31,160 --> 00:08:35,408
+不过，尽管大桥可能是整个项目技术最复杂的部分，
+But although the bridge might have been the most technically complex part of the road,
+
+115
+00:08:35,408 --> 00:08:37,680
+让工程陷入僵局的，却不是它。
+that isn't what brought the project to a halt.
+
+116
+00:08:38,039 --> 00:08:40,875
+问题出在防波堤上。
+That came about with the dyke.
+
+117
+00:08:41,240 --> 00:08:46,061
+这些结构设计精妙，是要将海浪的力量逐步消耗殆尽，
+These structures were intricately designed to exhaust the power of the sea
+
+118
+00:08:46,061 --> 00:08:48,080
+而不是硬碰硬地抵挡。
+instead of trying to resist it.
+
+119
+00:08:48,080 --> 00:08:52,203
+防波堤的建造，先从海床堆砌填方形成堤芯，
+Initially, they're created by building up an embankment from the seabed.
+
+120
+00:08:52,203 --> 00:08:55,925
+再在外部构筑一套精密的护甲防护体系。
+From there, they're protected by a sophisticated system of armor.
+
+121
+00:08:55,925 --> 00:08:57,299
+原理其实很简单：
+The principle is simple.
+
+122
+00:08:57,300 --> 00:09:01,709
+最外层由巨型浇筑混凝土块——护坡混凝土块（Accropode）——组成，直接承受海浪的全部冲击力。
+The outer layer is formed of huge cast concrete boulders known as Accropodes.
+
+123
+00:09:01,709 --> 00:09:04,428
+它们是抵挡汹涌海浪的第一道防线。
+They take the full force of ocean swells.
+
+124
+00:09:04,428 --> 00:09:08,686
+之后，海水被迫穿越一层又一层越来越细密的岩石，
+From there, water is forced through layers of smaller and smaller rocks,
+
+125
+00:09:08,686 --> 00:09:13,003
+形成一道密度递增的迷宫，将波浪的能量层层消耗殆尽。
+creating an increasingly dense maze, which zaps the energy from the wave.
+
+126
+00:09:13,003 --> 00:09:18,840
+效果很好，就是有一个问题：需要大量的岩石。
+It's effective, but there's just one thing. It needs a lot of rock.
+
+127
+00:09:18,880 --> 00:09:23,459
+为了解决这个问题，项目方提出在两处新开采石场——
+To solve that problem, the project owners proposed opening two new quarries,
+
+128
+00:09:23,459 --> 00:09:25,930
+布兰白（Bois Blanc）和圣卢（Saint-Leu）。
+here at Bois Blanc and here at Saint-Leu.
+
+129
+00:09:25,930 --> 00:09:28,353
+这两处采石场本应绰绰有余，
+These two sites would be more than enough
+
+130
+00:09:28,353 --> 00:09:33,258
+足以提供完成防波堤所需的约700万立方米岩石。
+to supply the estimated 7 million cubic meters of rock needed to complete the dyke.
+
+131
+00:09:33,258 --> 00:09:39,274
+但麻烦就在这时来了。公众对采石场的强烈反对席卷而来。
+But that's when they ran into trouble. Public backlash against the quarries was intense.
+
+132
+00:09:39,275 --> 00:09:44,339
+这正是安东尼奥·卡代特（Antonio Cadet）和"别动我们的石头"社区团体所担忧的事。
+It's what bothers Antonio Cadet and a community group called Don't Touch Our Rocks.
+
+133
+00:09:44,339 --> 00:09:49,280
+他们认同修路的必要性，但坚决反对其中一个采石场选址。
+They agree the road is necessary, but they're opposed to one of the quarry sites.
+
+134
+00:09:49,280 --> 00:09:52,615
+当地居民和环保团体纷纷表示反对，
+Local residents and environmental groups opposed the plans,
+
+135
+00:09:52,615 --> 00:09:56,402
+称爆破作业和重型卡车的频繁往来将严重干扰日常生活，
+claiming blasting and heavy truck traffic would disrupt daily life,
+
+136
+00:09:56,402 --> 00:10:01,320
+产生大量灰尘和噪音，并威胁到附近居民区和生态敏感地带。
+generate dust and noise, and threaten sensitive ecosystems close to homes and habitats.
+
+137
+00:10:02,120 --> 00:10:05,810
+你看这里的风，尘土将会飘散到每一个角落，
+With the wind you see here, we're going to have dust everywhere around,
+
+138
+00:10:05,810 --> 00:10:08,149
+所有人都会受到影响，
+and all the people are going to be concerned,
+
+139
+00:10:08,150 --> 00:10:11,944
+尤其是孩子、老人，还有那些本就体弱多病的人。
+especially the children and old people and people with already a disease.
+
+140
+00:10:11,984 --> 00:10:13,645
+先停一下——
+Now, before your very eyes,
+
+141
+00:10:13,645 --> 00:10:18,504
+我们不能低估这个项目背后的环境隐忧。
+it's important not to underestimate the environmental concerns of this project.
+
+142
+00:10:18,503 --> 00:10:22,440
+留尼旺岛能成为令人心旷神怡的度假天堂，不是没有原因的。
+Reunion isn't an idyllic island paradise for nothing.
+
+143
+00:10:23,000 --> 00:10:26,779
+岛屿周边海域孕育着珍贵的珊瑚礁、
+The waters around Reunion are home to impeccable coral reefs,
+
+144
+00:10:26,779 --> 00:10:30,000
+鲸鱼迁徙路线和海豚觅食场所。
+whale migration routes, and dolphin feeding grounds.
+
+145
+00:10:30,160 --> 00:10:36,088
+在这一路段选用高架桥方案，部分原因正是为了尽量减少对自然环境的影响——
+Part of the reason the bridge was chosen for this stretch of the route was to minimize the impact on nature,
+
+146
+00:10:36,088 --> 00:10:40,260
+而对岛屿生态的担忧，并不止于水岸边缘。
+and those concerns over the island's ecology don't stop at the water's edge.
+
+147
+00:10:40,260 --> 00:10:44,017
+在这里开采一座采石场，将造成毁灭性的破坏。
+The impacts of opening a quarry here would be devastating.
+
+148
+00:10:44,320 --> 00:10:45,973
+结果，在2018年，
+And sure enough, in 2018,
+
+149
+00:10:45,973 --> 00:10:51,130
+法院以"将破坏多种受保护物种的栖息地"
+on the ground that it would destroy the habitats of several protected species,
+
+150
+00:10:51,129 --> 00:10:53,840
+为由，裁定禁止新建任何采石场。
+the court ruled against any new quarries.
+
+151
+00:10:54,480 --> 00:10:56,680
+这是一记毁灭性的打击，
+It was a devastating blow,
+
+152
+00:10:57,040 --> 00:11:00,000
+但故事还没有结束。
+but it's not the end of the story.
+
+153
+00:11:00,000 --> 00:11:03,023
+那些巨型火山也不是一无是处——
+Those giant volcanoes aren't good for nothing.
+
+154
+00:11:03,023 --> 00:11:06,966
+它们同样源源不断地为岛上"提供"岩石。
+They're also responsible for spraying the island with rocks.
+
+155
+00:11:06,966 --> 00:11:07,969
+数量之多，
+So much, in fact,
+
+156
+00:11:07,969 --> 00:11:10,684
+以至于多年来，岛上农民
+that for years it's been a problem for farmers
+
+157
+00:11:10,684 --> 00:11:13,399
+一直被土地上遍布的玄武岩巨石所困扰。
+whose land is littered with basaltic boulders.
+
+158
+00:11:13,399 --> 00:11:16,040
+于是，一个妙招应运而生。
+So, an ingenious solution was found.
+
+159
+00:11:24,240 --> 00:11:25,644
+全岛农民
+Farmers across the island
+
+160
+00:11:25,644 --> 00:11:29,238
+受到鼓励，将田间的巨石推到路边，
+were encouraged to roll boulders off their land to the roadside,
+
+161
+00:11:29,238 --> 00:11:33,000
+由专人运往施工现场。
+where they were picked up and transported to the construction site.
+
+162
+00:11:48,520 --> 00:11:49,023
+皆大欢喜——
+Win-win.
+
+163
+00:11:49,023 --> 00:11:50,846
+农民清理了田地，
+Farmers cleared their fields,
+
+164
+00:11:50,845 --> 00:11:54,365
+项目也收集到数百万吨岩石。
+and millions of tons of rock was collected for the road.
+
+165
+00:11:54,405 --> 00:11:56,315
+但这个方案再巧妙，
+But as elegant as the solution was,
+
+166
+00:11:56,315 --> 00:12:00,080
+终究无法满足防波堤护甲层所需的全部岩石用量，
+it still couldn't provide all the rubble needed for the road's armor,
+
+167
+00:12:00,360 --> 00:12:01,862
+而且更糟糕的还在后头。
+and there was worse to come.
+
+168
+00:12:01,862 --> 00:12:07,120
+一项评估发现，所需岩石的数量此前被严重低估了。
+In a review, it was discovered that the quantity of rock needed had been massively underestimated.
+
+169
+00:12:08,000 --> 00:12:13,880
+不是700万立方米，而是需要1200万立方米，才能完成防波堤的建设。
+Rather than 7 million cubic meters, 12 million were needed to finish the dike.
+
+170
+00:12:14,640 --> 00:12:18,326
+就这样，到2019年，项目陷入全面停滞。
+And with that, in 2019, the project ground to a halt.
+
+171
+00:12:18,326 --> 00:12:22,012
+团队研究了从南非运石的方案，
+The team looked into sourcing rock from South Africa,
+
+172
+00:12:22,012 --> 00:12:26,880
+但将岩石横跨两千公里运到留尼旺岛，成本高得令人咋舌。
+but the cost of shipping it over 2,000 km to Reunion was astronomical.
+
+173
+00:12:27,680 --> 00:12:30,006
+这个项目不仅拥有法国最长的大桥，
+As well as France's longest bridge,
+
+174
+00:12:30,006 --> 00:12:34,060
+还解锁了另一项记录——只不过这个记录并不光彩。
+the project had also picked up another, less welcome, record.
+
+175
+00:12:34,060 --> 00:12:37,494
+在仅完成12.4公里中的8公里之后，
+With just eight out of 12.4 km constructed,
+
+176
+00:12:37,494 --> 00:12:41,807
+造价已飙升至逾20亿美元，
+the cost had skyrocketed to over 2 billion US dollars,
+
+177
+00:12:41,807 --> 00:12:46,200
+跻身全球最贵公路之列。
+making it one of the most expensive roads in the world.
+
+178
+00:12:46,800 --> 00:12:48,818
+这个天价造价说来讽刺——
+That price tag is bitterly ironic
+
+179
+00:12:48,818 --> 00:12:50,958
+因为当初在规划阶段，
+because back in the planning stage,
+
+180
+00:12:50,957 --> 00:12:54,625
+将整条线路建成高架桥的方案
+the idea of a bridge spanning the entire length of the route
+
+181
+00:12:54,625 --> 00:12:57,560
+曾被直接否决，理由正是造价太高。
+was ruled out because it would be too expensive.
+
+182
+00:12:58,320 --> 00:13:05,892
+更糟的是，2021年发现，近800块护坡混凝土块安装有误；
+To make matters worse, in 2021, it was discovered nearly 800 accropodes were incorrectly installed.
+
+183
+00:13:05,892 --> 00:13:08,416
+为了纠正这些问题，又不得不拆除
+A further 2,500 had to be removed
+
+184
+00:13:08,417 --> 00:13:13,159
+另外2500块重新定位，光这一项就耗费了2000万欧元。
+to reposition the faulty blocks at a cost of 20 million euros.
+
+185
+00:13:13,839 --> 00:13:20,509
+2022年，留尼旺省议会咬牙拍板，批准将剩余路段以高架桥方案完工，
+In 2022, the Reunion Council decided to bite the bullet and approved completing the road as a viaduct,
+
+186
+00:13:20,509 --> 00:13:24,629
+预计将再增加约7亿欧元的总造价。
+potentially adding another 700 million euros to the final bill.
+
+187
+00:13:24,629 --> 00:13:27,114
+但即便如此，新麻烦接踵而至。
+But even that came with complications.
+
+188
+00:13:27,320 --> 00:13:31,386
+专用驳船"祖里特"在2020年
+Zurite, the specialist barge, had been sailed back to Europe in 2020
+
+189
+00:13:31,386 --> 00:13:33,180
+大桥竣工后已驶回欧洲。
+after the bridge was complete.
+
+190
+00:13:33,180 --> 00:13:37,191
+最后一段路的前期准备工作于2025年底启动，
+Preliminary work on the final stretch began at the end of 2025,
+
+191
+00:13:37,191 --> 00:13:40,693
+高架桥主体施工预计于2027年开工，
+and construction of the viaduct is due to begin in 2027
+
+192
+00:13:40,693 --> 00:13:43,240
+完工日期现已定于2030年。
+with a completion date now set for 2030.
+
+193
+00:13:43,960 --> 00:13:47,771
+与此同时，新公路已完工的路段已投入使用——
+In the meantime, the existing parts of the new road are now in use,
+
+194
+00:13:47,771 --> 00:13:51,639
+只不过中间缺口那段，仍需绕回旧路行驶。
+albeit with a detour back onto the old road for the missing stretch.
+
+195
+00:13:52,760 --> 00:13:55,656
+尽管新海岸公路历经波折，
+Despite the shortcomings of the new coastal road,
+
+196
+00:13:55,656 --> 00:13:59,320
+这座岛屿的工程实力绝不应被低估。
+this island's engineering prowess is not to be underestimated.
+
+197
+00:14:00,760 --> 00:14:01,439
+几十年来，
+For decades,
+
+198
+00:14:01,439 --> 00:14:06,022
+这个法国的偏远角落，一直在比欧洲任何地方都更为恶劣的环境中，缔造一个又一个工程壮举。
+this remote corner of France has been building extraordinary feats of engineering
+
+199
+00:14:06,022 --> 00:14:09,360
+这个法国的偏远角落，一直在比欧洲任何地方都更为恶劣的环境中，缔造一个又一个工程壮举。
+in an environment far more hostile than anywhere in Europe.
+
+200
+00:14:09,880 --> 00:14:14,743
+三盆地高架桥等工程已经证明，
+Projects like the three basins viaduct have shown that this extraordinary island
+
+201
+00:14:14,743 --> 00:14:19,120
+这座非凡的岛屿能够创造出不仅实用、更令人叹为观止的基础设施。
+can create infrastructure that's not just practical, but also beautiful.
+
+202
+00:14:19,839 --> 00:14:24,120
+但在这里，一旦出了问题，四顾茫然，无处可求援。
+But out here, when things go wrong, there's nowhere to turn to.
+
+203
+00:14:24,400 --> 00:14:27,522
+在如此偏远的地方挑战超级工程，光有工程专业能力还不够—— >> >> 你还必须有那股不管多难都要成功的意志。
+Attempting a mega build in such a remote location
+
+204
+00:14:27,522 --> 00:14:30,898
+在如此偏远的地方挑战超级工程，光有工程专业能力还不够—— >> >> 你还必须有那股不管多难都要成功的意志。
+is not just about having >> >> engineering expertise.
+
+205
+00:14:30,898 --> 00:14:35,166
+在如此偏远的地方挑战超级工程，光有工程专业能力还不够—— >> >> 你还必须有那股不管多难都要成功的意志。
+You've also got to have that drive to succeed against all the odds.
+
+206
+00:14:36,120 --> 00:14:41,200
+新海岸公路的故事，并不会抹去留尼旺岛的成就。
+The story of the new coastal road doesn't detract from Reunion's record.
+
+207
+00:14:41,200 --> 00:14:45,440
+它只是说明，这一切成就有多么非凡。
+It merely shows how extraordinary it is in the first place.
+
+208
+00:14:47,079 --> 00:14:49,180
+本期视频由Ryoun Design赞助。
+This video was sponsored by Ryoun Design.
+
+209
+00:14:49,180 --> 00:14:53,213
+别忘了点击下方链接，免费体验Ryoun Design。
+Don't forget that you can try Ryoun Design for free using the link below.
+
+210
+00:14:53,213 --> 00:14:54,355
+一如既往，
+And as always, guys,
+
+211
+00:14:54,355 --> 00:14:55,782
+如果你喜欢这期视频，
+if you enjoyed this video
+
+212
+00:14:55,782 --> 00:15:00,121
+想要更多来自全球最权威建筑视频频道的内容，
+and you want to get more from the definitive video channel for construction,
+
+213
+00:15:00,122 --> 00:15:02,120
+记得订阅B1M。
+make sure you subscribe to the B1M.
