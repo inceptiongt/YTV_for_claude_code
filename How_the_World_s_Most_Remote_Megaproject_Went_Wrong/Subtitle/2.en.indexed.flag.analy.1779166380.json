@@ -1,0 +1,196 @@
+{
+  "totalMi": 425,
+  "unmatchedMiCount": 4,
+  "matchedRate": 0.9906,
+  "unmatchedSentences": [
+    {
+      "n": 8,
+      "words": 70,
+      "text": "Now, you might be thinking, how on Earth do you build a mega project here? And it's a good question because it may be one of the most difficult places in the world to build a road like this. This is what happens when engineering is pushed to its absolute limits and what it takes to build a mega builds in one of the most isolated corners of our planet.",
+      "miList": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "unmatchedMi": [
+        25
+      ]
+    },
+    {
+      "n": 45,
+      "words": 63,
+      "text": "The western section of the route would once again be built on a dyke, but instead of disappearing underground, it would rise onto its defining feature, the Grand Chaloupe Viaduct. Stretching for 5.4 km and up to 300 m away from the shore, it would form the centerpiece of the 12.5 km route and once complete, would become the longest bridge in France.",
+      "miList": [
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157
+      ],
+      "unmatchedMi": [
+        152
+      ]
+    },
+    {
+      "n": 77,
+      "words": 58,
+      "text": "With the wind you see here, we're going to have dust everywhere around, and all the people are going to be concerned, especially the children and old people and people with already a disease. Now, before your very eyes, it's important not to underestimate the environmental concerns of this project. Reunion isn't an idyllic island paradise for nothing.",
+      "miList": [
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266
+      ],
+      "unmatchedMi": [
+        262
+      ]
+    },
+    {
+      "n": 107,
+      "words": 50,
+      "text": "This video was sponsored by Ryoun Design. Don't forget that you can try Ryoun Design for free using the link below. And as always, guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you subscribe to the B1M.",
+      "miList": [
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381
+      ],
+      "unmatchedMi": [
+        375
+      ]
+    }
+  ],
+  "longSentencesCount": 7,
+  "longSentences": [
+    {
+      "n": 8,
+      "words": 70,
+      "text": "Now, you might be thinking, how on Earth do you build a mega project here? And it's a good question because it may be one of the most difficult places in the world to build a road like this. This is what happens when engineering is pushed to its absolute limits and what it takes to build a mega builds in one of the most isolated corners of our planet.",
+      "miList": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "n": 13,
+      "words": 43,
+      "text": "Well, it doesn't really, except for prestige, because this means that La Nouvelle Route du Littoral, or New Coastal Road, isn't just one of the most impressive infrastructure projects being built in the Indian Ocean, it's also one of the biggest in France.",
+      "miList": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ]
+    },
+    {
+      "n": 22,
+      "words": 53,
+      "text": "Cyclones in this part of the ocean are common, battering the road with waves and winds of up to 100 mph, and it's not just the road that takes a beating. The elements cause constant erosion to the cliff face, sending rocks and boulders hurtling down onto the road and road users below.",
+      "miList": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "n": 45,
+      "words": 63,
+      "text": "The western section of the route would once again be built on a dyke, but instead of disappearing underground, it would rise onto its defining feature, the Grand Chaloupe Viaduct. Stretching for 5.4 km and up to 300 m away from the shore, it would form the centerpiece of the 12.5 km route and once complete, would become the longest bridge in France.",
+      "miList": [
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157
+      ]
+    },
+    {
+      "n": 77,
+      "words": 58,
+      "text": "With the wind you see here, we're going to have dust everywhere around, and all the people are going to be concerned, especially the children and old people and people with already a disease. Now, before your very eyes, it's important not to underestimate the environmental concerns of this project. Reunion isn't an idyllic island paradise for nothing.",
+      "miList": [
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266
+      ]
+    },
+    {
+      "n": 93,
+      "words": 45,
+      "text": "As well as France's longest bridge, the project had also picked up another, less welcome, record. With just eight out of 12.4 km constructed, the cost had skyrocketed to over 2 billion US dollars, making it one of the most expensive roads in the world.",
+      "miList": [
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319
+      ]
+    },
+    {
+      "n": 107,
+      "words": 50,
+      "text": "This video was sponsored by Ryoun Design. Don't forget that you can try Ryoun Design for free using the link below. And as always, guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you subscribe to the B1M.",
+      "miList": [
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381
+      ]
+    }
+  ]
+}

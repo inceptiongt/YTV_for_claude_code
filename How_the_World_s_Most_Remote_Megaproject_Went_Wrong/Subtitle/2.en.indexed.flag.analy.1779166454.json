@@ -1,0 +1,74 @@
+{
+  "totalMi": 431,
+  "unmatchedMiCount": 2,
+  "matchedRate": 0.9954,
+  "unmatchedSentences": [
+    {
+      "n": 26,
+      "words": 48,
+      "text": "The elements cause constant erosion to the cliff face, sending rocks and boulders hurtling down onto the road and road users below. On the 24th of March, 2006, an entire section of the cliff gave way, sending tons of rock onto the highway below and killing two people.",
+      "miList": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "unmatchedMi": [
+        80
+      ]
+    },
+    {
+      "n": 115,
+      "words": 43,
+      "text": "Don't forget that you can try Ryoun Design for free using the link below. And as always, guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you subscribe to the B1M.",
+      "miList": [
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381
+      ],
+      "unmatchedMi": [
+        376
+      ]
+    }
+  ],
+  "longSentencesCount": 2,
+  "longSentences": [
+    {
+      "n": 26,
+      "words": 48,
+      "text": "The elements cause constant erosion to the cliff face, sending rocks and boulders hurtling down onto the road and road users below. On the 24th of March, 2006, an entire section of the cliff gave way, sending tons of rock onto the highway below and killing two people.",
+      "miList": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ]
+    },
+    {
+      "n": 115,
+      "words": 43,
+      "text": "Don't forget that you can try Ryoun Design for free using the link below. And as always, guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you subscribe to the B1M.",
+      "miList": [
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381
+      ]
+    }
+  ]
+}

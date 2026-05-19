@@ -1,0 +1,25 @@
+{
+  "all": {
+    "matchedRate": 0.98,
+    "unmatchedSegments": 4,
+    "unmatchedSegmentsList": [
+      40,
+      110,
+      112
+    ]
+  },
+  "en": {
+    "totalSegments": 128,
+    "unmatchedSegments": 0,
+    "unmatchedSegmentsList": []
+  },
+  "zh": {
+    "totalSegments": 125,
+    "unmatchedSegments": 4,
+    "unmatchedSegmentsList": [
+      40,
+      110,
+      112
+    ]
+  }
+}

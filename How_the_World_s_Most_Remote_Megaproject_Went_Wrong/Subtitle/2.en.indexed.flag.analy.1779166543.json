@@ -1,0 +1,41 @@
+{
+  "totalMi": 432,
+  "unmatchedMiCount": 1,
+  "matchedRate": 0.9977,
+  "unmatchedSentences": [
+    {
+      "n": 116,
+      "words": 43,
+      "text": "Don't forget that you can try Ryoun Design for free using the link below. And as always, guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you subscribe to the B1M.",
+      "miList": [
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381
+      ],
+      "unmatchedMi": [
+        376
+      ]
+    }
+  ],
+  "longSentencesCount": 1,
+  "longSentences": [
+    {
+      "n": 116,
+      "words": 43,
+      "text": "Don't forget that you can try Ryoun Design for free using the link below. And as always, guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you subscribe to the B1M.",
+      "miList": [
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381
+      ]
+    }
+  ]
+}
