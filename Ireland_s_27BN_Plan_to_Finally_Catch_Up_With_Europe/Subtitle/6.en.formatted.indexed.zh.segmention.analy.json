@@ -1,48 +1,17 @@
 {
   "all": {
-    "matchedRate": 0.97,
-    "unmatchedSegments": 15,
-    "unmatchedSegmentsList": [
-      19,
-      21,
-      27,
-      28,
-      61,
-      83,
-      84,
-      86,
-      88,
-      91,
-      94,
-      124,
-      158,
-      166
-    ]
+    "matchedRate": 1,
+    "unmatchedSegments": 0,
+    "unmatchedSegmentsList": []
   },
   "en": {
-    "totalSegments": 280,
-    "unmatchedSegments": 1,
-    "unmatchedSegmentsList": [
-      19
-    ]
+    "totalSegments": 263,
+    "unmatchedSegments": 0,
+    "unmatchedSegmentsList": []
   },
   "zh": {
-    "totalSegments": 280,
-    "unmatchedSegments": 14,
-    "unmatchedSegmentsList": [
-      21,
-      27,
-      28,
-      61,
-      83,
-      84,
-      86,
-      88,
-      91,
-      94,
-      124,
-      158,
-      166
-    ]
+    "totalSegments": 255,
+    "unmatchedSegments": 0,
+    "unmatchedSegmentsList": []
   }
 }
