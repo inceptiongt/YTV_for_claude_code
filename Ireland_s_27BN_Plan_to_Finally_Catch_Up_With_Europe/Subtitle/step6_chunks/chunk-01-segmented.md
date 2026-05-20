@@ -254,7 +254,7 @@
 [88.2:en] blocks[segment]in
 [88.3:en] libraries?[segment]
 [88.1:zh] 构件里，[segment]就是
-[88.2:zh] 座椅，[segment]该怎么办？
+[88.2:zh] 座椅，[segment]该
 [88.3:zh] 该怎么办？[copy]
 
 [91.1:en] one,[segment]I
