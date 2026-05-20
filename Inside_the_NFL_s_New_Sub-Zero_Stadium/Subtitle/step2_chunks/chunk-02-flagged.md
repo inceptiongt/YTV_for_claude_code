@@ -1,0 +1,12 @@
+[386] crossed.[end]So
+[389] fans.[end]A
+[393] 2026.[end]
+[400] purists.[end]This
+[405] future.[end]When
+[409] comfort.[end]It'll
+[411] NFL.[end]And
+[412] celebrated.[end]
+[413] Brilliant.[end]Don't
+[415] below.[end]And
+[418] sponsors.[end]And
+[422] B1M.[end]
