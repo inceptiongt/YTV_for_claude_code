@@ -1,0 +1,71 @@
+{
+  "totalMi": 627,
+  "unmatchedMiCount": 0,
+  "matchedRate": 1,
+  "unmatchedSentences": [],
+  "longSentencesCount": 4,
+  "longSentences": [
+    {
+      "n": 23,
+      "words": 44,
+      "text": "For nearly 30 years, Ireland has teased a desperately needed metro to tackle its congestion nightmare. But, without really making any proper inroads towards building it. And with Dublin's travel problem getting worse and worse, what the hell's being done to fix this city?",
+      "miList": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "n": 75,
+      "words": 47,
+      "text": "So, governments and the agencies that are supporting and and building building and delivering metro are proceeding as if this piece of infrastructure is going to happen. We're hiring people, the tender documents have been put together to bring consortia to the city to deliver our metro.",
+      "miList": [
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194
+      ]
+    },
+    {
+      "n": 80,
+      "words": 57,
+      "text": "While I've been using RoundDesigns all-in-one CAD software to create my dream home right smack in the middle of Dublin, which by the way, guys, I only need like a trillion YouTube video views to pay for, this platform is actually the ideal workmate for any type of project, including, for example, a massive new metro line.",
+      "miList": [
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215
+      ]
+    },
+    {
+      "n": 89,
+      "words": 46,
+      "text": "Whether you're an urban planner designing the next great metro line, or like me, you just want to draw up a swanky Irish penthouse, you can try Round Design for free using the link in the description or by scanning the QR code on screen now.",
+      "miList": [
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242
+      ]
+    }
+  ]
+}
