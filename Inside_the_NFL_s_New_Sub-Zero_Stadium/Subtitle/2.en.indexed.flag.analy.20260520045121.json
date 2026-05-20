@@ -1,0 +1,45 @@
+{
+  "totalMi": 532,
+  "unmatchedMiCount": 0,
+  "matchedRate": 1,
+  "unmatchedSentences": [],
+  "longSentencesCount": 2,
+  "longSentences": [
+    {
+      "n": 113,
+      "words": 92,
+      "text": "That's where the stadium comes into its own. Alongside heating in the pre-cast concrete stands to keep seating areas warm and further heating underneath the pitch, the canopy at the top of the stadium is a lot more than just a steel covering. As it stretches out over the stands from the structural frame, it tapers down and inwards to create a funnel, kind of like a wonky V. When snow falls, sensors detect the change in temperature, automatically activating what Mali describes as the largest snow melt system in the NFL.",
+      "miList": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290
+      ]
+    },
+    {
+      "n": 118,
+      "words": 43,
+      "text": "You see, completely open air stadiums, while still loud, tend to lose some of the game day experience. But this steel canopy has been specifically angled to trap noise inside the bowl, bouncing off the steel and reverberating it back through the stands.",
+      "miList": [
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303
+      ]
+    }
+  ]
+}

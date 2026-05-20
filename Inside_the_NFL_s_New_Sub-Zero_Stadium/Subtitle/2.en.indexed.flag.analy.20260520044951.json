@@ -1,0 +1,289 @@
+{
+  "totalMi": 522,
+  "unmatchedMiCount": 21,
+  "matchedRate": 0.9598,
+  "unmatchedSentences": [
+    {
+      "n": 22,
+      "words": 35,
+      "text": "The league's newest stadium set to open in summer 2026 is New Highark, future home of the Buffalo Bills. The franchise currently plays at one of the oldest facilities in the NFL, the Highark Stadium.",
+      "miList": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "unmatchedMi": [
+        49
+      ]
+    },
+    {
+      "n": 31,
+      "words": 25,
+      "text": "Mercedes-Benz, which opened in 2017, cost about $1.6 billion. And the Sofi Stadium, home to both the Rams and the Chargers, cost around 5 billion.",
+      "miList": [
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "unmatchedMi": [
+        67
+      ]
+    },
+    {
+      "n": 43,
+      "words": 37,
+      "text": "But now with New Highark, the team will stay in Buffalo as they have since 1960. In a car park right across the road from the current stadium, the new Highark Stadium is now on the rise.",
+      "miList": [
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "unmatchedMi": [
+        99
+      ]
+    },
+    {
+      "n": 47,
+      "words": 45,
+      "text": "Whether it's just to sound more interesting over dinner, or you want to finally get to grips with what AI really means for our planet, there's seriously no better teacher than today's video sponsor, Brilliant. With Brilliant, you don't just come away with the basics.",
+      "miList": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "unmatchedMi": [
+        116
+      ]
+    },
+    {
+      "n": 61,
+      "words": 48,
+      "text": "But before you go grabbing your free 30-day trial, I first need to tell you why the new Highark Stadium is such an outlier in the NFL. Don't worry, I'm going to be your accountability partner here, and I will remind you about Brilliance again once we're done.",
+      "miList": [
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149
+      ],
+      "unmatchedMi": [
+        145
+      ]
+    },
+    {
+      "n": 66,
+      "words": 50,
+      "text": "And in all honesty, they're not football stadiums. I mean, they are, but what I mean is they're about a lot more than just football. They're multi-purpose venues built to host concerts, festivals, gigs, Wrestlemania, whatever else might be going on. Basically, they're really big marketing and cash generating machines.",
+      "miList": [
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ],
+      "unmatchedMi": [
+        158,
+        160,
+        163
+      ]
+    },
+    {
+      "n": 96,
+      "words": 46,
+      "text": "And by the way, that doesn't just protect fans from cold conditions. It also means Josh Allen can throw rockets down field with very little wind interference. But anyone who's been to Buffalo in the winter knows the wind is not the most dramatic weather obstacle.",
+      "miList": [
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256
+      ],
+      "unmatchedMi": [
+        250,
+        252
+      ]
+    },
+    {
+      "n": 106,
+      "words": 227,
+      "text": "That's where the stadium comes into its own. Alongside heating in the pre-cast concrete stands to keep seating areas warm and further heating underneath the pitch, the canopy at the top of the stadium is a lot more than just a steel covering. As it stretches out over the stands from the structural frame, it tapers down and inwards to create a funnel, kind of like a wonky V. When snow falls, sensors detect the change in temperature, automatically activating what Mali describes as the largest snow melt system in the NFL. Hot water is sent through pipes that wrap around the canopy to melt the snow as it lands and in turn radiate heat down below. It's called a hydronic system. That canopy covers around 60% of all fans. But it has a secondary purpose, too. You see, completely open air stadiums, while still loud, tend to lose some of the game day experience. But this steel canopy has been specifically angled to trap noise inside the bowl, bouncing off the steel and reverberating it back through the stands. It's all part of this mission to create the most intimidating atmosphere anywhere in the NFL. Seating capacity has been stripped back to 60,000 from about 72,000 at the old stadium with a further 5 to 10,000 people able to experience games from a standing only section.",
+      "miList": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311
+      ],
+      "unmatchedMi": [
+        277,
+        282,
+        285,
+        289,
+        292,
+        293,
+        294,
+        295,
+        298,
+        302,
+        305
+      ]
+    }
+  ],
+  "longSentencesCount": 5,
+  "longSentences": [
+    {
+      "n": 47,
+      "words": 45,
+      "text": "Whether it's just to sound more interesting over dinner, or you want to finally get to grips with what AI really means for our planet, there's seriously no better teacher than today's video sponsor, Brilliant. With Brilliant, you don't just come away with the basics.",
+      "miList": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ]
+    },
+    {
+      "n": 61,
+      "words": 48,
+      "text": "But before you go grabbing your free 30-day trial, I first need to tell you why the new Highark Stadium is such an outlier in the NFL. Don't worry, I'm going to be your accountability partner here, and I will remind you about Brilliance again once we're done.",
+      "miList": [
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149
+      ]
+    },
+    {
+      "n": 66,
+      "words": 50,
+      "text": "And in all honesty, they're not football stadiums. I mean, they are, but what I mean is they're about a lot more than just football. They're multi-purpose venues built to host concerts, festivals, gigs, Wrestlemania, whatever else might be going on. Basically, they're really big marketing and cash generating machines.",
+      "miList": [
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ]
+    },
+    {
+      "n": 96,
+      "words": 46,
+      "text": "And by the way, that doesn't just protect fans from cold conditions. It also means Josh Allen can throw rockets down field with very little wind interference. But anyone who's been to Buffalo in the winter knows the wind is not the most dramatic weather obstacle.",
+      "miList": [
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256
+      ]
+    },
+    {
+      "n": 106,
+      "words": 227,
+      "text": "That's where the stadium comes into its own. Alongside heating in the pre-cast concrete stands to keep seating areas warm and further heating underneath the pitch, the canopy at the top of the stadium is a lot more than just a steel covering. As it stretches out over the stands from the structural frame, it tapers down and inwards to create a funnel, kind of like a wonky V. When snow falls, sensors detect the change in temperature, automatically activating what Mali describes as the largest snow melt system in the NFL. Hot water is sent through pipes that wrap around the canopy to melt the snow as it lands and in turn radiate heat down below. It's called a hydronic system. That canopy covers around 60% of all fans. But it has a secondary purpose, too. You see, completely open air stadiums, while still loud, tend to lose some of the game day experience. But this steel canopy has been specifically angled to trap noise inside the bowl, bouncing off the steel and reverberating it back through the stands. It's all part of this mission to create the most intimidating atmosphere anywhere in the NFL. Seating capacity has been stripped back to 60,000 from about 72,000 at the old stadium with a further 5 to 10,000 people able to experience games from a standing only section.",
+      "miList": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311
+      ]
+    }
+  ]
+}
