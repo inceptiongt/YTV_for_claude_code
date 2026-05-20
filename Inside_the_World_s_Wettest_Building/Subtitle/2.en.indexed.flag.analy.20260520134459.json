@@ -1,0 +1,114 @@
+{
+  "totalMi": 376,
+  "unmatchedMiCount": 5,
+  "matchedRate": 0.9867,
+  "unmatchedSentences": [
+    {
+      "n": 17,
+      "words": 35,
+      "text": "I don't need to put in that kind of scenario, but for your viewing pleasure, we're doing it. So, here we go. I've brought my umbrella, which is one of these lovely clear Japanese umbrellas,",
+      "miList": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "unmatchedMi": [
+        31
+      ]
+    },
+    {
+      "n": 34,
+      "words": 40,
+      "text": "Typhoons regularly sweep through, bringing torrential rain, devastating floods, and powerful winds that can tear rooftops apart. As if all of that wasn't enough, with over 80% of Japan covered in mountains, those torrential storms bring another very real threat.",
+      "miList": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "unmatchedMi": [
+        75
+      ]
+    },
+    {
+      "n": 95,
+      "words": 17,
+      "text": "I can't sign off yet. They want to put this bit in. So, here you go, guys.",
+      "miList": [
+        234,
+        235,
+        236
+      ],
+      "unmatchedMi": [
+        235
+      ]
+    },
+    {
+      "n": 119,
+      "words": 15,
+      "text": "I'm now absolutely soaked. I've never seen rain like it. It's completely unnecessary, completely unnatural.",
+      "miList": [
+        271,
+        272,
+        273,
+        274
+      ],
+      "unmatchedMi": [
+        272
+      ]
+    },
+    {
+      "n": 124,
+      "words": 25,
+      "text": "Well, it was wet to be honest. That was my my biggest takeaway was water. You can see it's like it's just been a monsoon.",
+      "miList": [
+        284,
+        285,
+        286,
+        287
+      ],
+      "unmatchedMi": [
+        285
+      ]
+    }
+  ],
+  "longSentencesCount": 2,
+  "longSentences": [
+    {
+      "n": 22,
+      "words": 58,
+      "text": "Now, while the major cities are dominated by those mid and high-rise apartment blocks, it's houses like these that you're going to find in towns, villages, and suburbs right across the country. If you're thinking of moving to Japan and you want to find a bargain, it's a house like this you'll want. And the older the better.",
+      "miList": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "n": 122,
+      "words": 46,
+      "text": "Well, I [snorts] didn't enjoy that video, but if you enjoyed that video and you want to get more from the definitive video channel for construction, the channel that puts me in some of the wetest places imaginable while you sit in the dry and watch.",
+      "miList": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ]
+    }
+  ]
+}
