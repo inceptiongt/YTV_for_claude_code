@@ -1,0 +1,17 @@
+{
+  "original": {
+    "enWords": 3266,
+    "zhChars": 0,
+    "items": 511
+  },
+  "formatted": {
+    "enWords": 3266,
+    "zhChars": 0,
+    "items": 180
+  },
+  "final": {
+    "enWords": 3266,
+    "zhChars": 5142,
+    "items": 348
+  }
+}
