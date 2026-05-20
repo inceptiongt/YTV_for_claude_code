@@ -1,0 +1,282 @@
+{
+  "totalMi": 375,
+  "unmatchedMiCount": 17,
+  "matchedRate": 0.9547,
+  "unmatchedSentences": [
+    {
+      "n": 24,
+      "words": 58,
+      "text": "Now, while the major cities are dominated by those mid and high-rise apartment blocks, it's houses like these that you're going to find in towns, villages, and suburbs right across the country. If you're thinking of moving to Japan and you want to find a bargain, it's a house like this you'll want. And the older the better.",
+      "miList": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "unmatchedMi": [
+        46,
+        49
+      ]
+    },
+    {
+      "n": 25,
+      "words": 37,
+      "text": "That's because unlike basically every other country on Earth, housing in Japan loses value over time. After about 30 years, houses like these are going to be knocked down and replaced by a newer model. But why?",
+      "miList": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "unmatchedMi": [
+        52,
+        55
+      ]
+    },
+    {
+      "n": 28,
+      "words": 13,
+      "text": "A place that reflects a deeprooted connection with nature. And you'd be right.",
+      "miList": [
+        60,
+        61,
+        62
+      ],
+      "unmatchedMi": [
+        61
+      ]
+    },
+    {
+      "n": 34,
+      "words": 40,
+      "text": "Typhoons regularly sweep through, bringing torrential rain, devastating floods, and powerful winds that can tear rooftops apart. As if all of that wasn't enough, with over 80% of Japan covered in mountains, those torrential storms bring another very real threat.",
+      "miList": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "unmatchedMi": [
+        75
+      ]
+    },
+    {
+      "n": 82,
+      "words": 48,
+      "text": "Tests like this give researchers like Dr. Sakai much more reliable insights than smaller scale projects. But it's not just the size of the experiments here that make this place unique. Being able to reproduce a variety of rain conditions involves more than just cranking up the power.",
+      "miList": [
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195
+      ],
+      "unmatchedMi": [
+        190,
+        192
+      ]
+    },
+    {
+      "n": 85,
+      "words": 32,
+      "text": "It sprays water from 2,176 nozzles of four different types that can reproduce raindrops from 0.1 to 8 mm in size. The bigger the size of the droplet, the faster it falls.",
+      "miList": [
+        202,
+        203,
+        204,
+        205,
+        206,
+        207
+      ],
+      "unmatchedMi": [
+        205
+      ]
+    },
+    {
+      "n": 86,
+      "words": 74,
+      "text": "And the height of the nozzles helps distribute the rain over an equal area. Discovering more about the science of what causes mountains to collapse is only part of the research that goes on here to help save lives and property. This is an experiment by Ichio Cottoman, an NED to develop the world's first floodproof house. Now, flooding is usually impossible to stop in a house because there are so many entry points,",
+      "miList": [
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218
+      ],
+      "unmatchedMi": [
+        208,
+        212,
+        215
+      ]
+    },
+    {
+      "n": 87,
+      "words": 49,
+      "text": "but this house was fitted with a series of countermeasures to stop it from filling up. The windows were sealed with a hollow gasket similar to that used on car doors. The air vents are fitted with a float valve which blocks the water coming in through the airway.",
+      "miList": [
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225
+      ],
+      "unmatchedMi": [
+        220,
+        222
+      ]
+    },
+    {
+      "n": 89,
+      "words": 30,
+      "text": "It's an incredible development that just wouldn't have been possible without this facility. If you enjoyed this video and you want to get more from the definitive video, okay, okay,",
+      "miList": [
+        230,
+        231,
+        232,
+        233,
+        234
+      ],
+      "unmatchedMi": [
+        231
+      ]
+    },
+    {
+      "n": 119,
+      "words": 46,
+      "text": "Well, I [snorts] didn't enjoy that video, but if you enjoyed that video and you want to get more from the definitive video channel for construction, the channel that puts me in some of the wetest places imaginable while you sit in the dry and watch.",
+      "miList": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ],
+      "unmatchedMi": [
+        280
+      ]
+    },
+    {
+      "n": 125,
+      "words": 33,
+      "text": "Actually quite refreshing on such a hot day in Japan. I've never had rain actually hit me and hurt me before, but that was like a mixture of the drops were so big.",
+      "miList": [
+        290,
+        291,
+        292,
+        293,
+        294
+      ],
+      "unmatchedMi": [
+        291
+      ]
+    }
+  ],
+  "longSentencesCount": 5,
+  "longSentences": [
+    {
+      "n": 24,
+      "words": 58,
+      "text": "Now, while the major cities are dominated by those mid and high-rise apartment blocks, it's houses like these that you're going to find in towns, villages, and suburbs right across the country. If you're thinking of moving to Japan and you want to find a bargain, it's a house like this you'll want. And the older the better.",
+      "miList": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "n": 82,
+      "words": 48,
+      "text": "Tests like this give researchers like Dr. Sakai much more reliable insights than smaller scale projects. But it's not just the size of the experiments here that make this place unique. Being able to reproduce a variety of rain conditions involves more than just cranking up the power.",
+      "miList": [
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195
+      ]
+    },
+    {
+      "n": 86,
+      "words": 74,
+      "text": "And the height of the nozzles helps distribute the rain over an equal area. Discovering more about the science of what causes mountains to collapse is only part of the research that goes on here to help save lives and property. This is an experiment by Ichio Cottoman, an NED to develop the world's first floodproof house. Now, flooding is usually impossible to stop in a house because there are so many entry points,",
+      "miList": [
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218
+      ]
+    },
+    {
+      "n": 87,
+      "words": 49,
+      "text": "but this house was fitted with a series of countermeasures to stop it from filling up. The windows were sealed with a hollow gasket similar to that used on car doors. The air vents are fitted with a float valve which blocks the water coming in through the airway.",
+      "miList": [
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225
+      ]
+    },
+    {
+      "n": 119,
+      "words": 46,
+      "text": "Well, I [snorts] didn't enjoy that video, but if you enjoyed that video and you want to get more from the definitive video channel for construction, the channel that puts me in some of the wetest places imaginable while you sit in the dry and watch.",
+      "miList": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ]
+    }
+  ]
+}

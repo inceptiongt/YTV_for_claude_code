@@ -1,0 +1,103 @@
+{
+  "totalMi": 382,
+  "unmatchedMiCount": 4,
+  "matchedRate": 0.9895,
+  "unmatchedSentences": [
+    {
+      "n": 24,
+      "words": 58,
+      "text": "Now, while the major cities are dominated by those mid and high-rise apartment blocks, it's houses like these that you're going to find in towns, villages, and suburbs right across the country. If you're thinking of moving to Japan and you want to find a bargain, it's a house like this you'll want. And the older the better.",
+      "miList": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "unmatchedMi": [
+        46
+      ]
+    },
+    {
+      "n": 98,
+      "words": 17,
+      "text": "I can't sign off yet. They want to put this bit in. So, here you go, guys.",
+      "miList": [
+        234,
+        235,
+        236
+      ],
+      "unmatchedMi": [
+        235
+      ]
+    },
+    {
+      "n": 128,
+      "words": 43,
+      "text": "didn't enjoy that video, but if you enjoyed that video and you want to get more from the definitive video channel for construction, the channel that puts me in some of the wetest places imaginable while you sit in the dry and watch.",
+      "miList": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ],
+      "unmatchedMi": [
+        280
+      ]
+    },
+    {
+      "n": 130,
+      "words": 25,
+      "text": "Well, it was wet to be honest. That was my my biggest takeaway was water. You can see it's like it's just been a monsoon.",
+      "miList": [
+        284,
+        285,
+        286,
+        287
+      ],
+      "unmatchedMi": [
+        285
+      ]
+    }
+  ],
+  "longSentencesCount": 2,
+  "longSentences": [
+    {
+      "n": 24,
+      "words": 58,
+      "text": "Now, while the major cities are dominated by those mid and high-rise apartment blocks, it's houses like these that you're going to find in towns, villages, and suburbs right across the country. If you're thinking of moving to Japan and you want to find a bargain, it's a house like this you'll want. And the older the better.",
+      "miList": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "n": 128,
+      "words": 43,
+      "text": "didn't enjoy that video, but if you enjoyed that video and you want to get more from the definitive video channel for construction, the channel that puts me in some of the wetest places imaginable while you sit in the dry and watch.",
+      "miList": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ]
+    }
+  ]
+}
