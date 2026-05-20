@@ -1,0 +1,398 @@
+[1] Dublin might be world famous, but did
+[2] you know it's facing a bit of a crisis?
+[3] The fair city welcomes millions
+[4] of visitors every year to see its
+[5] castles, cathedrals, and of course, the
+[6] Guinness Storehouse.
+[7] All the Americans are all over here. Oh
+[8] my god, I love this. I love Ireland.
+[9] They're doing my
+[10] It's an area rich in history and
+[11] culture.
+[12] But while its attractions are a
+[13] sight to behold, getting to them isn't
+[14] exactly straightforward. Can anybody
+[15] explain to me why the traffic is so bad?
+[16] A 45-minute journey can turn into
+[17] a 3-hour journey. So, you're
+[18] looking at about 2 and 3 and 1/2 and 4
+[19] hours on the road every day. During our
+[20] peak rush hours, the average speed
+[21] across the network is about 11 km an
+[22] hour.
+[23] >> 11 km an hour.
+[24] >> 11 km an hour. If you're a fast runner,
+[25] you'll actually run quicker than that.
+[26] Dublin's population has grown by nearly
+[27] a third since the turn of the century,
+[28] but its travel infrastructure has in no
+[29] way kept pace. It's now the 11th most
+[30] congested city in the world, and each
+[31] year it's climbing the rankings.
+[32] In 2025,
+[33] as a driver in Dublin, you'll have sat
+[34] in traffic delays for an average of
+[35] 95 mind-numbing hours across the
+[36] year. In that time, you could play more
+[37] than 80 Gaelic football matches or
+[38] watch the entirety of Father Ted
+[39] nine times through. And by the way,
+[40] that's a 17% increase in delay
+[41] times on 2024 and a 32% increase
+[42] on 2023.
+[43] Put simply, traveling around Dublin is a
+[44] nightmare, and the situation's getting
+[45] worse. It's actually a good point, you
+[46] know what I'm trying to say? By 2040,
+[47] the economic costs associated
+[48] with congestion are expected to hit a
+[49] whopping 1.5 billion euros
+[50] every year. Ouch. The thing is, the
+[51] government was supposed to be sorting
+[52] this with a massive investment into
+[53] infrastructure, but officials have
+[54] U-turned on a policy to spend on a ratio
+[55] of two to one between public transport
+[56] and roads.
+[57] There are desperate calls for a
+[58] travel fix because the problem not only
+[59] affects people personally, but it's a
+[60] bit of a red flag for foreign investors.
+[61] A lack of travel infrastructure
+[62] isn't a great advertisement. For nearly
+[63] 30 years, Ireland has teased a
+[64] desperately needed metro to tackle its
+[65] congestion nightmare. But, without
+[66] really making any proper inroads towards
+[67] building it. And with Dublin's travel
+[68] problem getting worse and worse, what
+[69] the hell's being done to fix this city?
+[70] >>
+[71] >> It's not like Ireland doesn't know that
+[72] Dublin needs help with its travel horror
+[73] show.
+[74] At the turn of the century, the
+[75] government proposed a flashy new metro
+[76] as part of its Transport 21 initiative.
+[77] The plan was to spend 34 billion euros
+[78] modernizing Ireland's travel
+[79] infrastructure. And that included an
+[80] underground train line from St.
+[81] Stephen's Green to Dublin Airport and
+[82] then continuing to Swords. What I am
+[83] confirming today is that by 2007, we
+[84] will have the airport link done because
+[85] that has been identified now as a
+[86] government priority. You see, Dublin has
+[87] fallen well behind. Beyond its
+[88] congestion dilemma, if you've tried
+[89] traveling to Dublin Airport, you'll be
+[90] more than aware that there's no rail
+[91] access whatsoever. If you saw all the
+[92] cars queuing up going out the M50, we're
+[93] just coming up from Galway this morning.
+[94] There's there's no transport system in
+[95] Ireland as far as I can see. It's
+[96] actually one of the last European
+[97] capitals without a direct train to its
+[98] airport. You've got to take a taxi, get
+[99] a lift, or jump on the bus, which seems
+[100] a bit ridiculous for a city of this
+[101] scale.
+[102] In 2005, Metro North as it was known was
+[103] formally thrown into the limelight. It
+[104] was seen as way to drag Dublin into the
+[105] 21st century. This thing even gained
+[106] planning permission, which was a a huge
+[107] moment. It kind of represented this big
+[108] new dawn for the people of Dublin. But
+[109] by 2011, it had become a non-starter.
+[110] The Irish economy was considered one of
+[111] the most stable in Europe.
+[112] >> One of the most booming economies
+[113] in Europe.
+[114] >> It became known as the Celtic Tiger.
+[115] >> Then the financial crisis hit. The
+[116] Celtic Tiger is dead.
+[117] >> Officially, the country is now
+[118] in recession.
+[119] >> What's going on in Ireland? Greed,
+[120] greed, and more
+[121] But the then government rubbished
+[122] talk about a bailout. Is it just
+[123] total fiction? It is fiction. Three days
+[124] later, Central Bank said there would be
+[125] a bailout. We had a stupid
+[126] government with a regulator that
+[127] was asleep at the wheel. And of course,
+[128] above all, bankers. The
+[129] taxpayers at home in Ireland who would
+[130] like to have some answers. Please now.
+[131] Okay, thank you very much. You're a
+[132] liability because nobody
+[133] believes Welfare queues are forming for
+[134] the first time since the early '90s.
+[135] Jeez, man. This is this is this is a
+[136] joke. So, I'm sensing a a wee bit of
+[137] discontent.
+[138] You are indeed, sir.
+[139] >>
+[140] >> As the money dried up due to the global
+[141] recession, Metro North slipped further
+[142] and further down the priority
+[143] list. Various iterations have since
+[144] followed. In 2018, an updated plan
+[145] offered hope that Dubliners could get
+[146] around the city via an underground train
+[147] line by 2027. But come 2021, with no
+[148] spades in the ground, the government
+[149] said the timeline was, well, just take
+[150] listen to this. That was never likely to
+[151] be to be achievable, I'll be honest. And
+[152] the budget forecast for this is also
+[153] much more than the likely final outcome.
+[154] Oh, jeez.
+[155] Re-
+[156] >> [laughter]
+[157] >> Really?
+[158] And while they were right, because that
+[159] would be next year, and no groundwork
+[160] had started yet, why set unrealistic
+[161] deadlines to begin with? Construction
+[162] should then have gotten underway by
+[163] 2025, but the latest metro designs
+[164] didn't gain planning permission until
+[165] October last year. And because of the
+[166] twisting nature of Ireland's so far
+[167] failed attempts to build a metro, the
+[168] city's residents are somewhat skeptical
+[169] it'll ever happen. I think they should
+[170] get on and build the bloody thing.
+[171] >> But can the government be trusted? If
+[172] you were born the day that the metro was
+[173] initially due to open, you'd be able to
+[174] vote by the time it does actually open.
+[175] Even though it could cut travel time to
+[176] the city by more than half, Dubliners
+[177] have been stung by promises of an
+[178] underground rail line in the past. So,
+[179] confidence is pretty low. Even the B1M's
+[180] own Irishman and video editor
+[181] extraordinaire Jim Casey is far from
+[182] convinced. With all that being said, the
+[183] latest plans give real reason for
+[184] careful optimism. Government have
+[185] committed in the the last budget 2
+[186] billion euro for um uh for metro to to
+[187] proceed. So, governments and the
+[188] agencies that are supporting and and
+[189] building building and delivering metro
+[190] are proceeding as if this piece of
+[191] infrastructure is going to happen. We're
+[192] hiring people, the tender documents have
+[193] been put together to bring consortia to
+[194] the city to deliver our metro.
+[195] For the second time, planning permission
+[196] has been granted for a metro in Dublin.
+[197] And while it's taken countless
+[198] time-consuming discussions about where
+[199] the route should go and how it should be
+[200] constructed, that almost makes sense.
+[201] This metro has been designed,
+[202] redesigned, and redesigned again. And
+[203] developing various iterations of the
+[204] route, even if they're inevitably cast
+[205] aside, is a time-consuming task. But it
+[206] doesn't have to be. While I've been
+[207] using RoundDesigns all-in-one CAD
+[208] software to create my dream home right
+[209] smack in the middle of Dublin, which by
+[210] the way, guys, I only need like
+[211] a trillion YouTube video views to pay
+[212] for, this platform is actually the ideal
+[213] workmate for any type of project,
+[214] including, for example, a massive new
+[215] metro line. Round Design is a fully
+[216] web-based next generation tool built for
+[217] designers and architects. So, say you
+[218] want to design the swanky new train
+[219] carriages that could run through Dublin.
+[220] You can import industry standard files
+[221] or create your own design from scratch.
+[222] But, what if you can't find, for
+[223] instance, a train seat from the
+[224] thousands of thousands of CAD blocks in
+[225] the pre-existing software libraries?
+[226] Well, Round Design has an AI tool that
+[227] can vectorize your images. As an
+[228] example, my train carriage features a
+[229] corner sofa and a squat rack. And
+[230] because it's all in one, I can design,
+[231] edit, document, and then present my
+[232] proposal without having to faff around
+[233] switching tools. Just imagine, no more
+[234] wasting time transferring files between
+[235] multiple different softwares. Whether
+[236] you're an urban planner designing the
+[237] next great metro line, or like me, you
+[238] just want to draw up a swanky Irish
+[239] penthouse, you can try Round Design for
+[240] free using the link in the description
+[241] or by scanning the QR code on screen
+[242] now. Now, let's get back to Dublin's
+[243] metro because it looks like they might
+[244] actually be getting somewhere.
+[245] >>
+[246] >> Given this is the country's first ever
+[247] metro, authorities are obviously keen to
+[248] get it right. Spending billions on a
+[249] project like this and then getting the
+[250] route wrong would be disastrous,
+[251] especially when it's already taken quite
+[252] a lot of time and has already been a bit
+[253] of a debacle.
+[254] Honestly, I think people just want the
+[255] government and the authorities to get on
+[256] with it and deliver it and stop talking
+[257] about it. When it was announced the last
+[258] time, there was a a researcher in
+[259] zoology that basically said, "The time
+[260] that we've been talking about the metro
+[261] and to construct a metro, a snail could
+[262] have gone from Dublin city center, I
+[263] passed the airport, and do the whole
+[264] line based upon how long it's taken us
+[265] to get to where we are right now." So, I
+[266] think right now, the money is there, the
+[267] ambition is there, the support is there.
+[268] So, if not now, when? After waiting so
+[269] long already, it probably feels like
+[270] this merry-go-round could continue
+[271] forever. But, ask Torontonians who
+[272] waited nearly 20 years for work to start
+[273] on Eglinton Crosstown or the city of
+[274] Thessaloniki which waited a century for
+[275] its metro and you'll realize that these
+[276] projects can take an absolute age to
+[277] happen and then all of a sudden the city
+[278] turns into a work site.
+[279] And with that said the bidding process
+[280] for contracts to build Dublin MetroLink
+[281] has actually started.
+[282] The plan is to link the north and south
+[283] of Dublin connecting the airport with
+[284] each end of the city via 16 stations.
+[285] Inevitably as with all good things it's
+[286] not going to come cheap. The line will
+[287] stretch nearly 19 kilometers from
+[288] Charlemont passing through three
+[289] different universities schools hospitals
+[290] going all the way up to Swords in North
+[291] County Dublin one of the fastest growing
+[292] areas in all of Ireland. And all of that
+[293] will come with a whopping price tag of
+[294] 9.5 billion euros. For context that's
+[295] around 500 million euros per kilometer.
+[296] While cited as unlikely the Department
+[297] for Transport said the project could
+[298] reach a staggering 23 billion euros.
+[299] That would give it a cost per kilometer
+[300] similar to that of New York's Second
+[301] Avenue Subway. Dublin MetroLink could
+[302] become one of the most expensive
+[303] underground train lines of all time.
+[304] So the big question is why? Why is
+[305] Ireland's first metro so expensive
+[306] especially when you consider that an
+[307] early iteration of the plan came with an
+[308] estimate of just three billion
+[309] euros. Well inflation certainly plays a
+[310] part but a lot of the cost comes with
+[311] the construction methodology. Early
+[312] designs called for Dublin's metro to be
+[313] largely delivered using cut and cover
+[314] which is kind of the ideal. You excavate
+[315] from the surface down to your desired
+[316] depth construct your structure and then
+[317] backfill on top of it. Cut and cover is
+[318] pretty cost effective and less intense
+[319] than trudging deep underground. You're
+[320] not having to dig too far down, which
+[321] means no serious engineering at depths.
+[322] And perhaps most importantly, you
+[323] haven't got to buy or hire one of these.
+[324] If you spent any more than 5 minutes
+[325] watching one of our videos, then you're
+[326] probably going to recognize TBMs or
+[327] tunnel boring machines. They dig deep
+[328] below the surface, carving through rock
+[329] and soil to create, well, tunnels, and
+[330] they're far from boring. It's a whole
+[331] lot more expensive than the alternative.
+[332] Nevertheless, the latest schematics make
+[333] regular use of them. You see,
+[334] cut and cover is incredibly disruptive.
+[335] Roads have to be closed or converted to
+[336] one way for weeks and even months on
+[337] end. One of the appeals of Dublin is
+[338] those picturesque narrow streets. But in
+[339] the 11th most congested city on the
+[340] planet, more chaos than necessary is
+[341] just asking for trouble. In short,
+[342] tunnel boring limits the chaos, which is
+[343] crucial when you're working in a dense
+[344] city like this. And actually, the plan's
+[345] been changed a bit. So, the trains are
+[346] now going to travel through one single
+[347] bore tunnel rather than the originally
+[348] planned twin bore system. And
+[349] the idea of that is to cut down on work
+[350] and ultimately some cost. Cut and
+[351] cover's going to be limited to specific
+[352] shallow sections and surface stations
+[353] along the route. For instance, at
+[354] O'Connell Street and St. Stephen's
+[355] Green. Deep station boxes, basically
+[356] like a large shell underground to house
+[357] the station structure, are going to be
+[358] dug into the earth near heritage sites.
+[359] Tunneling has got to be minimized to
+[360] protect the foundations of those
+[361] buildings. Now, tunnels along the route
+[362] are going to be 9.5 m in diameter and
+[363] reach depths of up to 30 m. And
+[364] throughout the process, settlement and
+[365] vibration are going to be monitored to
+[366] make sure the ground remains stable.
+[367] >>
+[368] >> Now, all of that work is necessary to
+[369] build a much-needed piece of
+[370] infrastructure. And for construction
+[371] fans like myself, it's a pretty cool
+[372] project to be able to watch, follow, and
+[373] check in on. But, the process is
+[374] incredibly disruptive. The tunneling,
+[375] the rerouting of existing travel
+[376] options, the noise, the dust, the list
+[377] goes on. I guess what I'm trying to say
+[378] is that the Dublin MetroLink is going to
+[379] make things a whole lot worse before it
+[380] makes them any better.
+[381] This metro line is going through the
+[382] heart of the city, driving under and
+[383] through urban areas and residential
+[384] spaces. And beyond some necessary but
+[385] congestion-causing road closures, some
+[386] of the tunneling work is set to be
+[387] carried out around the clock. As a TBM
+[388] approaches an area, there'll be about 3
+[389] weeks worth of noise, and then another 3
+[390] weeks worth of noise as it leaves again.
+[391] That's 6 weeks of unavoidable
+[392] construction noise. And in truth, TBMs
+[393] aren't exactly subtle. You've got to
+[394] remember that these tunnels are being
+[395] dug directly beneath workplaces, public
+[396] parks, and people's homes. So, what
+[397] about escaping to a local park for some
+[398] peace and quiet? Well, not so fast. 20%
