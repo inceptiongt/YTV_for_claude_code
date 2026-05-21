@@ -1,14 +1,14 @@
 [1.1:en] yesterday, [segment] but
 [1.2:en] games, [segment] and
 [1.3:en] targets. [segment]
-[1.1:zh] 感觉，[segment] 但
-[1.2:zh] 了，[segment] 而
+[1.1:zh] 事，[segment] 但
+[1.2:zh] 半，[segment] 而
 [1.3:zh] 目标。[segment]
 
 [5.1:en] transit [segment] and
 [5.2:en] 2028. [segment]
 [5.1:zh] 好，[segment] 在
-[5.2:zh] 克服。[segment]
+[5.2:zh] 服。[segment]
 
 [9.1:en] off, [segment] then
 [9.2:en] cities. [segment]
@@ -27,12 +27,12 @@
 
 [15.1:en] difficulties [segment] finding
 [15.2:en] games. [segment]
-[15.1:zh] 困难，[segment] 在
-[15.2:zh] 难。[segment]
+[15.1:zh] 困难。[segment]
+[15.2:zh] [copy]
 
 [16.1:en] cities, [segment] four
 [16.2:en] out. [segment]
-[16.1:zh] 城市——[segment] 先后
+[16.1:zh] 城市——[segment] 四座
 [16.2:zh] 竞争。[segment]
 
 [17.1:en] left [segment] and
@@ -50,9 +50,9 @@
 [20.1:en] just [segment] that
 [20.2:en] bids [segment] from
 [20.3:en] on. [segment]
-[20.1:zh] 仅仅[segment] 是
-[20.2:zh] 申办[segment] 者
-[20.3:zh] 局面。[segment]
+[20.1:zh] 是 [segment] 避免
+[20.2:zh] 局面。[segment]
+[20.3:zh] [copy]
 
 [25.1:en] competing, [segment] this
 [25.2:en] block. [segment]
@@ -74,8 +74,8 @@
 [29.1:en] cost, [segment] it
 [29.2:en] arenas [segment] that
 [29.3:en] past. [segment]
-[29.1:zh] 上，[segment] 也
-[29.2:zh] 场馆[segment] 后，
+[29.1:zh] 本，[segment] 也
+[29.2:zh] 命运，[segment] 这种
 [29.3:zh] 鲜。[segment]
 
 [33.1:en] shape [segment] and
@@ -87,10 +87,10 @@
 [39.2:en] think, [segment] and
 [39.3:en] upgrading [segment] before
 [39.4:en] games. [segment]
-[39.1:zh] 易见，[segment] 但
-[39.2:zh] 使用，[segment] 还有
-[39.3:zh] 改造[segment] 才能
-[39.4:zh] 赛事。[segment]
+[39.1:zh] 见，[segment] 但
+[39.2:zh] 用，[segment] 还有
+[39.3:zh] 改造。[segment]
+[39.4:zh] [copy]
 
 [40.1:en] NFL [segment] and
 [40.2:en] 2026 [segment] along
@@ -113,8 +113,8 @@
 [45.2:en] again [segment] before
 [45.3:en] year. [segment]
 [45.1:zh] 泳池，[segment] 而这
-[45.2:zh] 拆除，[segment] 这种
-[45.3:zh] 的。[segment]
+[45.2:zh] 前，[segment] 还必
+[45.3:zh] 除。[segment]
 
 [48.1:en] swimming [segment] on
 [48.2:en] Olympics. [segment]
@@ -124,8 +124,8 @@
 [49.1:en] USC [segment] at
 [49.2:en] 1984, [segment] but
 [49.3:en] ideal. [segment]
-[49.1:zh] 场馆，[segment] 但他
-[49.2:zh] 环境。[segment]
+[49.1:zh] 场馆，[segment] 但
+[49.2:zh] 境。[segment]
 [49.3:zh] [copy]
 
 [50.1:en] Olympics [segment] and
@@ -135,14 +135,14 @@
 
 [51.1:en] well [segment] with
 [51.2:en] slightly. [segment]
-[51.1:zh] 式，[segment] 洛杉矶
+[51.1:zh] 幕式，[segment] 洛杉矶
 [51.2:zh] 整。[segment]
 
 [53.1:en] venue [segment] that's
 [53.2:en] transformation [segment] because
 [53.3:en] athletics. [segment]
 [53.1:zh] 场馆，[segment] 即将
-[53.2:zh] 改造——[segment] 就像
+[53.2:zh] 一样，[segment] 它
 [53.3:zh] 赛。[segment]
 
 [55.1:en] added [segment] in
@@ -170,18 +170,18 @@
 [59.1:en] sites, [segment] you
 [59.2:en] LA, [segment] people
 [59.3:en] cars. [segment]
-[59.1:zh] 场馆，[segment] 你可
+[59.1:zh] 想——[segment] 这
 [59.2:zh] 吧。[segment]
 [59.3:zh] [copy]
 
 [60.1:en] actually [segment] for
 [60.2:en] opposite. [segment]
-[60.1:zh] 市长[segment] 卡伦
-[60.2:zh] 反。[segment]
+[60.1:zh] 反。[segment]
+[60.2:zh] [copy]
 
 [63.1:en] LA [segment] to
 [63.2:en] crazy. [segment]
-[63.1:zh] 仍然[segment] 把
+[63.1:zh] 城市，[segment] 这个
 [63.2:zh] 开。[segment]
 
 [64.1:en] Olympics, [segment] the
@@ -192,8 +192,7 @@
 [65.1:en] line, [segment] finally
 [65.2:en] road. [segment]
 [65.1:zh] 路，[segment] "天使
-[65.2:zh] 择——[segment] 轨道
-[65.3:zh] 通。[segment]
+[65.2:zh] 通。[segment]
 
 [67.1:en] months, [segment] so
 [67.2:en] fast. [segment]
@@ -204,32 +203,32 @@
 [69.2:en] communities [segment] and
 [69.3:en] county. [segment]
 [69.1:zh] 兑现——[segment] 在
-[69.2:zh] 延伸，[segment] 连接
+[69.2:zh] 社区，[segment] 为
 [69.3:zh] 式。[segment]
 
 [71.1:en] century [segment] and
 [71.2:en] this, [segment] with
 [71.3:en] city. [segment]
 [71.1:zh] 世纪，[segment] 现在
-[71.2:zh] 已延[segment] 伸超
+[71.2:zh] 里，[segment] 覆盖
 [71.3:zh] 地。[segment]
 
 [72.1:en] ago, [segment] quite
 [72.2:en] infrastructure [segment] since
 [72.3:en] announcement. [segment]
 [72.1:zh] 前，[segment] 但自
-[72.2:zh] 设施[segment] 又新
-[72.3:zh] 善。[segment]
+[72.2:zh] 善。[segment]
+[72.3:zh] [copy]
 
 [73.1:en] linked [segment] to
 [73.2:en] lines. [segment]
-[73.1:zh] 连接，[segment] 通过
+[73.1:zh] 月，[segment] 地铁
 [73.2:zh] 接。[segment]
 
 [75.1:en] link [segment] between
 [75.2:en] terminals. [segment]
-[75.1:zh] 连接[segment] 与洛
-[75.2:zh] 楼。[segment]
+[75.1:zh] 中心 [segment] 与洛
+[75.2:zh] 接。[segment]
 
 [76.1:en] Line, [segment] now
 [76.2:en] Beach, [segment]
@@ -250,8 +249,8 @@
 [81.2:en] Angeles [segment] is
 [81.3:en] Boulevard. [segment]
 [81.1:zh] 项目，[segment] 是正
-[81.2:zh] 道[segment] 地下
-[81.3:zh] 路。[segment]
+[81.2:zh] 路。[segment]
+[81.3:zh] [copy]
 
 [83.1:en] Station [segment] through
 [83.2:en] districts [segment] all
@@ -269,12 +268,12 @@
 
 [85.1:en] 2027, [segment] the
 [85.2:en] 2024. [segment]
-[85.1:zh] 通车，[segment] 但隧
+[85.1:zh] 车，[segment] 但隧
 [85.2:zh] 工。[segment]
 
 [86.1:en] line, [segment] which
 [86.2:en] day. [segment]
-[86.1:zh] 线路，[segment] 设计
+[86.1:zh] 路，[segment] 设计
 [86.2:zh] 次。[segment]
 
 [87.1:en] feats [segment] the
@@ -290,6 +289,6 @@
 [89.1:en] faster [segment] when
 [89.2:en] LA [segment] in
 [89.3:en] minutes. [segment]
-[89.1:zh] 分钟[segment] 内从
-[89.2:zh] 达[segment] 西洛
-[89.3:zh] 矶。[segment]
+[89.1:zh] 后，[segment] 乘客
+[89.2:zh] 矶。[segment]
+[89.3:zh] [copy]
