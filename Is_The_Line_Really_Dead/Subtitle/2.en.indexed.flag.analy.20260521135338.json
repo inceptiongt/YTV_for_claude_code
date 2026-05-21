@@ -1,0 +1,55 @@
+{
+  "totalMi": 999,
+  "unmatchedMiCount": 1,
+  "matchedRate": 0.999,
+  "unmatchedSentences": [
+    {
+      "n": 171,
+      "words": 46,
+      "text": "The hard truth is that as Saudi Arabia works to become a more progressive society, as it works to change its culture as part of that vision 2030 plan, it's going to have to learn to master its relationship with the free press beyond its borders.",
+      "miList": [
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419
+      ],
+      "unmatchedMi": [
+        416
+      ]
+    }
+  ],
+  "longSentencesCount": 2,
+  "longSentences": [
+    {
+      "n": 171,
+      "words": 46,
+      "text": "The hard truth is that as Saudi Arabia works to become a more progressive society, as it works to change its culture as part of that vision 2030 plan, it's going to have to learn to master its relationship with the free press beyond its borders.",
+      "miList": [
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419
+      ]
+    },
+    {
+      "n": 173,
+      "words": 44,
+      "text": "You want to understand why costs have tripled or why this has been replaced or why this has changed or why there's been no updates on XYZ, but you're still dealing with a place that is used to not having to answer to anybody.",
+      "miList": [
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428
+      ]
+    }
+  ]
+}

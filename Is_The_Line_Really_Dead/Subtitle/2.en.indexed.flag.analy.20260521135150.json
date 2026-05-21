@@ -1,0 +1,258 @@
+{
+  "totalMi": 992,
+  "unmatchedMiCount": 8,
+  "matchedRate": 0.9919,
+  "unmatchedSentences": [
+    {
+      "n": 181,
+      "words": 59,
+      "text": "Just like the line, it was built in what was perceived as a remote and inhospitable location. And even more like the line, the city's plan was like nothing anyone has seen before. It was designed in the 1950s, the jet age, when rapid advances in aviation, and the jet set represented all that was cutting edge and futuristic.",
+      "miList": [
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442
+      ],
+      "unmatchedMi": [
+        435
+      ]
+    },
+    {
+      "n": 198,
+      "words": 42,
+      "text": "If there's one aspect of the line that does seem straight out of a video game, it's the distinctive mirror finish that covers every patch of the building's exterior. Now, reflective glass isn't anything new, but it does come with some disadvantages.",
+      "miList": [
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504
+      ],
+      "unmatchedMi": [
+        501
+      ]
+    },
+    {
+      "n": 221,
+      "words": 33,
+      "text": "So, inside your home or your office or wherever, you can have as much air con as you want. But out on the streets, you're subject to the ambient temperature of the desert.",
+      "miList": [
+        556,
+        557,
+        558,
+        559,
+        560,
+        561
+      ],
+      "unmatchedMi": [
+        559
+      ]
+    },
+    {
+      "n": 257,
+      "words": 24,
+      "text": "But is that really the case? Well, to answer that, take a look at this. This is Apple Park, Steve Jobs's last great creation.",
+      "miList": [
+        643,
+        644,
+        645,
+        646
+      ],
+      "unmatchedMi": [
+        644
+      ]
+    },
+    {
+      "n": 261,
+      "words": 49,
+      "text": "For one, in a circle, there's no hierarchy, no top or bottom, no coveted corner offices, and the space inside is equally shared by all. It's also good for getting around, no pun intended. The furthest anyone has to travel is a straight line from one side to another.",
+      "miList": [
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658
+      ],
+      "unmatchedMi": [
+        654,
+        655
+      ]
+    },
+    {
+      "n": 262,
+      "words": 20,
+      "text": "The maximum distance you have to travel is the diameter of the building. Now take a look at the line.",
+      "miList": [
+        658,
+        659,
+        660,
+        661
+      ],
+      "unmatchedMi": [
+        659
+      ]
+    },
+    {
+      "n": 283,
+      "words": 25,
+      "text": "It inspired kids and got them excited and engaged about the story of our future. It was so out there that it was almost confrontational.",
+      "miList": [
+        705,
+        706,
+        707,
+        708
+      ],
+      "unmatchedMi": [
+        706
+      ]
+    }
+  ],
+  "longSentencesCount": 9,
+  "longSentences": [
+    {
+      "n": 166,
+      "words": 52,
+      "text": "Because he may go in and say, \"Oh, I actually want this to curve this way, or I want this to kind of jump over this thing.\" And each of those ideas in his head can turn into billions of dollars of cost overruns and months or even years of delays, right?",
+      "miList": [
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389
+      ]
+    },
+    {
+      "n": 175,
+      "words": 46,
+      "text": "The hard truth is that as Saudi Arabia works to become a more progressive society, as it works to change its culture as part of that vision 2030 plan, it's going to have to learn to master its relationship with the free press beyond its borders.",
+      "miList": [
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419
+      ]
+    },
+    {
+      "n": 177,
+      "words": 44,
+      "text": "You want to understand why costs have tripled or why this has been replaced or why this has changed or why there's been no updates on XYZ, but you're still dealing with a place that is used to not having to answer to anybody.",
+      "miList": [
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428
+      ]
+    },
+    {
+      "n": 181,
+      "words": 59,
+      "text": "Just like the line, it was built in what was perceived as a remote and inhospitable location. And even more like the line, the city's plan was like nothing anyone has seen before. It was designed in the 1950s, the jet age, when rapid advances in aviation, and the jet set represented all that was cutting edge and futuristic.",
+      "miList": [
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442
+      ]
+    },
+    {
+      "n": 192,
+      "words": 70,
+      "text": "Chris was one of a handful of people asked to provide background research for what we now know as the line >> and I collected a lot of images and quotes from cyberpunk and related types of science fiction writing that I thought they might find useful and so I was told to look especially at urban planning urban ideas of cyber punk but also the related so-called punk genres.",
+      "miList": [
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484
+      ]
+    },
+    {
+      "n": 198,
+      "words": 42,
+      "text": "If there's one aspect of the line that does seem straight out of a video game, it's the distinctive mirror finish that covers every patch of the building's exterior. Now, reflective glass isn't anything new, but it does come with some disadvantages.",
+      "miList": [
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504
+      ]
+    },
+    {
+      "n": 261,
+      "words": 49,
+      "text": "For one, in a circle, there's no hierarchy, no top or bottom, no coveted corner offices, and the space inside is equally shared by all. It's also good for getting around, no pun intended. The furthest anyone has to travel is a straight line from one side to another.",
+      "miList": [
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658
+      ]
+    },
+    {
+      "n": 276,
+      "words": 41,
+      "text": "We started this video by saying the line and the wider project NEOM were part of vision 2030, a plan to kind of totally rewire the Saudi economy by the end of the decade and save the country from economic ruin.",
+      "miList": [
+        687,
+        688,
+        689,
+        690,
+        691,
+        692
+      ]
+    },
+    {
+      "n": 298,
+      "words": 51,
+      "text": "So there's a very tiny chance, 10% maybe, that there'll be some facilities and a hunk of the line and rich people will go there to marvel at it and there will still be promises being made about further construction and further resorts and more and more refues might be built.",
+      "miList": [
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751
+      ]
+    }
+  ]
+}
