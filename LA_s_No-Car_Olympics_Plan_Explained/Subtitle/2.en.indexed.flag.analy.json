@@ -1,0 +1,51 @@
+{
+  "totalMi": 576,
+  "unmatchedMiCount": 2,
+  "matchedRate": 0.9965,
+  "unmatchedSentences": [
+    {
+      "n": 120,
+      "words": 7,
+      "text": "It's wonderful. No traffic. It's just wonderful.",
+      "miList": [
+        343,
+        344
+      ],
+      "unmatchedMi": [
+        343
+      ]
+    },
+    {
+      "n": 133,
+      "words": 34,
+      "text": "That's not to say they're making a complete U-turn. Far from it. Whatever happens, public transit is going to be the main way that people are expected to travel and it can be done.",
+      "miList": [
+        382,
+        383,
+        384,
+        385,
+        386
+      ],
+      "unmatchedMi": [
+        383
+      ]
+    }
+  ],
+  "longSentencesCount": 1,
+  "longSentences": [
+    {
+      "n": 76,
+      "words": 42,
+      "text": "Another example of recent progress is the southern section of the Blue Line, now called the A- Line, heading straight out of Compton down to Long Beach, the route was given upgraded tracks, power lines, switching, and control systems back in 2019.",
+      "miList": [
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214
+      ]
+    }
+  ]
+}

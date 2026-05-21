@@ -1,0 +1,387 @@
+[1] I don't know about you, but the Paris
+[2] 2024 Olympics seems like only yesterday,
+[3] but it's now 2026, which means we're
+[4] already halfway towards the next games,
+[5] and this one has set some pretty
+[6] ambitious targets. There will be zero
+[7] new venues, and it's being positioned as
+[8] a nocar event. So, remind me where's
+[9] this being held again?
+[10] >> That's right, Los Angeles. Despite
+[11] having a strong Olympic past, LA isn't
+[12] exactly known for its public transit and
+[13] has numerous other challenges to
+[14] overcome before the summer of 2028. So,
+[15] what are those challenges? And can this
+[16] city be ready in time? It's becoming
+[17] enormously burdensome financially,
+[18] socially, environmentally to host the
+[19] Olympic Games. If Los Angeles can't pull
+[20] it off, then I think it's going to be
+[21] even more discouraging to potential
+[22] future cities.
+[23] >> Moving the hashtag from 2024 to 2028,
+[24] Los Angeles has decided it can wait it
+[25] out an extra four years. When LA was
+[26] awarded the 2028 Olympics back in 2017,
+[27] the situation was far from normal. Paris
+[28] was given the 2024 games at the very
+[29] same event. Two host cities had never
+[30] before been announced together. But
+[31] there were good reasons for this.
+[32] >> It became very clear that the IOC was
+[33] having enormous difficulties finding
+[34] cities that wanted to host the games.
+[35] And indeed, the potential hosting for
+[36] the 2024 games had four cities, four
+[37] cities that had been bidding to host the
+[38] games drop out. When they made their
+[39] decision in 2017, there were only two
+[40] biders left and one was Paris and one
+[41] was Los Angeles. They were both good
+[42] bets. Although Paris got 2024, LA was
+[43] still a strong contender and agreed to
+[44] wait another four years in return for
+[45] extra funding, which was helpful because
+[46] the next tournament is expected to cost
+[47] around $7 billion.
+[48] What made America's Second City a good
+[49] bet for 2028 wasn't just that it would
+[50] avoid another awkward round of bids from
+[51] a dwindling number of candidates later
+[52] on. No, it's the fact that it's already
+[53] been there and done it twice. The first
+[54] occasion was way back in 1932,
+[55] taking place during the Great
+[56] Depression. There were half as many
+[57] athletes competing compared to Amsterdam
+[58] 4 years earlier. But that didn't stop a
+[59] then record-breaking 100,000 people
+[60] turning up for the opening ceremony.
+[61] Fast forward half a century, and LA 1984
+[62] once again saw fewer countries
+[63] competing, this time due to a boycott
+[64] from the Soviet block. And yet you had
+[65] Carl Lewis winning four gold medals,
+[66] Michael Jordan top scoring in the
+[67] basketball, and incredibly, the games
+[68] finished with an actual profit of over
+[69] $250 million.
+[70] 2028 will see Los Angeles become the
+[71] first city to hold the Olympics three
+[72] times, and it'll continue a trend set by
+[73] the two previous hosts. Both Paris and
+[74] Tokyo focused on reusing venues rather
+[75] than building lots of new ones. Not only
+[76] did that reduce cost, it also avoided
+[77] them spending huge amounts of money on
+[78] giant arenas that could go on to become
+[79] white elephants like we've seen in the
+[80] past. Paris set the bar with 95% of its
+[81] stadiums already existing. But LA plans
+[82] to raise it even further, going ahead
+[83] without any new construction whatsoever.
+[84] And you can kind of understand why. Most
+[85] of his stadiums are in very good shape
+[86] and hardly need anything doing to them
+[87] or have been recently constructed
+[88] anyway.
+[89] Take the brand new into it dome now home
+[90] to the Clippers of the NBA. No prizes
+[91] for guessing. That's where you're going
+[92] to find the basketball. Dodger Stadium
+[93] is going to be for yeah baseball. And
+[94] the wittier narrows Clay Shooting Center
+[95] isn't going to be hosting the dress
+[96] arch.
+[97] While some of the venue choices are
+[98] obvious, not all of them are being used
+[99] in the way you might think, and others
+[100] need a fair bit of upgrading before
+[101] they're ready for the 2028 games. Take
+[102] the new SoFi Stadium, primarily built
+[103] for NFL and now set to host FIFA World
+[104] Cup matches in 2026 along with the Super
+[105] Bowl in 2027.
+[106] But in 2028, SoFi won't be hosting the
+[107] footy or American football, which isn't
+[108] even in the Olympics. Instead, fans are
+[109] going to come here to watch, wait for
+[110] it, swimming. The most expensive stadium
+[111] ever built is going to be converted into
+[112] the largest dedicated aquatics venue in
+[113] Olympics history with 40,000 seats. Now,
+[114] the exact details of how they plan to do
+[115] that aren't known yet, but obviously
+[116] it's going to involve constructing a
+[117] large pool in the middle of the stadium,
+[118] one that will have to be removed again
+[119] before the NFL season starts later that
+[120] year. It'll be a massive undertaking,
+[121] but Paris proved this sort of thing can
+[122] be done. This temporary pool built for
+[123] the 2024 games was constructed in just
+[124] over a month. Doing something similar at
+[125] Sofi is going to put swimming on a much
+[126] bigger platform than when LA last hosted
+[127] the Olympics. I like the the venue that
+[128] they had at USC at University of
+[129] Southern California, uh, which they used
+[130] in 1984, but they felt like it it didn't
+[131] provide the environment that was ideal.
+[132] It probably makes some sense from the
+[133] standpoint of showing the Olympics and
+[134] showing Los Angeles in its best light on
+[135] international television. The original
+[136] idea was for SoFi to hold the closing
+[137] ceremony as well with the LA Memorial
+[138] Coliseum handling the opener, but plans
+[139] have changed slightly. The opening
+[140] ceremony is now going to be co-hosted by
+[141] both stadiums. In fact, the Colosseum is
+[142] another iconic venue that's set to
+[143] undergo a bit of a transformation
+[144] because like most Olympic stadiums, it's
+[145] also going to be used for athletics.
+[146] Except there's a problem. When it was
+[147] upgraded in 1990, a lot of extra seating
+[148] was added in around the lower tiers,
+[149] which meant more capacity, but little
+[150] room for something that every track and
+[151] field venue needs, a track.
+[152] What they intend to do is build a
+[153] temporary deck on the floor of the bowl,
+[154] propped up on supports. This will create
+[155] the track and field as well as space
+[156] underneath for athletes to complete
+[157] their warm-ups.
+[158] Overall, there'll be more than 40 venues
+[159] spread across the city from Santa Monica
+[160] to Anaheim and from Pasadena to Long
+[161] Beach. As for getting to these sites,
+[162] you might think that with this being LA,
+[163] people are just going to pull up in
+[164] their cars. But according to Mayor Karen
+[165] Bass, the plan is actually for people to
+[166] do the exact opposite.
+[167] >> The main push will be no cars to the
+[168] venues. Bass says the Olympics are a
+[169] chance to make transformative change for
+[170] the future. Okay, but because many
+[171] people will still consider LA to be a
+[172] very car- centric city, that idea sounds
+[173] kind of crazy. Or maybe not, because
+[174] since the last time LA hosted the
+[175] Olympics, the cities introduced a
+[176] completely new way of getting around the
+[177] metro system. In 1990, just 6 years
+[178] after the event, the city unveiled its
+[179] first line, finally giving Angelinos the
+[180] option to travel by rail instead of
+[181] road.
+[182] >> Something that's really needed. Well,
+[183] probably I can't drive my car for three
+[184] more months, so maybe I'll just ride
+[185] this fast.
+[186] >> We've been looking forward to this a
+[187] long time.
+[188] >> Opening day of the Metro Blue Line was
+[189] the delivery of a promise that over the
+[190] next two decades, rail lines would
+[191] emerge to link communities and bring a
+[192] new form of mobility to the county. Was
+[193] that promise kept? Well, fast forward a
+[194] quarter of a century and the network
+[195] looks like this, with well over a 100
+[196] miles of routes now stretching across
+[197] the city. While much of that work took
+[198] place years ago, quite a lot's been done
+[199] to this piece of infrastructure since
+[200] the LA 2028 announcement. As of June
+[201] 2025, the rail system has finally been
+[202] linked up to the airport on the K and C
+[203] lines. An automated people mover, also
+[204] long awaited, is set to follow on in
+[205] 2026. That'll provide a new direct rail
+[206] link between the new Metro Transit
+[207] Center and the LAX terminals.
+[208] Another example of recent progress is
+[209] the southern section of the Blue Line,
+[210] now called the A- Line,
+[211] heading straight out of Compton down to
+[212] Long Beach, the route was given upgraded
+[213] tracks, power lines, switching, and
+[214] control systems back in 2019.
+[215] Then there's the East Side Transit
+[216] Corridor, which is going to link
+[217] downtown to four of the so-called
+[218] gateway cities in Southeast LA County.
+[219] The first phase connecting Little Tokyo
+[220] to the Atlantic Station in East Los
+[221] Angeles as part of the Eline completed
+[222] back in 2023.
+[223] But arguably the most important upgrade
+[224] of all is still under construction. The
+[225] project that is most critical not only
+[226] for the games but for the future of Los
+[227] Angeles is the subway that's being built
+[228] under Wilshire Boulevard.
+[229] >> He's referring here to the Dline
+[230] extension. It's going to run from Union
+[231] Station through one of the city's
+[232] biggest retail and commercial districts
+[233] all the way out to Westside.
+[234] >> That's a highcapacity system in a very
+[235] dense corridor and it will move a ton of
+[236] people much faster than buses can um and
+[237] much obviously much more effectively
+[238] than than cars.
+[239] >> While the full routes with its seven
+[240] stations isn't due to finish until 2027,
+[241] the tunneling for it concluded back in
+[242] 2024.
+[243] Two tunnel boring machines spent 5 years
+[244] digging the 14 km new line, which is set
+[245] to carry around 30,000 people a day. One
+[246] LA Metro called it one of the most
+[247] complex engineering feats the city's
+[248] transit authority has ever undertaken.
+[249] As workers excavated around 50 ft of
+[250] tunnel each day, they discovered
+[251] obstacles like gassy ground, tar sands,
+[252] and abandoned oil wells. Thankfully,
+[253] passengers are going to move through it
+[254] a lot faster when it's in operation as
+[255] they travel from downtown to West LA in
+[256] less than 30 minutes.
+[257] These works are all part of what's
+[258] called the 28x 28 initiative announced
+[259] by the city's former mayor in 2018.
+[260] It's a list of, yep, 28 transport
+[261] projects that the city of Los Angeles
+[262] planned to complete in time for the
+[263] games. All due to cost more than $26
+[264] billion in total. So far, around a third
+[265] of them are in operation.
+[266] Now, getting people to travel by rail
+[267] isn't the only objective. A no car
+[268] strategy doesn't mean no roads at all.
+[269] That would be impossible in a place like
+[270] LA.
+[271] Those who still insist on driving are
+[272] going to have to park away from the
+[273] venues or travel by Uber, bike, or
+[274] scooter via one of the planned mobility
+[275] hubs. For an event not far from Silicon
+[276] Valley, it's no surprise that digital
+[277] tools are going to be part of the
+[278] solution to LA's challenges. In fact,
+[279] making the best use of data and
+[280] technologies like AR, VR, and AI has
+[281] become essential. They're quickly
+[282] becoming the way to ensure that complex
+[283] infrastructure and capital projects like
+[284] this are delivered on time and on
+[285] budget. After all, research shows that
+[286] 92% of projects don't meet their
+[287] commitments due to poor upfront
+[288] planning, talent shortages, shifting
+[289] regulations, and increasing stakeholder
+[290] scrutiny. So, the organizations behind
+[291] them are now finding they have to do
+[292] things differently to avoid falling into
+[293] familiar traps. think outdated
+[294] processes, siloed operations, and enough
+[295] red tape to, I don't know, wrap an
+[296] entire Olympic stadium. Quite honestly,
+[297] it can be difficult to know which way to
+[298] turn, which is where Accenture comes in.
+[299] By teaming up with Accenture, project
+[300] teams are raising their game with
+[301] delivery from initial concept all the
+[302] way through to completion. Accenture
+[303] brings together over 5,000 capital
+[304] project experts worldwide with a unique
+[305] blend of fieldproven execution
+[306] leadership and deep expertise across
+[307] strategy, construction tech, and project
+[308] controls. And with a global leader
+[309] behind you, your project strategy won't
+[310] just challenge the norm, it'll
+[311] outperform it. To see how Accenture can
+[312] help you overcome your toughest project
+[313] challenges from delivery performance to
+[314] developing talent and scaling AI, visit
+[315] accenture.com/ICP
+[316] or click the link in the description.
+[317] Now, let's get back to Los Angeles and
+[318] see how the city has already been trying
+[319] out some new tech ideas. The games are
+[320] not the ideal place to test new
+[321] technologies, but now is a good time to
+[322] test new technologies for the games. And
+[323] so we should be doing that. We have time
+[324] to test some ideas that could be uh very
+[325] useful. Now for example, I am a big
+[326] believer in on demand uh transit. I I
+[327] helped set up the metro micro system
+[328] here in Los Angeles which is a
+[329] microransit provider. I think
+[330] microtransit has a role to play at least
+[331] in first class mile services if not more
+[332] for the Olympic games. And we've already
+[333] been testing that service. But the main
+[334] alternative to private vehicles will be
+[335] energy efficient buses that officials
+[336] hope to have running in time for the
+[337] games. They plan to order more than
+[338] 2,000 of them and to bring in dedicated
+[339] freeway lanes so they're not held up in
+[340] traffic.
+[341] >> The bus is great. It's just great.
+[342] Everything work great and it's cool.
+[343] It's wonderful. No traffic. It's just
+[344] wonderful. This would be a bit of a
+[345] throwback to 1984 when buses were
+[346] essential for transporting people and
+[347] preventing gridlock. And yet, there's no
+[348] guarantee at the moment that these buses
+[349] are actually going to arrive because
+[350] they're subject to federal funding,
+[351] which has become a difficult issue.
+[352] LA transit officials have requested more
+[353] than $3 billion from the Trump
+[354] administration. That money would also be
+[355] used to pay for other transport projects
+[356] like a new system of fast lanes on the
+[357] freeways to get athletes and event
+[358] workers around the city quicker.
+[359] But while Congress did approve a large
+[360] chunk of funding in early 2026, it falls
+[361] quite a way short of the target figure,
+[362] which raises questions about when or if
+[363] the rest of the money is going to come
+[364] in, especially when the US president's
+[365] relationship with the mayor of LA and
+[366] the governor of California has been a
+[367] little bit frosty at times.
+[368] And so if Donald Trump decides at a
+[369] given moment that Los Angeles is
+[370] misbehaving by his standards, um he
+[371] could and he might well tell the
+[372] Department of Transportation not 3.2
+[373] billion, only 1.2 billion or whatever
+[374] that number might be. Uh what is Los
+[375] Angeles going to do in that
+[376] circumstance? Well, they're going to
+[377] have to go from the no car games to some
+[378] car games.
+[379] It could partly explain why organizers
+[380] now describe the next Olympics as a
+[381] transit first games instead of no cars.
+[382] That's not to say they're making a
+[383] complete U-turn. Far from it. Whatever
+[384] happens, public transit is going to be
+[385] the main way that people are expected to
+[386] travel and it can be done. If you do the
+[387] right kind of communication and
