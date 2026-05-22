@@ -1,0 +1,1670 @@
+[
+  {
+    "startMs": 1920,
+    "durationMs": 5080,
+    "original": ">> We're experiencing one of the fastest building booms the world has ever seen.",
+    "translation": ">> 我们正在经历人类有史以来建设速度最快的一波热潮。"
+  },
+  {
+    "startMs": 7160,
+    "durationMs": 5560,
+    "original": "Described as a global construction frenzy that shows no signs of slowing.",
+    "translation": "这场全球性的建设狂潮，丝毫没有放缓的迹象。"
+  },
+  {
+    "startMs": 14920,
+    "durationMs": 4120,
+    "original": "Humanity is now dependent on large-scale data centers",
+    "translation": "如今，人类已经离不开大规模数据中心（data center），"
+  },
+  {
+    "startMs": 19040,
+    "durationMs": 2720,
+    "original": "and that demand is only increasing.",
+    "translation": "而且这种需求还在持续攀升。"
+  },
+  {
+    "startMs": 21760,
+    "durationMs": 2086,
+    "original": "But the strain this infrastructure",
+    "translation": "但这些基础设施"
+  },
+  {
+    "startMs": 23846,
+    "durationMs": 3314,
+    "original": "is placing on our power and water sources is enormous.",
+    "translation": "对电力和水资源造成的压力，是巨大的。"
+  },
+  {
+    "startMs": 28040,
+    "durationMs": 1920,
+    "original": "And people are starting to notice.",
+    "translation": "人们开始注意到这个问题了。"
+  },
+  {
+    "startMs": 30560,
+    "durationMs": 3400,
+    "original": "Many neighboring homeowners say, \"Not in my backyard.\"",
+    "translation": "许多附近的居民直说：\"别建在我家旁边。\""
+  },
+  {
+    "startMs": 33960,
+    "durationMs": 4789,
+    "original": ">> That opposition is forcing some tech giants to rethink where they [snorts] should build.",
+    "translation": ">> 这股反对浪潮，正迫使一些科技巨头重新思考——他们[冷哼]究竟该把数据中心建在哪里。"
+  },
+  {
+    "startMs": 38749,
+    "durationMs": 5891,
+    "original": "The data center industry is actually going to be responsible for 3-4% of global electricity consumption.",
+    "translation": "实际上，整个数据中心行业将占全球电力消耗的 3%—4%。"
+  },
+  {
+    "startMs": 44640,
+    "durationMs": 2400,
+    "original": "So, that's that's a huge sector.",
+    "translation": "这是个不折不扣的庞大领域。"
+  },
+  {
+    "startMs": 47040,
+    "durationMs": 4123,
+    "original": "And now with AI taking our reliance to a whole new level,",
+    "translation": "随着 AI（人工智能）将我们对数字基础设施的依赖提升到全新高度，"
+  },
+  {
+    "startMs": 51163,
+    "durationMs": 2677,
+    "original": "this rapidly growing area of industry",
+    "translation": "这个飞速扩张的行业"
+  },
+  {
+    "startMs": 53840,
+    "durationMs": 3400,
+    "original": "is under pressure to clean up its act and fast.",
+    "translation": "正承受着巨大压力，必须尽快整改。"
+  },
+  {
+    "startMs": 58000,
+    "durationMs": 4951,
+    "original": "But with these buildings now consuming as much energy as entire countries,",
+    "translation": "但这些建筑消耗的能源已经堪比整个国家，"
+  },
+  {
+    "startMs": 62951,
+    "durationMs": 2208,
+    "original": "what can we actually do about it?",
+    "translation": "我们到底能做什么？"
+  },
+  {
+    "startMs": 67465,
+    "durationMs": 6020,
+    "original": ">> >> This is what a typical data center looks like in 2026.",
+    "translation": ">> >> 这就是 2026 年一座典型数据中心的样子。"
+  },
+  {
+    "startMs": 81360,
+    "durationMs": 2749,
+    "original": "And if you live in or close to a major city,",
+    "translation": "如果你住在大城市或其周边，"
+  },
+  {
+    "startMs": 84109,
+    "durationMs": 2811,
+    "original": "there's a good chance you'll have one nearby.",
+    "translation": "周围很可能就有一座。"
+  },
+  {
+    "startMs": 87840,
+    "durationMs": 6360,
+    "original": "Because there are now more than 11,000 of these worldwide across 174 countries.",
+    "translation": "因为全球现在有超过 11,000 座数据中心，遍布 174 个国家。"
+  },
+  {
+    "startMs": 95240,
+    "durationMs": 3623,
+    "original": "And unsurprisingly, over a third of them are in the USA.",
+    "translation": "毫不意外，其中超过三分之一在美国。"
+  },
+  {
+    "startMs": 98863,
+    "durationMs": 5671,
+    "original": "Some of the largest clusters are in places you might expect like Texas and California.",
+    "translation": "最大的集群，出现在德克萨斯州、加利福尼亚州这些你能预料到的地方。"
+  },
+  {
+    "startMs": 104534,
+    "durationMs": 4346,
+    "original": "But the state with the most is actually Virginia.",
+    "translation": "但拥有数量最多的州，其实是弗吉尼亚。"
+  },
+  {
+    "startMs": 109680,
+    "durationMs": 3560,
+    "original": "The UK and Germany are way behind in second and third.",
+    "translation": "英国和德国位居第二、三位，但差距悬殊。"
+  },
+  {
+    "startMs": 113240,
+    "durationMs": 3080,
+    "original": "And the rest are pretty well spread around the globe.",
+    "translation": "其余的则相当均匀地分布在全球各地。"
+  },
+  {
+    "startMs": 116320,
+    "durationMs": 2226,
+    "original": "Because if they weren't absolutely everywhere,",
+    "translation": "因为如果它们不是无处不在，"
+  },
+  {
+    "startMs": 118546,
+    "durationMs": 2032,
+    "original": "we wouldn't be able to do all those things",
+    "translation": "我们就无法完成"
+  },
+  {
+    "startMs": 120578,
+    "durationMs": 2662,
+    "original": "that have become an essential part of our modern lives.",
+    "translation": "那些已成为现代生活必需品的一切。"
+  },
+  {
+    "startMs": 123960,
+    "durationMs": 4007,
+    "original": "We don't just mean the important stuff like online shopping, banking,",
+    "translation": "我们可不只是说网购、网银，"
+  },
+  {
+    "startMs": 127967,
+    "durationMs": 2787,
+    "original": "or watching epic construction videos on YouTube.",
+    "translation": "或者在 YouTube 上看精彩的建筑纪录片这些重要的事情。"
+  },
+  {
+    "startMs": 130754,
+    "durationMs": 3388,
+    "original": "Without data centers, there'd be no doom scrolling,",
+    "translation": "没有数据中心，就没有刷坏消息停不下来，"
+  },
+  {
+    "startMs": 134142,
+    "durationMs": 3786,
+    "original": "no long video calls that really could have been an email,",
+    "translation": "没有那些\"完全可以发封邮件解决\"的超长视频会议，"
+  },
+  {
+    "startMs": 137928,
+    "durationMs": 2192,
+    "original": "or memes that just refuse to die.",
+    "translation": "更没有那些拒绝消亡的表情包。"
+  },
+  {
+    "startMs": 140120,
+    "durationMs": 2960,
+    "original": "And we don't miss that. Wouldn't we?",
+    "translation": "而那些，我们也没有多想念，是吧？"
+  },
+  {
+    "startMs": 143640,
+    "durationMs": 3029,
+    "original": "But data centers weren't always omnipresent.",
+    "translation": "但数据中心并非一直都这么无处不在。"
+  },
+  {
+    "startMs": 146669,
+    "durationMs": 3187,
+    "original": "To see how quickly these structures have been expanding,",
+    "translation": "要了解这些设施扩张得有多快，"
+  },
+  {
+    "startMs": 149856,
+    "durationMs": 3017,
+    "original": "it's best to look at it from a different perspective.",
+    "translation": "最好换个角度来看。"
+  },
+  {
+    "startMs": 152874,
+    "durationMs": 2939,
+    "original": "After all, we can't do a video on data centers",
+    "translation": "毕竟，做一期关于数据中心的视频，"
+  },
+  {
+    "startMs": 155813,
+    "durationMs": 2427,
+    "original": "without digging into some, well, data.",
+    "translation": "怎么能不深挖一些……数据呢。"
+  },
+  {
+    "startMs": 159160,
+    "durationMs": 2160,
+    "original": "For starters, take a look at this graph.",
+    "translation": "先来看这张图表。"
+  },
+  {
+    "startMs": 161320,
+    "durationMs": 3451,
+    "original": "It shows the staggering growth in data centers globally",
+    "translation": "它展示了过去 20 年间，全球数据中心"
+  },
+  {
+    "startMs": 164771,
+    "durationMs": 3389,
+    "original": "over the past 20 years in terms of installed capacity.",
+    "translation": "在装机容量方面惊人的增长。"
+  },
+  {
+    "startMs": 169000,
+    "durationMs": 5200,
+    "original": "In other words, the total amount of power available for all the equipment needed to run them.",
+    "translation": "换句话说，就是支撑所有设备运转所需的总电力规模。"
+  },
+  {
+    "startMs": 174320,
+    "durationMs": 3840,
+    "original": "Notice how things went stratospheric after about 2017.",
+    "translation": "注意到大约 2017 年之后，曲线是如何直冲天际的。"
+  },
+  {
+    "startMs": 179360,
+    "durationMs": 3960,
+    "original": "The overall figure now stands at more than 122 gigawatts.",
+    "translation": "目前总量已超过 122 吉瓦（GW）。"
+  },
+  {
+    "startMs": 185160,
+    "durationMs": 1440,
+    "original": "Lights, camera, action!",
+    "translation": "灯光、摄影、开拍！"
+  },
+  {
+    "startMs": 186920,
+    "durationMs": 3184,
+    "original": "To give you an idea of just how much that really is,",
+    "translation": "为了让你感受到这个数字有多惊人："
+  },
+  {
+    "startMs": 190104,
+    "durationMs": 2326,
+    "original": "the total capacity of Hinkley Point C,",
+    "translation": "欣克利角 C 核电站（Hinkley Point C）"
+  },
+  {
+    "startMs": 192430,
+    "durationMs": 4592,
+    "original": "the massive new nuclear power plant currently under construction in the UK,",
+    "translation": "是英国正在建设的大型新核电站，"
+  },
+  {
+    "startMs": 197022,
+    "durationMs": 1469,
+    "original": "is around 3.2 gigawatts.",
+    "translation": "总装机容量约为 3.2 吉瓦。"
+  },
+  {
+    "startMs": 198811,
+    "durationMs": 1742,
+    "original": "That means you'd need",
+    "translation": "这意味着，为全球数据中心供电，你需要"
+  },
+  {
+    "startMs": 200553,
+    "durationMs": 6553,
+    "original": "38 Hinkley Point C sized nuclear plants to power just the world's data centers.",
+    "translation": "整整 38 座欣克利角 C 规模的核电站。"
+  },
+  {
+    "startMs": 207107,
+    "durationMs": 4053,
+    "original": "And they're continuing to soar in number and size.",
+    "translation": "而且它们还在继续增多、增大。"
+  },
+  {
+    "startMs": 211720,
+    "durationMs": 1880,
+    "original": "What the hell IS HE DOING, MARK?",
+    "translation": "这家伙到底在干什么，马克？！"
+  },
+  {
+    "startMs": 214480,
+    "durationMs": 2526,
+    "original": "Before AI, we also had a many, many data centers.",
+    "translation": "在 AI 出现之前，我们已经有了很多很多数据中心。"
+  },
+  {
+    "startMs": 217006,
+    "durationMs": 5510,
+    "original": "But those data center data center tend to be much smaller, like less than 100 megawatts.",
+    "translation": "但那时的数据中心往往规模小得多，通常在 100 兆瓦以下。"
+  },
+  {
+    "startMs": 222515,
+    "durationMs": 6205,
+    "original": "But today, a AI data center can easily be 500 megawatts or even more than 1 gigawatt.",
+    "translation": "但现在，一座 AI 数据中心可以轻松达到 500 兆瓦，甚至超过 1 吉瓦。"
+  },
+  {
+    "startMs": 229440,
+    "durationMs": 3285,
+    "original": "So, the concentration of of this large power demand",
+    "translation": "所以，这种大规模的电力需求"
+  },
+  {
+    "startMs": 232725,
+    "durationMs": 3414,
+    "original": "and other resource demand like water over small area,",
+    "translation": "以及水资源等其他资源需求，集中在一个小范围内，"
+  },
+  {
+    "startMs": 236140,
+    "durationMs": 2963,
+    "original": "that's a big challenge for the infrastructure.",
+    "translation": "对基础设施来说是个巨大挑战。"
+  },
+  {
+    "startMs": 239103,
+    "durationMs": 3584,
+    "original": "By 2030, data centers are set to be consuming",
+    "translation": "到 2030 年，数据中心消耗的电力"
+  },
+  {
+    "startMs": 242687,
+    "durationMs": 3505,
+    "original": "more electricity than the entirety of Japan.",
+    "translation": "将超过整个日本的用电总量。"
+  },
+  {
+    "startMs": 246192,
+    "durationMs": 4288,
+    "original": "That's double what they were pulling from the grid in 2022.",
+    "translation": "这是 2022 年它们从电网抽取电量的两倍。"
+  },
+  {
+    "startMs": 251440,
+    "durationMs": 1674,
+    "original": "And as you've just heard,",
+    "translation": "正如你刚刚听到的，"
+  },
+  {
+    "startMs": 253114,
+    "durationMs": 4086,
+    "original": "the main reason for this increase is the meteoric rise of AI.",
+    "translation": "这一增长的主要原因，正是 AI 的飞速崛起。"
+  },
+  {
+    "startMs": 259400,
+    "durationMs": 2947,
+    "original": "Every time you chuck something into ChatGPT,",
+    "translation": "每次你往 ChatGPT 里扔一个问题，"
+  },
+  {
+    "startMs": 262347,
+    "durationMs": 5693,
+    "original": "it kickstarts a process that uses more electricity and water than many of us realize.",
+    "translation": "就启动了一个用电量和耗水量远超我们想象的过程。"
+  },
+  {
+    "startMs": 268920,
+    "durationMs": 657,
+    "original": "Just kidding.",
+    "translation": "就是开个玩笑。"
+  },
+  {
+    "startMs": 269577,
+    "durationMs": 4583,
+    "original": "Other channels trying to imitate us might do that, but we certainly don't.",
+    "translation": "其他频道或许会那么搞，但我们当然不会。"
+  },
+  {
+    "startMs": 274840,
+    "durationMs": 4207,
+    "original": "Now, when ChatGPT alone is processing billions of prompts every day,",
+    "translation": "而当 ChatGPT 每天处理数十亿次查询，"
+  },
+  {
+    "startMs": 279047,
+    "durationMs": 3588,
+    "original": "it's no wonder the infrastructure that makes it all happen",
+    "translation": "支撑这一切运转的基础设施"
+  },
+  {
+    "startMs": 282635,
+    "durationMs": 1980,
+    "original": "is having to scale up very fast.",
+    "translation": "必须以极快的速度扩容，也就不足为奇了。"
+  },
+  {
+    "startMs": 284615,
+    "durationMs": 10585,
+    "original": "AI systems were responsible for about 20% of total data center electricity consumption by the end of 2024.",
+    "translation": "到 2024 年底，AI 系统已占数据中心总电力消耗的约 20%。"
+  },
+  {
+    "startMs": 295200,
+    "durationMs": 8040,
+    "original": "Um and that number could have increased to about half by the end of last year, 2025.",
+    "translation": "而这一数字，到 2025 年底可能已攀升至约 50%。"
+  },
+  {
+    "startMs": 303240,
+    "durationMs": 4426,
+    "original": "Altogether, these these numbers are just becoming really big, really fast.",
+    "translation": "总的来说，这些数字正在以极快的速度变得极其庞大。"
+  },
+  {
+    "startMs": 307666,
+    "durationMs": 3438,
+    "original": "But keeping up with the demand is where things get tricky.",
+    "translation": "但跟上需求的步伐，才是真正的难题所在。"
+  },
+  {
+    "startMs": 311104,
+    "durationMs": 5281,
+    "original": "Data center construction isn't just about building a great big hall and filling it with servers,",
+    "translation": "数据中心的建设，可不是盖一个大厅、塞满服务器那么简单，"
+  },
+  {
+    "startMs": 316385,
+    "durationMs": 2695,
+    "original": "despite how it might appear in footage like this.",
+    "translation": "尽管从一些镜头来看确实如此。"
+  },
+  {
+    "startMs": 319320,
+    "durationMs": 2364,
+    "original": "There's actually a lot more to it than that,",
+    "translation": "实际上，里面的门道多得多——"
+  },
+  {
+    "startMs": 321684,
+    "durationMs": 3278,
+    "original": "which is why the biggest facilities being built at the moment",
+    "translation": "这也是为什么目前正在兴建的最大型设施，"
+  },
+  {
+    "startMs": 324962,
+    "durationMs": 1558,
+    "original": "are considered mega projects.",
+    "translation": "都被视为超级工程。"
+  },
+  {
+    "startMs": 327280,
+    "durationMs": 3000,
+    "original": "First of all, you've got to decide where to put them.",
+    "translation": "首先，你得决定把它建在哪里。"
+  },
+  {
+    "startMs": 330360,
+    "durationMs": 3396,
+    "original": "Ideally, you want a place with good fiber connections,",
+    "translation": "理想的选址，需要良好的光纤连接、"
+  },
+  {
+    "startMs": 333756,
+    "durationMs": 2767,
+    "original": "water sources, and for the really large ones",
+    "translation": "充足的水源；而对于"
+  },
+  {
+    "startMs": 336522,
+    "durationMs": 4905,
+    "original": "that handle several hundred megawatts on their own, high capacity power grids.",
+    "translation": "那些单独承载数百兆瓦电力的超大型设施，还需要高容量的电网。"
+  },
+  {
+    "startMs": 341507,
+    "durationMs": 5013,
+    "original": "Those data centers, they they they consume as much power as entire cities.",
+    "translation": "这些数据中心消耗的电力，堪比整座城市。"
+  },
+  {
+    "startMs": 346840,
+    "durationMs": 2520,
+    "original": "And you can't just put those anywhere.",
+    "translation": "所以你不能随便找个地方就建。"
+  },
+  {
+    "startMs": 349360,
+    "durationMs": 2862,
+    "original": "It's It's actually really hard to find power grids",
+    "translation": "要找到电网容量足够、"
+  },
+  {
+    "startMs": 352222,
+    "durationMs": 1946,
+    "original": "where there is sufficient capacity",
+    "translation": "甚至可以开工建设的地方，"
+  },
+  {
+    "startMs": 354169,
+    "durationMs": 2633,
+    "original": "to to even start building a project like that.",
+    "translation": "其实真的很难。"
+  },
+  {
+    "startMs": 357402,
+    "durationMs": 4085,
+    "original": "So, at that point, power capacity becomes the number one concern.",
+    "translation": "到那个阶段，供电能力就成了头号问题。"
+  },
+  {
+    "startMs": 361487,
+    "durationMs": 2729,
+    "original": "There would have to be plenty of space, too.",
+    "translation": "空间也得足够大。"
+  },
+  {
+    "startMs": 364216,
+    "durationMs": 2784,
+    "original": "Not just enough to squeeze the building into.",
+    "translation": "不只是刚好能放下建筑那么多。"
+  },
+  {
+    "startMs": 367320,
+    "durationMs": 2640,
+    "original": "Many are constructed with expansion in mind.",
+    "translation": "很多数据中心在设计时就考虑了扩建的空间，"
+  },
+  {
+    "startMs": 369960,
+    "durationMs": 4920,
+    "original": "Expansions that often follow not long after they're finished and with rapid speed.",
+    "translation": "而且往往建成后不久就迅速启动扩建。"
+  },
+  {
+    "startMs": 374880,
+    "durationMs": 4797,
+    "original": "The companies behind them are called hyperscalers for a reason.",
+    "translation": "这些公司被称为\"超大规模云厂商\"（hyperscaler，即亚马逊、微软、谷歌等），不是没有原因的。"
+  },
+  {
+    "startMs": 379677,
+    "durationMs": 3955,
+    "original": "Another thing to think about is climate and geography.",
+    "translation": "还有一个要考虑的因素：气候和地理条件。"
+  },
+  {
+    "startMs": 383632,
+    "durationMs": 2921,
+    "original": "Lower temperatures make it easier to keep everything cool.",
+    "translation": "较低的气温，有助于降低冷却难度。"
+  },
+  {
+    "startMs": 386553,
+    "durationMs": 1453,
+    "original": "And it's generally better",
+    "translation": "而且通常来说，最好"
+  },
+  {
+    "startMs": 388006,
+    "durationMs": 5463,
+    "original": "if you build these things away from places where there are likely to be extreme weather events",
+    "translation": "把它们建在远离极端天气事件"
+  },
+  {
+    "startMs": 393469,
+    "durationMs": 1221,
+    "original": "or natural disasters.",
+    "translation": "或自然灾害频发地区的地方。"
+  },
+  {
+    "startMs": 394691,
+    "durationMs": 3420,
+    "original": "You see, just like with other big bits of infrastructure,",
+    "translation": "就像其他大型基础设施一样，"
+  },
+  {
+    "startMs": 398111,
+    "durationMs": 1620,
+    "original": "if a data center goes down,",
+    "translation": "数据中心一旦宕机，"
+  },
+  {
+    "startMs": 399731,
+    "durationMs": 1800,
+    "original": "it can cause serious problems.",
+    "translation": "就可能引发严重问题。"
+  },
+  {
+    "startMs": 401531,
+    "durationMs": 2489,
+    "original": "I don't just mean missing out on the latest TikTok craze.",
+    "translation": "我可不只是说错过最新的 TikTok 热梗。"
+  },
+  {
+    "startMs": 404020,
+    "durationMs": 2934,
+    "original": "We're talking about huge financial losses,",
+    "translation": "我们说的是巨额财务损失、"
+  },
+  {
+    "startMs": 406954,
+    "durationMs": 4261,
+    "original": "service failures, reputational damage, all the kind of things",
+    "translation": "服务中断、声誉受损——"
+  },
+  {
+    "startMs": 411215,
+    "durationMs": 2585,
+    "original": "that every company absolutely dreads.",
+    "translation": "这些都是每家公司最不想遇到的噩梦。"
+  },
+  {
+    "startMs": 415040,
+    "durationMs": 6588,
+    "original": "Alongside all those racks of equipment that have to be kept running 24/7, the cooling system is a key priority.",
+    "translation": "除了那些必须全天候运转的服务器机架，冷却系统也是重中之重。"
+  },
+  {
+    "startMs": 422348,
+    "durationMs": 3692,
+    "original": "Usually, this is done in one of two ways.",
+    "translation": "通常，冷却有两种主要方式。"
+  },
+  {
+    "startMs": 427240,
+    "durationMs": 4591,
+    "original": "There's the traditional method of circulating cold air into the server racks,",
+    "translation": "一种是传统的风冷方式，通过地板向服务器机架输送冷空气，"
+  },
+  {
+    "startMs": 431831,
+    "durationMs": 1550,
+    "original": "normally through the floor",
+    "translation": "废热则从顶部排出。"
+  },
+  {
+    "startMs": 433381,
+    "durationMs": 2325,
+    "original": "with waste heat exiting out of the top.",
+    "translation": "废热则从顶部排出。"
+  },
+  {
+    "startMs": 435706,
+    "durationMs": 1245,
+    "original": "While it's effective,",
+    "translation": "虽然有效，"
+  },
+  {
+    "startMs": 436951,
+    "durationMs": 2134,
+    "original": "even if some of the air is recycled,",
+    "translation": "即便部分空气可以循环利用，"
+  },
+  {
+    "startMs": 439084,
+    "durationMs": 3556,
+    "original": "it's a process that consumes massive amounts of electricity.",
+    "translation": "这一过程仍然消耗大量电力。"
+  },
+  {
+    "startMs": 443040,
+    "durationMs": 2390,
+    "original": "Alternatively, you've got liquid cooling,",
+    "translation": "另一种是液冷（liquid cooling），"
+  },
+  {
+    "startMs": 445430,
+    "durationMs": 3089,
+    "original": "which is becoming more common as we enter the AI era.",
+    "translation": "随着 AI 时代的到来，这种方式越来越普遍。"
+  },
+  {
+    "startMs": 448519,
+    "durationMs": 3632,
+    "original": "This method involves using, yes, you guessed it,",
+    "translation": "这种方式——你猜对了——"
+  },
+  {
+    "startMs": 452151,
+    "durationMs": 4238,
+    "original": "liquids like water or coolant to transfer the heat away,",
+    "translation": "利用水或冷却液等液体来带走热量，"
+  },
+  {
+    "startMs": 456389,
+    "durationMs": 4011,
+    "original": "which requires less electricity and often less space.",
+    "translation": "所需电力更少，往往占用的空间也更小。"
+  },
+  {
+    "startMs": 460880,
+    "durationMs": 1664,
+    "original": "But the flip side is that",
+    "translation": "但另一面是，"
+  },
+  {
+    "startMs": 462544,
+    "durationMs": 2795,
+    "original": "all that water has to come from somewhere,",
+    "translation": "所有这些水都得有来源，"
+  },
+  {
+    "startMs": 465338,
+    "durationMs": 2662,
+    "original": "and that can cause a pretty big dilemma.",
+    "translation": "而这可能带来相当大的困境。"
+  },
+  {
+    "startMs": 468600,
+    "durationMs": 4035,
+    "original": "This water is mostly coming from municipal water supply.",
+    "translation": "这些水，大多来自市政供水（municipal water supply）。"
+  },
+  {
+    "startMs": 472635,
+    "durationMs": 4865,
+    "original": "And that can be stressful for a lot of a public water system, especially in the US.",
+    "translation": "这可能给很多公共供水系统带来巨大压力，在美国尤为如此。"
+  },
+  {
+    "startMs": 477500,
+    "durationMs": 2540,
+    "original": ">> >> Most of the water systems are small or medium size.",
+    "translation": ">> >> 大多数供水系统的规模都不大，属于中小型。"
+  },
+  {
+    "startMs": 480040,
+    "durationMs": 5360,
+    "original": "They don't really have a lot of surplus capacity to supply to these large-scale industry users.",
+    "translation": "它们本就没有多少富余容量，来满足这些大规模工业用户的需求。"
+  },
+  {
+    "startMs": 485840,
+    "durationMs": 5286,
+    "original": "So, what can be done to manage these crazy levels of consumption?",
+    "translation": "那么，面对如此惊人的消耗量，我们能做什么？"
+  },
+  {
+    "startMs": 491126,
+    "durationMs": 4339,
+    "original": "Well, many companies are now prioritizing things like liquid cooling,",
+    "translation": "许多公司目前正优先考虑液冷等技术，"
+  },
+  {
+    "startMs": 495465,
+    "durationMs": 2578,
+    "original": "investing in their own renewable sources,",
+    "translation": "投资自有可再生能源，"
+  },
+  {
+    "startMs": 498044,
+    "durationMs": 4716,
+    "original": "and even funding grid upgrades so they don't push up people's energy bills.",
+    "translation": "甚至资助电网升级，以避免推高居民电费。"
+  },
+  {
+    "startMs": 503160,
+    "durationMs": 2677,
+    "original": "Others are taking a more unusual approach,",
+    "translation": "另一些则采取了更不寻常的方法，"
+  },
+  {
+    "startMs": 505837,
+    "durationMs": 4843,
+    "original": "including with some techniques that are generating quite a bit of attention.",
+    "translation": "其中一些技术正引发广泛关注。"
+  },
+  {
+    "startMs": 510920,
+    "durationMs": 4375,
+    "original": "Several of the world's biggest tech firms have partnered with nuclear providers.",
+    "translation": "全球多家最大的科技公司已与核能供应商建立了合作关系。"
+  },
+  {
+    "startMs": 515295,
+    "durationMs": 5431,
+    "original": "These deals would see data centers powered by reliable, low-carbon sources.",
+    "translation": "这些协议将让数据中心由可靠的低碳能源供电。"
+  },
+  {
+    "startMs": 520846,
+    "durationMs": 4090,
+    "original": "Some are even restarting plants that had previously been closed",
+    "translation": "一些公司甚至在重启此前已关闭的核电站，"
+  },
+  {
+    "startMs": 524936,
+    "durationMs": 4090,
+    "original": "or tapping into technology that still hasn't quite arrived yet,",
+    "translation": "或者借助尚未完全成熟的技术——"
+  },
+  {
+    "startMs": 529025,
+    "durationMs": 3181,
+    "original": "namely nuclear fusion and small modular reactors.",
+    "translation": "即核聚变（nuclear fusion）和小型模块化反应堆（small modular reactor，SMR）。"
+  },
+  {
+    "startMs": 532206,
+    "durationMs": 3855,
+    "original": "Alternatively, you could do what companies in Europe are doing",
+    "translation": "或者，你也可以效仿欧洲的一些公司，"
+  },
+  {
+    "startMs": 536061,
+    "durationMs": 2363,
+    "original": "and build your data center underground",
+    "translation": "把数据中心建在废弃矿井或前军事掩体的地下。"
+  },
+  {
+    "startMs": 538424,
+    "durationMs": 2549,
+    "original": "inside an active mine or a former bunker.",
+    "translation": "把数据中心建在废弃矿井或前军事掩体的地下。"
+  },
+  {
+    "startMs": 541232,
+    "durationMs": 4448,
+    "original": "Both of which are great for security and keeping everything cool.",
+    "translation": "这两种方案在安全性和降温方面都非常理想。"
+  },
+  {
+    "startMs": 546320,
+    "durationMs": 2318,
+    "original": "But these strategies aren't for everyone,",
+    "translation": "但这些策略并不适合所有人，"
+  },
+  {
+    "startMs": 548638,
+    "durationMs": 3901,
+    "original": "especially companies needing to deliver high-performance data centers",
+    "translation": "尤其是那些需要立刻交付"
+  },
+  {
+    "startMs": 552540,
+    "durationMs": 2940,
+    "original": "that are future-proof and super efficient right now.",
+    "translation": "高性能、面向未来、超高效率数据中心的公司。"
+  },
+  {
+    "startMs": 555480,
+    "durationMs": 4994,
+    "original": "We're talking about both new builds and upgrades to existing ones.",
+    "translation": "我们说的，既包括新建项目，也包括对现有设施的改造升级（retrofits）。"
+  },
+  {
+    "startMs": 560474,
+    "durationMs": 6393,
+    "original": "For many, investing in atomic energy or hollowing out a mountain isn't really a viable option.",
+    "translation": "对于很多企业来说，投资核能或凿山建数据中心并不现实。"
+  },
+  {
+    "startMs": 566867,
+    "durationMs": 3820,
+    "original": "In fact, meeting the demands of this new AI-driven era",
+    "translation": "事实上，以所需的速度满足这个 AI 驱动新时代的需求，"
+  },
+  {
+    "startMs": 570687,
+    "durationMs": 2900,
+    "original": "at the speed required is such a challenge",
+    "translation": "挑战之大，让人不知"
+  },
+  {
+    "startMs": 573587,
+    "durationMs": 3041,
+    "original": "that it can be hard to know where to begin.",
+    "translation": "从哪里着手。而这正是 IES 的用武之地。"
+  },
+  {
+    "startMs": 576628,
+    "durationMs": 1839,
+    "original": "That's where IES can help.",
+    "translation": "从哪里着手。而这正是 IES 的用武之地。"
+  },
+  {
+    "startMs": 578467,
+    "durationMs": 1412,
+    "original": "IES is a global leader",
+    "translation": "IES 是基于物理学的建筑性能模拟与数字孪生（digital twin）技术领域的全球领军企业，"
+  },
+  {
+    "startMs": 579879,
+    "durationMs": 5005,
+    "original": "in a physics-based building performance simulation and digital twin technology",
+    "translation": "服务于各类建筑类型。"
+  },
+  {
+    "startMs": 584884,
+    "durationMs": 1476,
+    "original": "for all building types.",
+    "translation": "服务于各类建筑类型。"
+  },
+  {
+    "startMs": 586680,
+    "durationMs": 2116,
+    "original": "With its whole facility approach,",
+    "translation": "凭借其全设施整体化方案，"
+  },
+  {
+    "startMs": 588796,
+    "durationMs": 4874,
+    "original": "users can monitor and optimize the performance of their data center projects",
+    "translation": "用户可以在数据中心项目的"
+  },
+  {
+    "startMs": 593670,
+    "durationMs": 1731,
+    "original": "across its full life cycle.",
+    "translation": "完整生命周期内，对其性能进行监测和优化。"
+  },
+  {
+    "startMs": 595401,
+    "durationMs": 5707,
+    "original": ">> >> They can model everything from dynamic IT loads and rack layouts to advanced cooling options.",
+    "translation": ">> >> 他们可以对从动态 IT 负载、机架布局，到高级冷却方案的一切进行模拟建模——"
+  },
+  {
+    "startMs": 601108,
+    "durationMs": 3046,
+    "original": "All within the context of the local climate.",
+    "translation": "并将当地气候条件纳入其中。"
+  },
+  {
+    "startMs": 604154,
+    "durationMs": 3638,
+    "original": "By adopting one of IES's AI ready design strategies,",
+    "translation": "通过采用 IES 的 AI 就绪设计策略，"
+  },
+  {
+    "startMs": 607792,
+    "durationMs": 3008,
+    "original": "hyperscalers can reach capacity super fast,",
+    "translation": "超大规模云厂商可以以极快的速度达到设计容量，"
+  },
+  {
+    "startMs": 610800,
+    "durationMs": 5177,
+    "original": "de-risk infrastructure decisions, and reduce energy, carbon, and water use",
+    "translation": "降低基础设施决策风险，"
+  },
+  {
+    "startMs": 615978,
+    "durationMs": 6926,
+    "original": "all while staying in line with increasingly stringent regulations and grid connection requirements.",
+    "translation": "并减少能耗、碳排放和水资源消耗——同时满足日益严格的法规和电网接入要求。"
+  },
+  {
+    "startMs": 622944,
+    "durationMs": 2170,
+    "original": "Plus, having an IES digital twin",
+    "translation": "此外，IES 数字孪生"
+  },
+  {
+    "startMs": 625114,
+    "durationMs": 3661,
+    "original": "provides a performance-focused replica of the facility",
+    "translation": "提供了一个以性能为核心的设施虚拟副本，"
+  },
+  {
+    "startMs": 628775,
+    "durationMs": 6305,
+    "original": "that behaves like its real counterparts, from planning and design to operation and retrofits.",
+    "translation": "其表现与真实设施同步，贯穿从规划设计到运营改造的全过程。"
+  },
+  {
+    "startMs": 635600,
+    "durationMs": 2460,
+    "original": "Then, there's IES's end-to-end consulting,",
+    "translation": "IES 还提供端到端的咨询服务，"
+  },
+  {
+    "startMs": 638060,
+    "durationMs": 2518,
+    "original": "from a company that's helped global clients",
+    "translation": "这家公司已为全球客户"
+  },
+  {
+    "startMs": 640578,
+    "durationMs": 3982,
+    "original": "with their digital infrastructure challenges for more than 30 years.",
+    "translation": "解决数字基础设施挑战超过 30 年。"
+  },
+  {
+    "startMs": 644560,
+    "durationMs": 3151,
+    "original": "In fact, IES has already helped one hyperscaler",
+    "translation": "实际上，IES 已帮助一家超大规模云厂商，"
+  },
+  {
+    "startMs": 647711,
+    "durationMs": 3554,
+    "original": "retrofit an existing data center with liquid cooling.",
+    "translation": "对一座现有数据中心进行了液冷改造升级。"
+  },
+  {
+    "startMs": 651265,
+    "durationMs": 4852,
+    "original": "It saw them increase capacity from 10 to 50 kW per rack,",
+    "translation": "该项目使每机架容量从 10 千瓦提升到 50 千瓦，"
+  },
+  {
+    "startMs": 656117,
+    "durationMs": 1733,
+    "original": "cut water use by 95%",
+    "translation": "用水量减少了 95%，"
+  },
+  {
+    "startMs": 657850,
+    "durationMs": 2773,
+    "original": ">> >> and achieve a PUE of 1.16.",
+    "translation": ">> >> PUE（电源使用效率，数值越低越节能）达到 1.16。"
+  },
+  {
+    "startMs": 662400,
+    "durationMs": 1571,
+    "original": "Meanwhile, in Ireland,",
+    "translation": "与此同时，在爱尔兰，"
+  },
+  {
+    "startMs": 663971,
+    "durationMs": 4783,
+    "original": "10 data centers were able to lower their space cooling energy loads",
+    "translation": "有 10 座数据中心在 IES 顾问的支持下，"
+  },
+  {
+    "startMs": 668754,
+    "durationMs": 3427,
+    "original": "by around 40% with support from IES consultants.",
+    "translation": "将空间冷却能耗降低了约 40%。"
+  },
+  {
+    "startMs": 672181,
+    "durationMs": 1674,
+    "original": "If you want to find out more",
+    "translation": "如果你想深入了解"
+  },
+  {
+    "startMs": 673855,
+    "durationMs": 3706,
+    "original": "about how dynamic simulation can enhance existing CFD modeling",
+    "translation": "动态模拟如何增强现有 CFD 模拟（计算流体动力学），"
+  },
+  {
+    "startMs": 677561,
+    "durationMs": 3646,
+    "original": "to enable high-performance data centers, then you're in luck.",
+    "translation": "从而打造高性能数据中心，那你来对了。"
+  },
+  {
+    "startMs": 681207,
+    "durationMs": 4993,
+    "original": ">> >> Because IES has just released a brand new white paper on that very subject.",
+    "translation": ">> >> 因为 IES 刚刚发布了一份专门讨论这一主题的全新白皮书（white paper）。"
+  },
+  {
+    "startMs": 686480,
+    "durationMs": 2247,
+    "original": "Inside, you'll learn all the ins and outs",
+    "translation": "白皮书内，你将全面了解"
+  },
+  {
+    "startMs": 688727,
+    "durationMs": 3946,
+    "original": "about de-risking AI-driven facilities and optimizing cooling strategies,",
+    "translation": "如何降低 AI 驱动设施的风险、优化冷却策略，"
+  },
+  {
+    "startMs": 692673,
+    "durationMs": 3727,
+    "original": "while discovering full case studies on how others have made it work.",
+    "translation": "并通过完整案例研究，探索其他企业的成功经验。"
+  },
+  {
+    "startMs": 696440,
+    "durationMs": 2408,
+    "original": "To download the white paper for free today",
+    "translation": "想今天免费下载这份白皮书、"
+  },
+  {
+    "startMs": 698848,
+    "durationMs": 2408,
+    "original": "and see the full extent of IES's services,",
+    "translation": "了解 IES 的全套服务，"
+  },
+  {
+    "startMs": 701255,
+    "durationMs": 4185,
+    "original": "just scan the QR code on screen now or click the link in the description.",
+    "translation": "只需扫描屏幕上的二维码，或点击视频简介中的链接。"
+  },
+  {
+    "startMs": 705440,
+    "durationMs": 3051,
+    "original": "So, we've talked about server racks and cooling systems,",
+    "translation": "好了，我们聊了服务器机架和冷却系统，"
+  },
+  {
+    "startMs": 708491,
+    "durationMs": 1907,
+    "original": "but you're going to find a lot more",
+    "translation": "但在数据中心里你会发现的远不止这些。"
+  },
+  {
+    "startMs": 710398,
+    "durationMs": 1962,
+    "original": "inside a data center than just that.",
+    "translation": "但在数据中心里你会发现的远不止这些。"
+  },
+  {
+    "startMs": 712560,
+    "durationMs": 2001,
+    "original": "There are plenty of other components,",
+    "translation": "还有很多其他组件，"
+  },
+  {
+    "startMs": 714561,
+    "durationMs": 2001,
+    "original": "some of which might sound quite dull,",
+    "translation": "有些听起来可能相当枯燥，"
+  },
+  {
+    "startMs": 716561,
+    "durationMs": 1839,
+    "original": "but are actually pretty essential.",
+    "translation": "但其实不可或缺。"
+  },
+  {
+    "startMs": 718960,
+    "durationMs": 6360,
+    "original": "Security, networking, power distribution, etc., which all have their own energy needs.",
+    "translation": "比如安保、网络、配电等等，它们各自都有自己的能耗需求。"
+  },
+  {
+    "startMs": 725880,
+    "durationMs": 4277,
+    "original": "The trouble is, having these giant facilities popping up all over the world",
+    "translation": "问题在于，这些庞然大物在全球各地拔地而起，"
+  },
+  {
+    "startMs": 730157,
+    "durationMs": 4163,
+    "original": "can have consequences for the surrounding infrastructure and communities.",
+    "translation": "可能对周边基础设施和社区带来影响。"
+  },
+  {
+    "startMs": 735800,
+    "durationMs": 4608,
+    "original": "It's gotten to a point where some people are starting to oppose these projects,",
+    "translation": "现在，一些人开始反对这些项目，"
+  },
+  {
+    "startMs": 740408,
+    "durationMs": 2508,
+    "original": "especially in areas with limited resources.",
+    "translation": "尤其是在资源有限的地区。"
+  },
+  {
+    "startMs": 743356,
+    "durationMs": 3245,
+    "original": "It always depends on like what's your local situation,",
+    "translation": "这总是取决于当地的具体情况——"
+  },
+  {
+    "startMs": 746601,
+    "durationMs": 2463,
+    "original": "like are you dealing with water scarcity?",
+    "translation": "比如你们是否面临水资源短缺？"
+  },
+  {
+    "startMs": 749064,
+    "durationMs": 1472,
+    "original": "Are are you dealing with drought?",
+    "translation": "是否正在遭受旱灾？"
+  },
+  {
+    "startMs": 750536,
+    "durationMs": 2510,
+    "original": "And if you suddenly have a big data center appearing,",
+    "translation": "而如果突然间来了一座大型数据中心，"
+  },
+  {
+    "startMs": 753046,
+    "durationMs": 2084,
+    "original": "that's going to consume a lot of electricity",
+    "translation": "它会消耗大量电力，"
+  },
+  {
+    "startMs": 755130,
+    "durationMs": 2434,
+    "original": "and there's going to be a lot of water consumed",
+    "translation": "而发电又需要消耗大量的水，"
+  },
+  {
+    "startMs": 757564,
+    "durationMs": 4196,
+    "original": "to generate all that electricity, that can really add to your local water stress.",
+    "translation": "这真的会给当地水资源带来额外压力。"
+  },
+  {
+    "startMs": 762000,
+    "durationMs": 5440,
+    "original": "Places with the highest concentrations of new builds have become hotspots for resistance.",
+    "translation": "新建项目最集中的地方，已经成为抵抗运动的热点地区。"
+  },
+  {
+    "startMs": 767440,
+    "durationMs": 3936,
+    "original": "In Virginia, which now has the nickname Data Center Alley,",
+    "translation": "弗吉尼亚州——如今有了\"数据中心走廊\"（Data Center Alley）的绰号——"
+  },
+  {
+    "startMs": 771376,
+    "durationMs": 5904,
+    "original": "at least 25 projects were reportedly canceled in 2025 following opposition from locals.",
+    "translation": "据报道，2025 年有至少 25 个项目因当地居民的反对而被叫停。"
+  },
+  {
+    "startMs": 777800,
+    "durationMs": 5320,
+    "original": "Hundreds of data centers used over 2 billion gallons of water here in 2023.",
+    "translation": "仅 2023 年，这里的数百座数据中心就消耗了超过 20 亿加仑的水。"
+  },
+  {
+    "startMs": 784280,
+    "durationMs": 3215,
+    "original": "And there have been complaints about noise and pollution",
+    "translation": "此外，还有关于噪音和污染的投诉，"
+  },
+  {
+    "startMs": 787495,
+    "durationMs": 3100,
+    "original": "because many of them are still hooked into power grids",
+    "translation": "因为其中许多数据中心仍然接入依赖化石燃料（fossil fuels）的电网，"
+  },
+  {
+    "startMs": 790595,
+    "durationMs": 3445,
+    "original": "that rely on fossil fuels and have diesel backup generators.",
+    "translation": "并配备柴油备用发电机（diesel backup generator）。"
+  },
+  {
+    "startMs": 795080,
+    "durationMs": 2080,
+    "original": "Elsewhere in the US, others are worried",
+    "translation": "在美国其他地方，一些人担心自己的电费会上涨，"
+  },
+  {
+    "startMs": 797160,
+    "durationMs": 1973,
+    "original": "their energy bills are going to go up",
+    "translation": "觉得应对这些影响的措施还远远不够。"
+  },
+  {
+    "startMs": 799133,
+    "durationMs": 2987,
+    "original": "and that not enough is being done to address the impact.",
+    "translation": "觉得应对这些影响的措施还远远不够。"
+  },
+  {
+    "startMs": 802920,
+    "durationMs": 2480,
+    "original": "We are concerned for our public health.",
+    "translation": "我们担心公众健康。"
+  },
+  {
+    "startMs": 805600,
+    "durationMs": 2157,
+    "original": "We are concerned for the health of our local environment.",
+    "translation": "我们担心当地环境的健康。"
+  },
+  {
+    "startMs": 807757,
+    "durationMs": 2643,
+    "original": "This is going to be a huge energy drain.",
+    "translation": "这将是一个巨大的能源黑洞。"
+  },
+  {
+    "startMs": 810640,
+    "durationMs": 2000,
+    "original": "So, my concern is how they're going to manage that.",
+    "translation": "所以，我担心的是他们将如何管理这个问题。"
+  },
+  {
+    "startMs": 812640,
+    "durationMs": 4024,
+    "original": ">> We are not going to pay double the amount of our utility bills.",
+    "translation": ">> 我们绝不会承受双倍的公用事业账单。"
+  },
+  {
+    "startMs": 816664,
+    "durationMs": 1816,
+    "original": "Do you understand that?",
+    "translation": "你明白吗？"
+  },
+  {
+    "startMs": 820880,
+    "durationMs": 3735,
+    "original": "As for what the future looks like, well, as we've already explained,",
+    "translation": "至于未来会是什么样，正如我们已经解释过的，"
+  },
+  {
+    "startMs": 824615,
+    "durationMs": 3405,
+    "original": "data centers are only going to get bigger and more widespread.",
+    "translation": "数据中心只会越来越大、越来越普遍。"
+  },
+  {
+    "startMs": 828020,
+    "durationMs": 4302,
+    "original": "And it's happening at a faster rate than anything we've seen before.",
+    "translation": "而且这一切发生的速度，比我们以往见过的任何事都要快。"
+  },
+  {
+    "startMs": 832322,
+    "durationMs": 1585,
+    "original": "Digital growth is not a new thing.",
+    "translation": "数字化增长并不是新鲜事。"
+  },
+  {
+    "startMs": 833907,
+    "durationMs": 3553,
+    "original": "We actually had that a lot already in the previous decade,",
+    "translation": "上一个十年，流媒体、云计算及其他技术全面起飞，"
+  },
+  {
+    "startMs": 837460,
+    "durationMs": 4226,
+    "original": "where streaming and cloud and everything else was taking off as well.",
+    "translation": "我们其实已经体验过很多了。"
+  },
+  {
+    "startMs": 841686,
+    "durationMs": 3850,
+    "original": "But now, with AI, we're dealing with a technology where bigger is better.",
+    "translation": "但现在，随着 AI 的加入，我们正在应对一种\"越大越好\"的技术。"
+  },
+  {
+    "startMs": 845536,
+    "durationMs": 4664,
+    "original": "You can make this technology and and and the hardware and software more efficient,",
+    "translation": "你可以让这项技术的硬件和软件变得更高效，"
+  },
+  {
+    "startMs": 850520,
+    "durationMs": 2330,
+    "original": "but what it has led to in recent years is",
+    "translation": "但近年来的结果是："
+  },
+  {
+    "startMs": 852850,
+    "durationMs": 4432,
+    "original": "that those efficiency gains have only been used to make the models even bigger",
+    "translation": "那些效率提升的成果，只是被用来让模型更大、性能更强，"
+  },
+  {
+    "startMs": 857282,
+    "durationMs": 1818,
+    "original": "so they can perform even better,",
+    "translation": "然后让它被更大规模地采用。"
+  },
+  {
+    "startMs": 859100,
+    "durationMs": 2500,
+    "original": "so they get adopted at an even larger scale.",
+    "translation": "然后让它被更大规模地采用。"
+  },
+  {
+    "startMs": 861880,
+    "durationMs": 4920,
+    "original": "So, that's where things really break apart from what we saw previously.",
+    "translation": "这就是它与我们之前所见的一切真正分道扬镳的地方。"
+  },
+  {
+    "startMs": 870504,
+    "durationMs": 4696,
+    "original": ">> >> The pushback we're now seeing highlights how things really do need to change.",
+    "translation": ">> >> 我们现在看到的这股反弹浪潮，恰恰说明了这些事情确实需要改变。"
+  },
+  {
+    "startMs": 875680,
+    "durationMs": 4005,
+    "original": "While many of these buildings are appearing almost in people's backyards,",
+    "translation": "当这些建筑几乎出现在人们的后院时，"
+  },
+  {
+    "startMs": 879685,
+    "durationMs": 1755,
+    "original": "those affected can't be ignored.",
+    "translation": "受影响的人不能被忽视。"
+  },
+  {
+    "startMs": 882520,
+    "durationMs": 4280,
+    "original": "Community opposition is a real challenge. It's a real concern.",
+    "translation": "社区的反对是一个真实存在的挑战，是真实存在的忧虑。"
+  },
+  {
+    "startMs": 886800,
+    "durationMs": 1728,
+    "original": "We have to address it proactively.",
+    "translation": "我们必须主动应对。"
+  },
+  {
+    "startMs": 888528,
+    "durationMs": 4106,
+    "original": "We need to think about how we can accommodate the new industry demand",
+    "translation": "我们需要思考如何从基础设施层面，"
+  },
+  {
+    "startMs": 892634,
+    "durationMs": 1726,
+    "original": "from the infrastructure side.",
+    "translation": "容纳新兴行业的需求。"
+  },
+  {
+    "startMs": 894360,
+    "durationMs": 3208,
+    "original": "For power, if you have money, you just build a power plant,",
+    "translation": "在电力方面，只要有资金，你就能建发电厂；"
+  },
+  {
+    "startMs": 897568,
+    "durationMs": 2446,
+    "original": "but water, you have to get new water sources.",
+    "translation": "但水资源，你必须开发新的水源。"
+  },
+  {
+    "startMs": 900014,
+    "durationMs": 2947,
+    "original": "That is naturally constrained.",
+    "translation": "那本质上是有限制的。"
+  },
+  {
+    "startMs": 903000,
+    "durationMs": 3199,
+    "original": "And yet, Shaolei believes the recent media focus",
+    "translation": "然而，Shaolei 认为，"
+  },
+  {
+    "startMs": 906199,
+    "durationMs": 3333,
+    "original": "on the negative effects of water use in particular",
+    "translation": "近期媒体对水资源负面影响的聚焦，"
+  },
+  {
+    "startMs": 909532,
+    "durationMs": 2200,
+    "original": "has actually been a bit overblown",
+    "translation": "其实有些夸大，"
+  },
+  {
+    "startMs": 911732,
+    "durationMs": 2799,
+    "original": "because it's not a major issue everywhere.",
+    "translation": "因为这并非所有地方都面临的重大问题。"
+  },
+  {
+    "startMs": 914531,
+    "durationMs": 2356,
+    "original": "If there's enough available to spare,",
+    "translation": "如果有足够的可用水量，"
+  },
+  {
+    "startMs": 916887,
+    "durationMs": 4393,
+    "original": "it's still the best way to tackle that all-important cooling problem.",
+    "translation": "它仍然是解决那个最关键冷却难题的最佳方式。"
+  },
+  {
+    "startMs": 921640,
+    "durationMs": 4760,
+    "original": "The way it is presented in the public discussion is usually not very accurate.",
+    "translation": "在公众讨论中，这个问题通常被呈现得不太准确。"
+  },
+  {
+    "startMs": 926440,
+    "durationMs": 2316,
+    "original": "If you look at some of the data centers,",
+    "translation": "如果你看一看某些数据中心，"
+  },
+  {
+    "startMs": 928756,
+    "durationMs": 2894,
+    "original": "they are using water just during the hottest weeks",
+    "translation": "它们仅在一年中最热的几周或最热的几天才使用水冷。"
+  },
+  {
+    "startMs": 931650,
+    "durationMs": 1621,
+    "original": "or hottest days of the year.",
+    "translation": "它们仅在一年中最热的几周或最热的几天才使用水冷。"
+  },
+  {
+    "startMs": 933791,
+    "durationMs": 3071,
+    "original": "So, their annual water usage could be very low,",
+    "translation": "所以，它们的年用水总量可能很低，"
+  },
+  {
+    "startMs": 936862,
+    "durationMs": 3268,
+    "original": "but they use a lot of water during the summertime.",
+    "translation": "但在夏季会大量用水。"
+  },
+  {
+    "startMs": 940130,
+    "durationMs": 5303,
+    "original": "A better solution to look at water is we need to use water responsibly.",
+    "translation": "对待水资源，更好的解决思路是：我们需要负责任地使用水。"
+  },
+  {
+    "startMs": 945433,
+    "durationMs": 5047,
+    "original": "If there's water, I think the benefits of using water should not be denied.",
+    "translation": "如果水是充足的，使用水所带来的好处，不应该被否认。"
+  },
+  {
+    "startMs": 951440,
+    "durationMs": 4114,
+    "original": "Like the technology itself, the construction of new data centers",
+    "translation": "就像这项技术本身一样，"
+  },
+  {
+    "startMs": 955554,
+    "durationMs": 2121,
+    "original": "has become a complicated subject.",
+    "translation": "新数据中心的建设已经成为一个复杂的议题。"
+  },
+  {
+    "startMs": 957675,
+    "durationMs": 3595,
+    "original": "We can't live without them and they're definitely not going anywhere.",
+    "translation": "我们离不开它们，而且它们绝对不会消失。"
+  },
+  {
+    "startMs": 961271,
+    "durationMs": 2169,
+    "original": "In fact, quite the opposite of that.",
+    "translation": "恰恰相反。"
+  },
+  {
+    "startMs": 963760,
+    "durationMs": 3142,
+    "original": "But if we're going to carry on building these megastructures",
+    "translation": "但如果我们打算继续建设这些超级工程，"
+  },
+  {
+    "startMs": 966902,
+    "durationMs": 2671,
+    "original": "and build them on a scale that's bigger and greater",
+    "translation": "并以超越以往规模的方式推进，"
+  },
+  {
+    "startMs": 969574,
+    "durationMs": 1466,
+    "original": "than what we've seen so far,",
+    "translation": "并以超越以往规模的方式推进，"
+  },
+  {
+    "startMs": 971440,
+    "durationMs": 2456,
+    "original": "we really are going to have to work out a few bugs",
+    "translation": "那我们真的必须先解决系统中的一些漏洞。"
+  },
+  {
+    "startMs": 973896,
+    "durationMs": 983,
+    "original": "in the system first.",
+    "translation": "那我们真的必须先解决系统中的一些漏洞。"
+  },
+  {
+    "startMs": 975800,
+    "durationMs": 2586,
+    "original": "Once again, if you're looking for some guidance",
+    "translation": "再次提醒，如果你正在寻找如何让数据中心 AI 就绪并面向未来的指导，"
+  },
+  {
+    "startMs": 978386,
+    "durationMs": 3026,
+    "original": "on how to make a data center AI-ready and future-proof,",
+    "translation": "请务必去下载那份白皮书。"
+  },
+  {
+    "startMs": 981413,
+    "durationMs": 2586,
+    "original": "make sure you go and download that white paper.",
+    "translation": "请务必去下载那份白皮书。"
+  },
+  {
+    "startMs": 983999,
+    "durationMs": 1407,
+    "original": "It's video sponsors like IES",
+    "translation": "正是像 IES 这样的视频赞助商，"
+  },
+  {
+    "startMs": 985406,
+    "durationMs": 3418,
+    "original": "that enable us to keep making these great videos for you every week,",
+    "translation": "使我们能够每周为你们持续制作这些精彩视频，"
+  },
+  {
+    "startMs": 988824,
+    "durationMs": 2563,
+    "original": "and we'd really appreciate you guys taking the time",
+    "translation": "我们也非常感谢你们花时间去了解他们。"
+  },
+  {
+    "startMs": 991387,
+    "durationMs": 1257,
+    "original": "to go and check them out.",
+    "translation": "我们也非常感谢你们花时间去了解他们。"
+  },
+  {
+    "startMs": 992644,
+    "durationMs": 2589,
+    "original": "And as always, guys, if you enjoyed this video",
+    "translation": "一如既往，各位朋友，如果你喜欢这期视频，"
+  },
+  {
+    "startMs": 995233,
+    "durationMs": 4277,
+    "original": "and you want to get more from the definitive video channel for construction,",
+    "translation": "想要获取来自这个全球最权威建筑视频频道的更多内容，"
+  },
+  {
+    "startMs": 999510,
+    "durationMs": 1970,
+    "original": "make sure you subscribe to the B1M.",
+    "translation": "记得订阅 B1M。"
+  }
+]

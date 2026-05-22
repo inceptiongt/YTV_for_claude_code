@@ -1,0 +1,1406 @@
+[
+  {
+    "tStartMs": 1920,
+    "dDurationMs": 5080,
+    "segs": [
+      {
+        "utf8": ">> We're experiencing one of the fastest building booms the world has ever seen."
+      }
+    ]
+  },
+  {
+    "tStartMs": 7160,
+    "dDurationMs": 5560,
+    "segs": [
+      {
+        "utf8": "Described as a global construction frenzy that shows no signs of slowing."
+      }
+    ]
+  },
+  {
+    "tStartMs": 14920,
+    "dDurationMs": 6840,
+    "segs": [
+      {
+        "utf8": "Humanity is now dependent on large-scale data centers and that demand is only increasing."
+      }
+    ]
+  },
+  {
+    "tStartMs": 21760,
+    "dDurationMs": 5400,
+    "segs": [
+      {
+        "utf8": "But the strain this infrastructure is placing on our power and water sources is enormous."
+      }
+    ]
+  },
+  {
+    "tStartMs": 28040,
+    "dDurationMs": 1920,
+    "segs": [
+      {
+        "utf8": "And people are starting to notice."
+      }
+    ]
+  },
+  {
+    "tStartMs": 30560,
+    "dDurationMs": 3400,
+    "segs": [
+      {
+        "utf8": "Many neighboring homeowners say, \"Not in my backyard.\""
+      }
+    ]
+  },
+  {
+    "tStartMs": 33960,
+    "dDurationMs": 4789,
+    "segs": [
+      {
+        "utf8": ">> That opposition is forcing some tech giants to rethink where they [snorts] should build."
+      }
+    ]
+  },
+  {
+    "tStartMs": 38749,
+    "dDurationMs": 5891,
+    "segs": [
+      {
+        "utf8": "The data center industry is actually going to be responsible for 3-4% of global electricity consumption."
+      }
+    ]
+  },
+  {
+    "tStartMs": 44640,
+    "dDurationMs": 2400,
+    "segs": [
+      {
+        "utf8": "So, that's that's a huge sector."
+      }
+    ]
+  },
+  {
+    "tStartMs": 47040,
+    "dDurationMs": 10200,
+    "segs": [
+      {
+        "utf8": "And now with AI taking our reliance to a whole new level, this rapidly growing area of industry is under pressure to clean up its act and fast."
+      }
+    ]
+  },
+  {
+    "tStartMs": 58000,
+    "dDurationMs": 7159,
+    "segs": [
+      {
+        "utf8": "But with these buildings now consuming as much energy as entire countries, what can we actually do about it?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 67465,
+    "dDurationMs": 6020,
+    "segs": [
+      {
+        "utf8": ">> >> This is what a typical data center looks like in 2026."
+      }
+    ]
+  },
+  {
+    "tStartMs": 81360,
+    "dDurationMs": 5560,
+    "segs": [
+      {
+        "utf8": "And if you live in or close to a major city, there's a good chance you'll have one nearby."
+      }
+    ]
+  },
+  {
+    "tStartMs": 87840,
+    "dDurationMs": 6360,
+    "segs": [
+      {
+        "utf8": "Because there are now more than 11,000 of these worldwide across 174 countries."
+      }
+    ]
+  },
+  {
+    "tStartMs": 95240,
+    "dDurationMs": 3623,
+    "segs": [
+      {
+        "utf8": "And unsurprisingly, over a third of them are in the USA."
+      }
+    ]
+  },
+  {
+    "tStartMs": 98863,
+    "dDurationMs": 5671,
+    "segs": [
+      {
+        "utf8": "Some of the largest clusters are in places you might expect like Texas and California."
+      }
+    ]
+  },
+  {
+    "tStartMs": 104534,
+    "dDurationMs": 4346,
+    "segs": [
+      {
+        "utf8": "But the state with the most is actually Virginia."
+      }
+    ]
+  },
+  {
+    "tStartMs": 109680,
+    "dDurationMs": 3560,
+    "segs": [
+      {
+        "utf8": "The UK and Germany are way behind in second and third."
+      }
+    ]
+  },
+  {
+    "tStartMs": 113240,
+    "dDurationMs": 3080,
+    "segs": [
+      {
+        "utf8": "And the rest are pretty well spread around the globe."
+      }
+    ]
+  },
+  {
+    "tStartMs": 116320,
+    "dDurationMs": 6920,
+    "segs": [
+      {
+        "utf8": "Because if they weren't absolutely everywhere, we wouldn't be able to do all those things that have become an essential part of our modern lives."
+      }
+    ]
+  },
+  {
+    "tStartMs": 123960,
+    "dDurationMs": 6794,
+    "segs": [
+      {
+        "utf8": "We don't just mean the important stuff like online shopping, banking, or watching epic construction videos on YouTube."
+      }
+    ]
+  },
+  {
+    "tStartMs": 130754,
+    "dDurationMs": 9366,
+    "segs": [
+      {
+        "utf8": "Without data centers, there'd be no doom scrolling, no long video calls that really could have been an email, or memes that just refuse to die."
+      }
+    ]
+  },
+  {
+    "tStartMs": 140120,
+    "dDurationMs": 2960,
+    "segs": [
+      {
+        "utf8": "And we don't miss that. Wouldn't we?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 143640,
+    "dDurationMs": 3029,
+    "segs": [
+      {
+        "utf8": "But data centers weren't always omnipresent."
+      }
+    ]
+  },
+  {
+    "tStartMs": 146669,
+    "dDurationMs": 6204,
+    "segs": [
+      {
+        "utf8": "To see how quickly these structures have been expanding, it's best to look at it from a different perspective."
+      }
+    ]
+  },
+  {
+    "tStartMs": 152874,
+    "dDurationMs": 5366,
+    "segs": [
+      {
+        "utf8": "After all, we can't do a video on data centers without digging into some, well, data."
+      }
+    ]
+  },
+  {
+    "tStartMs": 159160,
+    "dDurationMs": 2160,
+    "segs": [
+      {
+        "utf8": "For starters, take a look at this graph."
+      }
+    ]
+  },
+  {
+    "tStartMs": 161320,
+    "dDurationMs": 6840,
+    "segs": [
+      {
+        "utf8": "It shows the staggering growth in data centers globally over the past 20 years in terms of installed capacity."
+      }
+    ]
+  },
+  {
+    "tStartMs": 169000,
+    "dDurationMs": 5200,
+    "segs": [
+      {
+        "utf8": "In other words, the total amount of power available for all the equipment needed to run them."
+      }
+    ]
+  },
+  {
+    "tStartMs": 174320,
+    "dDurationMs": 3840,
+    "segs": [
+      {
+        "utf8": "Notice how things went stratospheric after about 2017."
+      }
+    ]
+  },
+  {
+    "tStartMs": 179360,
+    "dDurationMs": 3960,
+    "segs": [
+      {
+        "utf8": "The overall figure now stands at more than 122 gigawatts."
+      }
+    ]
+  },
+  {
+    "tStartMs": 185160,
+    "dDurationMs": 1440,
+    "segs": [
+      {
+        "utf8": "Lights, camera, action!"
+      }
+    ]
+  },
+  {
+    "tStartMs": 186920,
+    "dDurationMs": 11571,
+    "segs": [
+      {
+        "utf8": "To give you an idea of just how much that really is, the total capacity of Hinkley Point C, the massive new nuclear power plant currently under construction in the UK, is around 3.2 gigawatts."
+      }
+    ]
+  },
+  {
+    "tStartMs": 198811,
+    "dDurationMs": 8295,
+    "segs": [
+      {
+        "utf8": "That means you'd need 38 Hinkley Point C sized nuclear plants to power just the world's data centers."
+      }
+    ]
+  },
+  {
+    "tStartMs": 207107,
+    "dDurationMs": 4053,
+    "segs": [
+      {
+        "utf8": "And they're continuing to soar in number and size."
+      }
+    ]
+  },
+  {
+    "tStartMs": 211720,
+    "dDurationMs": 1880,
+    "segs": [
+      {
+        "utf8": "What the hell IS HE DOING, MARK?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 214480,
+    "dDurationMs": 2526,
+    "segs": [
+      {
+        "utf8": "Before AI, we also had a many, many data centers."
+      }
+    ]
+  },
+  {
+    "tStartMs": 217006,
+    "dDurationMs": 5510,
+    "segs": [
+      {
+        "utf8": "But those data center data center tend to be much smaller, like less than 100 megawatts."
+      }
+    ]
+  },
+  {
+    "tStartMs": 222515,
+    "dDurationMs": 6205,
+    "segs": [
+      {
+        "utf8": "But today, a AI data center can easily be 500 megawatts or even more than 1 gigawatt."
+      }
+    ]
+  },
+  {
+    "tStartMs": 229440,
+    "dDurationMs": 9663,
+    "segs": [
+      {
+        "utf8": "So, the concentration of of this large power demand and other resource demand like water over small area, that's a big challenge for the infrastructure."
+      }
+    ]
+  },
+  {
+    "tStartMs": 239103,
+    "dDurationMs": 7089,
+    "segs": [
+      {
+        "utf8": "By 2030, data centers are set to be consuming more electricity than the entirety of Japan."
+      }
+    ]
+  },
+  {
+    "tStartMs": 246192,
+    "dDurationMs": 4288,
+    "segs": [
+      {
+        "utf8": "That's double what they were pulling from the grid in 2022."
+      }
+    ]
+  },
+  {
+    "tStartMs": 251440,
+    "dDurationMs": 5760,
+    "segs": [
+      {
+        "utf8": "And as you've just heard, the main reason for this increase is the meteoric rise of AI."
+      }
+    ]
+  },
+  {
+    "tStartMs": 259400,
+    "dDurationMs": 8640,
+    "segs": [
+      {
+        "utf8": "Every time you chuck something into ChatGPT, it kickstarts a process that uses more electricity and water than many of us realize."
+      }
+    ]
+  },
+  {
+    "tStartMs": 268920,
+    "dDurationMs": 657,
+    "segs": [
+      {
+        "utf8": "Just kidding."
+      }
+    ]
+  },
+  {
+    "tStartMs": 269577,
+    "dDurationMs": 4583,
+    "segs": [
+      {
+        "utf8": "Other channels trying to imitate us might do that, but we certainly don't."
+      }
+    ]
+  },
+  {
+    "tStartMs": 274840,
+    "dDurationMs": 9775,
+    "segs": [
+      {
+        "utf8": "Now, when ChatGPT alone is processing billions of prompts every day, it's no wonder the infrastructure that makes it all happen is having to scale up very fast."
+      }
+    ]
+  },
+  {
+    "tStartMs": 284615,
+    "dDurationMs": 10585,
+    "segs": [
+      {
+        "utf8": "AI systems were responsible for about 20% of total data center electricity consumption by the end of 2024."
+      }
+    ]
+  },
+  {
+    "tStartMs": 295200,
+    "dDurationMs": 8040,
+    "segs": [
+      {
+        "utf8": "Um and that number could have increased to about half by the end of last year, 2025."
+      }
+    ]
+  },
+  {
+    "tStartMs": 303240,
+    "dDurationMs": 4426,
+    "segs": [
+      {
+        "utf8": "Altogether, these these numbers are just becoming really big, really fast."
+      }
+    ]
+  },
+  {
+    "tStartMs": 307666,
+    "dDurationMs": 3438,
+    "segs": [
+      {
+        "utf8": "But keeping up with the demand is where things get tricky."
+      }
+    ]
+  },
+  {
+    "tStartMs": 311104,
+    "dDurationMs": 7976,
+    "segs": [
+      {
+        "utf8": "Data center construction isn't just about building a great big hall and filling it with servers, despite how it might appear in footage like this."
+      }
+    ]
+  },
+  {
+    "tStartMs": 319320,
+    "dDurationMs": 7200,
+    "segs": [
+      {
+        "utf8": "There's actually a lot more to it than that, which is why the biggest facilities being built at the moment are considered mega projects."
+      }
+    ]
+  },
+  {
+    "tStartMs": 327280,
+    "dDurationMs": 3000,
+    "segs": [
+      {
+        "utf8": "First of all, you've got to decide where to put them."
+      }
+    ]
+  },
+  {
+    "tStartMs": 330360,
+    "dDurationMs": 11067,
+    "segs": [
+      {
+        "utf8": "Ideally, you want a place with good fiber connections, water sources, and for the really large ones that handle several hundred megawatts on their own, high capacity power grids."
+      }
+    ]
+  },
+  {
+    "tStartMs": 341507,
+    "dDurationMs": 5013,
+    "segs": [
+      {
+        "utf8": "Those data centers, they they they consume as much power as entire cities."
+      }
+    ]
+  },
+  {
+    "tStartMs": 346840,
+    "dDurationMs": 2520,
+    "segs": [
+      {
+        "utf8": "And you can't just put those anywhere."
+      }
+    ]
+  },
+  {
+    "tStartMs": 349360,
+    "dDurationMs": 7442,
+    "segs": [
+      {
+        "utf8": "It's It's actually really hard to find power grids where there is sufficient capacity to to even start building a project like that."
+      }
+    ]
+  },
+  {
+    "tStartMs": 357402,
+    "dDurationMs": 4085,
+    "segs": [
+      {
+        "utf8": "So, at that point, power capacity becomes the number one concern."
+      }
+    ]
+  },
+  {
+    "tStartMs": 361487,
+    "dDurationMs": 2729,
+    "segs": [
+      {
+        "utf8": "There would have to be plenty of space, too."
+      }
+    ]
+  },
+  {
+    "tStartMs": 364216,
+    "dDurationMs": 2784,
+    "segs": [
+      {
+        "utf8": "Not just enough to squeeze the building into."
+      }
+    ]
+  },
+  {
+    "tStartMs": 367320,
+    "dDurationMs": 7560,
+    "segs": [
+      {
+        "utf8": "Many are constructed with expansion in mind. Expansions that often follow not long after they're finished and with rapid speed."
+      }
+    ]
+  },
+  {
+    "tStartMs": 374880,
+    "dDurationMs": 4797,
+    "segs": [
+      {
+        "utf8": "The companies behind them are called hyperscalers for a reason."
+      }
+    ]
+  },
+  {
+    "tStartMs": 379677,
+    "dDurationMs": 3955,
+    "segs": [
+      {
+        "utf8": "Another thing to think about is climate and geography."
+      }
+    ]
+  },
+  {
+    "tStartMs": 383632,
+    "dDurationMs": 2921,
+    "segs": [
+      {
+        "utf8": "Lower temperatures make it easier to keep everything cool."
+      }
+    ]
+  },
+  {
+    "tStartMs": 386553,
+    "dDurationMs": 8137,
+    "segs": [
+      {
+        "utf8": "And it's generally better if you build these things away from places where there are likely to be extreme weather events or natural disasters."
+      }
+    ]
+  },
+  {
+    "tStartMs": 394691,
+    "dDurationMs": 6840,
+    "segs": [
+      {
+        "utf8": "You see, just like with other big bits of infrastructure, if a data center goes down, it can cause serious problems."
+      }
+    ]
+  },
+  {
+    "tStartMs": 401531,
+    "dDurationMs": 2489,
+    "segs": [
+      {
+        "utf8": "I don't just mean missing out on the latest TikTok craze."
+      }
+    ]
+  },
+  {
+    "tStartMs": 404020,
+    "dDurationMs": 9780,
+    "segs": [
+      {
+        "utf8": "We're talking about huge financial losses, service failures, reputational damage, all the kind of things that every company absolutely dreads."
+      }
+    ]
+  },
+  {
+    "tStartMs": 415040,
+    "dDurationMs": 6588,
+    "segs": [
+      {
+        "utf8": "Alongside all those racks of equipment that have to be kept running 24/7, the cooling system is a key priority."
+      }
+    ]
+  },
+  {
+    "tStartMs": 422348,
+    "dDurationMs": 3692,
+    "segs": [
+      {
+        "utf8": "Usually, this is done in one of two ways."
+      }
+    ]
+  },
+  {
+    "tStartMs": 427240,
+    "dDurationMs": 8466,
+    "segs": [
+      {
+        "utf8": "There's the traditional method of circulating cold air into the server racks, normally through the floor with waste heat exiting out of the top."
+      }
+    ]
+  },
+  {
+    "tStartMs": 435706,
+    "dDurationMs": 6934,
+    "segs": [
+      {
+        "utf8": "While it's effective, even if some of the air is recycled, it's a process that consumes massive amounts of electricity."
+      }
+    ]
+  },
+  {
+    "tStartMs": 443040,
+    "dDurationMs": 5479,
+    "segs": [
+      {
+        "utf8": "Alternatively, you've got liquid cooling, which is becoming more common as we enter the AI era."
+      }
+    ]
+  },
+  {
+    "tStartMs": 448519,
+    "dDurationMs": 11881,
+    "segs": [
+      {
+        "utf8": "This method involves using, yes, you guessed it, liquids like water or coolant to transfer the heat away, which requires less electricity and often less space."
+      }
+    ]
+  },
+  {
+    "tStartMs": 460880,
+    "dDurationMs": 7120,
+    "segs": [
+      {
+        "utf8": "But the flip side is that all that water has to come from somewhere, and that can cause a pretty big dilemma."
+      }
+    ]
+  },
+  {
+    "tStartMs": 468600,
+    "dDurationMs": 4035,
+    "segs": [
+      {
+        "utf8": "This water is mostly coming from municipal water supply."
+      }
+    ]
+  },
+  {
+    "tStartMs": 472635,
+    "dDurationMs": 4865,
+    "segs": [
+      {
+        "utf8": "And that can be stressful for a lot of a public water system, especially in the US."
+      }
+    ]
+  },
+  {
+    "tStartMs": 477500,
+    "dDurationMs": 2540,
+    "segs": [
+      {
+        "utf8": ">> >> Most of the water systems are small or medium size."
+      }
+    ]
+  },
+  {
+    "tStartMs": 480040,
+    "dDurationMs": 5360,
+    "segs": [
+      {
+        "utf8": "They don't really have a lot of surplus capacity to supply to these large-scale industry users."
+      }
+    ]
+  },
+  {
+    "tStartMs": 485840,
+    "dDurationMs": 5286,
+    "segs": [
+      {
+        "utf8": "So, what can be done to manage these crazy levels of consumption?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 491126,
+    "dDurationMs": 11634,
+    "segs": [
+      {
+        "utf8": "Well, many companies are now prioritizing things like liquid cooling, investing in their own renewable sources, and even funding grid upgrades so they don't push up people's energy bills."
+      }
+    ]
+  },
+  {
+    "tStartMs": 503160,
+    "dDurationMs": 7520,
+    "segs": [
+      {
+        "utf8": "Others are taking a more unusual approach, including with some techniques that are generating quite a bit of attention."
+      }
+    ]
+  },
+  {
+    "tStartMs": 510920,
+    "dDurationMs": 4375,
+    "segs": [
+      {
+        "utf8": "Several of the world's biggest tech firms have partnered with nuclear providers."
+      }
+    ]
+  },
+  {
+    "tStartMs": 515295,
+    "dDurationMs": 5431,
+    "segs": [
+      {
+        "utf8": "These deals would see data centers powered by reliable, low-carbon sources."
+      }
+    ]
+  },
+  {
+    "tStartMs": 520846,
+    "dDurationMs": 11360,
+    "segs": [
+      {
+        "utf8": "Some are even restarting plants that had previously been closed or tapping into technology that still hasn't quite arrived yet, namely nuclear fusion and small modular reactors."
+      }
+    ]
+  },
+  {
+    "tStartMs": 532206,
+    "dDurationMs": 8767,
+    "segs": [
+      {
+        "utf8": "Alternatively, you could do what companies in Europe are doing and build your data center underground inside an active mine or a former bunker."
+      }
+    ]
+  },
+  {
+    "tStartMs": 541232,
+    "dDurationMs": 4448,
+    "segs": [
+      {
+        "utf8": "Both of which are great for security and keeping everything cool."
+      }
+    ]
+  },
+  {
+    "tStartMs": 546320,
+    "dDurationMs": 9160,
+    "segs": [
+      {
+        "utf8": "But these strategies aren't for everyone, especially companies needing to deliver high-performance data centers that are future-proof and super efficient right now."
+      }
+    ]
+  },
+  {
+    "tStartMs": 555480,
+    "dDurationMs": 4994,
+    "segs": [
+      {
+        "utf8": "We're talking about both new builds and upgrades to existing ones."
+      }
+    ]
+  },
+  {
+    "tStartMs": 560474,
+    "dDurationMs": 6393,
+    "segs": [
+      {
+        "utf8": "For many, investing in atomic energy or hollowing out a mountain isn't really a viable option."
+      }
+    ]
+  },
+  {
+    "tStartMs": 566867,
+    "dDurationMs": 11600,
+    "segs": [
+      {
+        "utf8": "In fact, meeting the demands of this new AI-driven era at the speed required is such a challenge that it can be hard to know where to begin. That's where IES can help."
+      }
+    ]
+  },
+  {
+    "tStartMs": 578467,
+    "dDurationMs": 7893,
+    "segs": [
+      {
+        "utf8": "IES is a global leader in a physics-based building performance simulation and digital twin technology for all building types."
+      }
+    ]
+  },
+  {
+    "tStartMs": 586680,
+    "dDurationMs": 8721,
+    "segs": [
+      {
+        "utf8": "With its whole facility approach, users can monitor and optimize the performance of their data center projects across its full life cycle."
+      }
+    ]
+  },
+  {
+    "tStartMs": 595401,
+    "dDurationMs": 5707,
+    "segs": [
+      {
+        "utf8": ">> >> They can model everything from dynamic IT loads and rack layouts to advanced cooling options."
+      }
+    ]
+  },
+  {
+    "tStartMs": 601108,
+    "dDurationMs": 3046,
+    "segs": [
+      {
+        "utf8": "All within the context of the local climate."
+      }
+    ]
+  },
+  {
+    "tStartMs": 604154,
+    "dDurationMs": 18750,
+    "segs": [
+      {
+        "utf8": "By adopting one of IES's AI ready design strategies, hyperscalers can reach capacity super fast, de-risk infrastructure decisions, and reduce energy, carbon, and water use all while staying in line with increasingly stringent regulations and grid connection requirements."
+      }
+    ]
+  },
+  {
+    "tStartMs": 622944,
+    "dDurationMs": 12136,
+    "segs": [
+      {
+        "utf8": "Plus, having an IES digital twin provides a performance-focused replica of the facility that behaves like its real counterparts, from planning and design to operation and retrofits."
+      }
+    ]
+  },
+  {
+    "tStartMs": 635600,
+    "dDurationMs": 8960,
+    "segs": [
+      {
+        "utf8": "Then, there's IES's end-to-end consulting, from a company that's helped global clients with their digital infrastructure challenges for more than 30 years."
+      }
+    ]
+  },
+  {
+    "tStartMs": 644560,
+    "dDurationMs": 6705,
+    "segs": [
+      {
+        "utf8": "In fact, IES has already helped one hyperscaler retrofit an existing data center with liquid cooling."
+      }
+    ]
+  },
+  {
+    "tStartMs": 651265,
+    "dDurationMs": 9358,
+    "segs": [
+      {
+        "utf8": "It saw them increase capacity from 10 to 50 kW per rack, cut water use by 95% >> >> and achieve a PUE of 1.16."
+      }
+    ]
+  },
+  {
+    "tStartMs": 662400,
+    "dDurationMs": 9781,
+    "segs": [
+      {
+        "utf8": "Meanwhile, in Ireland, 10 data centers were able to lower their space cooling energy loads by around 40% with support from IES consultants."
+      }
+    ]
+  },
+  {
+    "tStartMs": 672181,
+    "dDurationMs": 9026,
+    "segs": [
+      {
+        "utf8": "If you want to find out more about how dynamic simulation can enhance existing CFD modeling to enable high-performance data centers, then you're in luck."
+      }
+    ]
+  },
+  {
+    "tStartMs": 681207,
+    "dDurationMs": 4993,
+    "segs": [
+      {
+        "utf8": ">> >> Because IES has just released a brand new white paper on that very subject."
+      }
+    ]
+  },
+  {
+    "tStartMs": 686480,
+    "dDurationMs": 9920,
+    "segs": [
+      {
+        "utf8": "Inside, you'll learn all the ins and outs about de-risking AI-driven facilities and optimizing cooling strategies, while discovering full case studies on how others have made it work."
+      }
+    ]
+  },
+  {
+    "tStartMs": 696440,
+    "dDurationMs": 9000,
+    "segs": [
+      {
+        "utf8": "To download the white paper for free today and see the full extent of IES's services, just scan the QR code on screen now or click the link in the description."
+      }
+    ]
+  },
+  {
+    "tStartMs": 705440,
+    "dDurationMs": 6920,
+    "segs": [
+      {
+        "utf8": "So, we've talked about server racks and cooling systems, but you're going to find a lot more inside a data center than just that."
+      }
+    ]
+  },
+  {
+    "tStartMs": 712560,
+    "dDurationMs": 5840,
+    "segs": [
+      {
+        "utf8": "There are plenty of other components, some of which might sound quite dull, but are actually pretty essential."
+      }
+    ]
+  },
+  {
+    "tStartMs": 718960,
+    "dDurationMs": 6360,
+    "segs": [
+      {
+        "utf8": "Security, networking, power distribution, etc., which all have their own energy needs."
+      }
+    ]
+  },
+  {
+    "tStartMs": 725880,
+    "dDurationMs": 8440,
+    "segs": [
+      {
+        "utf8": "The trouble is, having these giant facilities popping up all over the world can have consequences for the surrounding infrastructure and communities."
+      }
+    ]
+  },
+  {
+    "tStartMs": 735800,
+    "dDurationMs": 7116,
+    "segs": [
+      {
+        "utf8": "It's gotten to a point where some people are starting to oppose these projects, especially in areas with limited resources."
+      }
+    ]
+  },
+  {
+    "tStartMs": 743356,
+    "dDurationMs": 5708,
+    "segs": [
+      {
+        "utf8": "It always depends on like what's your local situation, like are you dealing with water scarcity?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 749064,
+    "dDurationMs": 1472,
+    "segs": [
+      {
+        "utf8": "Are are you dealing with drought?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 750536,
+    "dDurationMs": 4594,
+    "segs": [
+      {
+        "utf8": "And if you suddenly have a big data center appearing, that's going to consume a lot of electricity"
+      }
+    ]
+  },
+  {
+    "tStartMs": 755130,
+    "dDurationMs": 6630,
+    "segs": [
+      {
+        "utf8": "and there's going to be a lot of water consumed to generate all that electricity, that can really add to your local water stress."
+      }
+    ]
+  },
+  {
+    "tStartMs": 762000,
+    "dDurationMs": 5440,
+    "segs": [
+      {
+        "utf8": "Places with the highest concentrations of new builds have become hotspots for resistance."
+      }
+    ]
+  },
+  {
+    "tStartMs": 767440,
+    "dDurationMs": 9840,
+    "segs": [
+      {
+        "utf8": "In Virginia, which now has the nickname Data Center Alley, at least 25 projects were reportedly canceled in 2025 following opposition from locals."
+      }
+    ]
+  },
+  {
+    "tStartMs": 777800,
+    "dDurationMs": 5320,
+    "segs": [
+      {
+        "utf8": "Hundreds of data centers used over 2 billion gallons of water here in 2023."
+      }
+    ]
+  },
+  {
+    "tStartMs": 784280,
+    "dDurationMs": 9760,
+    "segs": [
+      {
+        "utf8": "And there have been complaints about noise and pollution because many of them are still hooked into power grids that rely on fossil fuels and have diesel backup generators."
+      }
+    ]
+  },
+  {
+    "tStartMs": 795080,
+    "dDurationMs": 7040,
+    "segs": [
+      {
+        "utf8": "Elsewhere in the US, others are worried their energy bills are going to go up and that not enough is being done to address the impact."
+      }
+    ]
+  },
+  {
+    "tStartMs": 802920,
+    "dDurationMs": 2480,
+    "segs": [
+      {
+        "utf8": "We are concerned for our public health."
+      }
+    ]
+  },
+  {
+    "tStartMs": 805600,
+    "dDurationMs": 2157,
+    "segs": [
+      {
+        "utf8": "We are concerned for the health of our local environment."
+      }
+    ]
+  },
+  {
+    "tStartMs": 807757,
+    "dDurationMs": 2643,
+    "segs": [
+      {
+        "utf8": "This is going to be a huge energy drain."
+      }
+    ]
+  },
+  {
+    "tStartMs": 810640,
+    "dDurationMs": 2000,
+    "segs": [
+      {
+        "utf8": "So, my concern is how they're going to manage that."
+      }
+    ]
+  },
+  {
+    "tStartMs": 812640,
+    "dDurationMs": 4024,
+    "segs": [
+      {
+        "utf8": ">> We are not going to pay double the amount of our utility bills."
+      }
+    ]
+  },
+  {
+    "tStartMs": 816664,
+    "dDurationMs": 1816,
+    "segs": [
+      {
+        "utf8": "Do you understand that?"
+      }
+    ]
+  },
+  {
+    "tStartMs": 820880,
+    "dDurationMs": 7140,
+    "segs": [
+      {
+        "utf8": "As for what the future looks like, well, as we've already explained, data centers are only going to get bigger and more widespread."
+      }
+    ]
+  },
+  {
+    "tStartMs": 828020,
+    "dDurationMs": 4302,
+    "segs": [
+      {
+        "utf8": "And it's happening at a faster rate than anything we've seen before."
+      }
+    ]
+  },
+  {
+    "tStartMs": 832322,
+    "dDurationMs": 1585,
+    "segs": [
+      {
+        "utf8": "Digital growth is not a new thing."
+      }
+    ]
+  },
+  {
+    "tStartMs": 833907,
+    "dDurationMs": 7779,
+    "segs": [
+      {
+        "utf8": "We actually had that a lot already in the previous decade, where streaming and cloud and everything else was taking off as well."
+      }
+    ]
+  },
+  {
+    "tStartMs": 841686,
+    "dDurationMs": 3850,
+    "segs": [
+      {
+        "utf8": "But now, with AI, we're dealing with a technology where bigger is better."
+      }
+    ]
+  },
+  {
+    "tStartMs": 845536,
+    "dDurationMs": 4664,
+    "segs": [
+      {
+        "utf8": "You can make this technology and and and the hardware and software more efficient,"
+      }
+    ]
+  },
+  {
+    "tStartMs": 850520,
+    "dDurationMs": 11080,
+    "segs": [
+      {
+        "utf8": "but what it has led to in recent years is that those efficiency gains have only been used to make the models even bigger so they can perform even better, so they get adopted at an even larger scale."
+      }
+    ]
+  },
+  {
+    "tStartMs": 861880,
+    "dDurationMs": 4920,
+    "segs": [
+      {
+        "utf8": "So, that's where things really break apart from what we saw previously."
+      }
+    ]
+  },
+  {
+    "tStartMs": 870504,
+    "dDurationMs": 4696,
+    "segs": [
+      {
+        "utf8": ">> >> The pushback we're now seeing highlights how things really do need to change."
+      }
+    ]
+  },
+  {
+    "tStartMs": 875680,
+    "dDurationMs": 5760,
+    "segs": [
+      {
+        "utf8": "While many of these buildings are appearing almost in people's backyards, those affected can't be ignored."
+      }
+    ]
+  },
+  {
+    "tStartMs": 882520,
+    "dDurationMs": 4280,
+    "segs": [
+      {
+        "utf8": "Community opposition is a real challenge. It's a real concern."
+      }
+    ]
+  },
+  {
+    "tStartMs": 886800,
+    "dDurationMs": 1728,
+    "segs": [
+      {
+        "utf8": "We have to address it proactively."
+      }
+    ]
+  },
+  {
+    "tStartMs": 888528,
+    "dDurationMs": 5832,
+    "segs": [
+      {
+        "utf8": "We need to think about how we can accommodate the new industry demand from the infrastructure side."
+      }
+    ]
+  },
+  {
+    "tStartMs": 894360,
+    "dDurationMs": 5654,
+    "segs": [
+      {
+        "utf8": "For power, if you have money, you just build a power plant, but water, you have to get new water sources."
+      }
+    ]
+  },
+  {
+    "tStartMs": 900014,
+    "dDurationMs": 2947,
+    "segs": [
+      {
+        "utf8": "That is naturally constrained."
+      }
+    ]
+  },
+  {
+    "tStartMs": 903000,
+    "dDurationMs": 11531,
+    "segs": [
+      {
+        "utf8": "And yet, Shaolei believes the recent media focus on the negative effects of water use in particular has actually been a bit overblown because it's not a major issue everywhere."
+      }
+    ]
+  },
+  {
+    "tStartMs": 914531,
+    "dDurationMs": 6749,
+    "segs": [
+      {
+        "utf8": "If there's enough available to spare, it's still the best way to tackle that all-important cooling problem."
+      }
+    ]
+  },
+  {
+    "tStartMs": 921640,
+    "dDurationMs": 4760,
+    "segs": [
+      {
+        "utf8": "The way it is presented in the public discussion is usually not very accurate."
+      }
+    ]
+  },
+  {
+    "tStartMs": 926440,
+    "dDurationMs": 6831,
+    "segs": [
+      {
+        "utf8": "If you look at some of the data centers, they are using water just during the hottest weeks or hottest days of the year."
+      }
+    ]
+  },
+  {
+    "tStartMs": 933791,
+    "dDurationMs": 6339,
+    "segs": [
+      {
+        "utf8": "So, their annual water usage could be very low, but they use a lot of water during the summertime."
+      }
+    ]
+  },
+  {
+    "tStartMs": 940130,
+    "dDurationMs": 5303,
+    "segs": [
+      {
+        "utf8": "A better solution to look at water is we need to use water responsibly."
+      }
+    ]
+  },
+  {
+    "tStartMs": 945433,
+    "dDurationMs": 5047,
+    "segs": [
+      {
+        "utf8": "If there's water, I think the benefits of using water should not be denied."
+      }
+    ]
+  },
+  {
+    "tStartMs": 951440,
+    "dDurationMs": 6235,
+    "segs": [
+      {
+        "utf8": "Like the technology itself, the construction of new data centers has become a complicated subject."
+      }
+    ]
+  },
+  {
+    "tStartMs": 957675,
+    "dDurationMs": 3595,
+    "segs": [
+      {
+        "utf8": "We can't live without them and they're definitely not going anywhere."
+      }
+    ]
+  },
+  {
+    "tStartMs": 961271,
+    "dDurationMs": 2169,
+    "segs": [
+      {
+        "utf8": "In fact, quite the opposite of that."
+      }
+    ]
+  },
+  {
+    "tStartMs": 963760,
+    "dDurationMs": 7280,
+    "segs": [
+      {
+        "utf8": "But if we're going to carry on building these megastructures and build them on a scale that's bigger and greater than what we've seen so far,"
+      }
+    ]
+  },
+  {
+    "tStartMs": 971440,
+    "dDurationMs": 3439,
+    "segs": [
+      {
+        "utf8": "we really are going to have to work out a few bugs in the system first."
+      }
+    ]
+  },
+  {
+    "tStartMs": 975800,
+    "dDurationMs": 8199,
+    "segs": [
+      {
+        "utf8": "Once again, if you're looking for some guidance on how to make a data center AI-ready and future-proof, make sure you go and download that white paper."
+      }
+    ]
+  },
+  {
+    "tStartMs": 983999,
+    "dDurationMs": 8645,
+    "segs": [
+      {
+        "utf8": "It's video sponsors like IES that enable us to keep making these great videos for you every week, and we'd really appreciate you guys taking the time to go and check them out."
+      }
+    ]
+  },
+  {
+    "tStartMs": 992644,
+    "dDurationMs": 8836,
+    "segs": [
+      {
+        "utf8": "And as always, guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you subscribe to the B1M."
+      }
+    ]
+  }
+]
