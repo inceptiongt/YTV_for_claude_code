@@ -1,0 +1,561 @@
+{
+  "totalMi": 398,
+  "unmatchedMiCount": 12,
+  "matchedRate": 0.9698,
+  "unmatchedSentences": [
+    {
+      "n": 16,
+      "words": 63,
+      "text": "This strip right here close to the city could fetch the best price. So Dubai created more prime coastline close to the center. All sorts of islands were dreamed up. There was the map of the world where you could live on your own British Isle. There was the universe and there was of course the palms. Each one bigger than the last.",
+      "miList": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "unmatchedMi": [
+        59
+      ]
+    },
+    {
+      "n": 22,
+      "words": 53,
+      "text": ">> The financial crisis spread from America to the rest of the world. Dubai was hit harder and more visibly than any city outside of the West, partly because it depended on money coming in from those locations. All construction work stopped overnight, and some property prices fell by as much as 60%.",
+      "miList": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "unmatchedMi": [
+        83
+      ]
+    },
+    {
+      "n": 27,
+      "words": 92,
+      "text": "But nothing exemplifies Dubai's returned bombasty more than the greenlighting of the Palm Jebali. And that green light flickered on in 2023 when local authorities approved a new master plan for the site. Progress has been accelerating ever since then. The palms are taking shape and a mini city is steadily being built on top of them and some of these homes will be impressive. We're talking glasswalled pen houses and sprawling waterfront villas. It's honestly hard not to be a little bit jealous when I'm sat here in rainy old London.",
+      "miList": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "unmatchedMi": [
+        108
+      ]
+    },
+    {
+      "n": 39,
+      "words": 101,
+      "text": "As we know, sand is made from many little individual grains. These grains touch each other at thousands of contact points. Together, they form a stable framework, otherwise known as a soil skeleton. Now, when weight is applied to the top of the sand, that weight is transmitted through these contact points from grain to grain. As each of these grains are irregular in shape, they interlock, making movement harder. The roughness creates friction, which in turn also makes movement harder. Water then fills the space between the grains. While it doesn't carry the weight, it can sometimes add temporary strength.",
+      "miList": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195
+      ],
+      "unmatchedMi": [
+        183,
+        191
+      ]
+    },
+    {
+      "n": 42,
+      "words": 65,
+      "text": "Even without an earthquake, liquefaction can still be a pretty big problem when you're building on reclaimed land. Small movements can cause foundations to settle, which in turn can make buildings tilt or crack. It can buckle roads. It can even break underground service pipes. So, how does the Palm Jabali plan to get around this problem? Well, they kind of created their own earthquake.",
+      "miList": [
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218
+      ],
+      "unmatchedMi": [
+        216
+      ]
+    },
+    {
+      "n": 54,
+      "words": 80,
+      "text": "It's because Abu Dhabi holds 95% of all the UAE's oil and 90% of its gas. Dubai, on the other hand, has smaller, more depleted oil reserves that only contribute a fraction to the economy. In December of 2009, the government of Abu Dhabi provided $10 billion to the Dubai Financial Support Fund. The money was used to meet some of the immediate debt obligations of Dubai world as well as some other obligations while longerterm debt restructuring was negotiated.",
+      "miList": [
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "unmatchedMi": [
+        302
+      ]
+    },
+    {
+      "n": 56,
+      "words": 74,
+      "text": "It set new rules for the UAE. While Dubai could innovate, it was Abu Dhabi that settled the balance sheet. The impact was evident almost immediately. Most famously, the Burj Dubai was renamed the Burj Khalifa after Abu Dhabi's ruler. Now, Dubai had phased developments instead of simultaneous mega projects, and there was much stricter real estate regulation to grapple with. There wasn't an abandonment of Dubai's crazy build mentality. It was a refinement.",
+      "miList": [
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324
+      ],
+      "unmatchedMi": [
+        315,
+        318,
+        321
+      ]
+    },
+    {
+      "n": 58,
+      "words": 145,
+      "text": "And it paid off. Dubai is now no longer recovering, but thriving. The place has established itself as a neutral parking spot for international wealth thanks to no income tax and fast visas. Dubai is once again seeing international money flowing from Russia, China, and Europe, which is in turn funding vast construction projects. But this time, it's accompanied by a huge population boom. While many new buildings are still essentially safety deposit boxes in the sky, there are other buildings actually being built for people to live and work in too. The big question is, will any of this last? And to be honest, it's a question that only time can answer. By all accounts, the foundations of this new Dubai 2.0 do seem to be constructed on pretty sturdy ground. It's almost like they've reinforced the sand beneath their feet, if you will.",
+      "miList": [
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348
+      ],
+      "unmatchedMi": [
+        333,
+        341
+      ]
+    }
+  ],
+  "longSentencesCount": 19,
+  "longSentences": [
+    {
+      "n": 6,
+      "words": 54,
+      "text": "But suddenly, all the cranes on Dubai's skyline froze and construction stopped overnight. Many of Dubai's ambitious mega projects were paused or cancelled altogether thanks to the 2008 global financial crisis. They included plans for a kilometer high skyscraper, a fully rotating Super Tool, and oh so many artificial islands. The 2010s were rough",
+      "miList": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "n": 16,
+      "words": 63,
+      "text": "This strip right here close to the city could fetch the best price. So Dubai created more prime coastline close to the center. All sorts of islands were dreamed up. There was the map of the world where you could live on your own British Isle. There was the universe and there was of course the palms. Each one bigger than the last.",
+      "miList": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "n": 22,
+      "words": 53,
+      "text": ">> The financial crisis spread from America to the rest of the world. Dubai was hit harder and more visibly than any city outside of the West, partly because it depended on money coming in from those locations. All construction work stopped overnight, and some property prices fell by as much as 60%.",
+      "miList": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ]
+    },
+    {
+      "n": 27,
+      "words": 92,
+      "text": "But nothing exemplifies Dubai's returned bombasty more than the greenlighting of the Palm Jebali. And that green light flickered on in 2023 when local authorities approved a new master plan for the site. Progress has been accelerating ever since then. The palms are taking shape and a mini city is steadily being built on top of them and some of these homes will be impressive. We're talking glasswalled pen houses and sprawling waterfront villas. It's honestly hard not to be a little bit jealous when I'm sat here in rainy old London.",
+      "miList": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ]
+    },
+    {
+      "n": 29,
+      "words": 59,
+      "text": "Dreaming up my dream home was surprisingly easy thanks to Rayon Design, a fully cloudnative CAD platform made for professional interior designers and architects. It's usually hard to find one software that takes you from concept to finished drawing set, so you end up wasting a lot of time switching between tools. But Rayon Design streamlines the entire process.",
+      "miList": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ]
+    },
+    {
+      "n": 31,
+      "words": 98,
+      "text": "No bouncing around between endless applications. Their built-in AI panel means you can quickly generate 3D axonometric views from your floor plans and sections, create sleek mood boards for your designs, or even make a bespoke material palette for a luxury penthouse on a new palm island. All of this while being able to collaborate with others instantaneously, so you've got ample time to focus on what really matters, like this gorgeous C view I'm going to have from my kitchen. And speaking of saving time, Rayon Design has a library of over 10,000 CAD blocks at scale.",
+      "miList": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149
+      ]
+    },
+    {
+      "n": 36,
+      "words": 49,
+      "text": "Huge volumes of sand from the Persian Gulf seabed were transported via pipelines and dredger barges to the island's site. There, a technique called rainbowing sprayed the sand in a controlled ark to deposit it precisely where needed to build up the trunk and fronds of the Palm Island.",
+      "miList": [
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172
+      ]
+    },
+    {
+      "n": 39,
+      "words": 101,
+      "text": "As we know, sand is made from many little individual grains. These grains touch each other at thousands of contact points. Together, they form a stable framework, otherwise known as a soil skeleton. Now, when weight is applied to the top of the sand, that weight is transmitted through these contact points from grain to grain. As each of these grains are irregular in shape, they interlock, making movement harder. The roughness creates friction, which in turn also makes movement harder. Water then fills the space between the grains. While it doesn't carry the weight, it can sometimes add temporary strength.",
+      "miList": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195
+      ]
+    },
+    {
+      "n": 41,
+      "words": 67,
+      "text": "Strong shaking causes sand grains to lose contact. Poor water pressure increases between the grains, which means the water starts carrying the load instead of the sand, which is not good. The soil loses strength and stiffness, and the ground behaves like thick fluid or quicksand. Our sand castle falls to the ground and any villa or skyscraper on top of it would do the same thing.",
+      "miList": [
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208
+      ]
+    },
+    {
+      "n": 42,
+      "words": 65,
+      "text": "Even without an earthquake, liquefaction can still be a pretty big problem when you're building on reclaimed land. Small movements can cause foundations to settle, which in turn can make buildings tilt or crack. It can buckle roads. It can even break underground service pipes. So, how does the Palm Jabali plan to get around this problem? Well, they kind of created their own earthquake.",
+      "miList": [
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218
+      ]
+    },
+    {
+      "n": 43,
+      "words": 43,
+      "text": "First, engineers used a method called viro compaction. It's where heavy vibrating probes are inserted down through the loose sand to a depth of about 15 m. The vibration along with injected water rearranges and densifies the sand grains, packing them closer together.",
+      "miList": [
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226
+      ]
+    },
+    {
+      "n": 45,
+      "words": 45,
+      "text": "This protective structure made primarily of sand and rocks is designed to shield the artificial island from strong tides, waves, and seasonal storms. This one in particular is 17 km long and about 200 m wide, making it even larger than the one around Palmyra.",
+      "miList": [
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238
+      ]
+    },
+    {
+      "n": 46,
+      "words": 138,
+      "text": "Construction began with marine surveying of the seabed to map depths and conditions. Huge rock armor units were brought in, often weighing several tons each. These rocks were placed layer by layer over the base. A fleet of barges, tugboats, and dredges transported these rocks before large floating cranes lifted and set them into position. The sloping shape of the breakwater and the graded rock layers were designed so that incoming waves lose energy progressively rather than just hitting a vertical face that reduces scour around the base of the breakwater while protecting the reclaimed land and islands on the interior. As the rocks were positioned by the cranes, they were verified by GPS and divers under the water which gave them incredible precision. In fact, a lot of the construction of the Palm Jebali used GPS technology.",
+      "miList": [
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260
+      ]
+    },
+    {
+      "n": 48,
+      "words": 43,
+      "text": "Engineers converted the palm design into digital coordinates. Those coordinates were then fed into GPS systems which were then relayed to the dredges and the dredges poured their sand according to the digital model. It was almost like 3D printing an entire island.",
+      "miList": [
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271
+      ]
+    },
+    {
+      "n": 50,
+      "words": 42,
+      "text": "on top of this island, and that's no easy feat. Dubai has outdone itself and successfully constructed a Palm Island that's more than twice as big as their last record-breaking Palm Island. The first phase of villas have also completely sold out.",
+      "miList": [
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ]
+    },
+    {
+      "n": 54,
+      "words": 80,
+      "text": "It's because Abu Dhabi holds 95% of all the UAE's oil and 90% of its gas. Dubai, on the other hand, has smaller, more depleted oil reserves that only contribute a fraction to the economy. In December of 2009, the government of Abu Dhabi provided $10 billion to the Dubai Financial Support Fund. The money was used to meet some of the immediate debt obligations of Dubai world as well as some other obligations while longerterm debt restructuring was negotiated.",
+      "miList": [
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ]
+    },
+    {
+      "n": 56,
+      "words": 74,
+      "text": "It set new rules for the UAE. While Dubai could innovate, it was Abu Dhabi that settled the balance sheet. The impact was evident almost immediately. Most famously, the Burj Dubai was renamed the Burj Khalifa after Abu Dhabi's ruler. Now, Dubai had phased developments instead of simultaneous mega projects, and there was much stricter real estate regulation to grapple with. There wasn't an abandonment of Dubai's crazy build mentality. It was a refinement.",
+      "miList": [
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324
+      ]
+    },
+    {
+      "n": 58,
+      "words": 145,
+      "text": "And it paid off. Dubai is now no longer recovering, but thriving. The place has established itself as a neutral parking spot for international wealth thanks to no income tax and fast visas. Dubai is once again seeing international money flowing from Russia, China, and Europe, which is in turn funding vast construction projects. But this time, it's accompanied by a huge population boom. While many new buildings are still essentially safety deposit boxes in the sky, there are other buildings actually being built for people to live and work in too. The big question is, will any of this last? And to be honest, it's a question that only time can answer. By all accounts, the foundations of this new Dubai 2.0 do seem to be constructed on pretty sturdy ground. It's almost like they've reinforced the sand beneath their feet, if you will.",
+      "miList": [
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348
+      ]
+    },
+    {
+      "n": 59,
+      "words": 49,
+      "text": "As for the islands, well, they've been constructed with rising seas and stronger storms in mind. Most sea level rise projections range from 0.3 to a meter. They've built a buffer for this combined with the cresant-shaped breakwater system. Ironically, this island might last longer than most coastal cities.",
+      "miList": [
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356
+      ]
+    }
+  ]
+}
