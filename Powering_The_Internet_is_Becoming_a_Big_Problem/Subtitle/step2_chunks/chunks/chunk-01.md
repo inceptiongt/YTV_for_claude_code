@@ -1,0 +1,426 @@
+[1] >> We're experiencing one of the fastest
+[2] building booms the world has ever seen.
+[3] Described as a global
+[4] construction frenzy that shows no signs
+[5] of slowing.
+[6] Humanity is now dependent on large-scale
+[7] data centers and that demand is only
+[8] increasing.
+[9] But the strain this infrastructure is
+[10] placing on our power and water sources
+[11] is enormous.
+[12] And people are starting to notice.
+[13] Many neighboring homeowners say, "Not in
+[14] my backyard."
+[15] >> That opposition is forcing some tech
+[16] giants to rethink where they [snorts]
+[17] should build. The data center industry
+[18] is actually going to be responsible for
+[19] 3-4% of global electricity consumption.
+[20] So, that's that's a huge sector. And now
+[21] with AI taking our reliance to a whole
+[22] new level, this rapidly growing area of
+[23] industry is under pressure to clean up
+[24] its act and fast.
+[25] But with these buildings now consuming
+[26] as much energy as entire countries,
+[27] what can we actually do about it?
+[28] >>
+[29] >> This is what a typical data center looks
+[30] like in 2026.
+[31] And if you live in or close to a major
+[32] city, there's a good chance you'll have
+[33] one nearby.
+[34] Because there are now more than 11,000
+[35] of these worldwide across 174 countries.
+[36] And unsurprisingly, over a third of them
+[37] are in the USA. Some of the largest
+[38] clusters are in places you might expect
+[39] like Texas and California. But the state
+[40] with the most is actually Virginia.
+[41] The UK and Germany are way behind in
+[42] second and third. And the rest are
+[43] pretty well spread around the globe.
+[44] Because if they weren't absolutely
+[45] everywhere, we wouldn't be able to do
+[46] all those things that have become an
+[47] essential part of our modern lives.
+[48] We don't just mean the important stuff
+[49] like online shopping, banking,
+[50] or watching epic construction videos on
+[51] YouTube. Without data centers, there'd
+[52] be no doom scrolling, no long video
+[53] calls that really could have been an
+[54] email, or memes that just refuse to die.
+[55] And we don't miss that. Wouldn't we?
+[56] But data centers weren't always
+[57] omnipresent. To see how quickly these
+[58] structures have been expanding, it's
+[59] best to look at it from a different
+[60] perspective. After all, we can't do a
+[61] video on data centers without digging
+[62] into some, well, data.
+[63] For starters, take a look at this graph.
+[64] It shows the staggering growth in data
+[65] centers globally over the past 20 years
+[66] in terms of installed capacity.
+[67] In other words, the total amount of
+[68] power available for all the equipment
+[69] needed to run them.
+[70] Notice how things went stratospheric
+[71] after about 2017.
+[72] The overall figure now stands at more
+[73] than 122 gigawatts.
+[74] Lights, camera, action!
+[75] To give you an idea of just how much
+[76] that really is, the total capacity of
+[77] Hinkley Point C, the massive new
+[78] nuclear power plant currently under
+[79] construction in the UK,
+[80] is around 3.2 gigawatts. That means
+[81] you'd need 38 Hinkley Point C sized
+[82] nuclear plants to power just the world's
+[83] data centers. And they're continuing to
+[84] soar in number and size.
+[85] What the hell IS HE DOING, MARK?
+[86] Before AI, we also had a many, many data
+[87] centers. But those data center data
+[88] center tend to be much smaller, like
+[89] less than 100 megawatts. But today,
+[90] a AI data center can easily be 500
+[91] megawatts or even more than 1 gigawatt.
+[92] So, the concentration of of this large
+[93] power demand and other resource demand
+[94] like water over small area, that's a big
+[95] challenge for the infrastructure. By
+[96] 2030, data centers are set to be
+[97] consuming more electricity than the
+[98] entirety of Japan. That's double what
+[99] they were pulling from the grid in 2022.
+[100] And as you've just heard, the main
+[101] reason for this increase
+[102] is the meteoric rise of AI.
+[103] Every time you chuck something into
+[104] ChatGPT, it kickstarts a process that
+[105] uses more electricity and water than
+[106] many of us realize.
+[107] Just kidding. Other channels trying to
+[108] imitate us might do that, but we
+[109] certainly don't.
+[110] Now, when ChatGPT alone is processing
+[111] billions of prompts every day, it's no
+[112] wonder the infrastructure that makes it
+[113] all happen is having to scale up very
+[114] fast. AI systems were responsible for
+[115] about 20% of total data center
+[116] electricity consumption by the end of
+[117] 2024.
+[118] Um and that number could have increased
+[119] to about half by the end of last year,
+[120] 2025.
+[121] Altogether, these these numbers are just
+[122] becoming really big, really fast. But
+[123] keeping up with the demand is where
+[124] things get tricky. Data center
+[125] construction isn't just about building a
+[126] great big hall and filling it with
+[127] servers, despite how it might appear in
+[128] footage like this.
+[129] There's actually a lot more to it than
+[130] that, which is why the biggest
+[131] facilities being built at the moment are
+[132] considered mega projects.
+[133] First of all, you've got to decide where
+[134] to put them.
+[135] Ideally, you want a place with good
+[136] fiber connections, water sources, and
+[137] for the really large ones that handle
+[138] several hundred megawatts on their own,
+[139] high capacity power grids. Those data
+[140] centers, they they they consume as much
+[141] power as entire cities.
+[142] And you can't just put those anywhere.
+[143] It's It's actually really hard to find
+[144] power grids where there is sufficient
+[145] capacity to to even start
+[146] building a project like that. So, at
+[147] that point, power capacity becomes the
+[148] number one concern. There would have to
+[149] be plenty of space, too. Not just enough
+[150] to squeeze the building into.
+[151] Many are constructed with expansion in
+[152] mind. Expansions that often
+[153] follow not long after they're finished
+[154] and with rapid speed. The companies
+[155] behind them are called hyperscalers for
+[156] a reason. Another thing to think about
+[157] is climate and geography. Lower
+[158] temperatures make it easier to keep
+[159] everything cool. And it's generally
+[160] better if you build these things away
+[161] from places where there are likely to be
+[162] extreme weather events or natural
+[163] disasters. You see,
+[164] just like with other big bits of
+[165] infrastructure, if a data center goes
+[166] down, it can cause serious problems. I
+[167] don't just mean missing out on the
+[168] latest TikTok craze. We're talking about
+[169] huge financial losses, service failures,
+[170] reputational damage,
+[171] all the kind of things that every
+[172] company absolutely dreads.
+[173] Alongside all those racks of equipment
+[174] that have to be kept running 24/7,
+[175] the cooling system is a key
+[176] priority. Usually, this is done in one
+[177] of two ways.
+[178] There's the traditional method of
+[179] circulating cold air into the server
+[180] racks, normally through the floor with
+[181] waste heat exiting out of the top. While
+[182] it's effective, even if some of the air
+[183] is recycled, it's a process that
+[184] consumes massive amounts of electricity.
+[185] Alternatively, you've got liquid
+[186] cooling, which is becoming more common
+[187] as we enter the AI era. This method
+[188] involves using, yes, you guessed it,
+[189] liquids like water or coolant to
+[190] transfer the heat away, which requires
+[191] less electricity and often less space.
+[192] But the flip side is that all that water
+[193] has to come from somewhere, and that can
+[194] cause a pretty big dilemma.
+[195] This water is mostly coming from
+[196] municipal water supply. And that can be
+[197] stressful for a lot of a public water
+[198] system, especially in the US.
+[199] >>
+[200] >> Most of the water systems are small or
+[201] medium size. They don't really have a
+[202] lot of surplus capacity to supply to
+[203] these large-scale
+[204] industry users. So, what can be done to
+[205] manage these crazy levels of
+[206] consumption? Well, many companies are
+[207] now prioritizing things like liquid
+[208] cooling, investing in their own
+[209] renewable sources, and even funding grid
+[210] upgrades so they don't push up people's
+[211] energy bills.
+[212] Others are taking a more unusual
+[213] approach, including with some techniques
+[214] that are generating quite a bit of
+[215] attention.
+[216] Several of the world's biggest tech
+[217] firms have partnered with nuclear
+[218] providers. These deals would see
+[219] data centers powered by reliable,
+[220] low-carbon sources. Some are even
+[221] restarting plants that had
+[222] previously been closed or tapping into
+[223] technology that still hasn't quite
+[224] arrived yet, namely nuclear fusion and
+[225] small modular reactors. Alternatively,
+[226] you could do what companies in Europe
+[227] are doing
+[228] and build your data center underground
+[229] inside an active mine or a former
+[230] bunker. Both of which are great for
+[231] security and keeping everything cool.
+[232] But these strategies aren't for
+[233] everyone, especially companies needing
+[234] to deliver high-performance data centers
+[235] that are future-proof and super
+[236] efficient right now. We're talking about
+[237] both new builds and upgrades to existing
+[238] ones. For many, investing in atomic
+[239] energy or hollowing out a mountain isn't
+[240] really a viable option. In fact, meeting
+[241] the demands of this new AI-driven era at
+[242] the speed required is such a challenge
+[243] that it can be hard to know where to
+[244] begin. That's where IES can help. IES is
+[245] a global leader in a physics-based
+[246] building performance simulation
+[247] and digital twin technology for all
+[248] building types.
+[249] With its whole facility approach, users
+[250] can monitor and optimize the performance
+[251] of their data center projects across its
+[252] full life cycle.
+[253] >>
+[254] >> They can model everything from dynamic
+[255] IT loads and rack layouts to advanced
+[256] cooling options. All within the
+[257] context of the local climate. By
+[258] adopting one of IES's AI ready design
+[259] strategies, hyperscalers can reach
+[260] capacity super fast, de-risk
+[261] infrastructure decisions, and reduce
+[262] energy, carbon, and water use all while
+[263] staying in line with increasingly
+[264] stringent regulations and grid
+[265] connection requirements. Plus, having an
+[266] IES digital twin provides a
+[267] performance-focused replica of the
+[268] facility that behaves like its real
+[269] counterparts, from planning and design
+[270] to operation and retrofits.
+[271] Then, there's IES's end-to-end
+[272] consulting, from a company that's helped
+[273] global clients with their digital
+[274] infrastructure challenges for more than
+[275] 30 years. In fact, IES has already
+[276] helped one hyperscaler retrofit an
+[277] existing data center with liquid
+[278] cooling. It saw them increase capacity
+[279] from 10 to 50 kW per rack, cut water use
+[280] by 95%
+[281] >>
+[282] >> and achieve a PUE of 1.16.
+[283] Meanwhile, in Ireland, 10 data centers
+[284] were able to lower their space cooling
+[285] energy loads by around 40% with
+[286] support from IES consultants. If you
+[287] want to find out more about how dynamic
+[288] simulation can enhance existing CFD
+[289] modeling to enable high-performance data
+[290] centers, then you're in luck.
+[291] >>
+[292] >> Because IES has just released a brand
+[293] new white paper on that very subject.
+[294] Inside, you'll learn all the ins and
+[295] outs about de-risking AI-driven
+[296] facilities and optimizing cooling
+[297] strategies, while discovering full case
+[298] studies on how others have made it work.
+[299] To download the white paper for free
+[300] today and see the full extent of IES's
+[301] services, just scan the QR code on
+[302] screen now or click the link in the
+[303] description.
+[304] So, we've talked about server racks and
+[305] cooling systems, but you're going to
+[306] find a lot more inside a data center
+[307] than just that.
+[308] There are plenty of other components,
+[309] some of which might sound quite dull,
+[310] but are actually pretty essential.
+[311] Security, networking, power
+[312] distribution, etc., which all have their
+[313] own energy needs.
+[314] The trouble is, having these giant
+[315] facilities popping up all over the world
+[316] can have consequences for the
+[317] surrounding infrastructure
+[318] and communities.
+[319] It's gotten to a point where some people
+[320] are starting to oppose these projects,
+[321] especially in areas with limited
+[322] resources. It always depends on like
+[323] what's your local situation, like are
+[324] you dealing with water scarcity? Are are
+[325] you dealing with drought? And if you
+[326] suddenly have a big data center
+[327] appearing, that's going to consume a lot
+[328] of electricity and there's going to be a
+[329] lot of water consumed to
+[330] generate all that electricity, that can
+[331] really add to your local water stress.
+[332] Places with the highest concentrations
+[333] of new builds have become hotspots for
+[334] resistance.
+[335] In Virginia, which now has the nickname
+[336] Data Center Alley, at least 25 projects
+[337] were reportedly canceled in 2025
+[338] following opposition from locals.
+[339] Hundreds of data centers used over 2
+[340] billion gallons of water here in 2023.
+[341] And there have been complaints about
+[342] noise and pollution because many of them
+[343] are still hooked into power grids that
+[344] rely on fossil fuels and have diesel
+[345] backup generators.
+[346] Elsewhere in the US, others are worried
+[347] their energy bills are going to go up
+[348] and that not enough is being done to
+[349] address the impact.
+[350] We are concerned for our public health.
+[351] We are concerned for the health of our
+[352] local environment. This is going to be a
+[353] huge energy drain.
+[354] So, my concern is how they're going to
+[355] manage that.
+[356] >> We are not going to pay double the
+[357] amount of our utility bills. Do you
+[358] understand that?
+[359] As for what the future looks
+[360] like, well, as we've already explained,
+[361] data centers are only going to get
+[362] bigger and more widespread. And it's
+[363] happening at a faster rate than anything
+[364] we've seen before. Digital
+[365] growth is not a new thing. We actually
+[366] had that a lot already in the previous
+[367] decade,
+[368] where streaming and cloud and everything
+[369] else was taking off as well. But now,
+[370] with AI, we're dealing with a technology
+[371] where bigger is better. You can make
+[372] this technology and and and the
+[373] hardware and software more efficient,
+[374] but what it has led to in recent years
+[375] is that those efficiency gains have only
+[376] been used to make the models even bigger
+[377] so they can perform even better,
+[378] so they get adopted at an even larger
+[379] scale.
+[380] So, that's where things really break
+[381] apart from what we saw previously.
+[382] >>
+[383] >> The pushback we're now seeing highlights
+[384] how things really do need to change.
+[385] While many of these buildings are
+[386] appearing almost in people's backyards,
+[387] those affected can't be ignored.
+[388] Community opposition is a real
+[389] challenge. It's a real concern.
+[390] We have to address it proactively. We
+[391] need to think about how we can
+[392] accommodate the new industry demand from
+[393] the infrastructure side. For
+[394] power, if you have money, you just build
+[395] a power plant, but water, you have to
+[396] get new water sources. That is naturally
+[397] constrained.
+[398] And yet, Shaolei believes the recent
+[399] media focus on the negative effects of
+[400] water use in particular has actually
+[401] been a bit overblown because it's not a
+[402] major issue everywhere. If there's
+[403] enough available to spare, it's still
+[404] the best way to tackle that
+[405] all-important cooling problem.
+[406] The way it is presented in the public
+[407] discussion is usually not very accurate.
+[408] If you look at some of the data centers,
+[409] they are using water
+[410] just during the hottest weeks or hottest
+[411] days of the year. So, their annual water
+[412] usage could be very low, but they use a
+[413] lot of water during the summertime. A
+[414] better solution to look at water is we
+[415] need to use water responsibly. If
+[416] there's water, I think the benefits of
+[417] using water should not be denied.
+[418] Like the technology itself, the
+[419] construction of new data centers has
+[420] become a
+[421] complicated subject. We can't live
+[422] without them and they're definitely not
+[423] going anywhere. In fact, quite the
+[424] opposite of that.
+[425] But if we're going to carry on building
+[426] these megastructures and build them on a

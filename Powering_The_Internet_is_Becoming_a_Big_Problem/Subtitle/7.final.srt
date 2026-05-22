@@ -1,0 +1,1389 @@
+1
+00:00:01,920 --> 00:00:07,000
+>> 我们正在经历人类有史以来建设速度最快的一波热潮。
+>> We're experiencing one of the fastest building booms the world has ever seen.
+
+2
+00:00:07,160 --> 00:00:12,720
+这场全球性的建设狂潮，丝毫没有放缓的迹象。
+Described as a global construction frenzy that shows no signs of slowing.
+
+3
+00:00:14,920 --> 00:00:19,040
+如今，人类已经离不开大规模数据中心（data center），
+Humanity is now dependent on large-scale data centers
+
+4
+00:00:19,040 --> 00:00:21,760
+而且这种需求还在持续攀升。
+and that demand is only increasing.
+
+5
+00:00:21,760 --> 00:00:23,846
+但这些基础设施
+But the strain this infrastructure
+
+6
+00:00:23,846 --> 00:00:27,160
+对电力和水资源造成的压力，是巨大的。
+is placing on our power and water sources is enormous.
+
+7
+00:00:28,040 --> 00:00:29,960
+人们开始注意到这个问题了。
+And people are starting to notice.
+
+8
+00:00:30,560 --> 00:00:33,960
+许多附近的居民直说："别建在我家旁边。"
+Many neighboring homeowners say, "Not in my backyard."
+
+9
+00:00:33,960 --> 00:00:38,749
+>> 这股反对浪潮，正迫使一些科技巨头重新思考——他们[冷哼]究竟该把数据中心建在哪里。
+>> That opposition is forcing some tech giants to rethink where they [snorts] should build.
+
+10
+00:00:38,749 --> 00:00:44,640
+实际上，整个数据中心行业将占全球电力消耗的 3%—4%。
+The data center industry is actually going to be responsible for 3-4% of global electricity consumption.
+
+11
+00:00:44,640 --> 00:00:47,040
+这是个不折不扣的庞大领域。
+So, that's that's a huge sector.
+
+12
+00:00:47,040 --> 00:00:51,163
+随着 AI（人工智能）将我们对数字基础设施的依赖提升到全新高度，
+And now with AI taking our reliance to a whole new level,
+
+13
+00:00:51,163 --> 00:00:53,840
+这个飞速扩张的行业
+this rapidly growing area of industry
+
+14
+00:00:53,840 --> 00:00:57,240
+正承受着巨大压力，必须尽快整改。
+is under pressure to clean up its act and fast.
+
+15
+00:00:58,000 --> 00:01:02,951
+但这些建筑消耗的能源已经堪比整个国家，
+But with these buildings now consuming as much energy as entire countries,
+
+16
+00:01:02,951 --> 00:01:05,159
+我们到底能做什么？
+what can we actually do about it?
+
+17
+00:01:07,465 --> 00:01:13,485
+>> >> 这就是 2026 年一座典型数据中心的样子。
+>> >> This is what a typical data center looks like in 2026.
+
+18
+00:01:21,360 --> 00:01:24,109
+如果你住在大城市或其周边，
+And if you live in or close to a major city,
+
+19
+00:01:24,109 --> 00:01:26,920
+周围很可能就有一座。
+there's a good chance you'll have one nearby.
+
+20
+00:01:27,840 --> 00:01:34,200
+因为全球现在有超过 11,000 座数据中心，遍布 174 个国家。
+Because there are now more than 11,000 of these worldwide across 174 countries.
+
+21
+00:01:35,240 --> 00:01:38,863
+毫不意外，其中超过三分之一在美国。
+And unsurprisingly, over a third of them are in the USA.
+
+22
+00:01:38,863 --> 00:01:44,534
+最大的集群，出现在德克萨斯州、加利福尼亚州这些你能预料到的地方。
+Some of the largest clusters are in places you might expect like Texas and California.
+
+23
+00:01:44,534 --> 00:01:48,880
+但拥有数量最多的州，其实是弗吉尼亚。
+But the state with the most is actually Virginia.
+
+24
+00:01:49,680 --> 00:01:53,240
+英国和德国位居第二、三位，但差距悬殊。
+The UK and Germany are way behind in second and third.
+
+25
+00:01:53,240 --> 00:01:56,320
+其余的则相当均匀地分布在全球各地。
+And the rest are pretty well spread around the globe.
+
+26
+00:01:56,320 --> 00:01:58,546
+因为如果它们不是无处不在，
+Because if they weren't absolutely everywhere,
+
+27
+00:01:58,546 --> 00:02:00,578
+我们就无法完成
+we wouldn't be able to do all those things
+
+28
+00:02:00,578 --> 00:02:03,240
+那些已成为现代生活必需品的一切。
+that have become an essential part of our modern lives.
+
+29
+00:02:03,960 --> 00:02:07,967
+我们可不只是说网购、网银，
+We don't just mean the important stuff like online shopping, banking,
+
+30
+00:02:07,967 --> 00:02:10,754
+或者在 YouTube 上看精彩的建筑纪录片这些重要的事情。
+or watching epic construction videos on YouTube.
+
+31
+00:02:10,754 --> 00:02:14,142
+没有数据中心，就没有刷坏消息停不下来，
+Without data centers, there'd be no doom scrolling,
+
+32
+00:02:14,142 --> 00:02:17,928
+没有那些"完全可以发封邮件解决"的超长视频会议，
+no long video calls that really could have been an email,
+
+33
+00:02:17,928 --> 00:02:20,120
+更没有那些拒绝消亡的表情包。
+or memes that just refuse to die.
+
+34
+00:02:20,120 --> 00:02:23,080
+而那些，我们也没有多想念，是吧？
+And we don't miss that. Wouldn't we?
+
+35
+00:02:23,640 --> 00:02:26,669
+但数据中心并非一直都这么无处不在。
+But data centers weren't always omnipresent.
+
+36
+00:02:26,669 --> 00:02:29,856
+要了解这些设施扩张得有多快，
+To see how quickly these structures have been expanding,
+
+37
+00:02:29,856 --> 00:02:32,873
+最好换个角度来看。
+it's best to look at it from a different perspective.
+
+38
+00:02:32,874 --> 00:02:35,813
+毕竟，做一期关于数据中心的视频，
+After all, we can't do a video on data centers
+
+39
+00:02:35,813 --> 00:02:38,240
+怎么能不深挖一些……数据呢。
+without digging into some, well, data.
+
+40
+00:02:39,160 --> 00:02:41,320
+先来看这张图表。
+For starters, take a look at this graph.
+
+41
+00:02:41,320 --> 00:02:44,771
+它展示了过去 20 年间，全球数据中心
+It shows the staggering growth in data centers globally
+
+42
+00:02:44,771 --> 00:02:48,160
+在装机容量方面惊人的增长。
+over the past 20 years in terms of installed capacity.
+
+43
+00:02:49,000 --> 00:02:54,200
+换句话说，就是支撑所有设备运转所需的总电力规模。
+In other words, the total amount of power available for all the equipment needed to run them.
+
+44
+00:02:54,320 --> 00:02:58,160
+注意到大约 2017 年之后，曲线是如何直冲天际的。
+Notice how things went stratospheric after about 2017.
+
+45
+00:02:59,360 --> 00:03:03,320
+目前总量已超过 122 吉瓦（GW）。
+The overall figure now stands at more than 122 gigawatts.
+
+46
+00:03:05,160 --> 00:03:06,600
+灯光、摄影、开拍！
+Lights, camera, action!
+
+47
+00:03:06,920 --> 00:03:10,104
+为了让你感受到这个数字有多惊人：
+To give you an idea of just how much that really is,
+
+48
+00:03:10,104 --> 00:03:12,430
+欣克利角 C 核电站（Hinkley Point C）
+the total capacity of Hinkley Point C,
+
+49
+00:03:12,430 --> 00:03:17,022
+是英国正在建设的大型新核电站，
+the massive new nuclear power plant currently under construction in the UK,
+
+50
+00:03:17,022 --> 00:03:18,491
+总装机容量约为 3.2 吉瓦。
+is around 3.2 gigawatts.
+
+51
+00:03:18,811 --> 00:03:20,553
+这意味着，为全球数据中心供电，你需要
+That means you'd need
+
+52
+00:03:20,553 --> 00:03:27,106
+整整 38 座欣克利角 C 规模的核电站。
+38 Hinkley Point C sized nuclear plants to power just the world's data centers.
+
+53
+00:03:27,107 --> 00:03:31,160
+而且它们还在继续增多、增大。
+And they're continuing to soar in number and size.
+
+54
+00:03:31,720 --> 00:03:33,600
+这家伙到底在干什么，马克？！
+What the hell IS HE DOING, MARK?
+
+55
+00:03:34,480 --> 00:03:37,006
+在 AI 出现之前，我们已经有了很多很多数据中心。
+Before AI, we also had a many, many data centers.
+
+56
+00:03:37,006 --> 00:03:42,516
+但那时的数据中心往往规模小得多，通常在 100 兆瓦以下。
+But those data center data center tend to be much smaller, like less than 100 megawatts.
+
+57
+00:03:42,515 --> 00:03:48,720
+但现在，一座 AI 数据中心可以轻松达到 500 兆瓦，甚至超过 1 吉瓦。
+But today, a AI data center can easily be 500 megawatts or even more than 1 gigawatt.
+
+58
+00:03:49,440 --> 00:03:52,725
+所以，这种大规模的电力需求
+So, the concentration of of this large power demand
+
+59
+00:03:52,725 --> 00:03:56,139
+以及水资源等其他资源需求，集中在一个小范围内，
+and other resource demand like water over small area,
+
+60
+00:03:56,140 --> 00:03:59,103
+对基础设施来说是个巨大挑战。
+that's a big challenge for the infrastructure.
+
+61
+00:03:59,103 --> 00:04:02,687
+到 2030 年，数据中心消耗的电力
+By 2030, data centers are set to be consuming
+
+62
+00:04:02,687 --> 00:04:06,192
+将超过整个日本的用电总量。
+more electricity than the entirety of Japan.
+
+63
+00:04:06,192 --> 00:04:10,480
+这是 2022 年它们从电网抽取电量的两倍。
+That's double what they were pulling from the grid in 2022.
+
+64
+00:04:11,440 --> 00:04:13,114
+正如你刚刚听到的，
+And as you've just heard,
+
+65
+00:04:13,114 --> 00:04:17,200
+这一增长的主要原因，正是 AI 的飞速崛起。
+the main reason for this increase is the meteoric rise of AI.
+
+66
+00:04:19,400 --> 00:04:22,347
+每次你往 ChatGPT 里扔一个问题，
+Every time you chuck something into ChatGPT,
+
+67
+00:04:22,347 --> 00:04:28,040
+就启动了一个用电量和耗水量远超我们想象的过程。
+it kickstarts a process that uses more electricity and water than many of us realize.
+
+68
+00:04:28,920 --> 00:04:29,577
+就是开个玩笑。
+Just kidding.
+
+69
+00:04:29,577 --> 00:04:34,160
+其他频道或许会那么搞，但我们当然不会。
+Other channels trying to imitate us might do that, but we certainly don't.
+
+70
+00:04:34,840 --> 00:04:39,047
+而当 ChatGPT 每天处理数十亿次查询，
+Now, when ChatGPT alone is processing billions of prompts every day,
+
+71
+00:04:39,047 --> 00:04:42,635
+支撑这一切运转的基础设施
+it's no wonder the infrastructure that makes it all happen
+
+72
+00:04:42,635 --> 00:04:44,615
+必须以极快的速度扩容，也就不足为奇了。
+is having to scale up very fast.
+
+73
+00:04:44,615 --> 00:04:55,200
+到 2024 年底，AI 系统已占数据中心总电力消耗的约 20%。
+AI systems were responsible for about 20% of total data center electricity consumption by the end of 2024.
+
+74
+00:04:55,200 --> 00:05:03,240
+而这一数字，到 2025 年底可能已攀升至约 50%。
+Um and that number could have increased to about half by the end of last year, 2025.
+
+75
+00:05:03,240 --> 00:05:07,666
+总的来说，这些数字正在以极快的速度变得极其庞大。
+Altogether, these these numbers are just becoming really big, really fast.
+
+76
+00:05:07,666 --> 00:05:11,104
+但跟上需求的步伐，才是真正的难题所在。
+But keeping up with the demand is where things get tricky.
+
+77
+00:05:11,104 --> 00:05:16,385
+数据中心的建设，可不是盖一个大厅、塞满服务器那么简单，
+Data center construction isn't just about building a great big hall and filling it with servers,
+
+78
+00:05:16,385 --> 00:05:19,080
+尽管从一些镜头来看确实如此。
+despite how it might appear in footage like this.
+
+79
+00:05:19,320 --> 00:05:21,684
+实际上，里面的门道多得多——
+There's actually a lot more to it than that,
+
+80
+00:05:21,684 --> 00:05:24,962
+这也是为什么目前正在兴建的最大型设施，
+which is why the biggest facilities being built at the moment
+
+81
+00:05:24,962 --> 00:05:26,520
+都被视为超级工程。
+are considered mega projects.
+
+82
+00:05:27,280 --> 00:05:30,280
+首先，你得决定把它建在哪里。
+First of all, you've got to decide where to put them.
+
+83
+00:05:30,360 --> 00:05:33,756
+理想的选址，需要良好的光纤连接、
+Ideally, you want a place with good fiber connections,
+
+84
+00:05:33,756 --> 00:05:36,523
+充足的水源；而对于
+water sources, and for the really large ones
+
+85
+00:05:36,522 --> 00:05:41,427
+那些单独承载数百兆瓦电力的超大型设施，还需要高容量的电网。
+that handle several hundred megawatts on their own, high capacity power grids.
+
+86
+00:05:41,507 --> 00:05:46,520
+这些数据中心消耗的电力，堪比整座城市。
+Those data centers, they they they consume as much power as entire cities.
+
+87
+00:05:46,840 --> 00:05:49,360
+所以你不能随便找个地方就建。
+And you can't just put those anywhere.
+
+88
+00:05:49,360 --> 00:05:52,222
+要找到电网容量足够、
+It's It's actually really hard to find power grids
+
+89
+00:05:52,222 --> 00:05:54,168
+甚至可以开工建设的地方，
+where there is sufficient capacity
+
+90
+00:05:54,169 --> 00:05:56,802
+其实真的很难。
+to to even start building a project like that.
+
+91
+00:05:57,402 --> 00:06:01,487
+到那个阶段，供电能力就成了头号问题。
+So, at that point, power capacity becomes the number one concern.
+
+92
+00:06:01,487 --> 00:06:04,216
+空间也得足够大。
+There would have to be plenty of space, too.
+
+93
+00:06:04,216 --> 00:06:07,000
+不只是刚好能放下建筑那么多。
+Not just enough to squeeze the building into.
+
+94
+00:06:07,320 --> 00:06:09,960
+很多数据中心在设计时就考虑了扩建的空间，
+Many are constructed with expansion in mind.
+
+95
+00:06:09,960 --> 00:06:14,880
+而且往往建成后不久就迅速启动扩建。
+Expansions that often follow not long after they're finished and with rapid speed.
+
+96
+00:06:14,880 --> 00:06:19,677
+这些公司被称为"超大规模云厂商"（hyperscaler，即亚马逊、微软、谷歌等），不是没有原因的。
+The companies behind them are called hyperscalers for a reason.
+
+97
+00:06:19,677 --> 00:06:23,632
+还有一个要考虑的因素：气候和地理条件。
+Another thing to think about is climate and geography.
+
+98
+00:06:23,632 --> 00:06:26,553
+较低的气温，有助于降低冷却难度。
+Lower temperatures make it easier to keep everything cool.
+
+99
+00:06:26,553 --> 00:06:28,006
+而且通常来说，最好
+And it's generally better
+
+100
+00:06:28,006 --> 00:06:33,469
+把它们建在远离极端天气事件
+if you build these things away from places where there are likely to be extreme weather events
+
+101
+00:06:33,469 --> 00:06:34,690
+或自然灾害频发地区的地方。
+or natural disasters.
+
+102
+00:06:34,691 --> 00:06:38,111
+就像其他大型基础设施一样，
+You see, just like with other big bits of infrastructure,
+
+103
+00:06:38,111 --> 00:06:39,731
+数据中心一旦宕机，
+if a data center goes down,
+
+104
+00:06:39,731 --> 00:06:41,531
+就可能引发严重问题。
+it can cause serious problems.
+
+105
+00:06:41,531 --> 00:06:44,020
+我可不只是说错过最新的 TikTok 热梗。
+I don't just mean missing out on the latest TikTok craze.
+
+106
+00:06:44,020 --> 00:06:46,954
+我们说的是巨额财务损失、
+We're talking about huge financial losses,
+
+107
+00:06:46,954 --> 00:06:51,215
+服务中断、声誉受损——
+service failures, reputational damage, all the kind of things
+
+108
+00:06:51,215 --> 00:06:53,800
+这些都是每家公司最不想遇到的噩梦。
+that every company absolutely dreads.
+
+109
+00:06:55,040 --> 00:07:01,628
+除了那些必须全天候运转的服务器机架，冷却系统也是重中之重。
+Alongside all those racks of equipment that have to be kept running 24/7, the cooling system is a key priority.
+
+110
+00:07:02,348 --> 00:07:06,040
+通常，冷却有两种主要方式。
+Usually, this is done in one of two ways.
+
+111
+00:07:07,240 --> 00:07:11,831
+一种是传统的风冷方式，通过地板向服务器机架输送冷空气，
+There's the traditional method of circulating cold air into the server racks,
+
+112
+00:07:11,831 --> 00:07:13,381
+废热则从顶部排出。
+normally through the floor
+
+113
+00:07:13,381 --> 00:07:15,706
+废热则从顶部排出。
+with waste heat exiting out of the top.
+
+114
+00:07:15,706 --> 00:07:16,951
+虽然有效，
+While it's effective,
+
+115
+00:07:16,951 --> 00:07:19,085
+即便部分空气可以循环利用，
+even if some of the air is recycled,
+
+116
+00:07:19,084 --> 00:07:22,640
+这一过程仍然消耗大量电力。
+it's a process that consumes massive amounts of electricity.
+
+117
+00:07:23,040 --> 00:07:25,430
+另一种是液冷（liquid cooling），
+Alternatively, you've got liquid cooling,
+
+118
+00:07:25,430 --> 00:07:28,519
+随着 AI 时代的到来，这种方式越来越普遍。
+which is becoming more common as we enter the AI era.
+
+119
+00:07:28,519 --> 00:07:32,151
+这种方式——你猜对了——
+This method involves using, yes, you guessed it,
+
+120
+00:07:32,151 --> 00:07:36,389
+利用水或冷却液等液体来带走热量，
+liquids like water or coolant to transfer the heat away,
+
+121
+00:07:36,389 --> 00:07:40,400
+所需电力更少，往往占用的空间也更小。
+which requires less electricity and often less space.
+
+122
+00:07:40,880 --> 00:07:42,544
+但另一面是，
+But the flip side is that
+
+123
+00:07:42,544 --> 00:07:45,339
+所有这些水都得有来源，
+all that water has to come from somewhere,
+
+124
+00:07:45,338 --> 00:07:48,000
+而这可能带来相当大的困境。
+and that can cause a pretty big dilemma.
+
+125
+00:07:48,600 --> 00:07:52,635
+这些水，大多来自市政供水（municipal water supply）。
+This water is mostly coming from municipal water supply.
+
+126
+00:07:52,635 --> 00:07:57,500
+这可能给很多公共供水系统带来巨大压力，在美国尤为如此。
+And that can be stressful for a lot of a public water system, especially in the US.
+
+127
+00:07:57,500 --> 00:08:00,040
+>> >> 大多数供水系统的规模都不大，属于中小型。
+>> >> Most of the water systems are small or medium size.
+
+128
+00:08:00,040 --> 00:08:05,400
+它们本就没有多少富余容量，来满足这些大规模工业用户的需求。
+They don't really have a lot of surplus capacity to supply to these large-scale industry users.
+
+129
+00:08:05,840 --> 00:08:11,126
+那么，面对如此惊人的消耗量，我们能做什么？
+So, what can be done to manage these crazy levels of consumption?
+
+130
+00:08:11,126 --> 00:08:15,465
+许多公司目前正优先考虑液冷等技术，
+Well, many companies are now prioritizing things like liquid cooling,
+
+131
+00:08:15,465 --> 00:08:18,043
+投资自有可再生能源，
+investing in their own renewable sources,
+
+132
+00:08:18,044 --> 00:08:22,760
+甚至资助电网升级，以避免推高居民电费。
+and even funding grid upgrades so they don't push up people's energy bills.
+
+133
+00:08:23,160 --> 00:08:25,837
+另一些则采取了更不寻常的方法，
+Others are taking a more unusual approach,
+
+134
+00:08:25,837 --> 00:08:30,680
+其中一些技术正引发广泛关注。
+including with some techniques that are generating quite a bit of attention.
+
+135
+00:08:30,920 --> 00:08:35,295
+全球多家最大的科技公司已与核能供应商建立了合作关系。
+Several of the world's biggest tech firms have partnered with nuclear providers.
+
+136
+00:08:35,295 --> 00:08:40,726
+这些协议将让数据中心由可靠的低碳能源供电。
+These deals would see data centers powered by reliable, low-carbon sources.
+
+137
+00:08:40,846 --> 00:08:44,936
+一些公司甚至在重启此前已关闭的核电站，
+Some are even restarting plants that had previously been closed
+
+138
+00:08:44,936 --> 00:08:49,026
+或者借助尚未完全成熟的技术——
+or tapping into technology that still hasn't quite arrived yet,
+
+139
+00:08:49,025 --> 00:08:52,206
+即核聚变（nuclear fusion）和小型模块化反应堆（small modular reactor，SMR）。
+namely nuclear fusion and small modular reactors.
+
+140
+00:08:52,206 --> 00:08:56,061
+或者，你也可以效仿欧洲的一些公司，
+Alternatively, you could do what companies in Europe are doing
+
+141
+00:08:56,061 --> 00:08:58,424
+把数据中心建在废弃矿井或前军事掩体的地下。
+and build your data center underground
+
+142
+00:08:58,424 --> 00:09:00,973
+把数据中心建在废弃矿井或前军事掩体的地下。
+inside an active mine or a former bunker.
+
+143
+00:09:01,232 --> 00:09:05,680
+这两种方案在安全性和降温方面都非常理想。
+Both of which are great for security and keeping everything cool.
+
+144
+00:09:06,320 --> 00:09:08,638
+但这些策略并不适合所有人，
+But these strategies aren't for everyone,
+
+145
+00:09:08,638 --> 00:09:12,539
+尤其是那些需要立刻交付
+especially companies needing to deliver high-performance data centers
+
+146
+00:09:12,540 --> 00:09:15,480
+高性能、面向未来、超高效率数据中心的公司。
+that are future-proof and super efficient right now.
+
+147
+00:09:15,480 --> 00:09:20,474
+我们说的，既包括新建项目，也包括对现有设施的改造升级（retrofits）。
+We're talking about both new builds and upgrades to existing ones.
+
+148
+00:09:20,474 --> 00:09:26,867
+对于很多企业来说，投资核能或凿山建数据中心并不现实。
+For many, investing in atomic energy or hollowing out a mountain isn't really a viable option.
+
+149
+00:09:26,867 --> 00:09:30,687
+事实上，以所需的速度满足这个 AI 驱动新时代的需求，
+In fact, meeting the demands of this new AI-driven era
+
+150
+00:09:30,687 --> 00:09:33,587
+挑战之大，让人不知
+at the speed required is such a challenge
+
+151
+00:09:33,587 --> 00:09:36,628
+从哪里着手。而这正是 IES 的用武之地。
+that it can be hard to know where to begin.
+
+152
+00:09:36,628 --> 00:09:38,467
+从哪里着手。而这正是 IES 的用武之地。
+That's where IES can help.
+
+153
+00:09:38,467 --> 00:09:39,879
+IES 是基于物理学的建筑性能模拟与数字孪生（digital twin）技术领域的全球领军企业，
+IES is a global leader
+
+154
+00:09:39,879 --> 00:09:44,884
+服务于各类建筑类型。
+in a physics-based building performance simulation and digital twin technology
+
+155
+00:09:44,884 --> 00:09:46,360
+服务于各类建筑类型。
+for all building types.
+
+156
+00:09:46,680 --> 00:09:48,796
+凭借其全设施整体化方案，
+With its whole facility approach,
+
+157
+00:09:48,796 --> 00:09:53,670
+用户可以在数据中心项目的
+users can monitor and optimize the performance of their data center projects
+
+158
+00:09:53,670 --> 00:09:55,401
+完整生命周期内，对其性能进行监测和优化。
+across its full life cycle.
+
+159
+00:09:55,401 --> 00:10:01,108
+>> >> 他们可以对从动态 IT 负载、机架布局，到高级冷却方案的一切进行模拟建模——
+>> >> They can model everything from dynamic IT loads and rack layouts to advanced cooling options.
+
+160
+00:10:01,108 --> 00:10:04,154
+并将当地气候条件纳入其中。
+All within the context of the local climate.
+
+161
+00:10:04,154 --> 00:10:07,792
+通过采用 IES 的 AI 就绪设计策略，
+By adopting one of IES's AI ready design strategies,
+
+162
+00:10:07,792 --> 00:10:10,800
+超大规模云厂商可以以极快的速度达到设计容量，
+hyperscalers can reach capacity super fast,
+
+163
+00:10:10,800 --> 00:10:15,977
+降低基础设施决策风险，
+de-risk infrastructure decisions, and reduce energy, carbon, and water use
+
+164
+00:10:15,978 --> 00:10:22,904
+并减少能耗、碳排放和水资源消耗——同时满足日益严格的法规和电网接入要求。
+all while staying in line with increasingly stringent regulations and grid connection requirements.
+
+165
+00:10:22,944 --> 00:10:25,114
+此外，IES 数字孪生
+Plus, having an IES digital twin
+
+166
+00:10:25,114 --> 00:10:28,775
+提供了一个以性能为核心的设施虚拟副本，
+provides a performance-focused replica of the facility
+
+167
+00:10:28,775 --> 00:10:35,080
+其表现与真实设施同步，贯穿从规划设计到运营改造的全过程。
+that behaves like its real counterparts, from planning and design to operation and retrofits.
+
+168
+00:10:35,600 --> 00:10:38,060
+IES 还提供端到端的咨询服务，
+Then, there's IES's end-to-end consulting,
+
+169
+00:10:38,060 --> 00:10:40,578
+这家公司已为全球客户
+from a company that's helped global clients
+
+170
+00:10:40,578 --> 00:10:44,560
+解决数字基础设施挑战超过 30 年。
+with their digital infrastructure challenges for more than 30 years.
+
+171
+00:10:44,560 --> 00:10:47,711
+实际上，IES 已帮助一家超大规模云厂商，
+In fact, IES has already helped one hyperscaler
+
+172
+00:10:47,711 --> 00:10:51,265
+对一座现有数据中心进行了液冷改造升级。
+retrofit an existing data center with liquid cooling.
+
+173
+00:10:51,265 --> 00:10:56,117
+该项目使每机架容量从 10 千瓦提升到 50 千瓦，
+It saw them increase capacity from 10 to 50 kW per rack,
+
+174
+00:10:56,117 --> 00:10:57,850
+用水量减少了 95%，
+cut water use by 95%
+
+175
+00:10:57,850 --> 00:11:00,623
+>> >> PUE（电源使用效率，数值越低越节能）达到 1.16。
+>> >> and achieve a PUE of 1.16.
+
+176
+00:11:02,400 --> 00:11:03,971
+与此同时，在爱尔兰，
+Meanwhile, in Ireland,
+
+177
+00:11:03,971 --> 00:11:08,754
+有 10 座数据中心在 IES 顾问的支持下，
+10 data centers were able to lower their space cooling energy loads
+
+178
+00:11:08,754 --> 00:11:12,181
+将空间冷却能耗降低了约 40%。
+by around 40% with support from IES consultants.
+
+179
+00:11:12,181 --> 00:11:13,855
+如果你想深入了解
+If you want to find out more
+
+180
+00:11:13,855 --> 00:11:17,561
+动态模拟如何增强现有 CFD 模拟（计算流体动力学），
+about how dynamic simulation can enhance existing CFD modeling
+
+181
+00:11:17,561 --> 00:11:21,207
+从而打造高性能数据中心，那你来对了。
+to enable high-performance data centers, then you're in luck.
+
+182
+00:11:21,207 --> 00:11:26,200
+>> >> 因为 IES 刚刚发布了一份专门讨论这一主题的全新白皮书（white paper）。
+>> >> Because IES has just released a brand new white paper on that very subject.
+
+183
+00:11:26,480 --> 00:11:28,727
+白皮书内，你将全面了解
+Inside, you'll learn all the ins and outs
+
+184
+00:11:28,727 --> 00:11:32,673
+如何降低 AI 驱动设施的风险、优化冷却策略，
+about de-risking AI-driven facilities and optimizing cooling strategies,
+
+185
+00:11:32,673 --> 00:11:36,400
+并通过完整案例研究，探索其他企业的成功经验。
+while discovering full case studies on how others have made it work.
+
+186
+00:11:36,440 --> 00:11:38,848
+想今天免费下载这份白皮书、
+To download the white paper for free today
+
+187
+00:11:38,848 --> 00:11:41,256
+了解 IES 的全套服务，
+and see the full extent of IES's services,
+
+188
+00:11:41,255 --> 00:11:45,440
+只需扫描屏幕上的二维码，或点击视频简介中的链接。
+just scan the QR code on screen now or click the link in the description.
+
+189
+00:11:45,440 --> 00:11:48,491
+好了，我们聊了服务器机架和冷却系统，
+So, we've talked about server racks and cooling systems,
+
+190
+00:11:48,491 --> 00:11:50,398
+但在数据中心里你会发现的远不止这些。
+but you're going to find a lot more
+
+191
+00:11:50,398 --> 00:11:52,360
+但在数据中心里你会发现的远不止这些。
+inside a data center than just that.
+
+192
+00:11:52,560 --> 00:11:54,561
+还有很多其他组件，
+There are plenty of other components,
+
+193
+00:11:54,561 --> 00:11:56,562
+有些听起来可能相当枯燥，
+some of which might sound quite dull,
+
+194
+00:11:56,561 --> 00:11:58,400
+但其实不可或缺。
+but are actually pretty essential.
+
+195
+00:11:58,960 --> 00:12:05,320
+比如安保、网络、配电等等，它们各自都有自己的能耗需求。
+Security, networking, power distribution, etc., which all have their own energy needs.
+
+196
+00:12:05,880 --> 00:12:10,157
+问题在于，这些庞然大物在全球各地拔地而起，
+The trouble is, having these giant facilities popping up all over the world
+
+197
+00:12:10,157 --> 00:12:14,320
+可能对周边基础设施和社区带来影响。
+can have consequences for the surrounding infrastructure and communities.
+
+198
+00:12:15,800 --> 00:12:20,408
+现在，一些人开始反对这些项目，
+It's gotten to a point where some people are starting to oppose these projects,
+
+199
+00:12:20,408 --> 00:12:22,916
+尤其是在资源有限的地区。
+especially in areas with limited resources.
+
+200
+00:12:23,356 --> 00:12:26,601
+这总是取决于当地的具体情况——
+It always depends on like what's your local situation,
+
+201
+00:12:26,601 --> 00:12:29,064
+比如你们是否面临水资源短缺？
+like are you dealing with water scarcity?
+
+202
+00:12:29,064 --> 00:12:30,536
+是否正在遭受旱灾？
+Are are you dealing with drought?
+
+203
+00:12:30,536 --> 00:12:33,046
+而如果突然间来了一座大型数据中心，
+And if you suddenly have a big data center appearing,
+
+204
+00:12:33,046 --> 00:12:35,130
+它会消耗大量电力，
+that's going to consume a lot of electricity
+
+205
+00:12:35,130 --> 00:12:37,564
+而发电又需要消耗大量的水，
+and there's going to be a lot of water consumed
+
+206
+00:12:37,564 --> 00:12:41,760
+这真的会给当地水资源带来额外压力。
+to generate all that electricity, that can really add to your local water stress.
+
+207
+00:12:42,000 --> 00:12:47,440
+新建项目最集中的地方，已经成为抵抗运动的热点地区。
+Places with the highest concentrations of new builds have become hotspots for resistance.
+
+208
+00:12:47,440 --> 00:12:51,376
+弗吉尼亚州——如今有了"数据中心走廊"（Data Center Alley）的绰号——
+In Virginia, which now has the nickname Data Center Alley,
+
+209
+00:12:51,376 --> 00:12:57,280
+据报道，2025 年有至少 25 个项目因当地居民的反对而被叫停。
+at least 25 projects were reportedly canceled in 2025 following opposition from locals.
+
+210
+00:12:57,800 --> 00:13:03,120
+仅 2023 年，这里的数百座数据中心就消耗了超过 20 亿加仑的水。
+Hundreds of data centers used over 2 billion gallons of water here in 2023.
+
+211
+00:13:04,280 --> 00:13:07,495
+此外，还有关于噪音和污染的投诉，
+And there have been complaints about noise and pollution
+
+212
+00:13:07,495 --> 00:13:10,595
+因为其中许多数据中心仍然接入依赖化石燃料（fossil fuels）的电网，
+because many of them are still hooked into power grids
+
+213
+00:13:10,595 --> 00:13:14,040
+并配备柴油备用发电机（diesel backup generator）。
+that rely on fossil fuels and have diesel backup generators.
+
+214
+00:13:15,080 --> 00:13:17,160
+在美国其他地方，一些人担心自己的电费会上涨，
+Elsewhere in the US, others are worried
+
+215
+00:13:17,160 --> 00:13:19,133
+觉得应对这些影响的措施还远远不够。
+their energy bills are going to go up
+
+216
+00:13:19,133 --> 00:13:22,120
+觉得应对这些影响的措施还远远不够。
+and that not enough is being done to address the impact.
+
+217
+00:13:22,920 --> 00:13:25,400
+我们担心公众健康。
+We are concerned for our public health.
+
+218
+00:13:25,600 --> 00:13:27,757
+我们担心当地环境的健康。
+We are concerned for the health of our local environment.
+
+219
+00:13:27,757 --> 00:13:30,400
+这将是一个巨大的能源黑洞。
+This is going to be a huge energy drain.
+
+220
+00:13:30,640 --> 00:13:32,640
+所以，我担心的是他们将如何管理这个问题。
+So, my concern is how they're going to manage that.
+
+221
+00:13:32,640 --> 00:13:36,664
+>> 我们绝不会承受双倍的公用事业账单。
+>> We are not going to pay double the amount of our utility bills.
+
+222
+00:13:36,664 --> 00:13:38,480
+你明白吗？
+Do you understand that?
+
+223
+00:13:40,880 --> 00:13:44,615
+至于未来会是什么样，正如我们已经解释过的，
+As for what the future looks like, well, as we've already explained,
+
+224
+00:13:44,615 --> 00:13:48,020
+数据中心只会越来越大、越来越普遍。
+data centers are only going to get bigger and more widespread.
+
+225
+00:13:48,020 --> 00:13:52,322
+而且这一切发生的速度，比我们以往见过的任何事都要快。
+And it's happening at a faster rate than anything we've seen before.
+
+226
+00:13:52,322 --> 00:13:53,907
+数字化增长并不是新鲜事。
+Digital growth is not a new thing.
+
+227
+00:13:53,907 --> 00:13:57,460
+上一个十年，流媒体、云计算及其他技术全面起飞，
+We actually had that a lot already in the previous decade,
+
+228
+00:13:57,460 --> 00:14:01,686
+我们其实已经体验过很多了。
+where streaming and cloud and everything else was taking off as well.
+
+229
+00:14:01,686 --> 00:14:05,536
+但现在，随着 AI 的加入，我们正在应对一种"越大越好"的技术。
+But now, with AI, we're dealing with a technology where bigger is better.
+
+230
+00:14:05,536 --> 00:14:10,200
+你可以让这项技术的硬件和软件变得更高效，
+You can make this technology and and and the hardware and software more efficient,
+
+231
+00:14:10,520 --> 00:14:12,850
+但近年来的结果是：
+but what it has led to in recent years is
+
+232
+00:14:12,850 --> 00:14:17,282
+那些效率提升的成果，只是被用来让模型更大、性能更强，
+that those efficiency gains have only been used to make the models even bigger
+
+233
+00:14:17,282 --> 00:14:19,100
+然后让它被更大规模地采用。
+so they can perform even better,
+
+234
+00:14:19,100 --> 00:14:21,600
+然后让它被更大规模地采用。
+so they get adopted at an even larger scale.
+
+235
+00:14:21,880 --> 00:14:26,800
+这就是它与我们之前所见的一切真正分道扬镳的地方。
+So, that's where things really break apart from what we saw previously.
+
+236
+00:14:30,504 --> 00:14:35,200
+>> >> 我们现在看到的这股反弹浪潮，恰恰说明了这些事情确实需要改变。
+>> >> The pushback we're now seeing highlights how things really do need to change.
+
+237
+00:14:35,680 --> 00:14:39,685
+当这些建筑几乎出现在人们的后院时，
+While many of these buildings are appearing almost in people's backyards,
+
+238
+00:14:39,685 --> 00:14:41,440
+受影响的人不能被忽视。
+those affected can't be ignored.
+
+239
+00:14:42,520 --> 00:14:46,800
+社区的反对是一个真实存在的挑战，是真实存在的忧虑。
+Community opposition is a real challenge. It's a real concern.
+
+240
+00:14:46,800 --> 00:14:48,528
+我们必须主动应对。
+We have to address it proactively.
+
+241
+00:14:48,528 --> 00:14:52,634
+我们需要思考如何从基础设施层面，
+We need to think about how we can accommodate the new industry demand
+
+242
+00:14:52,634 --> 00:14:54,360
+容纳新兴行业的需求。
+from the infrastructure side.
+
+243
+00:14:54,360 --> 00:14:57,568
+在电力方面，只要有资金，你就能建发电厂；
+For power, if you have money, you just build a power plant,
+
+244
+00:14:57,568 --> 00:15:00,014
+但水资源，你必须开发新的水源。
+but water, you have to get new water sources.
+
+245
+00:15:00,014 --> 00:15:02,961
+那本质上是有限制的。
+That is naturally constrained.
+
+246
+00:15:03,000 --> 00:15:06,199
+然而，Shaolei 认为，
+And yet, Shaolei believes the recent media focus
+
+247
+00:15:06,199 --> 00:15:09,532
+近期媒体对水资源负面影响的聚焦，
+on the negative effects of water use in particular
+
+248
+00:15:09,532 --> 00:15:11,732
+其实有些夸大，
+has actually been a bit overblown
+
+249
+00:15:11,732 --> 00:15:14,531
+因为这并非所有地方都面临的重大问题。
+because it's not a major issue everywhere.
+
+250
+00:15:14,531 --> 00:15:16,887
+如果有足够的可用水量，
+If there's enough available to spare,
+
+251
+00:15:16,887 --> 00:15:21,280
+它仍然是解决那个最关键冷却难题的最佳方式。
+it's still the best way to tackle that all-important cooling problem.
+
+252
+00:15:21,640 --> 00:15:26,400
+在公众讨论中，这个问题通常被呈现得不太准确。
+The way it is presented in the public discussion is usually not very accurate.
+
+253
+00:15:26,440 --> 00:15:28,756
+如果你看一看某些数据中心，
+If you look at some of the data centers,
+
+254
+00:15:28,756 --> 00:15:31,650
+它们仅在一年中最热的几周或最热的几天才使用水冷。
+they are using water just during the hottest weeks
+
+255
+00:15:31,650 --> 00:15:33,271
+它们仅在一年中最热的几周或最热的几天才使用水冷。
+or hottest days of the year.
+
+256
+00:15:33,791 --> 00:15:36,862
+所以，它们的年用水总量可能很低，
+So, their annual water usage could be very low,
+
+257
+00:15:36,862 --> 00:15:40,130
+但在夏季会大量用水。
+but they use a lot of water during the summertime.
+
+258
+00:15:40,130 --> 00:15:45,433
+对待水资源，更好的解决思路是：我们需要负责任地使用水。
+A better solution to look at water is we need to use water responsibly.
+
+259
+00:15:45,433 --> 00:15:50,480
+如果水是充足的，使用水所带来的好处，不应该被否认。
+If there's water, I think the benefits of using water should not be denied.
+
+260
+00:15:51,440 --> 00:15:55,554
+就像这项技术本身一样，
+Like the technology itself, the construction of new data centers
+
+261
+00:15:55,554 --> 00:15:57,675
+新数据中心的建设已经成为一个复杂的议题。
+has become a complicated subject.
+
+262
+00:15:57,675 --> 00:16:01,270
+我们离不开它们，而且它们绝对不会消失。
+We can't live without them and they're definitely not going anywhere.
+
+263
+00:16:01,271 --> 00:16:03,440
+恰恰相反。
+In fact, quite the opposite of that.
+
+264
+00:16:03,760 --> 00:16:06,902
+但如果我们打算继续建设这些超级工程，
+But if we're going to carry on building these megastructures
+
+265
+00:16:06,902 --> 00:16:09,573
+并以超越以往规模的方式推进，
+and build them on a scale that's bigger and greater
+
+266
+00:16:09,574 --> 00:16:11,040
+并以超越以往规模的方式推进，
+than what we've seen so far,
+
+267
+00:16:11,440 --> 00:16:13,896
+那我们真的必须先解决系统中的一些漏洞。
+we really are going to have to work out a few bugs
+
+268
+00:16:13,896 --> 00:16:14,879
+那我们真的必须先解决系统中的一些漏洞。
+in the system first.
+
+269
+00:16:15,800 --> 00:16:18,386
+再次提醒，如果你正在寻找如何让数据中心 AI 就绪并面向未来的指导，
+Once again, if you're looking for some guidance
+
+270
+00:16:18,386 --> 00:16:21,412
+请务必去下载那份白皮书。
+on how to make a data center AI-ready and future-proof,
+
+271
+00:16:21,413 --> 00:16:23,999
+请务必去下载那份白皮书。
+make sure you go and download that white paper.
+
+272
+00:16:23,999 --> 00:16:25,406
+正是像 IES 这样的视频赞助商，
+It's video sponsors like IES
+
+273
+00:16:25,406 --> 00:16:28,824
+使我们能够每周为你们持续制作这些精彩视频，
+that enable us to keep making these great videos for you every week,
+
+274
+00:16:28,824 --> 00:16:31,387
+我们也非常感谢你们花时间去了解他们。
+and we'd really appreciate you guys taking the time
+
+275
+00:16:31,387 --> 00:16:32,644
+我们也非常感谢你们花时间去了解他们。
+to go and check them out.
+
+276
+00:16:32,644 --> 00:16:35,233
+一如既往，各位朋友，如果你喜欢这期视频，
+And as always, guys, if you enjoyed this video
+
+277
+00:16:35,233 --> 00:16:39,510
+想要获取来自这个全球最权威建筑视频频道的更多内容，
+and you want to get more from the definitive video channel for construction,
+
+278
+00:16:39,510 --> 00:16:41,480
+记得订阅 B1M。
+make sure you subscribe to the B1M.
