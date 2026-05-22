@@ -1,0 +1,23 @@
+{
+  "totalMi": 484,
+  "unmatchedMiCount": 0,
+  "matchedRate": 1,
+  "unmatchedSentences": [],
+  "longSentencesCount": 1,
+  "longSentences": [
+    {
+      "n": 60,
+      "words": 41,
+      "text": "Their built-in AI panel means you can quickly generate 3D axonometric views from your floor plans and sections, create sleek mood boards for your designs, or even make a bespoke material palette for a luxury penthouse on a new palm island.",
+      "miList": [
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142
+      ]
+    }
+  ]
+}

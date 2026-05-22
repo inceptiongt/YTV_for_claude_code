@@ -1,0 +1,90 @@
+# Building world’s biggest palm island… again.
+
+[69] How do you make land from scratch?
+[70] Well, you dredge it.
+[71] Huge volumes of sand from the Persian Gulf seabed were transported via pipelines and dredger barges to the island's site.
+[72] There, a technique called rainbowing sprayed the sand in a controlled ark to deposit it precisely where needed to build up the trunk and fronds of the Palm Island.
+[73] Simply placing sand on top of the seabed isn't enough.
+[74] The reclaimed ground must support the weight of all the buildings on top.
+[75] Think for a moment of a sand castle.
+[76] It's possible to build a very large, very tall sand castle.
+[77] We see it all the time.
+[78] As we know, sand is made from many little individual grains.
+[79] These grains touch each other at thousands of contact points.
+[80] Together, they form a stable framework, otherwise known as a soil skeleton.
+[81] Now, when weight is applied to the top of the sand, that weight is transmitted through these contact points from grain to grain.
+[82] As each of these grains are irregular in shape, they interlock, making movement harder.
+[83] The roughness creates friction, which in turn also makes movement harder.
+[84] Water then fills the space between the grains. While it doesn't carry the weight, it can sometimes add temporary strength.
+[85] That's how sand castles can get constructed so high.
+[86] However, in the event of any seismic activity, this all goes to hell.
+[87] Strong shaking causes sand grains to lose contact.
+[88] Poor water pressure increases between the grains, which means the water starts carrying the load instead of the sand, which is not good.
+[89] The soil loses strength and stiffness, and the ground behaves like thick fluid or quicksand.
+[90] Our sand castle falls to the ground and any villa or skyscraper on top of it would do the same thing.
+[91] Even without an earthquake, liquefaction can still be a pretty big problem when you're building on reclaimed land.
+[92] Small movements can cause foundations to settle, which in turn can make buildings tilt or crack. It can buckle roads.
+[93] It can even break underground service pipes.
+[94] So, how does the Palm Jabali plan to get around this problem? Well, they kind of created their own earthquake.
+[95] First, engineers used a method called viro compaction.
+[96] It's where heavy vibrating probes are inserted down through the loose sand to a depth of about 15 m.
+[97] The vibration along with injected water rearranges and densifies the sand grains, packing them closer together.
+[98] Making the sand denser means more grainto-rain contact and friction, both of which create greater stability.
+[99] The whole island itself is surrounded by a cresant-shaped breakwater system.
+[100] This protective structure made primarily of sand and rocks is designed to shield the artificial island from strong tides, waves, and seasonal storms.
+[101] This one in particular is 17 km long and about 200 m wide, making it even larger than the one around Palmyra.
+[102] Construction began with marine surveying of the seabed to map depths and conditions.
+[103] Huge rock armor units were brought in, often weighing several tons each.
+[104] These rocks were placed layer by layer over the base.
+[105] A fleet of barges, tugboats, and dredges transported these rocks before large floating cranes lifted and set them into position.
+[106] The sloping shape of the breakwater and the graded rock layers were designed so that incoming waves lose energy progressively rather than just hitting a vertical face
+[107] that reduces scour around the base of the breakwater while protecting the reclaimed land and islands on the interior.
+[108] As the rocks were positioned by the cranes, they were verified by GPS and divers under the water which gave them incredible precision.
+[109] In fact, a lot of the construction of the Palm Jebali used GPS technology.
+[110] Because the entire island was created offshore with no physical reference points like roads or fixed land boundaries, GPS was actually essential.
+[111] Engineers converted the palm design into digital coordinates.
+[112] Those coordinates were then fed into GPS systems which were then relayed to the dredges and the dredges poured their sand according to the digital model.
+[113] It was almost like 3D printing an entire island.
+[114] With the land pulled up from the sea, construction could then begin on everything else.
+[115] Roads, utilities, sewage systems, villas, and of course, hotels.
+[116] They're building a small city on top of this island, and that's no easy feat.
+[117] Dubai has outdone itself and successfully constructed a Palm Island that's more than twice as big as their last record-breaking Palm Island.
+[118] The first phase of villas have also completely sold out.
+[119] So, how did we get here from 2008?
+
+# After the crash
+
+[120] How was Dubai not only able to recover but also start building massive mega projects once again?
+[121] Now, bear with us because things are going to get a little bit complicated.
+[122] Before 2008, Dubai had a property bubble that was driven by cheap global credit.
+[123] The sudden freeze of liquidity after Lehman collapsed meant that people from overseas were no longer buying real estate. So Abu Dhabi bailed them out.
+[124] Abu Dhabi is here.
+[125] It's the other famous emirates in the UAE and it's the one with all the cash. Why is that?
+[126] It's because Abu Dhabi holds 95% of all the UAE's oil and 90% of its gas.
+[127] Dubai, on the other hand, has smaller, more depleted oil reserves that only contribute a fraction to the economy.
+[128] In December of 2009, the government of Abu Dhabi provided $10 billion to the Dubai Financial Support Fund.
+[129] The money was used to meet some of the immediate debt obligations of Dubai world as well as some other obligations while longerterm debt restructuring was negotiated.
+[130] That's the moment that changed Dubai forever. It set new rules for the UAE.
+[131] While Dubai could innovate, it was Abu Dhabi that settled the balance sheet.
+[132] The impact was evident almost immediately.
+[133] Most famously, the Burj Dubai was renamed the Burj Khalifa after Abu Dhabi's ruler.
+[134] Now, Dubai had phased developments instead of simultaneous mega projects, and there was much stricter real estate regulation to grapple with.
+[135] There wasn't an abandonment of Dubai's crazy build mentality. It was a refinement.
+[136] In a way, 2008 helped the city to mature and grow up. And it paid off.
+[137] Dubai is now no longer recovering, but thriving.
+[138] The place has established itself as a neutral parking spot for international wealth thanks to no income tax and fast visas.
+[139] Dubai is once again seeing international money flowing from Russia, China, and Europe, which is in turn funding vast construction projects.
+[140] But this time, it's accompanied by a huge population boom.
+[141] While many new buildings are still essentially safety deposit boxes in the sky, there are other buildings actually being built for people to live and work in too.
+[142] The big question is, will any of this last?
+[143] And to be honest, it's a question that only time can answer.
+[144] By all accounts, the foundations of this new Dubai 2.0 do seem to be constructed on pretty sturdy ground.
+[145] It's almost like they've reinforced the sand beneath their feet, if you will.
+[146] As for the islands, well, they've been constructed with rising seas and stronger storms in mind.
+[147] Most sea level rise projections range from 0.3 to a meter.
+[148] They've built a buffer for this combined with the cresant-shaped breakwater system.
+[149] Ironically, this island might last longer than most coastal cities.
+[150] And that seems to go for the rest of the city now as well. Dubai is being built to last.
+[151] This video was sponsored by Rayon Design.
+[152] Don't forget that if you're a professional interior designer or an architect, you're going to want to check out Rayon Design for yourself for free at the link in the description.
+[153] And as always guys, if you enjoyed this video and you want to get more from the definitive video channel for construction, make sure you're subscribed to the B1M
