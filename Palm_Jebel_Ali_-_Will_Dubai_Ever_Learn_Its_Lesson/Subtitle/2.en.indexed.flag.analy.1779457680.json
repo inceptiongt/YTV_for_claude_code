@@ -1,0 +1,91 @@
+{
+  "totalMi": 432,
+  "unmatchedMiCount": 1,
+  "matchedRate": 0.9977,
+  "unmatchedSentences": [
+    {
+      "n": 34,
+      "words": 25,
+      "text": "that green light flickered on in 2023 when local authorities approved a new master plan for the site. Progress has been accelerating ever since then.",
+      "miList": [
+        106,
+        107,
+        108,
+        109
+      ],
+      "unmatchedMi": [
+        108
+      ]
+    }
+  ],
+  "longSentencesCount": 4,
+  "longSentences": [
+    {
+      "n": 35,
+      "words": 41,
+      "text": "The palms are taking shape and a mini city is steadily being built on top of them and some of these homes will be impressive. We're talking glasswalled pen houses and sprawling waterfront villas. It's honestly hard not to be a",
+      "miList": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115
+      ]
+    },
+    {
+      "n": 43,
+      "words": 76,
+      "text": "and sections, create sleek mood boards for your designs, or even make a bespoke material palette for a luxury penthouse on a new palm island. All of this while being able to collaborate with others instantaneously, so you've got ample time to focus on what really matters, like this gorgeous C view I'm going to have from my kitchen. And speaking of saving time, Rayon Design has a library of over 10,000 CAD blocks at scale.",
+      "miList": [
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149
+      ]
+    },
+    {
+      "n": 74,
+      "words": 66,
+      "text": "A fleet of barges, tugboats, and dredges transported these rocks before large floating cranes lifted and set them into position. The sloping shape of the breakwater and the graded rock layers were designed so that incoming waves lose energy progressively rather than just hitting a vertical face that reduces scour around the base of the breakwater while protecting the reclaimed land and islands on the interior.",
+      "miList": [
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255
+      ]
+    },
+    {
+      "n": 96,
+      "words": 42,
+      "text": "The place has established itself as a neutral parking spot for international wealth thanks to no income tax and fast visas. Dubai is once again seeing international money flowing from Russia, China, and Europe, which is in turn funding vast construction projects.",
+      "miList": [
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334
+      ]
+    }
+  ]
+}

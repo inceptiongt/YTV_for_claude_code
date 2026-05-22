@@ -1,0 +1,61 @@
+{
+  "totalMi": 437,
+  "unmatchedMiCount": 2,
+  "matchedRate": 0.9954,
+  "unmatchedSentences": [
+    {
+      "n": 47,
+      "words": 34,
+      "text": "All of this while being able to collaborate with others instantaneously, so you've got ample time to focus on what really matters, like this gorgeous C view I'm going to have from my kitchen.",
+      "miList": [
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ],
+      "unmatchedMi": [
+        144
+      ]
+    },
+    {
+      "n": 80,
+      "words": 46,
+      "text": "The sloping shape of the breakwater and the graded rock layers were designed so that incoming waves lose energy progressively rather than just hitting a vertical face that reduces scour around the base of the breakwater while protecting the reclaimed land and islands on the interior.",
+      "miList": [
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255
+      ],
+      "unmatchedMi": [
+        252
+      ]
+    }
+  ],
+  "longSentencesCount": 1,
+  "longSentences": [
+    {
+      "n": 80,
+      "words": 46,
+      "text": "The sloping shape of the breakwater and the graded rock layers were designed so that incoming waves lose energy progressively rather than just hitting a vertical face that reduces scour around the base of the breakwater while protecting the reclaimed land and islands on the interior.",
+      "miList": [
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255
+      ]
+    }
+  ]
+}

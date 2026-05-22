@@ -1,0 +1,338 @@
+{
+  "totalMi": 416,
+  "unmatchedMiCount": 7,
+  "matchedRate": 0.9832,
+  "unmatchedSentences": [
+    {
+      "n": 26,
+      "words": 51,
+      "text": "overnight, and some property prices fell by as much as 60%. Dubai World, an investment company that manages and supervises a whole range of businesses and projects for the Dubai government, asked to delay repayments on $26 billion worth of debt. That triggered panic and many people lost faith in Dubai.",
+      "miList": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "unmatchedMi": [
+        85
+      ]
+    },
+    {
+      "n": 31,
+      "words": 59,
+      "text": "that green light flickered on in 2023 when local authorities approved a new master plan for the site. Progress has been accelerating ever since then. The palms are taking shape and a mini city is steadily being built on top of them and some of these homes will be impressive. We're talking glasswalled pen houses and sprawling waterfront villas.",
+      "miList": [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "unmatchedMi": [
+        108
+      ]
+    },
+    {
+      "n": 38,
+      "words": 98,
+      "text": "No bouncing around between endless applications. Their built-in AI panel means you can quickly generate 3D axonometric views from your floor plans and sections, create sleek mood boards for your designs, or even make a bespoke material palette for a luxury penthouse on a new palm island. All of this while being able to collaborate with others instantaneously, so you've got ample time to focus on what really matters, like this gorgeous C view I'm going to have from my kitchen. And speaking of saving time, Rayon Design has a library of over 10,000 CAD blocks at scale.",
+      "miList": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149
+      ],
+      "unmatchedMi": [
+        135
+      ]
+    },
+    {
+      "n": 53,
+      "words": 36,
+      "text": "The soil loses strength and stiffness, and the ground behaves like thick fluid or quicksand. Our sand castle falls to the ground and any villa or skyscraper on top of it would do the same thing.",
+      "miList": [
+        204,
+        205,
+        206,
+        207,
+        208
+      ],
+      "unmatchedMi": [
+        206
+      ]
+    },
+    {
+      "n": 78,
+      "words": 54,
+      "text": "The impact was evident almost immediately. Most famously, the Burj Dubai was renamed the Burj Khalifa after Abu Dhabi's ruler. Now, Dubai had phased developments instead of simultaneous mega projects, and there was much stricter real estate regulation to grapple with. There wasn't an abandonment of Dubai's crazy build mentality. It was a refinement.",
+      "miList": [
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324
+      ],
+      "unmatchedMi": [
+        318
+      ]
+    },
+    {
+      "n": 82,
+      "words": 130,
+      "text": "But this time, it's accompanied by a huge population boom. While many new buildings are still essentially safety deposit boxes in the sky, there are other buildings actually being built for people to live and work in too. The big question is, will any of this last? And to be honest, it's a question that only time can answer. By all accounts, the foundations of this new Dubai 2.0 do seem to be constructed on pretty sturdy ground. It's almost like they've reinforced the sand beneath their feet, if you will. As for the islands, well, they've been constructed with rising seas and stronger storms in mind. Most sea level rise projections range from 0.3 to a meter. They've built a buffer for this combined with the cresant-shaped breakwater system.",
+      "miList": [
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355
+      ],
+      "unmatchedMi": [
+        341,
+        348
+      ]
+    }
+  ],
+  "longSentencesCount": 11,
+  "longSentences": [
+    {
+      "n": 25,
+      "words": 42,
+      "text": ">> The financial crisis spread from America to the rest of the world. Dubai was hit harder and more visibly than any city outside of the West, partly because it depended on money coming in from those locations. All construction work stopped",
+      "miList": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "n": 26,
+      "words": 51,
+      "text": "overnight, and some property prices fell by as much as 60%. Dubai World, an investment company that manages and supervises a whole range of businesses and projects for the Dubai government, asked to delay repayments on $26 billion worth of debt. That triggered panic and many people lost faith in Dubai.",
+      "miList": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ]
+    },
+    {
+      "n": 31,
+      "words": 59,
+      "text": "that green light flickered on in 2023 when local authorities approved a new master plan for the site. Progress has been accelerating ever since then. The palms are taking shape and a mini city is steadily being built on top of them and some of these homes will be impressive. We're talking glasswalled pen houses and sprawling waterfront villas.",
+      "miList": [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115
+      ]
+    },
+    {
+      "n": 38,
+      "words": 98,
+      "text": "No bouncing around between endless applications. Their built-in AI panel means you can quickly generate 3D axonometric views from your floor plans and sections, create sleek mood boards for your designs, or even make a bespoke material palette for a luxury penthouse on a new palm island. All of this while being able to collaborate with others instantaneously, so you've got ample time to focus on what really matters, like this gorgeous C view I'm going to have from my kitchen. And speaking of saving time, Rayon Design has a library of over 10,000 CAD blocks at scale.",
+      "miList": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149
+      ]
+    },
+    {
+      "n": 50,
+      "words": 68,
+      "text": "Now, when weight is applied to the top of the sand, that weight is transmitted through these contact points from grain to grain. As each of these grains are irregular in shape, they interlock, making movement harder. The roughness creates friction, which in turn also makes movement harder. Water then fills the space between the grains. While it doesn't carry the weight, it can sometimes add temporary strength.",
+      "miList": [
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195
+      ]
+    },
+    {
+      "n": 57,
+      "words": 43,
+      "text": "First, engineers used a method called viro compaction. It's where heavy vibrating probes are inserted down through the loose sand to a depth of about 15 m. The vibration along with injected water rearranges and densifies the sand grains, packing them closer together.",
+      "miList": [
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226
+      ]
+    },
+    {
+      "n": 62,
+      "words": 66,
+      "text": "A fleet of barges, tugboats, and dredges transported these rocks before large floating cranes lifted and set them into position. The sloping shape of the breakwater and the graded rock layers were designed so that incoming waves lose energy progressively rather than just hitting a vertical face that reduces scour around the base of the breakwater while protecting the reclaimed land and islands on the interior.",
+      "miList": [
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255
+      ]
+    },
+    {
+      "n": 75,
+      "words": 45,
+      "text": "In December of 2009, the government of Abu Dhabi provided $10 billion to the Dubai Financial Support Fund. The money was used to meet some of the immediate debt obligations of Dubai world as well as some other obligations while longerterm debt restructuring was negotiated.",
+      "miList": [
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ]
+    },
+    {
+      "n": 78,
+      "words": 54,
+      "text": "The impact was evident almost immediately. Most famously, the Burj Dubai was renamed the Burj Khalifa after Abu Dhabi's ruler. Now, Dubai had phased developments instead of simultaneous mega projects, and there was much stricter real estate regulation to grapple with. There wasn't an abandonment of Dubai's crazy build mentality. It was a refinement.",
+      "miList": [
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324
+      ]
+    },
+    {
+      "n": 81,
+      "words": 42,
+      "text": "The place has established itself as a neutral parking spot for international wealth thanks to no income tax and fast visas. Dubai is once again seeing international money flowing from Russia, China, and Europe, which is in turn funding vast construction projects.",
+      "miList": [
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334
+      ]
+    },
+    {
+      "n": 82,
+      "words": 130,
+      "text": "But this time, it's accompanied by a huge population boom. While many new buildings are still essentially safety deposit boxes in the sky, there are other buildings actually being built for people to live and work in too. The big question is, will any of this last? And to be honest, it's a question that only time can answer. By all accounts, the foundations of this new Dubai 2.0 do seem to be constructed on pretty sturdy ground. It's almost like they've reinforced the sand beneath their feet, if you will. As for the islands, well, they've been constructed with rising seas and stronger storms in mind. Most sea level rise projections range from 0.3 to a meter. They've built a buffer for this combined with the cresant-shaped breakwater system.",
+      "miList": [
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355
+      ]
+    }
+  ]
+}
