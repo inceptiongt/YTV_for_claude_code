@@ -1,14 +1,18 @@
 [2.1:en] construction.[segment]We've
-[2.2:en] between.[segment]
+[2.2:en] up, things come down,[segment]and
+[2.3:en] between.[segment]
 [2.1:zh] 大年。[segment]我们
-[2.2:zh] 发生过。[segment]
+[2.2:zh] 倒塌，[segment]几乎
+[2.3:zh] 发生过。[segment]
 
 [3.1:en] industry[segment]get
-[3.2:en] easy,[segment]but
-[3.3:en] not.[segment]
+[3.2:en] world[segment]and
+[3.3:en] easy,[segment]but
+[3.4:en] not.[segment]
 [3.1:zh] 的人[segment]每天
-[3.2:zh] 轻描淡写，[segment]但
-[3.3:zh] 简单。[segment]
+[3.2:zh] 世界，[segment]看起来
+[3.3:zh] 淡写，[segment]但
+[3.4:zh] 简单。[segment]
 
 [6.1:en] it,[segment]but
 [6.2:en] year[segment]and
@@ -32,7 +36,7 @@
 [12.1:en] hall[segment]ruptured
 [12.2:en] ceiling,[segment]causing
 [12.3:en] collapse.[segment]
-[12.1:zh] 施工时，[segment]顶板
+[12.1:zh] 站厅[segment]连接
 [12.2:zh] 打穿，[segment]导致
 [12.3:zh] 坍塌。[segment]
 
@@ -48,41 +52,68 @@
 [14.1:zh] 裂开，[segment]大到
 [14.2:zh] 进去。[segment]
 
+[15.1:en] enough,[segment]what
+[15.2:en] again?[segment]
+[15.1:zh] 的是，[segment]这个
+[15.2:zh] 来着？[segment]
+
 [18.1:en] Hospital,[segment]home
 [18.2:en] year.[segment]
 [18.1:zh] 医院，[segment]每年
-[18.2:zh] 名。[segment]
+[18.2:zh] 万名。[segment]
 
 [24.1:en] United,[segment]one
 [24.2:en] world.[segment]
-[24.1:zh] 主场，[segment]世界
+[24.1:zh] 主场，[segment]世界上
 [24.2:zh] 之一。[segment]
 
 [27.1:en] underperforming,[segment]they
-[27.2:en] stadium.[segment]
+[27.2:en] build[segment]a
+[27.3:en] stadium.[segment]
 [27.1:zh] 下滑时[segment]都会
-[27.2:zh] 大球场。[segment]
+[27.2:zh] 那样，[segment]他们
+[27.3:zh] 大球场。[segment]
 
-[28.1:en] architect[segment]and
-[28.2:en] suit,[segment]Norman
-[28.3:en] Foster.[segment]
-[28.1:zh] 建筑师——[segment]那位
-[28.2:zh] 叹为观止的[segment]诺曼·福斯特。[segment]
-[28.3:zh] [copy][segment]
+[28.1:en] club[segment]turned
+[28.2:en] architect[segment]and
+[28.3:en] suit,[segment]Norman
+[28.4:en] Foster.[segment]
+[28.1:zh] 俱乐部[segment]找来了
+[28.2:zh] 建筑师——[segment]那位
+[28.3:zh] 西装[segment]帅得
+[28.4:zh] 福斯特。[segment]
 
 [29.1:en] with.[segment]A
-[29.2:en] rainwater.[segment]It
-[29.3:en] tent.[segment]
+[29.2:en] umbrella[segment]capable
+[29.3:en] rainwater.[segment]It
+[29.4:en] structure[segment]and
+[29.5:en] tent.[segment]
 [29.1:zh] 这样的：[segment]一座
-[29.2:zh] 雨水。[segment]方案
-[29.3:zh] 帐篷。[segment]
+[29.2:zh] 遮篷之下，[segment]能够
+[29.3:zh] 雨水。[segment]方案
+[29.4:zh] 十足，[segment]看起来
+[29.5:zh] 帐篷。[segment]
 
 [32.1:en] announced,[segment]it
-[32.2:en] ahead,[segment]but
-[32.3:en] top.[segment]
-[32.1:zh] 7个月后的十月，[segment]新球场
-[32.2:zh] 确认：[segment]球场
-[32.3:zh] 没了。[segment]
+[32.2:en] confirmed[segment]the
+[32.3:en] ahead,[segment]but
+[32.4:en] top.[segment]
+[32.1:zh] 后的[segment]十月，
+[32.2:zh] 悄悄确认：[segment]球场
+[32.3:zh] 会建，[segment]但
+[32.4:zh] 没了。[segment]
+
+[33.1:en] it.[segment]You
+[33.2:en] enough.[segment]I'm
+[33.3:en] college.[segment]
+[33.1:zh] 了。[segment]你们
+[33.2:zh] 久了。[segment]我要
+[33.3:zh] 了。[segment]
+
+[35.1:en] projects.[segment]For
+[35.2:en] Arabia.[segment]
+[35.1:zh] 水平。[segment]要看
+[35.2:zh] 阿拉伯。[segment]
 
 [36.1:en] Line,[segment]a
 [36.2:en] desert.[segment]Then,
@@ -92,6 +123,11 @@
 [36.2:zh] 世界。[segment]然后，
 [36.3:zh] 建不了"，[segment]一大批
 [36.4:zh] 亮相。[segment]
+
+[38.1:en] done.[segment]To
+[38.2:en] replied,[segment]
+[38.1:zh] 实现。[segment]对此，
+[38.2:zh] 是——[segment]
 
 [41.1:en] desert,[segment]endless
 [41.2:en] concrete,[segment]and
@@ -103,21 +139,34 @@
 [41.4:zh] 审查。[segment]
 
 [42.1:en] Neome.[segment]According
-[42.2:en] projects,[segment]and
-[42.3:en] budget.[segment]
+[42.2:en] Times,[segment]work
+[42.3:en] projects,[segment]and
+[42.4:en] it,[segment]trillions
+[42.5:en] budget.[segment]
 [42.1:zh] 一年。[segment]据
-[42.2:zh] 停滞，[segment]而
-[42.3:zh] 美元。[segment]
+[42.2:zh] 报道，[segment]几乎
+[42.3:zh] 停滞，[segment]而
+[42.4:zh] 城市——[segment]做好
+[42.5:zh] 美元。[segment]
 
-[43.1:en] Traina,[segment]a
-[43.2:en] mountains.[segment]
-[43.1:zh] 特罗耶纳，[segment]一个
-[43.2:zh] 人工湖。[segment]
+[43.1:en] backing[segment]is
+[43.2:en] Traina,[segment]a
+[43.3:en] mountains.[segment]
+[43.1:zh] 支持的[segment]项目是
+[43.2:zh] 特罗耶纳，[segment]一个
+[43.3:zh] 人工湖。[segment]
+
+[44.1:en] Games,[segment]but
+[44.2:en] yet.[segment]
+[44.1:zh] 运动会，[segment]但
+[44.2:zh] 缓一缓。[segment]
 
 [45.1:en] ceremony,[segment]it
-[45.2:en] it.[segment]
+[45.2:en] Neom[segment]was
+[45.3:en] it.[segment]
 [45.1:zh] 四年，[segment]NEOM
-[45.2:zh] 项目。[segment]
+[45.2:zh] 居然[segment]还在
+[45.3:zh] 项目。[segment]
 
 [50.1:en] 2,[segment]a
 [50.2:en] reservoirs[segment]and
@@ -127,16 +176,20 @@
 [50.3:zh] 项目。[segment]
 
 [51.1:en] Florence,[segment]the
-[51.2:en] work.[segment]
+[51.2:en] machine[segment]that
+[51.3:en] work.[segment]
 [51.1:zh] 弗洛伦斯，[segment]那台
-[51.2:zh] 盾构机）。[segment]
+[51.2:zh] 后就[segment]卡住了的
+[51.3:zh] 盾构机）。[segment]
 
 [52.1:en] happened,[segment]but
 [52.2:en] blowout[segment]that
-[52.3:en] months.[segment]
+[52.3:en] double[segment]to
+[52.4:en] months.[segment]
 [52.1:zh] 顺利了，[segment]但
 [52.2:zh] 导致[segment]预算
-[52.3:zh] 美元。[segment]
+[52.3:zh] 翻了一番，[segment]飙升至
+[52.4:zh] 美元。[segment]
 
 [53.1:en] ground.[segment]As
 [53.2:en] it,[segment]we
@@ -146,131 +199,202 @@
 [53.3:zh] 如此。[segment]
 
 [56.1:en] unstuck[segment]and
-[56.2:en] bit.[segment]
+[56.2:en] continued,[segment]at
+[56.3:en] bit.[segment]
 [56.1:zh] 脱困，[segment]施工
-[56.2:zh] 时间。[segment]
+[56.2:zh] 继续，[segment]至少
+[56.3:zh] 时间。[segment]
 
 [57.1:en] January[segment]due
-[57.2:en] maintained.[segment]
+[57.2:en] chambers[segment]hadn't
+[57.3:en] maintained.[segment]
 [57.1:zh] 一月份，[segment]由于
-[57.2:zh] 叫停。[segment]
+[57.2:zh] 妥善[segment]维护，
+[57.3:zh] 叫停。[segment]
 
-[59.1:en] that,[segment]but
-[59.2:en] project.[segment]It's
+[58.1:en] areas[segment]that
+[58.2:en] shelter[segment]in
+[58.3:en] collapse.[segment]
+[58.1:zh] 是在[segment]隧道
+[58.2:zh] 时工人[segment]应当
+[58.3:zh] 区域。[segment]
+
+[59.1:en] project.[segment]It's
+[59.2:en] months[segment]and
 [59.3:en] cheap.[segment]
-[59.1:zh] 不仅如此，[segment]十月份
-[59.2:zh] 审计，[segment]预计
+[59.1:zh] 审计，[segment]预计
+[59.2:zh] 个月，[segment]而且——
 [59.3:zh] 少。[segment]
 
 [61.1:en] Chernobyl[segment]>>
 [61.2:en] terrible.[segment]>>
 [61.3:en] attack.[segment]
 [61.1:zh] 消息：[segment]切尔诺贝利
-[61.2:zh] 糟。[segment]>>
+[61.2:zh] 不算糟。[segment]对，
 [61.3:zh] 袭击。[segment]
 
 [62.1:en] February,[segment]and
-[62.2:en] wreckage.[segment]
+[62.2:en] drone[segment]were
+[62.3:en] wreckage.[segment]
 [62.1:zh] 凌晨2点，[segment]俄制
-[62.2:zh] 找到。[segment]
+[62.2:zh] 无人机的[segment]残骸
+[62.3:zh] 找到。[segment]
 
 [63.1:en] hole[segment]in
-[63.2:en] 4.[segment]
-[63.1:zh] 一个6米宽的洞[segment]在
-[63.2:zh] 上。[segment]
+[63.2:en] shelter[segment]covering
+[63.3:en] 4.[segment]
+[63.1:zh] 了一个[segment]6米宽的洞
+[63.2:zh] 密封[segment]覆盖着
+[63.3:zh] 反应堆的[segment]保护罩上。[segment]
 
 [64.1:en] cladding,[segment]causing
-[64.2:en] roof.[segment]
+[64.2:en] internally[segment]throughout
+[64.3:en] roof.[segment]
 [64.1:zh] 外覆层，[segment]导致
-[64.2:zh] 蔓延。[segment]
+[64.2:zh] 火势[segment]在屋顶
+[64.3:zh] 蔓延。[segment]
 
 [67.1:en] danger,[segment]but
-[67.2:en] collapse.[segment]
-[67.1:zh] 危险，[segment]但
-[67.2:zh] 改变。[segment]
+[67.2:en] or all[segment]of
+[67.3:en] collapse.[segment]
+[67.1:zh] 危险，[segment]这一点
+[67.2:zh] 但如果[segment]内部
+[67.3:zh] 改变。[segment]
 
 [68.1:en] roof,[segment]but
-[68.2:en] repaired.[segment]
+[68.2:en] run,[segment]it
+[68.3:en] repaired.[segment]
 [68.1:zh] 方案，[segment]但
-[68.2:zh] 修复。[segment]
+[68.2:zh] 来看，[segment]这个
+[68.3:zh] 修复。[segment]
 
-[69.1:en] building,[segment]which
-[69.2:en] town.[segment]
-[69.1:zh] 大楼里，[segment]不过
-[69.2:zh] 大使。[segment]
+[69.1:en] me.[segment]>>
+[69.2:en] screens[segment]in
+[69.3:en] channel,[segment]but
+[69.4:en] town.[segment]
+[69.1:zh] 说。[segment]>>
+[69.2:zh] 视野，[segment]出现在
+[69.3:zh] 大楼里，[segment]不过
+[69.4:zh] 大使。[segment]
+
+[70.1:en] site[segment]of
+[70.2:en] Kingdom.[segment]
+[70.1:zh] 可能就是[segment]中国
+[70.2:zh] 选址，[segment]也可能不是。[segment]
 
 [72.1:en] twists[segment]that
-[72.2:en] up.[segment]
+[72.2:en] Wiler[segment]wouldn't
+[72.3:en] up.[segment]
 [72.1:zh] 反转之多，[segment]连
-[72.2:zh] 上。[segment]
+[72.2:zh] 怀勒大使[segment]都
+[72.3:zh] 上。[segment]
+
+[73.1:en] do?[segment]>>
+[73.2:en] involved,[segment]but
+[73.3:en] roundup[segment]of
+[73.4:en] edition.[segment]
+[73.1:zh] 什么？[segment]>>
+[73.2:zh] 其中，[segment]不过
+[73.3:zh] 节目——[segment]驻外
+[73.4:zh] 版。[segment]
 
 [74.1:en] London,[segment]but
-[74.2:en] plants.[segment]
-[74.1:zh] 新使馆，[segment]但
-[74.2:zh] 疑虑。[segment]
+[74.2:en] gigantic[segment]unmarked
+[74.3:en] plants.[segment]
+[74.1:zh] 使馆，[segment]但
+[74.2:zh] 图纸中[segment]一个
+[74.3:zh] 疑虑。[segment]
 
 [75.1:en] spying,[segment]but
-[75.2:en] grounds.[segment]
-[75.1:zh] 间谍活动，[segment]但
-[75.2:zh] 拒绝了。[segment]
+[75.2:en] denied[segment]on
+[75.3:en] grounds.[segment]
+[75.1:zh] 活动，[segment]但
+[75.2:zh] 许可[segment]还是
+[75.3:zh] 拒绝了。[segment]
 
-[77.1:en] plans[segment]and
-[77.2:en] personally.[segment]
-[77.1:zh] 方案，[segment]负责
-[77.2:zh] 申请。[segment]
+[76.1:en] election[segment]and
+[76.2:en] China.[segment]
+[76.1:zh] 大选，[segment]新政府
+[76.2:zh] 中国。[segment]
+
+[77.1:en] friend.[segment]>>
+[77.2:en] plans[segment]and
+[77.3:en] personally.[segment]
+[77.1:zh] 朋友。[segment]>>
+[77.2:zh] 方案，[segment]负责
+[77.3:zh] 申请。[segment]
 
 [78.1:en] it,[segment]but
-[78.2:en] scandal.[segment]
+[78.2:en] decision,[segment]she
+[78.3:en] scandal.[segment]
 [78.1:zh] 放行，[segment]但
-[78.2:zh] 辞职了。[segment]
+[78.2:zh] 前，[segment]她因
+[78.3:zh] 辞职了。[segment]
 
 [79.1:en] alarm[segment]over
 [79.2:en] LinkedIn,[segment]and
 [79.3:en] doomed.[segment]
-[79.1:zh] 警告，[segment]就
-[79.2:zh] 议员[segment]一事，
-[79.3:zh] 渺茫。[segment]
+[79.1:zh] 警告，[segment]就中国
+[79.2:zh] 议员[segment]一事
+[79.3:zh] 茫。[segment]
 
 [80.1:en] November,[segment]it
-[80.2:en] build.[segment]
+[80.2:en] 67[segment]>>
+[80.3:en] build.[segment]
 [80.1:zh] 十一月，[segment]有
-[80.2:zh] 建设。[segment]
+[80.2:zh] 卡玛 67[segment]>>
+[80.3:zh] 建设。[segment]
 
 [81.1:en] announcement,[segment]and
-[81.2:en] set,[segment]
+[81.2:en] deadline[segment]for
+[81.3:en] set,[segment]
 [81.1:zh] 公告，[segment]也
-[81.2:zh] 日期，[segment]
+[81.2:zh] 是否[segment]设定了
+[81.3:zh] 日期，[segment]
 
 [82.1:en] out,[segment]the
-[82.2:en] not,[segment]maybe.
+[82.2:en] built,[segment]or
 [82.3:en] knows?[segment]
 [82.1:zh] 时候，[segment]整件事
-[82.2:zh] 了，[segment]也
+[82.2:zh] 好了，[segment]也可能
 [82.3:zh] 呢？[segment]
 
+[83.1:en] fish[segment]got
+[83.2:en] station?[segment]
+[83.1:zh] 价格[segment]和英国
+[83.2:zh] 关系？[segment]
+
 [84.1:en] C,[segment]a
-[84.2:en] needs.[segment]
+[84.2:en] churning[segment]out
+[84.3:en] needs.[segment]
 [84.1:zh] C核电站，[segment]一座
-[84.2:zh] 设施。[segment]
+[84.2:zh] 满足[segment]英国
+[84.3:zh] 设施。[segment]
 
 [85.1:en] it[segment]in
-[85.2:en] rusty.[segment]
-[85.1:zh] 了，[segment]多少
+[85.2:en] years[segment]and
+[85.3:en] rusty.[segment]
+[85.1:zh] 类似的[segment]项目了，
 [85.2:zh] 生疏。[segment]
+[85.3:zh] [copy][segment]
 
 [86.1:en] shortages[segment]and
-[86.2:en] soaring[segment]to
-[86.3:en] history.[segment]
-[86.1:zh] 短缺的拖累，[segment]加上
-[86.2:zh] 冲击，[segment]总造价
-[86.3:zh] 核电站。[segment]
+[86.2:en] Brexit[segment]has
+[86.3:en] pounds[segment]making
+[86.4:en] history.[segment]
+[86.1:zh] 短缺的[segment]拖累，
+[86.2:zh] 脱欧[segment]带来的
+[86.3:zh] 镑，[segment]可能
+[86.4:zh] 核电站。[segment]
 
-[88.1:en] site[segment]included
-[88.2:en] deterrent[segment]aimed
-[88.3:en] life.[segment]
-[88.1:zh] 计划中[segment]包含
-[88.2:zh] 装置，[segment]用于
-[88.3:zh] 生物。[segment]
+[88.1:en] the plans[segment]for
+[88.2:en] included[segment]a
+[88.3:en] deterrent[segment]aimed
+[88.4:en] life.[segment]
+[88.1:zh] 披露，[segment]该
+[88.2:zh] 包含[segment]一套
+[88.3:zh] 装置，[segment]用于
+[88.4:zh] 生物。[segment]
 
 [89.1:en] day,[segment]especially
 [89.2:en] disco[segment]was
@@ -281,7 +405,7 @@
 
 [91.1:en] now,[segment]and
 [91.2:en] technic,[segment]it's
-[91.3:en] right?[segment]
+[91.3:en] infrastructure,[segment]right?[segment]
 [91.1:zh] 德国。[segment]凭借
 [91.2:zh] 精神，[segment]这
-[91.3:zh] 对吧？[segment]
+[91.3:zh] 国家，[segment]对吧？[segment]
