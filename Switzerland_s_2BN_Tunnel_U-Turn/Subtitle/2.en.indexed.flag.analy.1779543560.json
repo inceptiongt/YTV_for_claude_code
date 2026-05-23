@@ -1,0 +1,358 @@
+{
+  "totalMi": 546,
+  "unmatchedMiCount": 19,
+  "matchedRate": 0.9652,
+  "unmatchedSentences": [
+    {
+      "n": 10,
+      "words": 27,
+      "text": "Imagine you're about to take a drive across continental Europe from north to south. Let's say Amsterdam is your starting point and you're heading down to Rome.",
+      "miList": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "unmatchedMi": [
+        26
+      ]
+    },
+    {
+      "n": 28,
+      "words": 76,
+      "text": "Completing in 1980, it became the world's longest road tunnel, a title it held for 20 years. Today, it's the seventh longest. However, by the 2010s, this critical connection was in need of an overhaul. The structure was beginning to show its age. So, in 2012, the Swiss Federal Council decided it was time to, yep, you guessed it, build yet another new tunnel. Not because it would boost capacity or replace the existing one entirely.",
+      "miList": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ],
+      "unmatchedMi": [
+        83,
+        86,
+        89
+      ]
+    },
+    {
+      "n": 37,
+      "words": 34,
+      "text": "because they have to run in parallel with the existing service tunnel or safety gallery that's placed in between them. And construction is taking place from both ends simultaneously, just like in the 1970s.",
+      "miList": [
+        122,
+        123,
+        124,
+        125,
+        126,
+        127
+      ],
+      "unmatchedMi": [
+        125
+      ]
+    },
+    {
+      "n": 49,
+      "words": 32,
+      "text": "it's up close and personal, it meets the teams, it's the human stories, it's the engineering in detail, it's my personal experiences and some of the calamities I've had along the way",
+      "miList": [
+        148,
+        149,
+        150,
+        151,
+        152
+      ],
+      "unmatchedMi": [
+        149,
+        150,
+        151
+      ]
+    },
+    {
+      "n": 83,
+      "words": 32,
+      "text": "Before any of the main tunneling could happen though, years were spent preparing the north and south portals so they were ready for the TBMs. And that meant more drilling and blasting.",
+      "miList": [
+        234,
+        235,
+        236,
+        237,
+        238
+      ],
+      "unmatchedMi": [
+        236
+      ]
+    },
+    {
+      "n": 97,
+      "words": 29,
+      "text": "And in stopping, it then became stuck. [snorts] Paulina had hit an area of highly fractured loose rock and cavities, exactly the kind of ground that TBMs absolutely hate.",
+      "miList": [
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ],
+      "unmatchedMi": [
+        279
+      ]
+    },
+    {
+      "n": 99,
+      "words": 43,
+      "text": "The situation is that the cutter head is blocked. The torque of the machine is not enough to turn it. We have to liberate it from the front so that it can can turn again and bore its way through this difficult zone.",
+      "miList": [
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292
+      ],
+      "unmatchedMi": [
+        288
+      ]
+    },
+    {
+      "n": 110,
+      "words": 97,
+      "text": "And if they knew a bit about it, why didn't they just go with the conventional method right from the beginning? Well, according to a press release from the Swiss Federal Roads Office, the challenging geology on the southern side was predicted, and there were risks involved with the method chosen. In other words, they knew it was there, but it turned out to be more hazardous and positioned slightly differently to what they thought. There was no shortage of geological data, either, as most of it was taken from the original analysis for the first tunnel.",
+      "miList": [
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336
+      ],
+      "unmatchedMi": [
+        323,
+        329,
+        333,
+        334
+      ]
+    },
+    {
+      "n": 114,
+      "words": 70,
+      "text": "What the impact to the TBM this fault zone could have. Even the original tunnel had its share of complications, and we've seen similar instance in the past in other parts of the world like India and Australia with even more serious outcomes. It was known from the building of the first tube and the safety gallery with conventional methods to have have a lot of problems going through there.",
+      "miList": [
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358
+      ],
+      "unmatchedMi": [
+        350,
+        352
+      ]
+    },
+    {
+      "n": 125,
+      "words": 29,
+      "text": "One's going to carry all the utilities for maintaining the tunnel, which is hardly a surprise. But the other is going to have high-voltage power lines running through it.",
+      "miList": [
+        382,
+        383,
+        384,
+        385,
+        386,
+        387
+      ],
+      "unmatchedMi": [
+        384
+      ]
+    },
+    {
+      "n": 142,
+      "words": 43,
+      "text": "But others would argue it's about more than that, namely ensuring this vital artery of Europe's transport system doesn't come to a complete standstill, even if this giant machine that's so crucial to its completion is doing just that for the time being.",
+      "miList": [
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444
+      ],
+      "unmatchedMi": [
+        441
+      ]
+    }
+  ],
+  "longSentencesCount": 9,
+  "longSentences": [
+    {
+      "n": 27,
+      "words": 45,
+      "text": "Now, if you're a B1M fan, then you're going to know this already, but just in case, it's where holes are drilled into rock, filled with explosives, there's a huge bang, and the rubble is cleared away. Then you do that process again and again.",
+      "miList": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "n": 28,
+      "words": 76,
+      "text": "Completing in 1980, it became the world's longest road tunnel, a title it held for 20 years. Today, it's the seventh longest. However, by the 2010s, this critical connection was in need of an overhaul. The structure was beginning to show its age. So, in 2012, the Swiss Federal Council decided it was time to, yep, you guessed it, build yet another new tunnel. Not because it would boost capacity or replace the existing one entirely.",
+      "miList": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ]
+    },
+    {
+      "n": 99,
+      "words": 43,
+      "text": "The situation is that the cutter head is blocked. The torque of the machine is not enough to turn it. We have to liberate it from the front so that it can can turn again and bore its way through this difficult zone.",
+      "miList": [
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292
+      ]
+    },
+    {
+      "n": 100,
+      "words": 42,
+      "text": "They're doing this by digging an extra access tunnel shooting off from the one that's already been built into the fault zone. It'll enable them to get in front of the TBM and dig back towards it so it can be freed",
+      "miList": [
+        292,
+        293,
+        294,
+        295,
+        296,
+        297
+      ]
+    },
+    {
+      "n": 110,
+      "words": 97,
+      "text": "And if they knew a bit about it, why didn't they just go with the conventional method right from the beginning? Well, according to a press release from the Swiss Federal Roads Office, the challenging geology on the southern side was predicted, and there were risks involved with the method chosen. In other words, they knew it was there, but it turned out to be more hazardous and positioned slightly differently to what they thought. There was no shortage of geological data, either, as most of it was taken from the original analysis for the first tunnel.",
+      "miList": [
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336
+      ]
+    },
+    {
+      "n": 114,
+      "words": 70,
+      "text": "What the impact to the TBM this fault zone could have. Even the original tunnel had its share of complications, and we've seen similar instance in the past in other parts of the world like India and Australia with even more serious outcomes. It was known from the building of the first tube and the safety gallery with conventional methods to have have a lot of problems going through there.",
+      "miList": [
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358
+      ]
+    },
+    {
+      "n": 120,
+      "words": 44,
+      "text": "We should also explain something about the size of those TBMs. You might be wondering why they need to be so large when the biggest of things that's going to travel through here is trucks, and they're only about 4 m high at most.",
+      "miList": [
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376
+      ]
+    },
+    {
+      "n": 133,
+      "words": 44,
+      "text": "We said before that adding this second tunnel won't boost capacity, which might sound a bit strange. Although traffic is going to be split across two tubes instead of one, it doesn't mean there's going to be twice as much traffic coming through here.",
+      "miList": [
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413
+      ]
+    },
+    {
+      "n": 142,
+      "words": 43,
+      "text": "But others would argue it's about more than that, namely ensuring this vital artery of Europe's transport system doesn't come to a complete standstill, even if this giant machine that's so crucial to its completion is doing just that for the time being.",
+      "miList": [
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444
+      ]
+    }
+  ]
+}
