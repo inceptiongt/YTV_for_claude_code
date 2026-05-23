@@ -1,0 +1,98 @@
+{
+  "totalMi": 559,
+  "unmatchedMiCount": 4,
+  "matchedRate": 0.9928,
+  "unmatchedSentences": [
+    {
+      "n": 30,
+      "words": 35,
+      "text": "Completing in 1980, it became the world's longest road tunnel, a title it held for 20 years. Today, it's the seventh longest. However, by the 2010s, this critical connection was in need of an overhaul.",
+      "miList": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ],
+      "unmatchedMi": [
+        83
+      ]
+    },
+    {
+      "n": 42,
+      "words": 34,
+      "text": "because they have to run in parallel with the existing service tunnel or safety gallery that's placed in between them. And construction is taking place from both ends simultaneously, just like in the 1970s.",
+      "miList": [
+        122,
+        123,
+        124,
+        125,
+        126,
+        127
+      ],
+      "unmatchedMi": [
+        124
+      ]
+    },
+    {
+      "n": 89,
+      "words": 19,
+      "text": "And that meant more drilling and blasting. The areas that support the construction work also had to be built.",
+      "miList": [
+        237,
+        238,
+        239,
+        240
+      ],
+      "unmatchedMi": [
+        238
+      ]
+    },
+    {
+      "n": 126,
+      "words": 20,
+      "text": "What the impact to the TBM this fault zone could have. Even the original tunnel had its share of complications,",
+      "miList": [
+        348,
+        349,
+        350
+      ],
+      "unmatchedMi": [
+        348
+      ]
+    }
+  ],
+  "longSentencesCount": 2,
+  "longSentences": [
+    {
+      "n": 120,
+      "words": 43,
+      "text": "why didn't they just go with the conventional method right from the beginning? Well, according to a press release from the Swiss Federal Roads Office, the challenging geology on the southern side was predicted, and there were risks involved with the method chosen.",
+      "miList": [
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329
+      ]
+    },
+    {
+      "n": 159,
+      "words": 43,
+      "text": "But others would argue it's about more than that, namely ensuring this vital artery of Europe's transport system doesn't come to a complete standstill, even if this giant machine that's so crucial to its completion is doing just that for the time being.",
+      "miList": [
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444
+      ]
+    }
+  ]
+}
