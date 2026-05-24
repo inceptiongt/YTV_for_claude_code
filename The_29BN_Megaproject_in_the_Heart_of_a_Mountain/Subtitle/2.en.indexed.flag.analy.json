@@ -1,0 +1,685 @@
+{
+  "totalMi": 857,
+  "unmatchedMiCount": 30,
+  "matchedRate": 0.965,
+  "unmatchedSentences": [
+    {
+      "n": 22,
+      "words": 59,
+      "text": "It's a difficult place to build a road, let alone a railway, which is why 92% of all freight movement between Italy and France is done by truck. Now, I probably don't need to tell you that road transportation is both worse for the environment and slower than going by train. So, something is finally being done about it.",
+      "miList": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "unmatchedMi": [
+        69,
+        73
+      ]
+    },
+    {
+      "n": 24,
+      "words": 78,
+      "text": "there already is a way to get from Lyon to Turin by train, as long as you don't mind traveling on a line that was built in the 1800s and is nowhere near high-speed, because it's full of winding curves and steep slopes. Not to mention the landslides, which are a very real threat here. The one that happened in 2023 was so severe, it caused the whole railway to shut down for a year and a half.",
+      "miList": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87
+      ],
+      "unmatchedMi": [
+        82
+      ]
+    },
+    {
+      "n": 43,
+      "words": 42,
+      "text": "So, this is the start of the massive Mont Cenis Base Tunnel on the French side. Trains are going to enter through a rectangular-shaped cut-and-cover section down there, and then come into this 3-km section, which passes through some particularly tough geology.",
+      "miList": [
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158
+      ],
+      "unmatchedMi": [
+        153
+      ]
+    },
+    {
+      "n": 51,
+      "words": 37,
+      "text": "get to see the rock in front of you, the mountain that you're battling. >> >> More holes, more explosions, more rubble cleared away, more shotcrete, and then the same again, step by step, bit by bit.",
+      "miList": [
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191
+      ],
+      "unmatchedMi": [
+        188
+      ]
+    },
+    {
+      "n": 61,
+      "words": 70,
+      "text": "You can see ahead of me here, they're doing this process, this waterproof membrane going in, this kind of thick sheet on the walls, followed by that kind of brownish-red steel reinforcement. That's going to sit inside the concrete. And then following that, that thick concrete slab. That tunnel lining system has been laid 10 m a day, every day, for 3 km under the Alps in just this section.",
+      "miList": [
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "unmatchedMi": [
+        228,
+        230
+      ]
+    },
+    {
+      "n": 64,
+      "words": 143,
+      "text": "Another thing that's very visible down here is how wet everything becomes before a section of the tunnel is fully waterproofed. In some places, it looks like a lot, but never enough to concern those in charge of the build. And we face in the Alps water ingress, which is normal. Basically, this is not bad for us, because we have long distances for the logistics, and we we like the water on the on the surface on the on the piste to avoid the dust problems, which is a severe problem for health and safety. So, basically, water is is nice for us. The water which is is too much, we pump it with different different pumping systems. We put it out in a treatment plant. We recycle it and we reuse it on the front for the drilling and excavation process.",
+      "miList": [
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260
+      ],
+      "unmatchedMi": [
+        243,
+        245,
+        247,
+        254
+      ]
+    },
+    {
+      "n": 67,
+      "words": 51,
+      "text": "When you're burrowing through the heart of a mountain, it's easy to get caught up in the insane construction and overlook the voices of those who have unfortunately objected to it, which is why I find Straight Arrow News so useful. A lot of news algorithms prioritize clicks over everything else,",
+      "miList": [
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272
+      ],
+      "unmatchedMi": [
+        271
+      ]
+    },
+    {
+      "n": 81,
+      "words": 38,
+      "text": "Then, you've got the segments that will run to the two cities, which include several more tunnels, albeit much, much shorter. In total, the cross-border section features 162 km of galleries and tunnels, including shafts and safety bypasses.",
+      "miList": [
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320
+      ],
+      "unmatchedMi": [
+        317
+      ]
+    },
+    {
+      "n": 96,
+      "words": 32,
+      "text": "Access tunnels have already been built in both of these locations, so it's now a case of joining them together, which, as you might guess, is not as easy as it sounds.",
+      "miList": [
+        371,
+        372,
+        373,
+        374,
+        375
+      ],
+      "unmatchedMi": [
+        372
+      ]
+    },
+    {
+      "n": 101,
+      "words": 37,
+      "text": "And what's the diameter of the cutting head of this TBM? Uh this TBM is 10.4 m excavated diameter. 2,000 t in nominal mode. Yeah. Half of this weight is at the moment is at the front.",
+      "miList": [
+        383,
+        384,
+        385,
+        386,
+        387
+      ],
+      "unmatchedMi": [
+        384,
+        385,
+        386
+      ]
+    },
+    {
+      "n": 108,
+      "words": 9,
+      "text": ">> Yes. Wow. >> So, each of them are",
+      "miList": [
+        409,
+        410,
+        411
+      ],
+      "unmatchedMi": [
+        409
+      ]
+    },
+    {
+      "n": 116,
+      "words": 45,
+      "text": "So, it does a lot more than just dig a big hole. It's essentially like a giant mobile factory, which is why it requires an entire team to operate it. There are 15 people all working together to run and supervise this machine's various functions.",
+      "miList": [
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433
+      ],
+      "unmatchedMi": [
+        430
+      ]
+    },
+    {
+      "n": 124,
+      "words": 41,
+      "text": ">> So, he thinks these jacks are in ring build mode at the moment, but when it comes to pushing forward, that's where the pressure comes, cuz they're pushing back on the tunnel to push the cutting head through the ground.",
+      "miList": [
+        449,
+        450,
+        451,
+        452,
+        453,
+        454
+      ],
+      "unmatchedMi": [
+        449
+      ]
+    },
+    {
+      "n": 153,
+      "words": 41,
+      "text": "And that concrete face you can see ahead of me up there is where the TBM's going to start drilling for 17 km in this instance, and actually break through across the border from France to Italy, connecting these two countries.",
+      "miList": [
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524
+      ],
+      "unmatchedMi": [
+        517
+      ]
+    },
+    {
+      "n": 156,
+      "words": 51,
+      "text": "Once completed, they'll be tasked with digging the long section from the center of the tunnel all the way across the Italian border. Now, the machine that's going to be setting off here quite soon is pretty different from the one we saw earlier. Basically, it's what we call gripper TBM.",
+      "miList": [
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536
+      ],
+      "unmatchedMi": [
+        532,
+        535
+      ]
+    },
+    {
+      "n": 169,
+      "words": 27,
+      "text": "It's remarkable. It is absolutely remarkable. I'm stood under a mountain. It doesn't really bear thinking about. There's all that stuff above my head. I'm down here.",
+      "miList": [
+        572,
+        573,
+        574,
+        575,
+        576
+      ],
+      "unmatchedMi": [
+        572,
+        574
+      ]
+    },
+    {
+      "n": 175,
+      "words": 60,
+      "text": "Without it the air wouldn't be breathable, either for the people working on the projects or if passengers need to be evacuated once the tunnels in service. First, a pilot hole roughly 40 cm in diameter is bored into the ground just big enough for a long metal bar to be slotted in all the way down to the tunnel.",
+      "miList": [
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603
+      ],
+      "unmatchedMi": [
+        599
+      ]
+    },
+    {
+      "n": 176,
+      "words": 55,
+      "text": "Where cavities occur a cylindrical metal formwork is placed inside allowing the gaps to be filled with concrete. Then a cutting head is attached to the bottom which is used to excavate back up to the surface. It's a technique borrowed from mining and they're known as raise boring machines, a kind of vertical TBM.",
+      "miList": [
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611
+      ],
+      "unmatchedMi": [
+        608
+      ]
+    },
+    {
+      "n": 178,
+      "words": 50,
+      "text": "While most of the activity on this project has been happening in France, things have started to ramp up on the Italian side as well. Preparations are in place for the facilities that will handle the making of the tunnel segments as well as the processing of the excavated material.",
+      "miList": [
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623
+      ],
+      "unmatchedMi": [
+        618
+      ]
+    },
+    {
+      "n": 193,
+      "words": 45,
+      "text": "When you visit here today you can clearly see that this is a mega build in full swing. But that hasn't always been the case. There have been delays, opposition from politicians as well as protesters, and financial uncertainty caused by gaps in the budget.",
+      "miList": [
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672
+      ],
+      "unmatchedMi": [
+        668,
+        669
+      ]
+    }
+  ],
+  "longSentencesCount": 19,
+  "longSentences": [
+    {
+      "n": 22,
+      "words": 59,
+      "text": "It's a difficult place to build a road, let alone a railway, which is why 92% of all freight movement between Italy and France is done by truck. Now, I probably don't need to tell you that road transportation is both worse for the environment and slower than going by train. So, something is finally being done about it.",
+      "miList": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "n": 24,
+      "words": 78,
+      "text": "there already is a way to get from Lyon to Turin by train, as long as you don't mind traveling on a line that was built in the 1800s and is nowhere near high-speed, because it's full of winding curves and steep slopes. Not to mention the landslides, which are a very real threat here. The one that happened in 2023 was so severe, it caused the whole railway to shut down for a year and a half.",
+      "miList": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87
+      ]
+    },
+    {
+      "n": 43,
+      "words": 42,
+      "text": "So, this is the start of the massive Mont Cenis Base Tunnel on the French side. Trains are going to enter through a rectangular-shaped cut-and-cover section down there, and then come into this 3-km section, which passes through some particularly tough geology.",
+      "miList": [
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158
+      ]
+    },
+    {
+      "n": 48,
+      "words": 62,
+      "text": "basically drill holes in a circle, fill them with dynamite, hit a big red button and blow them apart, clear the rubble out of the way using trucks, then put some steel ribs in to reinforce the rock around you, then spray that with shotcrete, kind of like a mix of sprayed concrete, basically, which you can see around me right now.",
+      "miList": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ]
+    },
+    {
+      "n": 61,
+      "words": 70,
+      "text": "You can see ahead of me here, they're doing this process, this waterproof membrane going in, this kind of thick sheet on the walls, followed by that kind of brownish-red steel reinforcement. That's going to sit inside the concrete. And then following that, that thick concrete slab. That tunnel lining system has been laid 10 m a day, every day, for 3 km under the Alps in just this section.",
+      "miList": [
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233
+      ]
+    },
+    {
+      "n": 64,
+      "words": 143,
+      "text": "Another thing that's very visible down here is how wet everything becomes before a section of the tunnel is fully waterproofed. In some places, it looks like a lot, but never enough to concern those in charge of the build. And we face in the Alps water ingress, which is normal. Basically, this is not bad for us, because we have long distances for the logistics, and we we like the water on the on the surface on the on the piste to avoid the dust problems, which is a severe problem for health and safety. So, basically, water is is nice for us. The water which is is too much, we pump it with different different pumping systems. We put it out in a treatment plant. We recycle it and we reuse it on the front for the drilling and excavation process.",
+      "miList": [
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260
+      ]
+    },
+    {
+      "n": 67,
+      "words": 51,
+      "text": "When you're burrowing through the heart of a mountain, it's easy to get caught up in the insane construction and overlook the voices of those who have unfortunately objected to it, which is why I find Straight Arrow News so useful. A lot of news algorithms prioritize clicks over everything else,",
+      "miList": [
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272
+      ]
+    },
+    {
+      "n": 87,
+      "words": 45,
+      "text": "So, in years to come, if you were to take a train journey from Lyon to Turin, this town is the last you'd see of France, the last you'd see of daylight before you headed down and went deep underground. It's this town right here.",
+      "miList": [
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341
+      ]
+    },
+    {
+      "n": 116,
+      "words": 45,
+      "text": "So, it does a lot more than just dig a big hole. It's essentially like a giant mobile factory, which is why it requires an entire team to operate it. There are 15 people all working together to run and supervise this machine's various functions.",
+      "miList": [
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433
+      ]
+    },
+    {
+      "n": 124,
+      "words": 41,
+      "text": ">> So, he thinks these jacks are in ring build mode at the moment, but when it comes to pushing forward, that's where the pressure comes, cuz they're pushing back on the tunnel to push the cutting head through the ground.",
+      "miList": [
+        449,
+        450,
+        451,
+        452,
+        453,
+        454
+      ]
+    },
+    {
+      "n": 153,
+      "words": 41,
+      "text": "And that concrete face you can see ahead of me up there is where the TBM's going to start drilling for 17 km in this instance, and actually break through across the border from France to Italy, connecting these two countries.",
+      "miList": [
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524
+      ]
+    },
+    {
+      "n": 156,
+      "words": 51,
+      "text": "Once completed, they'll be tasked with digging the long section from the center of the tunnel all the way across the Italian border. Now, the machine that's going to be setting off here quite soon is pretty different from the one we saw earlier. Basically, it's what we call gripper TBM.",
+      "miList": [
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536
+      ]
+    },
+    {
+      "n": 166,
+      "words": 41,
+      "text": "into the tunnels you encounter all kinds of signs that this is an extreme environment, including a strict protocol where people are counted in and out of the surface and have to wear location tags in case the worst happens. Then",
+      "miList": [
+        558,
+        559,
+        560,
+        561,
+        562,
+        563
+      ]
+    },
+    {
+      "n": 174,
+      "words": 42,
+      "text": "Four vertical shafts are under construction which will go all the way from the surface, 1,300 m above sea level, to the base tunnel under the mountain. They provide ventilation which is especially important when you're tens of kilometers inside a mountain.",
+      "miList": [
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595
+      ]
+    },
+    {
+      "n": 175,
+      "words": 60,
+      "text": "Without it the air wouldn't be breathable, either for the people working on the projects or if passengers need to be evacuated once the tunnels in service. First, a pilot hole roughly 40 cm in diameter is bored into the ground just big enough for a long metal bar to be slotted in all the way down to the tunnel.",
+      "miList": [
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603
+      ]
+    },
+    {
+      "n": 176,
+      "words": 55,
+      "text": "Where cavities occur a cylindrical metal formwork is placed inside allowing the gaps to be filled with concrete. Then a cutting head is attached to the bottom which is used to excavate back up to the surface. It's a technique borrowed from mining and they're known as raise boring machines, a kind of vertical TBM.",
+      "miList": [
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611
+      ]
+    },
+    {
+      "n": 178,
+      "words": 50,
+      "text": "While most of the activity on this project has been happening in France, things have started to ramp up on the Italian side as well. Preparations are in place for the facilities that will handle the making of the tunnel segments as well as the processing of the excavated material.",
+      "miList": [
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623
+      ]
+    },
+    {
+      "n": 193,
+      "words": 45,
+      "text": "When you visit here today you can clearly see that this is a mega build in full swing. But that hasn't always been the case. There have been delays, opposition from politicians as well as protesters, and financial uncertainty caused by gaps in the budget.",
+      "miList": [
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672
+      ]
+    },
+    {
+      "n": 219,
+      "words": 47,
+      "text": "A huge thanks to Straight Arrow News for sponsoring this video. Don't forget guys, if you want to improve the way you get your news for the better, go ahead and download the Straight Arrow News app today. The link is down there in the video description.",
+      "miList": [
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765
+      ]
+    }
+  ]
+}
