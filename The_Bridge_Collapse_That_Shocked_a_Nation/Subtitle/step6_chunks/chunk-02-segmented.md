@@ -43,19 +43,19 @@
 [95.3:zh] 动了个手脚： [segment] 原本用于铁路和
 
 [95.4:en] infrastructure [segment] was
-[95.4:zh] 核心预算中抽走， [segment] 改由这项新基金来承担。
+[95.4:zh] [copy]
 
 [95.5:en] now [segment] to
-[95.5:zh] [copy]
+[95.5:zh] 核心预算中抽走， [segment] 改由这项新基金来承担。
 
 [96.1:en] money [segment] and
 [96.1:zh] 不过是资金挪移—— [segment] 这样做腾出了
 
 [96.2:en] budget [segment] for
-[96.2:zh] [copy]
+[96.2:zh] 核心预算的更多空间， [segment] 让政客们有余地
 
 [96.3:en] uh [segment] that
-[96.3:zh] 核心预算的更多空间， [segment] 让政客们有余地
+[96.3:zh] [copy]
 
 [98.1:en] bureaucracy [segment] and
 [98.1:zh] 官僚主义的泥淖， [segment] 加上熟练工人本就短缺。
@@ -67,13 +67,13 @@
 [102.1:zh] 基础设施退化， [segment] 我们将失去
 
 [102.2:en] everything [segment] in
-[102.2:zh] [copy]
+[102.2:zh] 赖以运转的根基—— [segment] 无论是商业活动，
 
 [103.1:en] announced, [segment] things
 [103.1:zh] 计划宣布之前， [segment] 情况也并非一直那么糟。
 
 [103.2:en] bad. [segment] When
-[103.2:zh] [copy]
+[103.2:zh] 那么糟。 [segment] 当大型公路
 
 [104.1:en] engineers [segment] that
 [104.1:zh] 世界顶尖的工程师， [segment] 能够和任何人一样
@@ -97,7 +97,7 @@
 [112.1:zh] 借助24台液压千斤顶， [segment] 工程师们以每小时1英里的速度
 
 [112.2:en] mph [segment] until
-[112.2:zh] [copy]
+[112.2:zh] 将桥体推移， [segment] 平移约20米后
 
 [113.1:en] there, [segment] Germany
 [113.1:zh] 只要资金到位， [segment] 德国同样能建造出
@@ -118,7 +118,7 @@
 [120.1:zh] 希望新桥既具现代感、 [segment] 又能与历史城景和谐融合，
 
 [120.2:en] cityscape [segment] with
-[120.2:zh] [copy]
+[120.2:zh] 和谐融合， [segment] 计划于2028年
 
 [121.1:en] collapse, [segment] or
 [121.1:zh] 距坍塌仅七年—— [segment] 不过，这相当于中国
@@ -126,8 +126,8 @@
 [123.1:en] city [segment] to
 [123.1:zh] 对城市的冲击， [segment] 转化为城市发展的契机。
 
-[124.1:en] city [segment] in
-[124.1:zh] 重建城市的心脏地带。 [segment] 以一种非常好的方式，
+[124.1:en] chance [segment] to
+[124.1:zh] 有机会， [segment] 以一种非常好的方式，
 
 [126.1:en] years, [segment] the
 [126.1:zh] 过去几年来， [segment] 支持这一判断的证据
@@ -148,4 +148,4 @@
 [135.1:zh] 如果你喜欢这期视频， [segment] 想看更多来自
 
 [135.2:en] construction, [segment] hit
-[135.2:zh] [copy]
+[135.2:zh] 权威频道的内容， [segment] 请点击订阅按钮。
