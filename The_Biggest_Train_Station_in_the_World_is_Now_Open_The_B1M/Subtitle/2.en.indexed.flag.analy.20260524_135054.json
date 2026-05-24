@@ -1,0 +1,67 @@
+{
+  "totalMi": 640,
+  "unmatchedMiCount": 0,
+  "matchedRate": 1,
+  "unmatchedSentences": [],
+  "longSentencesCount": 4,
+  "longSentences": [
+    {
+      "n": 1,
+      "words": 45,
+      "text": "In the same way that your local chip shop can't be compared to the scale of McDonald's and the bus stop around the corner is in a slightly different league to LAX, no other train station lives up to the ludicrous size of Chongqing East.",
+      "miList": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "n": 4,
+      "words": 41,
+      "text": "That's six times bigger than Grand Central in New York, nearly 15 times larger than Europe's grandest train station, Leipzig Hauptbahnhof, and close to three times the size of Nagoya Station in Japan, once recognized as the world's largest train hub.",
+      "miList": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "n": 23,
+      "words": 42,
+      "text": "Our bullet price at deliver is the sort of performance legitimacy to say that, well, we are really able to deliver these enormous bridges or all sorts of infrastructure projects that the US and UK are not really able to do anymore",
+      "miList": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ]
+    },
+    {
+      "n": 147,
+      "words": 53,
+      "text": "There is kind of the sense from the top leader that these big cities don't need to get much larger, and a lot of these super tall skyscrapers may have brought prestige in the past, but the sense from Beijing is that, you know, they don't need to build these super tall buildings.",
+      "miList": [
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413
+      ]
+    }
+  ]
+}
