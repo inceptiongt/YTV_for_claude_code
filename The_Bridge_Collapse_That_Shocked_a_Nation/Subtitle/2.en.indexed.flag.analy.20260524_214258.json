@@ -1,0 +1,314 @@
+{
+  "totalMi": 491,
+  "unmatchedMiCount": 6,
+  "matchedRate": 0.9878,
+  "unmatchedSentences": [
+    {
+      "n": 17,
+      "words": 31,
+      "text": ">> We had a big push in infrastructure with uh the unification of Germany in the '90s. I think the infrastructure was quite good in the west of Germany at least.",
+      "miList": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "unmatchedMi": [
+        54
+      ]
+    },
+    {
+      "n": 46,
+      "words": 33,
+      "text": "They've also given our viewers 20% off an annual premium subscription, which gives you unlimited daily access to everything on Brilliant. But until then, let's get back to Germany's not so brilliant infrastructure.",
+      "miList": [
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ],
+      "unmatchedMi": [
+        163
+      ]
+    },
+    {
+      "n": 59,
+      "words": 68,
+      "text": "Now, obviously, that's a pretty broad category, and it's not yet clear exactly how that pot of money is going to be divided up, but it appears likely that Deutschean, Germany's national railway company, will get the lion share. One economic research institute claims that almost €19 billion has been set aside to support DB in just the first full year of the new fund, which is 2026.",
+      "miList": [
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "unmatchedMi": [
+        228
+      ]
+    },
+    {
+      "n": 79,
+      "words": 118,
+      "text": "And it's a similar case with road bridges and digital upgrades. What you can see for rail for example is that they employed another trick in the budget that actually whatever money they had so far for railways and for infrastructure was taken out of the core budget and now to be financed from this new fund. So not additional but just shifting money and that gives you more room in the core budget for all kind of wonderful things uh that politicians want to give to their voters. There's also the fact that money isn't the only problem. As we mentioned earlier, projects here often get bogged down in bureaucracy and there's a shortage of skilled workers.",
+      "miList": [
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342
+      ],
+      "unmatchedMi": [
+        337
+      ]
+    },
+    {
+      "n": 84,
+      "words": 72,
+      "text": "Now, despite everything we've just said, before the 500 billion euro package was announced, things weren't always that bad. When big highway infrastructure upgrades are properly planned here, they can be very impressive. After all, Germany does still have some of the world's best engineers that can pull off a big job as well as anyone. Like with the A45 Rinsdor fire duct near Dortmund, which was originally built in the 1960s.",
+      "miList": [
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366
+      ],
+      "unmatchedMi": [
+        358,
+        361
+      ]
+    }
+  ],
+  "longSentencesCount": 12,
+  "longSentences": [
+    {
+      "n": 20,
+      "words": 42,
+      "text": "Still, it could be worse. Yes, there are defects, but they're usually spotted and fixed before things then carry on as usual. But recently, there have been some pretty big exceptions to that, including one failure that made news around the world.",
+      "miList": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ]
+    },
+    {
+      "n": 24,
+      "words": 46,
+      "text": ">> Just before 3:00 a.m. on September 11th, 2024, the Corolla Bridge in Dresden fell suddenly into the River Ela. Built in 1971 before reunification, the concrete structure was used by pedestrians, cyclists, and trams, including one that had just passed over it mere minutes beforehand.",
+      "miList": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ]
+    },
+    {
+      "n": 36,
+      "words": 46,
+      "text": "and so if you have this acid fog in the air it was coming down to the pre-stressing steel this damage process was in induced so the bridge had already from the beginning of its lifetime a very much reduced safety factor which nobody really knew.",
+      "miList": [
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132
+      ]
+    },
+    {
+      "n": 52,
+      "words": 41,
+      "text": "However, there is at last some good news to report. In March 2025, German Chancellor Friedri Mertz announced a massive spending push. A staggering €500 billion, that's around €550 billion US, has now been earmarked for upgrades right across the country.",
+      "miList": [
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196
+      ]
+    },
+    {
+      "n": 55,
+      "words": 53,
+      "text": "This spending is going to be spread out over a 12-ear period. It makes no sense to spend one year 500 billion extra euro and then next year is is empty again. We need a long-term perspective. So this is good. But same time of course it's only 40 billion euro per year.",
+      "miList": [
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211
+      ]
+    },
+    {
+      "n": 59,
+      "words": 68,
+      "text": "Now, obviously, that's a pretty broad category, and it's not yet clear exactly how that pot of money is going to be divided up, but it appears likely that Deutschean, Germany's national railway company, will get the lion share. One economic research institute claims that almost €19 billion has been set aside to support DB in just the first full year of the new fund, which is 2026.",
+      "miList": [
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233
+      ]
+    },
+    {
+      "n": 62,
+      "words": 69,
+      "text": "But now it's got to the stage where big projects, important international projects, are being put on hold. The northern access route of the Brena Base tunnel, which will be the world's longest underground rail connection when it completes, is in limbo over financial constraints. While the line itself connects Austria and Italy, one of the lines that's going to feed into it from Munich has been temporarily paused.",
+      "miList": [
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252
+      ]
+    },
+    {
+      "n": 71,
+      "words": 70,
+      "text": "At more than 500 km long, it'll transport electricity generated by wind farms in the north of Germany to the southern end of the country, which requires finding a way around some difficult obstacles. A 5 km tunnel is being excavated so the cable can pass 20 m under the Ela River and through areas with high levels of groundwater. Yes, that's the same river where the Dresden Bridge collapsed.",
+      "miList": [
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294
+      ]
+    },
+    {
+      "n": 72,
+      "words": 52,
+      "text": "Okay, but how is it that Germany is able to spend all this money now? And why couldn't it have just spent it all before? Well, it's all to do with something called the debt break. It's a constitutional rule in Germany that caps new borrowing from the federal government at 0.35%",
+      "miList": [
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302
+      ]
+    },
+    {
+      "n": 79,
+      "words": 118,
+      "text": "And it's a similar case with road bridges and digital upgrades. What you can see for rail for example is that they employed another trick in the budget that actually whatever money they had so far for railways and for infrastructure was taken out of the core budget and now to be financed from this new fund. So not additional but just shifting money and that gives you more room in the core budget for all kind of wonderful things uh that politicians want to give to their voters. There's also the fact that money isn't the only problem. As we mentioned earlier, projects here often get bogged down in bureaucracy and there's a shortage of skilled workers.",
+      "miList": [
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342
+      ]
+    },
+    {
+      "n": 84,
+      "words": 72,
+      "text": "Now, despite everything we've just said, before the 500 billion euro package was announced, things weren't always that bad. When big highway infrastructure upgrades are properly planned here, they can be very impressive. After all, Germany does still have some of the world's best engineers that can pull off a big job as well as anyone. Like with the A45 Rinsdor fire duct near Dortmund, which was originally built in the 1960s.",
+      "miList": [
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366
+      ]
+    },
+    {
+      "n": 89,
+      "words": 75,
+      "text": "The new structure was built away from the live road and joined onto it through what's called a transverse shift. Teflon plates acting as sliding pads were installed between the specially prepared tracks and the base of the foundation. Then with the help of 24 hydraulic jacks, engineers were able to move the bridge at a speed of 1 mph until it covered a distance of 20 m and slotted in next to its neighbor.",
+      "miList": [
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385
+      ]
+    }
+  ]
+}
