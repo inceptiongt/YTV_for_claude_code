@@ -1,0 +1,17 @@
+[403] 2026.[end]That
+[406] revealed.[end]The
+[411] 2031.[end]That's
+[414] bridge.[end]Still,
+[416] done.[end]We
+[418] city.[end]We
+[420] way.[end]There's
+[422] crumbling.[end]Over
+[425] day.[end]But
+[427] fixed.[end]Hopefully,
+[430] maintained.[end]But
+[432] way.[end]Otherwise,
+[433] square.[end]
+[434] Brilliant.[end]Don't
+[436] below.[end]One
+[439] sponsors.[end]So,
+[441] fantasticish.[end]And
