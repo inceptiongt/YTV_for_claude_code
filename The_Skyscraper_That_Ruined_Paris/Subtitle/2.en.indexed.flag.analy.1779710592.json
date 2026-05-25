@@ -1,0 +1,123 @@
+{
+  "totalMi": 516,
+  "unmatchedMiCount": 5,
+  "matchedRate": 0.9903,
+  "unmatchedSentences": [
+    {
+      "n": 1,
+      "words": 24,
+      "text": "Ah, Paris, the most romantic city in the world. This place has got it all. Fine foods, high culture, and most importantly, exquisite buildings.",
+      "miList": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "unmatchedMi": [
+        2
+      ]
+    },
+    {
+      "n": 6,
+      "words": 13,
+      "text": "What is that again, guys? Sorry. What is this doing in my script?",
+      "miList": [
+        10,
+        11,
+        12
+      ],
+      "unmatchedMi": [
+        11
+      ]
+    },
+    {
+      "n": 7,
+      "words": 12,
+      "text": "Let me just check my notes a minute. Hang on. Oh, okay.",
+      "miList": [
+        12,
+        13,
+        14
+      ],
+      "unmatchedMi": [
+        13
+      ]
+    },
+    {
+      "n": 32,
+      "words": 34,
+      "text": "You've probably heard me mention a few times how it's different to other news apps, because it brings you reporting from a wide range of media outlets on both sides of the political divide.",
+      "miList": [
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "unmatchedMi": [
+        75
+      ]
+    },
+    {
+      "n": 47,
+      "words": 25,
+      "text": "But so in the 60s you have the move to decentralize and that's something that's happening um in the wake of the war as well.",
+      "miList": [
+        122,
+        123,
+        124,
+        125
+      ],
+      "unmatchedMi": [
+        122
+      ]
+    }
+  ],
+  "longSentencesCount": 3,
+  "longSentences": [
+    {
+      "n": 21,
+      "words": 42,
+      "text": "you will find plenty of skyscrapers here in Lafon the city's central business district 9 km away from the city center beyond the outer ring road and looking around you can see why Parisians are so keen on saying no to skyscrapers",
+      "miList": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "n": 37,
+      "words": 42,
+      "text": "With a certified balance rating from All Sides Media, Straight Hour News is putting the trust back into journalism, which is great if, like me, you're interested in making up your own mind about things rather than being told what to think.",
+      "miList": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ]
+    },
+    {
+      "n": 119,
+      "words": 52,
+      "text": "Stop us if you've heard this one before, but Paris owes much of its aesthetic to this man, Baron Osman. Drawing inspiration from London's Regent Streets, Osman extensively remodeled Paris between 1853 and 1870, transforming it from a medieval city of timber frame buildings into the neocclassical style we will see today.",
+      "miList": [
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304
+      ]
+    }
+  ]
+}

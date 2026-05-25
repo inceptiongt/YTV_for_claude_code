@@ -1,0 +1,385 @@
+[1] Ah, Paris, the most romantic city in the
+[2] world. This place has got it all. Fine
+[3] foods, high culture, and most
+[4] importantly, exquisite buildings. Yes, a
+[5] city doesn't get a reputation like this
+[6] for nothing, you know. It's
+[7] unblenmished.
+[8] Sorry, where was I? Oh, yes, among the
+[9] monuments and gilded sculptures, you can
+[10] really lose yourself. What is that
+[11] again, guys? Sorry. What is this doing
+[12] in my script? Let me just check my notes
+[13] a minute. Hang on.
+[14] Oh, okay.
+[15] This is the Tormon Panass. It was the
+[16] first skyscraper ever built in Paris,
+[17] and it's a whopper. It's 210 m high and
+[18] offers 120,000 m of office space in one
+[19] of Paris's most historic neighborhoods.
+[20] And the locals hate it. In fact, they
+[21] hate it so much just a few years after
+[22] it was completed, a law was passed
+[23] banning anything like it from ever being
+[24] built again. But fortunately, a plan is
+[25] underway to transform it from
+[26] the Phantom of the Opera into the Bell
+[27] of the Ball. That plan, well, they're
+[28] going to make it invisible.
+[29] Europe doesn't really do skyscrapers. In
+[30] fact, there are more in New York City
+[31] than there are across the entire
+[32] European continent.
+[33] There's no city that better displays
+[34] this than Paris, which has a rather
+[35] complicated history with tall buildings.
+[36] That story starts here at the Tormon
+[37] Panass. The blowback from this block was
+[38] so strong that in 1977, just 4 years
+[39] after it was completed, French President
+[40] Jagard Stang introduced a ban on
+[41] building anything over 25 m in the
+[42] center of Paris. that lasted 33 years
+[43] before being repealed which left just
+[44] enough time to start work on
+[45] this the tour triangler before everyone
+[46] decided they hated that as well and in
+[47] 2023 the ban was put back in place you
+[48] will find plenty of skyscrapers here in
+[49] Lafon the city's central business
+[50] district 9 km away from the city center
+[51] beyond the outer ring road and looking
+[52] around you can see why Parisians are so
+[53] keen on saying no to skyscrapers
+[54] there are a few other major cities
+[55] anywhere in the world that have kept
+[56] such a uniform architectural style which
+[57] is key to giving Paris its devivver but
+[58] that's today back in the 1950s things
+[59] were very different the city was rundown
+[60] shabby and even at its best was hardly
+[61] fit for purpose
+[62] but that's not the only thing that's not
+[63] fit for purpose you could also say that
+[64] about the way we get our news I don't
+[65] know about you but I find it's easy to
+[66] sometimes get your news by just doom
+[67] scrolling through social media but
+[68] that's no good the way we consume
+[69] information is getting increasingly
+[70] partisan with misinformation and fake
+[71] news becoming scarily common, especially
+[72] with the rise of AI. And that's a huge
+[73] part of why I've loved working with
+[74] Straight Arrow News for over a year now.
+[75] You've probably heard me mention a few
+[76] times how it's different to other news
+[77] apps, because it brings you reporting
+[78] from a wide range of media outlets on
+[79] both sides of the political divide. But
+[80] there's a really crucial benefit because
+[81] whether you're on the left, the right,
+[82] or somewhere in between, the chances are
+[83] you're missing important stories because
+[84] of editorial bias. Stratar News has a
+[85] feature called Media Miss, which reports
+[86] on a huge range of stories and analyzes
+[87] who else is or isn't covering them.
+[88] Honestly, go and search any story that's
+[89] happening right now, and they'll give
+[90] you a score showing you who's under or
+[91] over reporting on the issue. It's
+[92] amazing to see how much we can miss from
+[93] being in our echo chambers. With a
+[94] certified balance rating from All Sides
+[95] Media, Straight Hour News is putting the
+[96] trust back into journalism, which is
+[97] great if, like me, you're interested in
+[98] making up your own mind about things
+[99] rather than being told what to think. If
+[100] you want a news source that gives it to
+[101] you straight, then download the Straight
+[102] Arrow News app using the QR code on
+[103] screen. It's completely free, and you'll
+[104] be massively helping us by taking the
+[105] time to go and check out one of our
+[106] video sponsors. Now, let's get back to
+[107] Perry. As a new world began to emerge
+[108] from the wreckage of the Second World
+[109] War, so did new ways of living and
+[110] working. Paris's elegant apartments and
+[111] endless monuments were far from an
+[112] asset. They were a sign of a city that
+[113] was kind of stuck in the past.
+[114] Elsewhere, places like London and New
+[115] York were building modern offices fit
+[116] for the demands of the new economy. But
+[117] Paris was still a city of workshops and
+[118] studios, and it was beginning to get
+[119] left behind. Paris is very much about uh
+[120] artisal crafts which is a long history
+[121] that goes back to the medieval period.
+[122] But so in the 60s you have the move to
+[123] decentralize and that's something that's
+[124] happening um in the wake of the war as
+[125] well. So if you think of the Marshall
+[126] plan and what's happening in terms of
+[127] reconstruction after the war, it's not
+[128] necessarily focused on Paris. It's
+[129] focused on other parts of the country.
+[130] >> Enter Senator and State Prefect Edgar
+[131] Bazani. He wanted to create a modern
+[132] destination in the heart of the city
+[133] that would attract office workers back
+[134] into Paris and show that it was capable
+[135] of competing with other major global
+[136] cities. The place he chose was this Mont
+[137] Panas. Now, few places could have better
+[138] illustrated the transformation from old
+[139] to new as this storied
+[140] neighborhood. The area was named after
+[141] the home for Greek muses and had once
+[142] been a favorite haunt of artists
+[143] who would rent tables in the nearby
+[144] caferies for a few teams. The walls of
+[145] Laurata were once decorated with
+[146] sketches by penalist artists in lie of
+[147] payments.
+[148] >> You know, you have to imagine like Mopas
+[149] was went from um a literary artistic
+[150] center. We have all the great artists
+[151] there um in the the 1920s and
+[152] 30s. It becomes like a jazz maybe a
+[153] little bit more of a seedy uh element.
+[154] So there is this push to try to clean
+[155] up these, if you will, poorer
+[156] areas and infuse it with something
+[157] that's modern.
+[158] >> At its center was the G manassess, which
+[159] you may recognize from this.
+[160] But in the 1950s, the station
+[161] was bringing a very different crowd into
+[162] the area. Commuters. Every day 50,000
+[163] people and a few cats poured into the
+[164] neighborhood, and the grand old
+[165] building was struggling to keep up. For
+[166] Pasani, this was an opportunity to clear
+[167] out the old and let fresh air into the
+[168] city. In 1959, he unveiled the main
+[169] Montanas plan, a vast new district to be
+[170] built in four separate phases. Phase one
+[171] would see two new housing blocks built
+[172] either side of the station.
+[173] Phase three would see the creation of a
+[174] shopping mall and the all-important
+[175] skyscraper, while the station itself
+[176] would get a redevelopment under phase 4.
+[177] By 1966, the station and housing
+[178] were complete. But the new skyscraper,
+[179] as well as being the most controversial
+[180] aspect of the plan, was proving to be
+[181] the most difficult. Now, building a
+[182] skyscraper today is challenging, but we
+[183] kind of take for granted that it is
+[184] possible. But when the main panass plan
+[185] was dreamed up in 1959, that was far
+[186] from guaranteed. The development was
+[187] being led by the French government,
+[188] which had no experience constructing
+[189] such a huge building. And it wasn't just
+[190] the engineering that was new. So were
+[191] the economics that made this possible.
+[192] For the solution, they turned to an
+[193] American real estate developer, Wy
+[194] Tuttle. The initial plan was for a 150 m
+[195] tower surrounded by a shopping mall and
+[196] a smaller office block. But the
+[197] stateowned company in charge of the
+[198] development struggled to find the 65
+[199] million Franks needed to cover the
+[200] construction. Under Tuttle, the plans
+[201] for the tower grew another 60 m,
+[202] bringing the building to a staggering 59
+[203] stories. Extra space meant more tenants,
+[204] enabling Tuttle to generate the finance
+[205] to cover the build. In 1970, 11 years
+[206] after the plan was first drawn up,
+[207] construction began. But while the
+[208] business case had been resolved,
+[209] Tuttles's engineers still had huge
+[210] problems to overcome.
+[211] This is the site laid out for the
+[212] construction of the tower. And these are
+[213] the metro lines that run just beneath
+[214] the surface. One in particular, line
+[215] six, runs directly under the tower's
+[216] footprint. The enormous weight of this
+[217] skyscraper and the soft soil meant that
+[218] placing it around the line would cause
+[219] the soil to subside and the tunnel to
+[220] collapse. The only way of avoiding this
+[221] was to build the 122,000 ton structure
+[222] directly over the metro line and spread
+[223] the weight evenly on each side. To do
+[224] that, the tunnel would obviously need to
+[225] be reinforced. Concrete walls were
+[226] constructed on either side of the rail
+[227] tracks, strong enough to protect the
+[228] tunnel and bear some of the building
+[229] load. Above, four concrete beams were
+[230] installed to strengthen the roof,
+[231] capable of taking 40,000 tons of weight.
+[232] Piles were sunk either side of this to
+[233] secure the building's foundation, but
+[234] the soil beneath the tunnel threw up
+[235] further problems. This area had
+[236] historically been used for quarrying,
+[237] leaving the subs soil with large,
+[238] loosely packed areas of dirt. The piles
+[239] therefore needed to be dug down to an
+[240] incredible depth, 60 m, nearly a third
+[241] of the height of the building, all to
+[242] reach a more stable stratum of clay. 56
+[243] piles were dug into the Mana soil in
+[244] total using an incredible volume of
+[245] concrete. 12,000 cubic meters of it were
+[246] used to fill the piles, just over a
+[247] quarter of the total volume of concrete
+[248] used in the entire building. For this
+[249] new type of structure, Tuttles's team
+[250] turned to a new type of construction. It
+[251] involves designing the building around a
+[252] concrete core containing space for
+[253] stairs, lifts, and surfaces. Around this
+[254] stands a steel superructure holding the
+[255] building's floor plates. Then last of
+[256] all, the cladding is added.
+[257] Now today, nearly every new building is
+[258] constructed using this method. But at
+[259] the time, it made use of a relatively
+[260] new technique called slip forming. It
+[261] had been developed in the US in the
+[262] early 20th century to build agricultural
+[263] structures like silos. But by the 1960s,
+[264] it was being used in high-rise
+[265] buildings. It works by constructing a
+[266] mold which concrete is continuously
+[267] poured into. As the lower layers set,
+[268] hydraulic jacks push the mold up,
+[269] creating a continuously growing
+[270] building. Now, one of the biggest
+[271] benefits of slip form construction is
+[272] the speed. The core of the torm pan was
+[273] under construction 24/7, growing at a
+[274] rate of around 30 cm every day. By 1973,
+[275] the tower was nearing completion, but
+[276] down at ground level, mines were already
+[277] made up.
+[278] >> The tormon paness was supposed to
+[279] represent a new vital Paris rising up
+[280] out of the smoky old-fashioned city. But
+[281] there was a problem. Everyone quite
+[282] liked the smoky old-fashioned city.
+[283] >> Even today, it's an incredibly
+[284] homogeneous city. Imagine Paris is
+[285] created largely of limestone. It's local
+[286] limestone. So you get that idea of the
+[287] palace city with a uniformity of
+[288] materials which is something that
+[289] Houseman is kind of regulating. There's
+[290] a uniformity of facades.
+[291] Everything is is that that homogeneous
+[292] kind of uh structure. And here we have
+[293] the antithesis. We have something that's
+[294] quite dark with darkened glass that is a
+[295] mono block. I don't think I've met one
+[296] Parian that likes it. Stop us if you've
+[297] heard this one before, but Paris owes
+[298] much of its aesthetic to this man, Baron
+[299] Osman. Drawing inspiration from London's
+[300] Regent Streets, Osman extensively
+[301] remodeled Paris between 1853 and
+[302] 1870, transforming it from a medieval
+[303] city of timber frame buildings into the
+[304] neocclassical style we will see today.
+[305] The most visible legacy of this
+[306] are the city's long straight boulevards
+[307] and the apartment block, a six or
+[308] sevenstory building in cream limestone
+[309] with commercial space at the bottom and
+[310] a gray mansard roof. It gives the whole
+[311] city a fairly uniform building height
+[312] which creates a sense of scale that the
+[313] tower fell well foul of. You have
+[314] a scale that goes from scale
+[315] limits are around 30 31 and then they go
+[316] up to 37 m. And here we've got a
+[317] building that goes up to 210 m tall. I
+[318] mean it's just it sticks out. So
+[319] in terms of its scale, it's just it's
+[320] just radical. It's like a stella, right?
+[321] It's meant to be seen from from wherever
+[322] you are in Paris. just a different
+[323] concept of the way in which um
+[324] Paris functions.
+[325] >> As if that wasn't bad enough, by
+[326] standing so tall amid such a low-rise
+[327] city, the tower also loomed
+[328] conspicuously into view around some of
+[329] Paris's most cherished landmarks.
+[330] With such a strong classical identity,
+[331] it's kind of inevitable that anything
+[332] new is going to stick out, which
+[333] goes some way to explain Parisian's
+[334] historical antagonism towards new
+[335] structures. The Pompedu Center, the Louv
+[336] Pyramids, and even the Eiffel Tower were
+[337] all widely criticized before eventually
+[338] becoming iconic landmarks. I'd
+[339] say there are preachers that lament the
+[340] fact that um because there are no big
+[341] towers within the center of Paris. Um
+[342] that you um that it's it's
+[343] stagnated. Paris is becomes the city of
+[344] tourists, right? Um, and this is one of
+[345] the critiques if you go back to um,
+[346] Housemen, the poor are being pushed out
+[347] of the city.
+[348] >> In the 2010s, various politicians and
+[349] meal hopefuls were openly calling for
+[350] the tower to be demolished.
+[351] Until in 2017, the reduced tower was
+[352] thrown a lifeline. A plan was approved
+[353] for a full-scale renovation based on a
+[354] design by a consortium of architects,
+[355] Newvel AOM. The design makes a huge
+[356] effort to break up the monolithic
+[357] presence of the old building. Bands of
+[358] sky gardens create more horizontal
+[359] features than effort to break up the
+[360] solid verticality of the old structure.
+[361] Today, the skyscraper is battled by
+[362] strong winds that race up against its
+[363] huge sailike exterior. But the new
+[364] design uses that to its advantage,
+[365] creating openings in the facade that
+[366] allow this air to naturally ventilate
+[367] the building. But the elephant in the
+[368] room or rather on the facade is the
+[369] transparent glazing which helps the
+[370] tower to well blend in.
+[371] >> Yeah, it's so it looks pretty right.
+[372] It looks uh it looks like it's
+[373] going to be a nice version of a um of
+[374] the toas, but my inner historian
+[375] questions that radical makeover. But I I
+[376] don't know, you know, will we lament
+[377] this, you know, iconic, love it
+[378] or hate it, most people hate it, of
+[379] course, building.
+[380] Couldn't it have retained its uh
+[381] revetment and maybe had some kind of at
+[382] least, okay, you've got the form, but at
+[383] least that um certain elements
+[384] uh kind of preserved. It's hard to say,
+[385] you know, it seems pretty inattractive,
