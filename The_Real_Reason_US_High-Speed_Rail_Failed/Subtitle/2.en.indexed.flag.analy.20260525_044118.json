@@ -1,0 +1,101 @@
+{
+  "totalMi": 534,
+  "unmatchedMiCount": 3,
+  "matchedRate": 0.9944,
+  "unmatchedSentences": [
+    {
+      "n": 6,
+      "words": 28,
+      "text": "In pole position was the United States. With its technical prowess and superpower resources, work began on an all-American train that would leave the Shinkansen in the dust.",
+      "miList": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "unmatchedMi": [
+        15
+      ]
+    },
+    {
+      "n": 37,
+      "words": 32,
+      "text": "And there was definitely a movement forward to get into more mass transportation. What became known as the Northeast Corridor, then owned by the Pennsylvania Railroad, was a prime target for that.",
+      "miList": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "unmatchedMi": [
+        104
+      ]
+    },
+    {
+      "n": 39,
+      "words": 28,
+      "text": "As Johnson's high-speed dream began to take shape, it did so in the form of Senator Pell's plan for the Northeast Corridor. The bill sponsored two test projects.",
+      "miList": [
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "unmatchedMi": [
+        118
+      ]
+    }
+  ],
+  "longSentencesCount": 3,
+  "longSentences": [
+    {
+      "n": 16,
+      "words": 41,
+      "text": ">> >> We have airplanes which fly three times faster than sound. We have television cameras that are orbiting Mars, but we have the same tired and inadequate mass transportation between our towns and cities that we had 30 years ago.",
+      "miList": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ]
+    },
+    {
+      "n": 68,
+      "words": 49,
+      "text": "And so, they had to change the way the the wire was strung, and they uh also had to change the way the pantograph operated from a sort of a triangular shape to a V-shape, and to keep tension on it and keep it in contact with the wire.",
+      "miList": [
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203
+      ]
+    },
+    {
+      "n": 143,
+      "words": 61,
+      "text": "California high-speed rail is learning the lessons from Metroliner by carving out its own route along the West Coast, but as a result of that, it's become tangled up in the thorny issue of land acquisition. It's hardly encouraging, but the High-Speed Act does have a legacy it can be proud of and one that Senator Pell saw coming all along.",
+      "miList": [
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433
+      ]
+    }
+  ]
+}
