@@ -166,7 +166,7 @@
 [49.3:zh] [copy]
 [50.1:en] studios,[segment]and
 [50.2:en] behind.[segment]
-[50.1:zh] 工作室的[segment]城市，
+[50.1:zh] 城市，[segment]正悄悄地
 [50.2:zh] 抛下。[segment]
 [51.1:en] crafts[segment]which
 [51.2:en] history[segment]that
